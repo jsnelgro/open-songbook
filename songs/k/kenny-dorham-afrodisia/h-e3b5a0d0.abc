@@ -1,0 +1,44 @@
+---
+workId: kenny-dorham-afrodisia
+arrangementId: h-e3b5a0d0
+title: Afrodisia
+artist: Kenny Dorham
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Afrodisia
+C:Kenny Dorham
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/17/2016
+%%score ( 1 2 )
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble 
+%%MIDI program 0
+V:1
+"^Intro\n" z2 z/ F/A/B/ || "Eb9" z z z/ F/A/B/ | "Eb9" z/ F/A/ "C7#9"B/ z/ F/A/B/- | "Fm7" B2 z2 |  z2 z/ F/A/-A/ |
+z/ "Eb9" B/- B z/ F/A/B/ | "Eb9" z/ F/A/B/ "Ddim7" z/ F/A/B/- | "Fm7" B2 z2 |  z4 | z4 | z4 |: "C7sus4""^A" z z/ [FBc]/ z2 |
+"C7" z/ [EBc]/ z z2 | "C7sus4" z z/ [FBc]/ z2 | "C7" z/ [=EBc]/ z z2 | "F7sus4" z z/ [Bef]/ z2 |
+"F7" z/ [=Aef]/ z z2 | "F7sus4" z z/ [Bef]/ z2 | "F7" z/ [=Aef]/ z z F/A/ :: "Fm7""^B" c2 z/ f/z/e/ |
+"A7#9" c3 (3B/c/B/ | "Abm7" A3- A/F/ | "Db7" A2 z/ F/z/A/ |1 "Gm7" B3- B/A/ |  "C7" (3_c/B/A/ F- F/B/4A/4 F/F/- |
+"Fm7" F3/2 "Bb7" F/ z/ "Eb7" F3/2 | "Ab7" B/A/F/ "Gbmaj7"F/ z "Fm7" F/A/ :|2 "Gm7" B3- B/A/ ||  "C7" B3- B/A/ | "Fmaj9" B4- | B2 z2 |
+"C7sus4""_C" z z/ [FBc]/ z2 |  "C7" z/ [EBc]/ z z2 | "C7sus4" z z/ [FBc]/ z2 | "C7" z/ [=EBc]/ z z2 |
+"F7sus4" z z/ [Bef]/ z2 |  "F7" z/ [=Aef]/ z z2 | "F7sus4" z z/ [Bef]/ z2 | "F7" z/ [=Aef]/ z z2 |]
+V:2
+x4 || x4 | x4 | x4 |  x4 |
+x4 | x4 | x4 |  x4 | x4 | x4 |: G c z/ B/z/c/ |
+z z/ G/ z/ B/ =d | G c z/ G/z/A/ | z z/ G/ z/ B/ =d | c f z/ e/z/f/ |
+z z/ c/ z/ e/ g | c f z/ e/z/f/ | z z/ c/ z/ e/ g :: x4 |
+x4 | x4 | x4 |1 x4 |  x4 |
+x4 | x4 :|2 x4 ||  x4 | x4 | x4 |
+G c z/ B/z/c/ |  z z/ G/ z/ B/ =d | G c z/ G/z/A/ | z z/ G/ z/ B/ =d |
+c f z/ e/z/f/ |  z z/ c/ z/ e/ g | c f z/ e/z/f/ | z z/ c/ z/ e/ g/ z/ |]

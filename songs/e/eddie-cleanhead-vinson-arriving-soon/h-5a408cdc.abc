@@ -1,0 +1,33 @@
+---
+workId: eddie-cleanhead-vinson-arriving-soon
+arrangementId: h-5a408cdc
+title: Arriving Soon
+artist: Eddie "Cleanhead" Vinson
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Arriving Soon
+C:Eddie "Cleanhead" Vinson
+C:Cannonball Adderley
+C:Arr. 6EQUJ5
+Z:©
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/"^Slovenly!" G,/ D/4E/4G/4B/4 |: "Cm7" d3/2 c/ d/c/ d- | d3/2 c/ d (3:2:6d/c/8A/8G/8F/8E/ | D/C/ D3 |
+z2 z/ G,/ D/4E/4G/4B/4 | d3/2 c/ d/f/ (3d/c/d/- | d3/2 c/ (3:2:8d d/ A/4G/4F/4E/-E3/16 z3/64 | D/C/ D3- |
+D2 z/ C/E/_G/ | z/ F/- F3 | z/ _G/ (3F/4G/4F/4E/ C B,/D/- | D2- D2- |1  D2 z/ G,/ D/4E/4G/4B/4 :|2
+D2 z2 |: "Cm7" z/"^(Bass)" C/"^Thunderous Bop"F/C/ G3/2 C/ | F/C/G/C/ z2 |  z/ C/F/C/ G3/2 C/ | F/C/G/C/ z2 :|
+z2 z/ G,/ D/4E/4G/4B/4 |: "Cm7" d3/2 c/ d/c/ d- |  d3/2 c/ d (3:2:6d/c/8A/8G/8F/8E/ | D/C/ D3 |
+z2 z/ G,/ D/4E/4G/4B/4 | d3/2 c/ d/f/ (3d/c/d/- |  d3/2 c/ (3:2:8d d/ A/4G/4F/4E/-E3/16 z3/64 | D/C/ D3- |
+D2 z/ C/E/_G/ | "Dm7" z/ F/- F3 |  "G7" z/ _G/ (3F/4G/4F/4E/ C B,/D/- | "Cm7" D2- D2- |1 D2 z/ G,/ D/4E/4G/4B/4 :|2
+D2 z2 |:  "Cm7""^Solos" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  "Ebm7" "Ab7" z4 | "Dm7" "G7" z4 | "Cm7" z4 | z4 :|

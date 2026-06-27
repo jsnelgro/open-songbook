@@ -1,0 +1,45 @@
+---
+workId: wayne-henderson-rainbow-visions
+arrangementId: h-ea900acf
+title: Rainbow Visions
+artist: Wayne Henderson
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Rainbow Visions
+C:Wayne Henderson
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:6/18/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=78
+M:3/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+|: "Abmaj7""^Intro" C/E/4B/4 z/4 A/4z/4E/4 E/4F/4E/4F/4 | A,/E/4B/4 z/4 A/4z/4E/4 E/F/ | "Dbmaj7" D/A/4e/4 z/4 d/4z/4A/4 A/4B/4A/4B/4 | D/A/4e/4 z/4 d/4z/4A/4 A/B/ :|
+"Abmaj7""^Head" c2- c/>A/ | B/ B3/2 E/4G/4B/ | "Dbmaj7" A3- | A2 z ||  "Abmaj7" c2- c/>A/ | B/ B3/2 E/4G/4B/ | "Dbmaj7" A3- |
+A2 z ||  "Abmaj7" C/>E/- E- E/B/ | G3/4 E- E/4- E/B/ | "Dbmaj7" B/>A/- A2- | A2 z |  "Abmaj7" C/>E/- E- E/B/ |
+G3/4 E- E/4- E/B/ | "Dbmaj7" B/>A/- A2- | A2 z ||
+"Bmaj7" _G2 "Dbmaj7" A | "Bb6" B2 "Amaj13" _G | "Abm7" E2 "Gmaj7" D | "Gb9" A2 B/4e/4B/4A/4 |  "Bb13" G2 =A/4=d/4A/4G/4 |
+"Bmaj7" _G2 "Dbmaj7" A | "Bb7" B2 "Amaj13" _G | "Abm7" E2 "Gmaj7" D |  "Gb9" A2 B/4e/4B/4A/4 | "Bb13" G2 z/ c/4G/4 |
+[M:4/4] "Ebmaj7" B3/2 B,/4C/4 E/4F/4E/ C/B,/ |[M:3/4] "Abmaj7" c2- c/>A/ |  B/ B3/2 E/4G/4B/ | "Dbmaj7" A3- | A2 z | "Abmaj7" c2- c/>A/ |
+B/ B3/2 E/4G/4B/ | "Dbmaj7" A3- | A2 z |]
+V:2
+|: C,/E,/4B,/4 z/4 A,/4z/4E,/4 E,/4F,/4E,/4F,/4 | A,,/E,/4B,/4 z/4 A,/4z/4E,/4 E,/F,/ | D,/A,/4E/4 z/4 D/4z/4A,/4 A,/4B,/4A,/4B,/4 | D,/A,/4E/4 z/4 D/4z/4A,/4 A,/B,/ :|
+z3 | z3 | z3 | z3 ||  z3 | z3 | z3 |
+z3 ||  z3 | z3 | z3 | z3 |  z3 |
+z3 | z3 | z3 ||
+z3 | z3 | z3 | z3 |  z3 |
+z3 | z3 | z3 |  z3 | z3 |
+[M:4/4] z4 |[M:3/4] z3 |  z3 | z3 | z3 | z3 |
+z3 | z3 | z3 |]

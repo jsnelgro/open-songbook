@@ -1,0 +1,43 @@
+---
+workId: richard-rodgers-my-favorite-things
+arrangementId: h-64992571
+title: My Favorite Things (Coltrane)
+artist: Richard Rodgers
+source: jazz
+key: Emin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:My Favorite Things (Coltrane)
+C:Richard Rodgers
+C:Oscar Hammerstein II
+C:John Coltrane
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:11/20/2016
+Z:3/24/2017
+L:1/4
+Q:1/4=175
+M:3/4
+%%songbook-source lots_of_jazz
+K:Emin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|:"^Piano Intro" [B,B]/ [Ee] [B,B]/ [Ee] | [B,B]/ [A,A]3/2 [A,A] | [G,G]/ [Cc] [G,G]/ [Cc] | [G,G]/ [F,F] [B,,B,]/ [F,F] :: [K:treble-8] "Em711" [EGB]/- [EGBdfa] [EGB]/- [EGBdfa] |
+"F#m711" [FA^c]/- [FAce^gb]2 z/ | "Em9" [EGB]/- [EGBdfa] [EGB]/- [EGBdfa] | "F#m711" [FA^c]/- [FAce^gb]2"^Vamp Sim" z/ :|  E/ "Em711""^Sop." z/ B/ z/ B/ z/ | "F#m711" F- F E |
+"Em711" B,/ E3/2- E/^C/ | F/ "F#m711"E/ F E |  z/ "Cmaj7" E/ B B | "Am7" F- F- F/E/ | "Cmaj7" B,/E/- E3/2 ^C/ | "Am7" F/E/ F E |
+"Cmaj7" E/ B3/2- B/A/ | "D13" E/F/- F3/2 E/ | "Gmaj7" D A/ z/ G | "F/E" C2 z |  "Gmaj7" B, C D | "Cmaj7" E F G | "F#m7" A/ B3/2- B/A/ |
+"B7" F2 z/ E/ |  "Em7" B,3- | "F#m7" B,3 || "Em9""^Piano" [E,G,B,]/- [E,G,B,DFA] [E,G,B,]/- [E,G,B,DFA] | "F#m711" [F,A,^C]/- [F,A,CE^GB]2 z/ |  "Em9" [E,G,B,]/- [E,G,B,DFA] [E,G,B,]/- [E,G,B,DFA] |
+"F#m711" [F,A,^C]/- [F,A,CE^GB]2 z/ | "Em9" [E,G,B,]/- [E,G,B,DFA] [E,G,B,]/- [E,G,B,DFA] || "F#m711" [F,A,^C]/- [F,A,CE^GB]2"^Sop." B,/ |  "Em7" E B/ z/ B/ z/ | "F#m7" F/4G/4F/- F E |
+"Em7" B,/ E3/2- E/^C/ | "F#m7" F/E/ F E |  "Cmaj7" z/ E/ B B | "Am7" B- B F | "Cmaj7" (3:2:2E/ B,- B, E/^C/ | "Am7" F2 E |
+"Cmaj7" E/ B3/2- B/A/ | "D13" E/ F3/2- F/E/ | "Gmaj7" D A/ z/ G/ z/ | "F/Eb" C2 z |  "Gmaj7" B, C D | "Cmaj7" E F G | "F#m7" A/ B3/2- B/A/ |
+"B7" B/B/ z z/ _e/ |  "Emaj7" B3- | "F#m7" B/e/ B/e/ B/_A/ | "Emaj7" E2 z | "F#m7" z/ _e/ B/<d/- d/B/ |  "Emaj7" (3^d/B/F/ (3:2:2B/ F- F/^D/4F/4 |
+"F#m7" (3B/F/B/ (3^d/B/d/ f | "Emaj7" ^d3/2 ^c/ B/c/ | "F#m7" z3 |  "Emaj7" z/ ^G/4B/4 _d/4_e/4(3f/4_a/4b/4 e' | "F#m7" c'/ b3/2- b/g/ |
+"Emaj7" b g/d/- d- | "F#m7" d2 _d/4_e/4(3f/4_a/4b/4 |  "Emaj7" _e e/ z/ e/ z/ | "F#m7" _e2- e/^c/ | "Emaj7" B _A/_E/- E- | "F#m7" E2- E/B,/ |
+"E" E/ B F/ B | "F#m7" E/<B/ _E/<B/ C/<B/ | "Emaj7" E/ B E/ B | "F#m7" F/<B/ _A/<B/ F/<B/ |  "Emaj7" E/<B/ F/<B/- B |
+"F#m7" _A/<B/ _E/<B/- B | "Emaj7" E/ B,3/2- B, | "F#m7" z/ B3/2- B/_A/ ||  "Em7" E/ B3/2- B/B/ | "F#m7" F/E/ z z/ E/ | "Emaj7" B,/E/- E- E/C/ |
+"F#maj7" F/E/ F E |  "Amaj7" z/ E/ B B | "Bm7" F/4G/4F/- F E | "Amaj7" B,/ E3/2- E/^C/ | "Bm7" F/B/ E E/ z/ |  "Am7" E/ B2 A/ |
+"D7" E/ F2 E/ | "Gmaj7" D A G | "Cmaj7" C- C z |  "G" B, C D | "Cmaj7" E F G | "F#m7b5" A/ B3/2 B/E/ | "B7b9" c/ c3/2- c/B/ |]

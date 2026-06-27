@@ -1,0 +1,92 @@
+---
+workId: hamiet-bluiett-hattie-wall
+arrangementId: h-c5c8232f
+title: Hattie Wall
+artist: Hamiet Bluiett
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hattie Wall
+C:Hamiet Bluiett
+C:Arr. 6EQUJ5
+Z:©2015 Fimusic
+%%score [ [ 1 | 2 ] | 3 ] 4 5
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble transpose=-9 nm="Alto Sax 1" snm="A. Sx. 1"
+%%MIDI program 65
+V:2 treble transpose=-9 nm="Alto Sax 2" snm="A. Sx. 2"
+%%MIDI program 65
+V:3 treble transpose=-14 nm="Tenor Sax" snm="T. Sx."
+%%MIDI program 66
+V:4 treble nm="Mallets" snm="Mal."
+%%MIDI program 11
+V:5 treble transpose=-21 nm="Baritone Sax" snm="B. Sx."
+%%MIDI program 67
+V:1
+[K:D] z4 | z4 | z4 | z4 ||
+B d/>e/- e/>d/- d/>B/ | B d/>e/- e/>d/- d | z4 | z4 |
+B d/>e/- e/>d/- d/>B/ | B d/>e/- e/>d/- d | z4 | z2 z z/4 c/4f/4a/4 ||
+f4- | f2- f/B/- B | d4- | d2- d/f/- f |
+e4- | e2- e/a/- a | f4- | f4 |
+f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f | f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f |
+f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f | f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f ||
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 |
+z4 |]
+V:2
+[K:D] z4 | z4 | z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ ||
+z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ |
+z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ ||
+z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ | z g z3/4 g/4- g/4=f/4d/ | z g z3/4 g/4- g/4=f/4d/ |
+z c z3/4 c/4- c/4B/4^G/ | z c z3/4 c/4- c/4B/4^G/ | z B z3/4 B/4- B/4A/4F/ | z B z3/4 B/4- B/4A/4F/ |
+B/B/ B/4B/B/4- B/4B/B/4 B/B/ | B/B/ B/4B/B/4- B/4B/B/4 B | B/B/ B/4B/B/4- B/4B/B/4 B/B/ | B/B/ B/4B/B/4- B/4B/B/4 B |
+B/B/ B/4B/B/4- B/4B/B/4 B/B/ | B/B/ B/4B/B/4- B/4B/B/4 B | B/B/ B/4B/B/4- B/4B/B/4 B/B/ | B/B/ B/4B/B/4- B/4B/B/4 B ||
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 |
+z4 |]
+V:3
+[K:G] z4 | z4 | z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ ||
+z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ |
+z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ ||
+z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ | z c' z3/4 c'/4- c'/4_b/4g/ | z c' z3/4 c'/4- c'/4_b/4g/ |
+z f z3/4 f/4- f/4e/4^c/ | z f z3/4 f/4- f/4e/4^c/ | z e z3/4 e/4- e/4d/4B/ | z e z3/4 e/4- e/4d/4B/ |
+e/e/ e/4e/e/4- e/4e/e/4 e/e/ | e/e/ e/4e/e/4- e/4e/e/4 e | e/e/ e/4e/e/4- e/4e/e/4 e/e/ | e/e/ e/4e/e/4- e/4e/e/4 e |
+e/e/ e/4e/e/4- e/4e/e/4 e/e/ | e/e/ e/4e/e/4- e/4e/e/4 e | e/e/ e/4e/e/4- e/4e/e/4 e/e/ | e/e/ e/4e/e/4- e/4e/e/4 e ||
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 |
+z4 |]
+V:4
+z4 | z4 | D/D/ c D/c/- c | D/D/ c D/c/- c ||
+D F/>G/- G/>F/- F/>D/ | D F/>G/- G/>F/- F | z4 | z4 |
+D F/>G/- G/>F/- F/>D/ | D F/>G/- G/>F/- F | z4 | z2 z z/4 E/4A/4c/4 ||
+A4- | A2- A/D/- D | F4- | F2- F/A/- A |
+G4- | G2- G/c/- c | A4- | A4 |
+A/A/ A/4A/A/4- A/4A/A/4 A/A/ | A/A/ A/4A/A/4- A/4A/A/4 A | A/A/ A/4A/A/4- A/4A/A/4 A/A/ | A/A/ A/4A/A/4- A/4A/A/4 A |
+A/A/ A/4A/A/4- A/4A/A/4 A/A/ | A/A/ A/4A/A/4- A/4A/A/4 A | A/A/ A/4A/A/4- A/4A/A/4 A/A/ | A/A/ A/4A/A/4- A/4A/A/4 A ||
+D/D/ c D/c/- c | D/D/ c D/c/- c | D/D/ c D/c/- c | D/D/ c D/c/- c |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+B/B/ _a B/>a/- a | B/B/ _a B/>a/- a |  E/E/ d E/>d/- d | E/E/ d E/>d/- d | D/D/ c D/c/- c |
+z4 |]
+V:5
+[K:D] B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A ||
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A ||
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | G/G/ =f G/>f/- f | G/G/ =f G/>f/- f |
+C/C/ B C/>B/- B | C/C/ B C/>B/- B | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |
+B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ | B,/B,/ B,/4B,/A/4- A/4A/A/4 B, | B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ | B,/B,/ B,/4B,/A/4- A/4A/A/4 B, |
+B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ | B,/B,/ B,/4B,/A/4- A/4A/A/4 B, | B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ | B,/B,/ B,/4B,/A/4- A/4A/A/4 B, ||
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |  B,/B,/ A B,/A/- A |
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |  B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |
+G/G/ =f G/>f/- f | G/G/ =f G/>f/- f |  C/C/ B C/>B/- B | C/C/ B C/>B/- B | B,/B,/ A B,/A/- A |
+B,/B,/ A B,/A/- A |]

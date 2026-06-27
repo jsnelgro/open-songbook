@@ -1,0 +1,29 @@
+---
+workId: brian-auger-brain-damage
+arrangementId: h-d52fd8ce
+title: Brain Damage
+artist: Brian Auger
+source: jazz
+key: Bmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Brain Damage
+C:Brian Auger
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/22/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bm""^INTRO" z4 :: "Bm" z4 | "E" z4 ::
+"Bm""^Solos""_A" z4 |  "E7" z4 | "Bm7" z4 | "E7" z4 | "Bm7" z4 |  "E7" z4 | "Bm7" z4 | "E7" z4 ||
+"G7""_B" z4 |  "G7" z4 | "G7" z4 | "G7" z4 | "G7" z4 |  "G7" z4 | "G7" z4 | "G7" z4 ||
+"E7""_C" z4 |  "D7" z4 | "E7" z4 | "D7" z4 | "E7" z4 |  "D7" z4 | "E7" z4 | "D7" z4 :|

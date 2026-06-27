@@ -1,0 +1,27 @@
+---
+workId: eddie-harris-listen-here
+arrangementId: h-c64c9cbd
+title: Listen Here
+artist: Eddie Harris
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Listen Here
+C:Eddie Harris
+Z:©
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bb7" B,/A,/ B,/ z A,/ B,/A,/ | "Eb7" E/-E/B,/_D/ B,/E/B,/D/ :| "Bb7" z4 |
+"Eb7" z2 z B,/A,/ |  "Bb7" B,2 z2 | "Eb7" z z/ B,/ E/G/F/E/ | "Bb7" D B,2 z | "Eb7" z2 E/G/F/E/ |  "Bb7" D B,2 z |
+"Eb7" z z/ B,/ E/G/F/E/ | "Bb7" D B,2 z | "Eb7" z2 z B/A/ |  "Bb7" B2 z2 | "Eb7" z z/ B/ e/g/f/e/ |
+"Bb7" d B2 z | "Eb7" z2 e/g/f/e/ |  "Bb7" d z z2 | "Eb7" z z/ B/ e/g/f/e/ | "Bb7" d B2 z |]

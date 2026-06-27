@@ -1,0 +1,30 @@
+---
+workId: george-gershwin-summertime
+arrangementId: h-84131fbb
+title: Summertime
+artist: George Gershwin
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Summertime
+C:George Gershwin
+C:John Coltrane
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 10/18/2016
+Z:
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+A F/ |: "A7b9" A4- | A- A/G/4F/4 G/A/F/-F/ | D E F/D/ z |  z2 z/ A F/ |
+"Bb7" G/G/- G3- | G3/2 F/4D/4 F/D/F/_E/- | "Eb7" E z z z |  z2 z/ A F/ | "A7" A2- A2- |
+A- A/G/4F/4 G/A/F/-F/ | D E F/D/ z |  "A7" z2 z/ "C7" F D/ | "F" C/A,/C/D/ "Dm7" z/ F/z/A/ | "Edim" z/ G/- "A7" G2 F/D/- |
+"Dm7" D4 |  "Bb7" z4 | "Dm7" z4 | "Bb7" z4 | "Dm7" z4 |  "Bb7" z4 | "Dm7" z4 | "Edim" z z "A7" z/ A F/ :|

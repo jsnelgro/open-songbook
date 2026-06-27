@@ -1,0 +1,27 @@
+---
+workId: bobby-hebb-sunny
+arrangementId: h-77a3dcbd
+title: Sunny
+artist: Bobby Hebb
+source: jazz
+key: Am
+tags:
+  - Funk
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Sunny
+C: Bobby Hebb
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Funk
+%%songbook-tags Funk
+%%songbook-uri /post/sunny/
+K: Am
+|:"Am" EE-E4 z2|"Gm7"z4 "C9"AGED|"F"C2 CA, CDCE- |"Bmb5"E4 "E7"z4|
+"Am" EE-E4 z2|"Gm7"z3 E "C9"AGED|"F"C2 CA, CDCE- |"Bmb5"E4 "E7"z2 ED|
+"Am" ECDC-C3C|"Gm7"ECDC "C7"-C3C|"F"ED2 C- C2 DC|"Bb7"ECDC-C3 z|
+"Bm7"E2E2EE z E-|"E7"E2 z A, C2D2|"Am7"CA,- A,2 z4|"Bmb5"z4 "E7" z4:||

@@ -1,0 +1,32 @@
+---
+workId: jeff-lorber-reverend-green
+arrangementId: h-a04c4b4c
+title: Reverend Green
+artist: Jeff Lorber
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Reverend Green
+C:Jeff Lorber
+Z:©2017 Finmusic/effendi.me 2/17/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"G7" G/z/z/B/ "G9" z/ z/ z/ "C7" G/ | z4 | "G7" G/z/z/B/ "G9" z/ z/ z/ "C7" G/ | z4 |:  "G7" z2 "G9" F/G/B/c/ |
+"C9" d c/>c/- c/<B/ F/4G/[Bd]/4- | "G7" [Bd]/G/4F/4 "G9" z z2 "C7" | z4 |  "G7" z2 F/ "G9"G/B/c/ |
+"C9" d/f/ c/B/4c/4- c/B/ G/4F/4G/4B/4- | "G7" B/G/4F/4 "G9" D/4 z/4 z/ z2 "C9" | z4 |  "G7" z2 F/ "G9"G/B/ "C7"c/ |
+d c/>c/- c/<B/ F/4G/[Bd]/4- | "G7" [Bd]/G/4F/4 "G9" z/ z/ z2 "C7" | z4 |  "G7" z2 F/ "G9"G/B/c/ |
+"C7" d/f/ c/B/4c/4- c/B/ G/4F/4G/4B/4- | "G7" B/G/4F/4 "G9" D/4 z/4 z/ z2 | "C7" z3 =B/d/ ||  "Em7" [=eg]2 [eg]/d/[Bd]/[Ad]/- |
+"Cmaj7" [Ad]/[Gd]/4=E/[Ad]/4E/4[Gd]/4- [Gd] z | "Em7" [=eg]/[eg]/- [eg] [eg]/d/[Bd]/[Ad]/- | "Cmaj7" [Ad]/ G3/2 z2 |  "Em7" [=eg]2 [eg]/d/[=Bd]/[Ad]/- |
+"Cmaj7" [Ad]/[Gd]/ [Ad]/4[=Ed]/4[Gd]/ z/ E/ A/4E/4G/- | "A7" G A/4=E/4 G- G/ E/G/ | "C9" =B/d/=e/d/- d/e/4d/4 g/e/ |  "G7" [Gg] z "G9" [Ff]/[Gg]/[Bb]/[cc']/ |
+"C9" [dd'] [cc']/>[cc']/- [cc']/<[Bb]/ F/4G/[Bd]/4- | "G7" [Bd]/G/4F/4 z/ "G9" [CF]/ [B,F]/4=B,/4G/4 z/4 z/ z/ | "C7" z4 |  "G7" z2 "G9" F/G/B/c/ |
+"C7" d/f/ c/B/4c/4- c/B/ G/4F/4G/4B/4- | "G7" B/G/4F/4 "G9" D/4 z/4 z/ z2 | "C9" z4 :|

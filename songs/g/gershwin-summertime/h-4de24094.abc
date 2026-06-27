@@ -1,0 +1,27 @@
+---
+workId: gershwin-summertime
+arrangementId: h-4de24094
+title: Summertime
+artist: Gershwin
+source: jazz
+key: Am
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Summertime
+C: Gershwin
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags George Gershwin
+%%songbook-uri /post/summertime/
+K: Am
+e2c2||"Am7"e8-|"Bb7"e2 dc dec2|"Am7"A4 E4-|E4 e2c2|
+"Dm7"dd-d6-|d2 cA cA c2|"F#m"B4- "B7"B4|"E7"z4 z e2c|
+"Am7"ee2 e- e4-|"Bb7"e2 dc de c2|"Am" A4 E4-|"D7"E6 E2|
+"C"G2 EG "Am" A2 c2|"Bm7b5"ed- d2 "E7b13"c4|"Am7"A8|z8||

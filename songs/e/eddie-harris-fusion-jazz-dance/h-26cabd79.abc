@@ -1,0 +1,28 @@
+---
+workId: eddie-harris-fusion-jazz-dance
+arrangementId: h-26cabd79
+title: Fusion Jazz Dance
+artist: Eddie Harris
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Fusion Jazz Dance
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 5/5/2017
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+e/=A/ |: "Cm7" g3/2 c z/ c/A/ | "Dbmaj7" e3/2 F z3/2 | "Cm7" z/ G/c/G/ d/_g/b/g/ |  "Dbmaj7" a/e/B/c/ z2 |
+"Cm7" z4 | "Dbmaj7" z2 z e/=A/ | "Cm7" g3/2 c z/ c/A/ |  "Dbmaj7" e3/2 F z3/2 | "Cm7" z/ A/d/A/ d/A/_g/b/ |
+"Dbmaj7" a/e/B/c/ z2 | "Cm7" z4 |  "Dbmaj7" z4 | "Cm7" z/ G/c/e/ d/ _g A/ | "Dbmaj7" d/f/B/a/ e/b/ z |
+"Cm7" z/ e/b/d/ a/f/b/g/ |  "Dbmaj7" e3/2 c z/ c' | "Cm7" z4 | "Dbmaj7" z3 e/=A/ :|

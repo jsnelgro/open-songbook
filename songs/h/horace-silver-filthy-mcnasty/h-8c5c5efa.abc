@@ -1,0 +1,34 @@
+---
+workId: horace-silver-filthy-mcnasty
+arrangementId: h-8c5c5efa
+title: Filthy Mcnasty
+artist: Horace Silver
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Filthy Mcnasty
+C:Horace Silver
+C:Arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z z/ B/ | f/e/4_d/4 B/d/ "Ab13" z2 | "A13" z2 "Bb13" z z/ B/ | e/_d/4B/4 _A/B/ z2 "E13" |  "F13" z2 "Gb13" z z/ B/ |
+f/ "Dm7b5"e/4_d/4 B/e/ z/ "G7b9" c/4B/4 _A/B/ | z/ "Cm7b5" _A/4F/4 E/F/ z/ "F7" E/4_D/4 B,/ "Bb13#9"D/ | z "Ab13" _A "A13" =A/B/ "Bb13" z |  "Ab13" _A "A13" =A/B/ "Bb13" z z/ B/ |:
+S "Bb7" f/e/4_d/4 B/d/ z z/ B/ | e/_d/4B/4 _A/B/ z z/ B/ | f/e/4_d/4 B/d/ z z/ B/ |  e/_d/4B/4 _A/B/ z z/ B/ |
+"Eb7" f/e/4_d/4 B/d/ z z/ B/ | e/_d/4B/4 _A/B/ z z/ B/ | "Bb7" f/e/4_d/4 B/d/ z z/ B/ |  e/_d/4B/4 _A/B/ z/ "Gb9" F/=A/c/ |
+"F7" f/g/f/=e/ _e/ "E7"E/G/B/ | _d/ "Eb7"B/4_A/4 F/E/ z2 "Bb" | z _d d/c/z/c/ |1  z/ d/ z z z/"^To Coda" B/ :|2"^Solos\n\non Bb Blues" z4 ||
+"^After Solos" z2 z/ B/d/f/ | "Bb7" _a/a/ g f e/f/ |  z/ d/ z z/ B/d/f/ | _a/a/ g f e/f/ | z2 z/ B/_d/f/ |
+_a/ "Eb7"a/ g f e/f/ |  z/ _d/ z z z/ B/ | ^c/d/c/d/ B/=c/B/G/ | B z z z/ F/ |
+(3A/ "F7"B/=B/ c/_B/ A/G/F/=E/ |  "Eb7" E/F/G/A/ _d/(3B/4_A/4F/4 E/B,/ | "Bb7" D/B/- "Cm7" B3 "F7" | z2 z z/ B/"^D.C. al Coda" |
+"_Coda" f/e/4_d/4 B/d/ "Ab13" z2 |  "A13" z2 "Bb13" z z/ B/ | e/_d/4B/4 _A/B/ z2 "E13" | "F13" z2 "Gb13" z z/ B/ |
+f/ "Dm7b5"e/4_d/4 B/e/ z/ "G7b9" c/4B/4 _A/B/ |  z/ "Cm7b5" _A/4F/4 E/F/ z/ "F7" E/4_D/4 B,/ "Bb13#9"D/ | z "Ab13" _A "A13" =A/B/ "Bb13" z | "Ab13" _A "A13" =A/B/ "Bb13" z z/ !fermata!=e/ |]

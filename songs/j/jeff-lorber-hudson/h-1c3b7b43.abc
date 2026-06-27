@@ -1,0 +1,40 @@
+---
+workId: jeff-lorber-hudson
+arrangementId: h-1c3b7b43
+title: Hudson
+artist: Jeff Lorber
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hudson
+C:Jeff Lorber
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/1/2016
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 "Eb" G/<A/ F/< "Db"G/ |: "Em7""^2x Piano Fill" G/ z z/4 "A7#9" G/4 z2 | "Dm7" G/ z z/4 "G7" G/4 z2 | "Em11" G/ z/ z3/4 "A7#9" G/4- G2 |
+z2 "Eb" G/<A/ F/< "Db"G/ :| "Em11""^A" z d/>c/- "A7" c G/4A/4c/4e/4- | "Dm7" e/4c/A/4 c "G7" z C/4D/4F/4A/4- |
+"Em11" A/4G/F/4 G c/ "A7#9"B/4c/4 (3_A/4G/4F/4D/4D/4 |  "Dm7" z2 z2 "G7" | "Em7" z d/A/4c/4- c "A7" G/4A/4c/4e/4- |
+"Dm9" e/4c/A/4 c/d/4A/4- A "G7#11" z/4 D/4F/4[A_c]/4- | "Em11" [Ac]/4[G=c]/[Fc]/4 [Gc]- [Gc]/> "A7#9"F/ (3_A/4G/4F/4D/4D/4 |  "Dm9" z4 | "Em11" z2 "Eb7" z "Dm7" f/4d/4 "Db9"B/4G/4 |
+"Cm7" f/4_e/4f/- "F13" f2 a/4b/4c'/4a/4- | "Bbmaj7" a/4f/d/4 f/>c'/- "A7" c'/(3b/4f/4_d/4 c/B/4A/4- |  "D9" A2 z2 | "Em11" z2 "Eb7" z "Dm7" f/4d/4 "Db9"B/4G/4 |
+"Cm7" f/_g/4f/4- "F13" f2 z3/4 _e/4 | "Bbmaj7" d/f/4c/4- c/>B/ "A7" A/B/4A/4- A/4G/^F/4- |  "D9""^B" F2 z2S || "Em7""^Head" G A "A7#9" c/4B/4c/ A/G/4A/4 |
+"Dm9" z3/4 A/4- A/4c/A/4 "G7" e/c/4A/4 c/d/4A/4- | "Em11" A (3z/ G/A/ c/4 "A7#9"B/4c/ A/G/4A/4- |  "Dm7" A z/4 A/4(3c/4 "G7"e/4g/4 e/4f/4a/4c'/4 e'/<d'/ |
+"Em11" z (3z/ G/A/ c/4B/4c/ "A7#9" A/G/4A/4- | "Dm9" A/>A/- A/4 "G7#9"c/A/4 g/e/ c/d/4A/4- | "Em11" A (3z/ G/A/ "A7" c/4B/4c/ (3A/4B/4A/4G/4A/4- |  "Dm7" A2 "Eb" G/<A/ F/< "Db"G/ |:
+"Em11""_C""^Dem Blowin' Changes" "A7#9b13" z4 | "Dm9" "G7#9" z4 | "Em11" "A7#9" z4 |  "Dm7" "G7" z4 ||
+"Em11" z4 "A7#9b13" | "Dm9" z4 "G7#9" | "Em11" "A7#9" z4 |  "Dm7" "G7" z4 ||
+"Em11" "Eb7" "Dm7" z4 "Db9" | "Cm7" "F13" z4 | "Bbmaj7" "A7" z4 |  "D9" z4 |
+"Em11" "Eb7" "Dm7" z4 "Db9" | "Cm7" "F13" z4 | "Bbmaj7" "A7" z4 |  "D9" z4"^Fine" :|
+"A7" z4 | "A7b9" z4 | "Ab7" z4 |  "Ab13" z4 | "Db9" z4 | "Db7#9" z4 | "Gbmaj7" "Fm7" "Emaj7" z4 "Ebm9" |  "F#9" z7/2 "B9" "E9" e/- |:
+e/z/"^Piano Play Here"=B,/D/ B,/B,/4E/4 z/ "Dm7" e/- | e/z/z/A,/ C/A,/4D/4 z |1 "E9" z/4 e3/4 z/ =B,/ D/B,/4^F/4- F/4F/4E/ |
+e/4z/A/4 c/4A/4c/4A/4 e/(3d/4c/4A/4 G/4c/4A/ :|2 "Dm7" e z z/4 A/4=B/4^c/4 e/4c/4"_D.S. al Fine"d/4e/4 ||
+f/4g/4a/4f/4 e/4d/4g/4^f/4 =f/4e/4_e/4d/4 f/4=e/4_e/4 z/4 |]

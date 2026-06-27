@@ -1,0 +1,31 @@
+---
+workId: oscar-pettiford-tricrotism
+arrangementId: h-3f722e33
+title: Tricrotism
+artist: Oscar Pettiford
+source: jazz
+key: Cmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Tricrotism
+C:Oscar Pettiford
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/30/2016
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Cmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+B/ |: "Ebmaj7" c/d/c/B/ z z/ G/ | F/G/F/E/ z z/ G/ | "F7" d/c/=A/G/ =E/F/A/d/ |
+"F7" c/=A/f/g/ z (3c/=B/_B/ | "Abmaj7" A/A/E/A/ "Adim" =A/A/E/A/ | "Ebmaj7" B (3B/=A/_A/ "C7" G/_d/c/B,/ | "B7" =B,/^D/^F/=A/ ^G/F/_d/_c/ |
+"Bb7" B z z z/ B/ | "Ebmaj7" c/d/c/B/ z z/ G/ | F/G/F/E/ z z/ G/ | "F7" d/c/=A/G/ =E/F/A/d/ |
+c/=A/f/g/ z (3c/=B/_B/ | "Abmaj7" A/A/E/A/ =A/ "Am"A/E/A/ | "Eb" B (3B/=A/_A/ "C7" G/_d/c/=E/ | "Fm7" F/G/A/c/ "Bb7" =B/G/A/D/ |
+"Ebmaj7" E z z z/ B,/ | "B7" =B,/^D/^F/^G/ =A/G/F/=E/ | ^D/^F/A/^c/ =B z/ =A/ | "Ebmaj7" B/B/=A/A/ d/c/B/_A/ |
+G (3B/=A/_A/ "G7" G/F/E/D/ | "Cm7" C/E/G/c/ =B/ "Cmaj"G/E/F/ | "Cm7" G/E/C/D/ "F7" E z | "Fm7" z/ =E/ (3F/A/c/ e/c/A/G/ |
+"Bb7" F/C/E/D/ z z/ B/ :|

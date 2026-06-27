@@ -1,0 +1,34 @@
+---
+workId: juan-tizol-perdido
+arrangementId: h-3f67d16c
+title: Perdido
+artist: Juan Tizol
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+C: Juan Tizol
+T: Perdido
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/perdido/
+K: Bb
+P: A
+C||"Cm7"EF-F4 z C|"F7"E F2 C E F2 B,|"Bb^6"DF-F4 z B,|"Dm7"D F2 B, "Db7"D F2 C|
+"Cm7"EF-F4 z C|"F7"EFdc-c3 F|"Bb6"GB-B6|"Dm7"z4"Db7"z2 z C||
+P: A
+"Cm7"EF-F4 z C|"F7"E F2 C E F2 B,|"Bb^6"DF-F4 z B,|"Dm7"D F2 B, "Db7"D F2 C|
+"Cm7"EF-F4 z C|"F7"EFdc-c3 F|"Bb6"GB3-B4-|B4z4||
+P: B
+"D7"d8|(3A2=B2c2 d2 e=e-|"G7"=e8|=BA-A6|
+"C7"c8|(3G2A2B2 c2 ^cd-|"Cm7"d8|"F7"AG-G4 z C||
+P: A
+"Cm7"EF-F4 z C|"F7"E F2 C E F2 B,|"Bb^6"DF-F4 z B,|"Dm7"D F2 B, "Db7"D F2 C|
+"Cm7"EF-F4 z C|"F7"EFdc-c3 F|"Bb6"GB-B6|z8||

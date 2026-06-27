@@ -1,0 +1,37 @@
+---
+workId: charles-mingus-boogie-stop-shuffle
+arrangementId: h-0a308ff1
+title: Boogie Stop Shuffle
+artist: Charles Mingus
+source: jazz
+key: Bbmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Boogie Stop Shuffle
+C:Charles Mingus
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bbmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Bbm7" B,/B,/D/D/ =E z | "Bbm7" B,/B,/D/D/ =E z | "Bbm7" B,/B,/D/D/ E/E/=E/E/ | "Bbm7" E/E/D/D/ B, z |
+"Ebm7" E/E/G/G/ =A z | "Ebm7" E/E/G/G/ =A z | "Bbm7" B,/B,/D/D/ E/E/=E/E/ | "Bm7" E/E/D/D/ B, z |
+"Fm7" F/F/G/G/ F/F/=E/E/ | "Ebm7" E/E/=E/E/ _E/E/D/D/ | "Bbm7" B,/B,/D/D/ E/E/D/D/ | "Bbm7" B,/B,/A,/A,/ B, z |
+"Bbm7""^Piano Vamp Continues" z2 [=EGBd] z | "Bbm7" z2 [^C=EGB] z | z4 | z4 |  "Ebm7" z2 [GBe] z | "Ebm7" z2 [=G=B=e] z | "Bbm7" z4 |
+"Bbm7" z4 |  "Fm7" [^Fe]2 [G=e]2 | "Ebm7" [^Fe]2 [=Fd]2 | "Bbm7" [Ec]2 [=Ed]2 | "Bbm9" [Ec]3/2 [DB]/ z2 |  "Bbm7" [GBd]/[=EGB]/z/[EGB]/- [_EGB]2 |
+"Bbm7" z4 | "Bbm7" d/B/z/B/- B2 | "Ebm7" z4 |  "Ebm7" [A=e]/[=G_e]/z/[Ge]/- [Ge]2 | "Bbm7" [GBd]/[=EGB]/z/[EGB]/- [EGB]2 |
+"Bbm7" [^Fe]2 [G=e]2 | "Fm7" [^Fe]2 [=Fd]2 |  "Ebm7" [Ec]2 [=Ed]2 | "Bbm7" [Ec]3/2 [DB]/ z z/ =E/ | "Bbm7" F/B/F/E/ D/=A,/B,/D/ |
+"Bbm7" z2 z z/ =E/ |  "Bbm7" F/B/F/E/ D/=A,/B,/E/ | "Ebm7" D/G,/ z z2 | "Ebm7" z/ =E/F/B/ G/F/E/c/ |
+"Bbm7" B/G/F/D/ C/B,/=A,/^A,/ |  "Bbm7" =G,4- | G,4 | "Fm7" z/ =G,/B,/D/ C/D/G/=D/ | "Ebm7" E/B/F/G/ d/=A/B/=e/- |
+"Bbm7" e4- | "Bbm7" [^A,^C-^F-=A-e-]4 | [^A,CFAe]4 | z2 z z/ =E/ |  "Bbm7" F/B/F/E/ D/=A,/B,/D/ |
+"Bbm7" z2 z z/ =E/ | "Bbm7" F/B/F/E/ D/=A,/B,/E/ | "Ebm7" D/G,/ z z2 |  "Ebm7" z/ =E/F/B/ G/F/E/c/ |
+"Bbm7" B/G/F/D/ C/B,/=A,/^A,/ | "Bbm7" =G,4- | G,4 |  "Fm7" z/ =G,/B,/D/ C/D/G/=D/ | "Ebm7" E/B/F/G/ d/=A/B/=e/- |
+"Bbm7" e4- | "Bbm7" [^A,^C-^F-=A-e-]4 |  [^A,CFAe]4 |]

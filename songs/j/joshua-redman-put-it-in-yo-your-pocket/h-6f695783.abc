@@ -1,0 +1,46 @@
+---
+workId: joshua-redman-put-it-in-yo-your-pocket
+arrangementId: h-6f695783
+title: Put It In Yo' (your) Pocket
+artist: Joshua Redman
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Put It In Yo' (your) Pocket
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 12/16/2016
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+z2 |: z4 | z4 | z4 |1  z4 :|2
+"_A" z2 z z/4 d/^f/4 || z z z/ B/4d/4 ^f/e/4e/4- | e/d/ z z/4 B/4d/ e/4^f/4e/4e/4- |
+e/4d/4 z/ z z/ B/4d/4 e/4d/4B/ | d z/4 G/4_B/4=B/4 z z/4 d/^f/4 | z z z/ B/4d/4 ^f/e/4e/4- |
+e/d/ z z/4 B/4d/ (3^f/a/=f/ |  e/d/ z z/4 B/4d/ e/4d/4B/ | d z/4 G/4_B/4=B/4 z z/4 ^F/4A/4B/4 |
+"_B" c/4e/4_g/ z z/4 B/4d/ =g/_g/4g/4- | g/e/ z z/4 B/4d/ (3c'/b/_g/ |  _g/e/ z z/4 A/4B/4d/4 g/4g/4e/ |
+_g B e a/4e/^f/4 | z z z/4 B/4d/ ^f/e/4e/4- | e/d/ z z/4 B/4e/ (3e/4a/4^f/4e/- |
+e/d/ z z/4 ^F/4A/4B/4 d/4_e/4 z/ | e/4d/4B/4f/4 e/4d/4_B/4=B/4 z/4 e/4d/4B/4 ^f/4g/_a/4 |"^C" z z/4 z d/4e/4^f/4 b/g/4_g/4- |
+g/_a/ z z/4 ^f/4e/4d/4 b/4a/b/4 |  z/4 _B3/4 B/4A/4_A/4_d/4 =B/4d/4e/4^f/4 _a/<b/ | c' _a _d' =a/4d/e/4 |
+z2 z/4 e/4d/4B/4 A/^f/ | e/d/ z z/4 B/4e/ e/4^f/4e/4e/4- |  e/d/ z z/4 B/4d/ e/4d/4B/ | d z/4 G/4_B/4=B/4 z z/4 d/^f/4 |]
+V:2
+z z/4 "F13" d/ "F#9"d/4 |: z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 | z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 | z3/2 "Bm7" d/ d z/4 "F13" d3/4 |1  "F#13" d z/ d/4 "Bm7"d/4 z z/4 "F13" d/ "F#9"d/4 :|2
+"F#13" B z/ "Bm7" d/4d/4 z z/4 "F7" d/ "F#7"d/4 || z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 | z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 |
+z3/2 "Bm7" d/ d z/4 "F13" d3/4 | "F#13" d z/ d/4 "Bm7"d/4 z z/4 "F13" d/ "F#9"d/4 | z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 |
+z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 |  z3/2 "Bm7" d/ d z/4 "F13" d3/4 | "F#13" d z/ d/4 "Bm7"d/4 z/4 d/B/4 z/4 "D#m7b5" d/ "Em7"d/4 |
+z3/2 "C7" d/ d z/4 "D#" d/ "Em7"d/4 | z3/2 "C7" d/ d z/4 "D#m" d/ "Em7"d/4 |  z3/2 "C7" d/ d "D#dim" z/4 d3/4 |
+"Em7" d d "D#" d "F#" d/4 "F"d/ "F#"d/4 | z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 | z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 |
+z3/2 "Bm7" d/ d z/4 "F13" d3/4 | "F#13" d z/ d/4 "Bm7"d/4 z/4 d/B/4 z/4 "Cdim" d/ "C#m"d/4 | z3/2 "A7" d/ B "Cdim" z/4 d/ "C#m"d/4 |
+z3/2 "A7" d/ d z/4 "Cdim" d/ "C#"d/4 |  z3/2 "A7" d/ d z/4 "Cdim" d3/4 | "Fm7" d "Db" d "F#m7" d "F13" d/4d/ "F#"d/4 |
+z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 | z3/2 "Bm7" d/ d z/4 "F13" d/ "F#9"d/4 |  z3/2 "Bm7" d/ d z/4 "F13" d3/4 | "F#13" d z/ d/4 "Bm7"d/4 z z/4 "F13" d/ "F#9"d/4 |]

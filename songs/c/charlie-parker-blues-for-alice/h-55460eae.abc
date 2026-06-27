@@ -1,0 +1,26 @@
+---
+workId: charlie-parker-blues-for-alice
+arrangementId: h-55460eae
+title: Blues For Alice
+artist: Charlie Parker
+source: jazz
+key: F
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Blues For Alice
+C: Charlie Parker
+M: 4/4
+L: 1/8
+Q: 220
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues,Charlie Parker,Standard50
+%%songbook-uri /post/blues-for-alice/
+K: F
+|:"F^7"f2 cA e2 cA|"Em7b5"de=Bc "A7b9"^c_BG^G|"Dm7"A2 FD "G7"GAFE|"Cm7" (3_EGB d_d "F7"z F (3FGF |
+"Bb7"c2 BF _AB, z G| "Bbm7"_e_d _AF "Eb7"cFG=A-|"Am7"A2 EC "D7"D2 z _d-|"Abm7"d2 _c_G "Db7"B2 z _A|
+"Gm7"(3(G2f2f2) fd BG|"C7"AGcB _e2 z c-|"F"c2 AF "Dm7"G2 z d-|"Gm7"d2 BF "C7"A2 z2:||

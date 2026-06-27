@@ -1,0 +1,32 @@
+---
+workId: grace-sampson-bobby-woodlen-mario-bauza-mambo-inn
+arrangementId: h-30552220
+title: Mambo Inn
+artist: 'Grace Sampson, Bobby WoodLen,Mario Bauza'
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mambo Inn
+C:Grace Sampson, Bobby WoodLen,Mario Bauza
+C:Grant Green
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:4/18/2017
+Z:
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Dm7" A c d3/2 "G7" B/- | "Cmaj7" B/- B "Am7" c/ z/ e a/ | "Dm7" g2 e3/2 "G7" c/- | "Cmaj7" c2 z2 |  "Dm7" A c d3/2 "G7" B/- |
+"Cmaj7" B/- B "Am7" c/ z/ e a/ | "Dm7" g2 e3/2 "G7" c/- | "Cmaj7" c2 z2 :|  "Fm7" c3/2 g3/2 f | "Bbm7" g3/2 f3/2 g | "Ebmaj7" _B3/2 f3/2 _e |
+f2 z2 |  "Am7" d3/2 b3/2 a | "D7" b3/2 a3/2 b | "Dm7" d3/2 e3/2 d | "G7" e2 z2 |  "Dm7" A c "G7" d3/2 B/- |
+"Cmaj7" B3/2 c/ "Am7" z/ e a/ | "Dm7" g2 "G7" e3/2 c/- | "Cmaj7" c2 z2 |  "Dm7" A c "G7" d3/2 B/- | "Cmaj7" B3/2 c/ "Am7" z/ e a/ | "Dm7" g2 e3/2 "G7" c/- |
+"Cmaj7" c2 z2 |]

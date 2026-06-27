@@ -1,0 +1,32 @@
+---
+workId: dick-rogers-harlem-nocturne
+arrangementId: h-3b4eb2e4
+title: Harlem Nocturne
+artist: Dick Rogers
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Harlem Nocturne
+C:Dick Rogers
+C:Earle Hagen
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 12/11/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ G,/D/G/ A B/^F/- |: "Gmaj911" F4- | F/G/D/B,/ G, B,/D/- | "Cm7" D/C/- C3- |
+C/C/G/c/ d e/=B/- | "Cmaj" B4- | B/ "Eb7"c/ (3_B/G/E/ "A7" ^C A/ "D7"G/- |1 "Gm7" G4- |  G/G,/D/G/ A B/^F/- :|2
+G4- || G4- | G4- |  G/ G3/2 "F7" d/_d/c/_c/ | "Bb7" B/F/G/ "Fm7"_A/- A3/2 c/ | "Bb7" B/F/G/ "Fm7"_A/- A3/2 c/ |
+"Bb7" B/F/G/_A/- "Fm7" A G/F/ |  "Bb7" D/B/- B2 z | "Eb7" e/B/c/ "Bbm7"_d/- d3/2 f/ | "Eb7" e/B/ c/ "Bbm7" _d3/2- d/e/ |
+"Bb" f/B/e/_A/ _d/_G/=B/=E/ |  A/D/G/C/ F/B,/E/_A,/ | G,4 | z/ G,/ "Gmaj"D/G/ A B/^F/- | F4- |
+F/G/D/B,/ G, B,/D/- | "Cm7" D/C/- C3- | C/C/G/c/ d e/=B/- | "Cmaj" B4- |  B/ "Eb7"c/ (3_B/G/E/ "A7" ^C "D7" A/G/- |
+"Gm7" G4- |[M:17/4] G8- G2- G- G/-G/4-G/4- G/8-G/16-G/32 z/32 "Gb57sus4" z/4 z/ z4 |]

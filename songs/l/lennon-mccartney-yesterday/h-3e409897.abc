@@ -1,0 +1,34 @@
+---
+workId: lennon-mccartney-yesterday
+arrangementId: h-3e409897
+title: Yesterday
+artist: Lennon–McCartney
+source: jazz
+key: F
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Yesterday
+C: Lennon–McCartney
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags Ballad,The Beatles,Pop
+%%songbook-uri /post/yesterday/
+K: F
+P: A
+|:"F"GF F6|"Em7" z2A=B "A7"^cdef|"Dm"e3 dd4|"Bb^7"z2 dd "C7"cBAG|
+"F" B2AA-A2 "Em"G2|"Dm7"F3A"G7"G3D|"Bb"F2 AA- "F"A4:|
+P: B
+"Em7"A4 "A7"A4 |"Dm"d2"C"e2"Bb^7"f2 ed|"C7"e3 dcd3|"F^7"A8|
+"Em7"A4 "A7"A4 |"Dm"d2"C"e2"Bb^7"f2 ed|"C7"e3 dc2 e2|"F"f2c2B2A2||
+P: C
+"F"GF F6|"Em7" z2A=B "A7"^cdef|"Dm"e3 dd4|"Bb^7"z2 dd "C7"cBAG|
+"F" B2AA-A2 "Em"G2|"Dm7"F3A"G7"G3D|"Bb"F2 AA- "F"A4||
+P: Ending
+||"Dm7"F3A"G7"G3D|"Bb"F2 AA- "F"A4||

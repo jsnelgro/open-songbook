@@ -1,0 +1,49 @@
+---
+workId: too-many-zooz-to-the-top
+arrangementId: h-12ce2708
+title: To The Top
+artist: Too Many Zooz
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:To The Top
+C:Too Many Zooz
+C:Arr. 6EQUJ5
+Z:©6EQUJ5 2019 7/18/2019
+Z:
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=180
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble nm="Trumpet" snm="Tpt"
+%%MIDI program 0
+V:2 treble nm="Bari" snm="Bari"
+%%MIDI program 0
+V:1
+|: a/4a/4a/4a/4 z z2 | z4 :| a/4a/4a/4a/4 z a/4a/4a/4a/4 z |
+a/4a/4a/4a/4 z a/4a/4a/4a/4 z |  a/4a/4a/ a/4a/4a/ a/4a/4a/ a/4a/4a/ | a/4a/4a/4a/4 a/4a/4a/4a/4 a z |:
+a/4a/4a/4a/4 a/4a/4a/4a/4 [b=c']/4a/4a/4a/4 a/4a/4a/4a/4 | a/4a/4a/4a/4 a/4a/4a/4a/4 [b=c']/4a/4a/4a/4 a/4a/4a/4a/4 |  a/4a/4a/4a/4 a/4a/4a/4a/4 [b=c']/4a/4a/4a/4 a/4a/4a/4a/4 | g/4g/4g/4g/4 g/4g/4g/4g/4 a z ::
+z/ g/4g/4 a/g/4g/4 a/g/4g/4 a/g/4g/4 | a/g/4g/4 a/g/4g/4 a/g/4g/4 a/g/4g/4 |  a/_b/c'/d'/ c'/b/a/a/ | a z/ g/4g/4 a/g/4g/4 a/g/4g/4 |
+a/g/4g/4 a/g/4g/4 a/g/4g/4 a/g/4g/4 | a/g/4g/4 a/g/4g/4 a/g/4g/4 a/g/4g/4 |  a/g/4e/4 d/g/ e/d/ A ::
+z A/A/ ^G/_B/A/G/ | A/A/^G/_B/ A/G/A/A/ | ^G/_B/A/G/ A/A/G/B/ |  A/^G/A/A/ G/_B/ A :|
+A z/ A/ A _B | z z/ _B/ B =B |"^Bari - Drone Low C or Play This" B z/ B/ B =c |  z z/ =c/ c ^c | c z/ c/ c d |
+z z/ d/ d _e | _e z/ e/ e =e |  z z/ e/ =f/<e/ e | e z/ e/ e =f | z z/ =f/ f f |
+=f z/ f/ f ^f |  z z/ f/ f f | f z/ f/ f g | z z/ g/ g ^g | ^g z/ g/ g a |
+z z/ _b/ g b |]
+V:2
+|: A/4A/4A/4A/4 z z2 | z4 :| A z _B z |
+B z =c z |  c d _e =e | =f ^f g z |:
+A a z/ A/ a | A a z/ A/ a |  A a z/ A/ a | _B _b z/ B/ b ::
+A3/2 a/ z/ A/ a | A3/2 a/ z/ A/ a |  _B3/2 _b/ z/ B/ b | A a z/ _B/ _b |
+A a z/ _B/ _b | A a z/ _B/ _b |  A a z/ _B/ _b ::
+A/A/A/a/ z/ A/ _b | A/A/A/a/ z/ _b/ a | A/A/A/a/ z/ A/ _b |  A/A/A/a/ z/ _b/ a :|
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |
+z4 |]

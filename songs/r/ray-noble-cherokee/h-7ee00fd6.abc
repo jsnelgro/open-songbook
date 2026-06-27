@@ -1,0 +1,39 @@
+---
+workId: ray-noble-cherokee
+arrangementId: h-7ee00fd6
+title: Cherokee
+artist: Ray Noble
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Cherokee
+C: Ray Noble
+M: 4/4
+L: 1/4
+Q: 260
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Bebop
+%%songbook-uri /post/cherokee/
+K: Bb
+P: A
+"Bb"D4|F2G2|"Fm7"B4|"Bb7"G4|
+"Eb^7"F4|D2F2|"Ab7"D4|C4|
+"Bb"B,4|D2F2|"C7"d4|B4|
+[1 "Cm7"G4|"G7b9"F2D2|"Cm7"C4|"F7"^C4:|
+[2 "Cm7"G4|"F7"D4|"Bb"B,4-|B,4||
+P: B
+"C#m7"^d4-|"F#7"d2 ^c2|"B^7"^c^A^F2-|F2^c2|
+"Bm7"^c=A^F2-|"E7"F2 =B2|"A^7"=E4-|E4|
+"Am7"=B4-|"D7"B2A2|"G^7"A^FD2-|D2A2|
+"Gm7"A=FD2-|"C7"D2G2|"Cm7"C4|"F7"^C4||
+P: A
+"Bb"D4|F2G2|"Fm7"B4|"Bb7"G4|
+"Eb^7"F4|D2F2|"Ab7"D4|C4|
+"Bb"B,4|D2F2|"C7"d4|B4|
+"Cm7"G4|"F7"D4|"Bb"B,4-|B,4||

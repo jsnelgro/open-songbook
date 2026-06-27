@@ -1,0 +1,30 @@
+---
+workId: neal-hefti-odd-couple
+arrangementId: h-be095525
+title: The Odd Couple
+artist: Neal Hefti
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Odd Couple
+C:Neal Hefti
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:2/2/2018
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Dm7" [FAd]/[FAd]/[G=Bd]/[GBd]/ "G7" [Acd]/[Acd]/[GBd]/[GBd]/ | "Dm7" [FAd]/[FAd]/[G=Bd]/[GBd]/ "G7" [Acd]/[Acd]/[GBd]/[GBd]/ :| "Dm7" [FAd]/[FAd]/[G=Bd]/[GBd]/ "G7" [Acd]/[Acd]/[GBd]/A,/ |: "Dm7" D/A/A/G/ "G7" A2- |
+"Dm7" A G/F/ "G7" G F/E/ | "Dm7" F3/2 "G7" D2- D/ | "Dm7" z7/2 "G7" D/ | "Gm7" G/d/d/c/ "C7" d2- |  "Gm7" d c/B/ "C7" c A/G/ | "Gm7" B3/2 G/- "C6" G2 |
+"Gm7" z4 "C7" |1 "F7" z A- A/ "B7"F/G/D/ |  "Bbmaj7" F3/2 G2- G/ | "Em7" z A3/2 "A7" F/ G/A/ | "Dm7" c c/A/ "G7" F D | "Bbmaj7" z A3/2 "A7" F/ (3G/A/c/ |
+"Dm7" d d/c/ "G7" A/G/ F | "Em7b5" G4 | "A7" z7/2 A,/ :|2 "F7" z A3/2 "B7" F/ G/D/ ||  "Bbmaj7" F3/2 G2- G/ | "Em7" z A3/2 "A7" F/ (3G/A/c/ |
+"Gm7""_Solos Over Form" d c A/G/F/D/ | "C7" F2- F/D/F/D/ |  "Fmaj7" F2- F/D/F/D/ | "Bb7" F3 "A7" z |]

@@ -1,0 +1,29 @@
+---
+workId: freddie-hubbard-mr-clean
+arrangementId: h-d9f4e163
+title: Mr. Clean
+artist: Freddie Hubbard
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mr. Clean
+C:Freddie Hubbard
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/25/2018
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+_e/ | "Fm7" f/f/_e/f/ z2 | z2 c/B/_A/F/ | B/_A/F/_E/- E2- |  E2 z3/2 _e/ | "Fm7" f/f/_e/f/ z _a- |
+"F7" a _g/_f/ g f/_d/ | _e/_d/_c/_A/- A2 |  _G/_c/B/_A/ F/A/B/c/ | "Fm7" f/f/_e/f/ z2 |
+z2 c/B/_A/F/ | B/_A/F/_E/- E2- |  E2 z2 | "F" F/B/c/_e/ f/_a/f/e/ | B/c/_e/_A/- A2 |
+_E/E/z/E/ z/ _A/ E/ z/ |  "C7" _E/F/E/B,/ =B,/C/z/_e/ |]

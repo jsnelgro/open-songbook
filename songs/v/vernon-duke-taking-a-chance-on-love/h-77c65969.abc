@@ -1,0 +1,35 @@
+---
+workId: vernon-duke-taking-a-chance-on-love
+arrangementId: h-77c65969
+title: Taking a chance on love
+artist: Vernon Duke
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Taking a chance on love
+C: Vernon Duke
+M: 4/4
+L: 1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing
+%%songbook-uri /post/taking-a-chance-on-love/
+K: C
+P: A
+"C"z G3 "C#o"G3 A|"Dm7"GFEF-F4|"G7"z F EF d2 F2|"C^7"FEDE-E4|
+"Am7"z2E4 E2|"D7"D2 DD-D4|"Dm7"(3C2D2C2 "G7"B,2 A2|"Em7"G2"Eb7"z2"Dm7"z2"G7"z2||
+P: A
+"C"z G3 "C#o"G3 A|"Dm7"GFEF-F4|"G7"z F EF d2 F2|"C^7"FEDE-E4|
+"Am7"z2E4 E2|"D7"D2 DD-D4|"Dm7"(3C2D2C2 "G7"B,2 D2| "C"C6 C2||
+P: B
+"Gm7" _B2cd- "C7"dc B2|"F6"d3 A-"D7"A2 c2|"Gm7"c3G-"C7"G2 _B2|"F^7"A6 C2|
+"Fm7"_A2 _Bc- "Bb7"cB A2|"Eb6"c3 G- "Eo7"G2 _B=A|"Fm7"_B2F2 "F#o7"_A2_E2|"G7"G8||
+P: C
+"C"z G3 "C#o"G3 A|"Dm7"GFEF-F4|"G7"z F EF d2 F2|"C^7"FEDE-E4|
+"Am7"z E Ac e2 e2|"D7"e2 dd-d4|"Dm7"(3c2d2c2 "G7"B2 d2 |"C6"c6 z2||

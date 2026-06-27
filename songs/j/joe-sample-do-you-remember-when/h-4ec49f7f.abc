@@ -1,0 +1,43 @@
+---
+workId: joe-sample-do-you-remember-when
+arrangementId: h-4ec49f7f
+title: Do You Remember When?
+artist: Joe Sample
+source: jazz
+key: A
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Do You Remember When?
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:7/1/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=174
+M:4/4
+%%songbook-source lots_of_jazz
+K:A
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+"_Bass\n""^Guitar/Piano\n" z (3A/B/A/ (3d/B/A/ (3F/E/D/ |:"^Horns In" z2 B d/ z/ | e d/ f2- f/ | z2 B d/ z/ |
+e d/ f e d/ | z2 B d/ z/ | e d/ f2- f/ | z4 |  z4 ||
+z/ b3/2 a f | z/ B/ d e e | d f e z |  z4 | z/ b3/2 a f |
+z/ e/ d B e | e f e z |  z4 || z b a =g | f e2 f | =g4 |
+a4 | z a =g f | e A3 | d4 |  e4 || z2 B d/ z/ |
+e d/ f2- f/ | z2 B d/ z/ |  e d/ f e d/ | z4 | z4 |
+z4 | "^(Guitar/Piano)\n" z (3A/B/A/ (3d/B/A/ (3F/E/D/ :|
+V:2
+z (3A,,/B,,/A,,/ (3D,/B,,/A,,/ (3F,,/E,,/D,,/ |: "Bm7" B,,2 F,,3/2 B,,/ | z/ B,,/ F,, B,, D,/^D,/ | "E7" E,3/2 E,/ B,,3/2 E,/ |
+z/ E,/ B,, E, B,, | "Em7" E,3/2 E,/ B,,3/2 E,/ | z/ E,/ B,, E, B,,/_B,,/ | "A7" A,,3/2 A,,/ E, z |  z4 ||
+"Bm7" B,,2 F,,3/2 B,,/ | z/ B,,/ F,, B,, D,/^D,/ | "E7" E,3/2 E,/ B,,3/2 E,/ |  z/ E,/ B,, E, B,, | "Em7" E,3/2 E,/ B,,3/2 E,/ |
+z/ E,/ B,, E, B,,/_B,,/ | "A7" A,,3/2 A,,/ E, z |  z4 || "Am7" z4 | z4 | "D7/A" z4 |
+z4 | "Gmaj7" z4 | z4 | "C7" z4 |  z4 || "Bm7" B,,2 F,,3/2 B,,/ |
+z/ B,,/ F,, B,, D,/^D,/ | "E7" E,3/2 E,/ B,,3/2 E,/ |  z/ E,/ B,, E, B,, | E,3/2 "Em7" E,/ B,,3/2 E,/ | z/ E,/ B,, E, B,,/_B,,/ |
+"A7" A,,3/2 A,,/ E, z |  z (3A,,/B,,/A,,/ (3D,/B,,/A,,/ (3F,,/E,,/D,,/ :|

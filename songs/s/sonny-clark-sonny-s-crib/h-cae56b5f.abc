@@ -1,0 +1,32 @@
+---
+workId: sonny-clark-sonny-s-crib
+arrangementId: h-cae56b5f
+title: Sonny's Crib
+artist: Sonny Clark
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sonny's Crib
+C:Sonny Clark
+C:arr 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/12/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ "Bb""^Slovenly!" B/_d/=e/ _e/d/B/_A/ |: B4 "F7#9" "Bb7" | z/ "Bb" B/_d/=e/ _e/d/B/_A/ | B4 "F7#9" "Bb7" |
+z/ "Bb" B/_d/=e/ _e/d/B/_A/ | B4 "Bb7" "Eb7" | z/ "Bb" B/_d/=e/ _e/d/B/_A/ | B4 "F7#9" "Bb7" |  z/ "Bb" B/_d/=e/ _e/d/B/d/ |
+e4 "C7" "F7" | z "Bb" _a/=e/ _e/_d/B/_A/ | "Bb7" "Eb7" B4 "Edim" "Bb7" |1  z/ "Bb" B/_d/=e/ _e/d/B/_A/ :|2"^Piano Fill" z2 z/ B/_d/e/ ||
+"Eb7""^Bridge" e _d/e/ e/ "Edim7"d/e/=e/ | "Bb7" e/_d/B/_A/ B/B/d/e/ |  "Eb7" e _d/e/ "Edim7" e/d/e/=e/ | "Bb7" e/_d/B/_A/ B/B/d/e/ |
+"Eb7" e _d/e/ "Edim7" e/d/e/=e/ | "Bb7" e/_d/B/_A/ B/G/B/d/ |  "C7" c G/ "C7#9"_G/- G _g/ "F7"f/ | "Bb" z/ B/_d/=e/ _e/d/B/_A/ ||
+B4 "F7#9" "Bb7" | z/ "Bb" B/_d/=e/ _e/d/B/_A/ |  B4 "F7#9" "Bb7" | z/ "Bb" B/_d/=e/ _e/d/B/_A/ | B4 "Bb7" "Eb7" |
+z/ "Bb" B/_d/=e/ _e/d/B/_A/ |  B4 "F7#9" "Bb7" | z/ "Bb" B/_d/=e/ _e/d/B/d/ | e4 "C7" "F7" | z "Bb" _a/=e/ _e/_d/B/_A/ |
+"Bb7" "Eb7" B4 "Edim" "Bb7" |:"^Solos over BB Blues with Bridge (noted Bridge)""_AABA" z4 :| z2 "Bb7b5#9""^Scary Chord" [D,_A,_F_d]2 |]

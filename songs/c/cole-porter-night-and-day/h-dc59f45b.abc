@@ -1,0 +1,30 @@
+---
+workId: cole-porter-night-and-day
+arrangementId: h-dc59f45b
+title: Night And Day
+artist: Cole Porter
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Night And Day
+C:Cole Porter
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 G G/G/- |: "Dm7" G4- | "G7" G2 (3F E ^D | "Cmaj7" E4- |  "Cmaj7" E2 G G/G/- | "Dm7" G G G G |
+"G7" G F (3F E ^D | "Cmaj7" E4- |  "Cmaj7" E2 E3/2 E/ | "F#m7" E E E E | "Fm7" _E2- E/ E E/ | "Em7" D D D D |
+"Ebdim7" D _D/C/- C B, | "Dm7" A, _A,/G,/- G,2- | "G7" G,2 G G/G/- | "Cmaj7" G4- |1  "Cmaj7" G2 G G/G/ :|2 "Bb7" G2 G G ||
+"Ebmaj7" _B4- | "Ebmaj7" B2 (3G F _E |  "Cmaj7" G G/G/- G2- | "Cmaj7" G2 G3/2 G/ | "Ebmaj7" _B/ c B/ c B/c/- |
+"Ebmaj7" c/ _B G/- (3G F _E |  "Cmaj7" G G/G/- G2 | "Cmaj7" G2 E3/2 E/ | "F#m7" E E E E | "Fm7" _E2- E/ E E/ |
+"Em7" D D D D | "Ebdim7" D/_D/C/B/- B/_B/ A | "Dm7" G G/G/- G2- | "G7" G2 c "Dm7" c/c/- |  "Cmaj7" c4 | z "D7" z "G7" G G/G/ |]

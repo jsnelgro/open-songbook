@@ -1,0 +1,34 @@
+---
+workId: gene-de-paul-i-ll-remember-april
+arrangementId: h-2d12bb68
+title: I'll Remember April
+artist: Gene de Paul
+source: jazz
+key: G
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: I'll Remember April
+C: Gene de Paul
+M:4/4
+L:1/4
+Q: 190
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/i-will-remember-april/
+K:G
+"G^7" zBcd|cBAG|A3G|FE3|
+"Gm7"zA_Bc|_BAG=F|G1/2A1/2G3-|G2z1/2G3/2|
+"Am7b5"A3A|"D7"AABc|"Bbm7b5"d3/2d1/2-d2-|"E7"d2e3/2d1/2|
+"Am7"Bcdc-|"D7"c2B^A|"G^7"B4-|"G7b9"B2 z1/2 B3/2||
+"Cm7"GGG2-|"F7"GA_Bc|"Bb^7"d3c|"Gm7"_BG2=F|
+"Cm7"GGG2-|"F7"GA_Bc|"Bb^7"d2dd-|dd(3ddd|
+"Am7"d3d|"D7"ecd3/2 B1/2|"G"AB3-|BBdc|
+"F#m7"BB3-|"B7"B2(3BA^G|"E^7"B4|"Am7"z2"D7"z2||
+"G^7" zBcd|cBAG|A3G|FE3|
+"Gm7"zA_Bc|_BAG=F|G1/2A1/2G3-|G2z1/2G3/2|
+"Am7b5"A3A|"D7"AABc|"Bbm7b5"d3/2d1/2-d2-|"E7"d2e3/2d1/2|
+"Am7"Bcdc-|"D7"c2BB|"G^7"G4-|z4||

@@ -1,0 +1,36 @@
+---
+workId: luiz-antonio-djalma-ferreira-hank-mobley-recado-bossa-nova
+arrangementId: h-c9c911c2
+title: Recado Bossa Nova
+artist: 'Luiz Antonio, Djalma Ferreira, Hank Mobley'
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Recado Bossa Nova
+C:Luiz Antonio, Djalma Ferreira, Hank Mobley
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/15/2016
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Gm7" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  "Gm7" G z z e/d/ | "Gm7" z z/ d/ z/ B/z/G/ | "D7" ^F z2 e/d/ | "D7#9" z4 |
+"Dm7b5" z z/ F/ z/ G/z/=B/ | d/ "G7" z/ =B G F | "Cm7" E/ z/ z z d/c/ | "Cm7" z4 |  "Am7" z z z d/c/ |
+"D7" z z/ A/ z/ F/z/E/ | "Gm7" D/ z z z/ c/B/ | "Gm7" z4 |  "A7" z z/ A/ z/ =E/z/A/ | "A7" B/ z/ c- c/z/B/A/ |
+"D7" z z z z | "D7#9" z4 |  G "Gm7" z z e/d/ | "Gm7" z z/ d/ z/ B/z/G/ | "D7" ^F z z e/d/ | "D7" z4 |
+"Dm7b5" z z/ F/ z/ G/z/=B/ | "G7" d/ z/ =B G F | "Cm7" E/ z/ z z d/c/ | "Cm" z4 |  "Am7" z z/ B/ z/ d/z/e/ |
+"D7" f/ z/ e2 d/ z/ | "Gm7" c2- c/B/A/B/- | "Gm7" B z z/ A G/ |  "Ab7#9" _A/ z/ e c A | "D7" ^F/z/z/D/ A B/G/- |
+"Gm7" G2- G z | "Gm7" z2 z G/ z/ |  "G7" _A3/2 G/ ^F/G/ z | "G7" z/ c/z/=B/ _B/=B/ z | "Cm7" z2 z/ d/=B/c/ |
+"Cm7" z2 z A/ z/ |  "A7" B3/2 A/ _A/=A/ z | "A7" z/ d/z/^c/ =c/^c/ z | "Dm7" z4 | "D7" z4 |
+G "Gm7" z z e/d/ | "Gm7" z z/ d/ z/ B/z/G/ | "D7" ^F z z e/d/ | "D7" z4 |  "Dm7b5" z z/ F/ z/ G/z/=B/ |
+"G7" d/ z/ =B G F | "Cm7" E/ z/ z z d/c/ | "Cm" z4 |  "Am7" z z/ B/ z/ d/z/e/ | "D7" f/ z/ e2 d/ z/ |
+"Gm7" c2- c/B/A/B/- | "Gm7" B z z/ A G/ |  "A7" _A/ z/ e c A | "A7" ^F/z/z/D/ A B/G/- | "D7" G4- |
+"D7" G3/2 z/ z2 |]

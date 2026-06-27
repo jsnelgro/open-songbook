@@ -1,0 +1,28 @@
+---
+workId: john-coltrane-mr-syms
+arrangementId: h-4e036e21
+title: Mr Syms
+artist: John Coltrane
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mr Syms
+C:John Coltrane
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/25/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Cmaj7" z2 C "C7" E/C/ | "Bmaj7" B3/2 G/ "Gdim" z2 | z z/ C/ "C" c "Db" c | "Bb" B3/2 "Gdim" G/ z2 |  "Fm7" z z/ G/ C D |
+"Fm7" E D/4E/4D/4B,/4 C C | C z "Cmaj7" C E/ "C7"C/ | B3/2 "Bmaj7" G/ z2 "Gdim" |  "G7" =B2 "Db" c2 | "A6" A2 "B7" A2 |
+"Emaj7" E2 "G7" D2 | "Cm7" C B,/ "Gm"C/ z2 "Cm" ::  "Cm" z4 | z4 | z4 | z4 |  "Fm7" z4 |
+z4 | "Cm7" z4 | z4 |  "Ddim7" z4 | "G7" z4 | "C" "D" z4 | "Eb" "G" z4 :|

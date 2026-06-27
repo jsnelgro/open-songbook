@@ -1,0 +1,28 @@
+---
+workId: mccoy-tyner-blues-a-la-mode
+arrangementId: h-9431ecbe
+title: Blues A La Mode
+artist: McCoy Tyner
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blues A La Mode
+C:McCoy Tyner
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/25/2016
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ F/_A/B/- |: "Bb7" B2 B/B/_d/e/- | "Eb7" e2- e/F/_A/B/- | "Bb7" B2 B/B/_d/e/- |
+"Gm7" e _d/ "Fm7"B/ z/ "Em7" B/d/e/- | "Eb7" e2- e/e/_g/_a/- | "Ab7" a2- a/F/_A/B/- | "Bb7" B2- B/B/_d/e/- |
+"Cm7" e _d/ "Fm7"B/ z/ _D/ "G7"_F/_G/- | "Dbm7" G2 "Gb7" G/_G/_A/=B/- | "Gbm7" B2- "B7" B/F/ "Bb7"_A/_B/ | "G7" z/ F/_A/B/ "Gb7" z/ F/A/B/ |
+"F7" z/ F/_A/B/ "Bb7" z/ F/A/B/ :|

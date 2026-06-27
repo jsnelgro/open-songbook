@@ -1,0 +1,36 @@
+---
+workId: jimmy-forrest-night-train
+arrangementId: h-a216a5ad
+title: Night Train
+artist: Jimmy Forrest
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Night Train
+C:Jimmy Forrest
+C:Duke Ellington
+C:Arr. Tanner finney
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bb7" B, B/F/ _A/G/F/D/ :| "Bb7" d7/2 d/- | "Bb7" d3 z/ B/ | "Bb7" d/c/B/_A/ F/E/_D/C/- |  "Bb7" C3 z |
+"Eb7" _d7/2 d/- | "Eb7" d3 z/ B/ | "Bb7" d/c/B/_A/ F/E/_D/C/- |  "Bb7" C3 z | "G7" _d7/2 d/- | "F7" d3 z/ B/ |
+"Bb7" d/c/B/_A/ F/E/_D/C/- |  "Bb7" C3 z/ F/ |: "Bb7" B/B/_d/d/ B/B/G/F/ | "Bb7" B/B/_d/d/ B/B/G/F/ |
+"Bb7" B/B/ z B, z |  "Bb7" B, z/ B,/- B,3/2 F/ | "Eb7" B/B/_d/d/ B/B/G/F/ | "Eb7" B/B/_d/d/ B/B/G/F/ |
+"Bb7" B/B/ z B, z |  "Bb7" B, z/ B,/- B,3/2 F/ | "Cm7" B/B/_d/d/ B/B/G/F/ | "F7" B/B/_d/d/ B/B/G/F/ |
+"Bb7" B/B/ z B, z |  "Bb7" B, z/ B,/- B,3/2 z/ |1 "Bb7" C3 G | "Bb7" F3 G/B/ | "Bb7" f/ e3/2- e/_d/B/F/ |
+"Bb7" _A2- A/G/F/E/ | "Eb7" D3 F/^F/ | "Eb7" G3 B/d/ | "Bb7" g/ f3/2- f/_d/B/F/ |  "Bb7" _A2- A/G/F/E/ |
+"F7" D3 F/^F/ | "Eb7" G3 B/d/ | "Bb7" f/ e3/2- e/_d/B/G/ |  "Bb7" B2- B/_A/F/E/ | "Bb7" D2 z2 :|2
+"Bb7" (3z/ "Bb" B/_d/ (3=d/e/=e/ (3f/e/f/ (3_d/=d/ "F7" z/ | "Bb7" (3z/ "Bb" B/_d/ (3=d/e/=e/ (3f/e/f/ (3_d/=d/ "F7" z/ |  "Bb7" (3z/ "Bb" B/_d/ (3=d/e/=e/ (3f/e/f/ (3e/f/g/ |
+(3_a/b/_c'/ (3b/a/f/ (3=e/_e/_d/ (3B/_A/F/ :|3 z4 :|

@@ -1,0 +1,35 @@
+---
+workId: nacio-herb-brown-singing-in-the-rain
+arrangementId: h-15daba6e
+title: Singing in the Rain
+artist: Nacio Herb Brown
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Singing in the Rain
+C: Nacio Herb Brown
+M: 4/4
+L: 1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing
+%%songbook-uri /post/singin-in-the-rain/
+K: C
+P: Intro
+"C"ecd2"F^/G"c2Ac|"C"ecd2"F^/G"cdz2|"C"ecd2"F^/G"c2Ac|"C"ecd2"G7"cdG2||
+P: A
+"C"g4-gedc|"Am"A6G2|"C"c4-ccde|g6GA|
+"C"c4-cde2|g4e2"C#o7"g2|"G7/D"g4-"G7"ged2|A6G2||
+"Dm7"g4-ged2|"G7"A6G2|"Dm7"g4e3d|"G7"A6G2|
+"Dm7"g4-geA2|"G7"B4-BeA2|"C"c4-cAc2|A6 GA||
+P: B
+"C"c4-cde2|g6 GA|c4-cdd2|g6G2|
+c4-cde2|g4e2"C#o7"g2|"G7/D"g4-"G7"ged2|A6G2||
+"Dm7"g4-ged2|"G7"A6GG|"Dm7"g4-ged2|"G7"A6G2|
+"Dm7"gg-g4G2|"G7"BB2 e-e2G2|"C"c8-|c6z2||

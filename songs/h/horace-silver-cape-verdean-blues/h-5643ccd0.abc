@@ -1,0 +1,35 @@
+---
+workId: horace-silver-cape-verdean-blues
+arrangementId: h-5643ccd0
+title: Cape Verdean Blues
+artist: Horace Silver
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cape Verdean Blues
+C:Horace Silver
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 3/10/2017
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z "Eb" z/ G,/ C E | G B G B/E/ |: "Cm7""^A" z/ C3/2- C2- | "Cmaj" C4 |  "Cm7" z2 c c |
+c c c =B/d/ | "G7" z/ =B3/2- B2- | "Ab7" B4 |  "G7" z2 d d | d =B/ G3/2 _G/F/- | F/ F3/2- F2- |
+"Ab7" F4 |  "G7" z2 e c | "Db7" _G/F/ E F C/E/- | "Cm7" E/ C3/2- C2- | "Cmaj" C4 |1
+"Cm7" z z/ A,/ "Eb" C/-C/ E | G B G B/E/ :|2 "Cm7""^B" z2 E "Eb" E || G G A G/B/ |:  "Bb7" z/ B3/2- B2- |
+"B7" B4 | "Bb7" z2 B B | "Bb7" A A B A/A/ |  "Cm7" z/ G3/2- G2- | "Cmaj" G4 | "Cm7" z2 G G |
+G G A G/^F/ |  "D7" z/ D3/2- D2- | D4 | "Ab7" z2 F E | "G7" D D/E/ z/ F G,/- |  "Cm7" G,4- |
+"Cmaj" G,4 |1 "Cm7" z2 "Eb" E E | G G A A/B/ :|2  "Cm7""^A" z z/ "Eb" G,/ C E || "Cm7" G B G B/E/ |
+"Cmaj" z/ C3/2- C2- | C4 |  "Cm7" z2 c c | c c c =B/d/ | "G7" z/ =B3/2- B2- | "Ab7" B4 |
+"G7" z2 d d | d =B/ G3/2 _G/F/- | "G7" F/ F3/2- F2- | "Ab7" F4 |  "G7" z2 e c |
+"Db7" _G/F/ E F C/E/- | "Cm7" E/ C3/2- C2- | "Cmaj" C4 |  "Cm7" C z z2 |"^Solo Break\n" z4 |:
+"^To End: At \"Solo Break\" Go Here and vamp" z z e c | _G/F/ E F C/E/- |  E/ C3/2- C2- |"^Solos AABBA" C4 :| "Cm7" C z z2 |]

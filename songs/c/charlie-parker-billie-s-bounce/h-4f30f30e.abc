@@ -1,0 +1,26 @@
+---
+workId: charlie-parker-billie-s-bounce
+arrangementId: h-4f30f30e
+title: Billie's Bounce
+artist: Charlie Parker
+source: jazz
+key: F
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Billie's Bounce
+C: Charlie Parker
+M: 4/4
+L: 1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues,Charlie Parker,Standard50
+%%songbook-uri /post/billies-bounce/
+K: F
+C|:"F7"=B,CF^G AFDF-|"Bb7"FDFz "Bo"zF2 D|"F7"F z2 F-FDFD|_A=A (3F1/2G1/2F1/2D FGFF|
+"Bb7"z2 zA BF z _A-|AB-B2 _ecfe|"F7"zfc2 z2 z =e-|"Am7"e2 GE "D7"^F_e c^c|
+"Gm7"d2 z g (3^f1/2g1/2f1/2d BF|"C7"f2 z f eedd|"F7"c2 z F-"D7"FD F2|"Gm7"z F- FD "C7"F2 z C:||

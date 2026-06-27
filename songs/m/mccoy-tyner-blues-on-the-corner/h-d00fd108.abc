@@ -1,0 +1,30 @@
+---
+workId: mccoy-tyner-blues-on-the-corner
+arrangementId: h-d00fd108
+title: Blues on the Corner
+artist: McCoy Tyner
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blues on the Corner
+C:McCoy Tyner
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/25/2016
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+F/ |: "Bb7" (3^c/d/F/ (3c/d/F/ =c z/ E/ | "Eb7" (3B/c/E/ (3B/ "Edim7"c/E/ _d/ G F/ | "Bb7" (3^c/d/F/ (3c/d/F/ B/ "Bb7"e/- "Ab7" (3e/_A/_d/ |
+"Gb7" _c/_G/- "E7" (3_/G/=E/ "D7"A/ G/ D G/ | "Eb7" (3c/_d/G/ (3c/d/G/ (3B/G/E/ B- | B z "Bb7" (3z/ F/C/ _D/B,/ |
+"Bb7" (3_D/E/B,/ D (3z/ "Eb7" B,/D/ (3E/F/_A/ |  "D7" B3 "G7" z/ B/ | "Cm7" (3e/4_f/4e/4B/ (3_d/4e/4d/4_A/ B z/ F/"_D.C. al Coda" | "F7" (3B/4_c/4B/4F/ _A/B/ E F |
+"Bb7" B (3z/ _A/ "G7#9"F/ B (3z/ A/F/ |  "C7" (3A/^F/=E/ (3=B/ "F7"A/F/ ^c3/2 =F/ :|
+O "C7" (3A/^F/=E/ (3=B/ "F7"A/F/ ^c3/2 _B/ | z4 |
+z "E7#9" E3- | [M:16/4] E8- E8 |]

@@ -1,0 +1,29 @@
+---
+workId: jimmy-cliff-too-many-rivers-to-cross
+arrangementId: h-1b3ad855
+title: Too Many Rivers To Cross
+artist: Jimmy Cliff
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Too Many Rivers To Cross
+C:Jimmy Cliff
+C:As Performed By the New York Jazz Lounge
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 || "F" a/>a/ a/4a/a/4 "Am" a/g/4f/4- f | "Bb" z z/ f/4g/4 "A" a3/4g/-g/4f/4d/4- |
+"Bbmaj7" d z z/ "C" c B/4G/4 | "F" F/ A3/2 z2 "C" | "F" a/>a/ a/4a/4a/ "Am" a/g/4f/4- f | "Bb" z z/ f/4g/4 "A" a- a/4g/4f/4d/4 |
+"Bbmaj7" f z z/ "C" c A/4G/4 | "F" z/ F/ A "C" z2 ||"^Piano Solo" z4 | z4 |  z4 | z4 | z4 | z4 |]

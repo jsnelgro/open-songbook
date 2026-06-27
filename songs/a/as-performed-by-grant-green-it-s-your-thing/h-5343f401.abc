@@ -1,0 +1,32 @@
+---
+workId: as-performed-by-grant-green-it-s-your-thing
+arrangementId: h-5343f401
+title: It's Your Thing
+artist: As Performed by Grant Green
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:It's Your Thing
+C:As Performed by Grant Green
+C:Arr. 6EQUJ5
+Z:©2015 APUFmusic
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "F7#9" F _A G z | "Bb7" F/4F/F/4 z/4 F/4_A/ G z | "F7#9" F _A G z | "Bb7" F/4F/F/4 z/4 F/4_A/ G z :|
+z2 z/ z/4 F/4 c/4_A/=A/4 | F z _E/4E/4E/4E/4 z/ F/ | _A, z z2 | c/B/A/c/ z/ z/4 C/4 D/F/ |
+_A/G/ F/_E/4F/4 z/ z/4 F/4 c/4A/=A/4 | F z _E/4E/4E/4E/4 z/ F/ | _A, z z2 | c/B/A/c/ z/ z/4 C/4 D/F/ |
+_A/G/ F/_E/4F/4 z A/4=A/4_A/4=A/4 | "F7#9" c z z _A/4=A/4_A/4=A/4 | C z z _A/4=A/4_A/4=A/4 |
+c z z _A/4F/4G/4F/4 |  F/4z/_E/4 F/4F/E/4 F _A/4=A/4_A/4=A/4 | c z z _A/4=A/4_A/4=A/4 |
+C z z _A/4=A/4_A/4=A/4 | c z z _A/4F/4G/4F/4 |  F/4z/_E/4 F/4F/E/4 F/z/4F/4 c/4_A/=A/4 | "F7#9" F z _E/4E/4E/4E/4 z/ F/ |
+"Bb7" _A, z z2 | c/B/A/c/ z/ z/4 C/4 D/F/ |  _A/G/ F/_E/4F/4 z2 |: "F7#9""^Solos-fill" F _A G z |
+"Bb7" F/4F/F/4 z/4 F/4_A/ G z | "F7#9" F _A G z |  "Bb7" F/4F/F/4 z/4 F/4_A/ G z :|

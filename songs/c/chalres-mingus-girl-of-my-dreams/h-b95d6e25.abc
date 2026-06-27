@@ -1,0 +1,51 @@
+---
+workId: chalres-mingus-girl-of-my-dreams
+arrangementId: h-b95d6e25
+title: Girl of My Dreams
+artist: Chalres Mingus
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Girl of My Dreams
+C:Chalres Mingus
+C:Arr. 6EQUJ5
+Z:©2020 6EQUJ5
+Z:5/11/2020
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "Bb""^200""_A" B, z/ B/ f/d/B/A/ | "Bb7" _A/ f2 z/ (3A/B/A/ | G z/ "Eb7" B/ f/d/B/G/ | "Ab7" _G/ f2 z/ e/_d/ |
+"Db" d/ B3/2 B F | "Db" B F z2 | "Eb7" z/ F/B/d/ _a/ "Bb7"_g/f/e/ | f4 "Bbmaj7" :|1
+[Q:1/4=100]"_100""^Rit.""_B" "D7" f2 f/e/d/A/ | "Gm7" B7/2 G/4A/4 | "Em7" B3 "D7" B/4c/4B/4c/4 | "Ab7" A3/2 G/ A3/2 G/ |  "Db7" A3/2"_Accel." G/ A3/2"^Fine" G/ :|2
+[M:3/4] "B7"[Q:1/4=100]"^100""_C" [=Bf]3- || "C7" [Bf]3 | "Db7" z3 |  "Bb7" z2 (3d/e/=e/ |:
+"Bbmaj7""_D" [df] [gb]3/2 "Bb7" [g_a]/ | [f_a]3 | "Ebmaj7" [=eg] [cc']3/2 "Eb7" [cb]/ |  "Ab7" [e_g]3 |1 "Dbmaj7" [cf]3 | [cf]2 [=Bf] | "Dbmaj7" [Bf]3 |  "B7" [ac']2 "Bb7" (3d/e/=e/ :|2
+"G7" [FB] [Bd] "Cm7" [df] || "F7" [Ge]2 [Ad] | "Bbmaj7" [GB]3- | "^Accel." [GB]3 || "D7"[Q:1/4=200]"^200" d3 | A3 | "Gm7" B3/2 c/ d/B/ |  G3 | c3 |
+"Cm7" d2- d/_d/ | "Dm7" c3- |  c2 (3d/e/=e/ |[M:4/4] "Bb7"[Q:1/4=160]"^160" f z b a/_a/- | a4 | "Eb7" z/ g3/2 c' "Ab7" b/_g/- |
+g4 | "Db7" z/ F3/2 B d | "C7" [Gc]2 "F7" [_G=B]3/2 "Bb7" [FB]/ | z4 |:
+"Bb""^Solos (Double Time)" z4 | "Bb7" z4 | "Eb7" z4 | "Ab7" z4 |  "Dbmaj7" z4 | "Db" z4 | "Eb7" "Bb7" z4 | z4 :|
+"D7" z4 | "Gm7" z4 | "Em7" "D7" z4 | "Ab7" z4 |  "Db7" z4 ||
+"Bb" z4 | "Bb7" z4 | "Eb7" z4 |  "Ab7" z4 | "Dbmaj7" z4 | "Db" z4 | "Eb7" "Bb7" z4 |  z4 |]
+V:2
+|: z4 | z4 | B,2 F2 | _A,2 z2 |
+z/ F,7/2 | F,2 z2 | z/ F3/2 E2 | D2 B,2 :|1
+d4 | B, A, _A, G, | G,4 | z/ F,7/2 |  F,2 z2 :|2
+[M:3/4] z3 || z3 | z3 |  z3 |:
+z3 | z3 | z3 |  z3 |1 z3 | z3 | z3 |  z3 :|2
+z3 || z3 | z3 |  z3 || z3 | z3 | z3 |  z3 | z3 |
+z3 | z3 |  z3 |[M:4/4] z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |:
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 :|
+z4 | z4 | z4 | z4 |  z4 ||
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 |]

@@ -1,0 +1,32 @@
+---
+workId: ann-ronell-willow-weep-for-me
+arrangementId: h-06c7dbbf
+title: Willow Weep For Me
+artist: Ann Ronell
+source: jazz
+key: G
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Willow Weep For Me
+C: Ann Ronell
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Blusy
+%%songbook-uri /post/willow-weep-for-me/
+K: G
+P: A
+|:"G7"dD (3EGE- "C7"E4|"G7"dD (3EGE- "C7"E4|"G7"dD (3EGE- "Am7"ED "D7"(3DGB-|"G"BG "Am7"(3EGE- "Bbo"E2 "Bm7"z2|
+"C7"dc_BA G4| "Am7b5"dc (3_BAG "D7"dD- DD-|[1 "G"D4 "E7"z4|"Am7"z4"D7"z4:|[2 "G"z8|"Dm7"z4"G7"z4||
+P: B
+"Cm7"Gc (3dc_e- e3 c|"Gm7"_BG (3BG=B- "G7b9"B3 G|"Cm7"ccdc "Bb7"_Bc-cB|"Ab7"_A_BAG- "G7b9"G3 z|
+"Cm7"Gc (3dc_e- e3 c|"Gm7"_BG (3BG=B- "G7b9"B3 G|"Cm7"ccdc "Bb7"_Bc-cB|"Ab7"_A_B (3)c_ed- "Am7"d2 "D7"d2||
+P: A
+"G7"dD (3EGE- "C7"E4|"G7"dD (3EGE- "C7"E4|"G7"dD (3EGE- "Am7"ED "D7"(3DGB-|"G"BG "Am7"(3EGE- "Bbo"E2 "Bm7"z2|
+"C7"dc_BA G4| "Am7b5"dc (3_BAG "D7"dD- DD-|"G"z8|"Dm7"z4"G7"z4||

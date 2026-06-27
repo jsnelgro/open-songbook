@@ -1,0 +1,38 @@
+---
+workId: art-farmer-fair-weather
+arrangementId: h-eedacec3
+title: Fair Weather
+artist: Art Farmer
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Fair Weather
+C:Art Farmer
+C:Benny Golson
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/22/2018
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Intro" "Ab13" z4 || z/ F/^F/_B/ ^c c/B/- | B4- | B3 z |
+"G13" E4 | z/ E/F/A/ c c/A/- | A3 "Ab13" A/_B/ | z4 ||
+"Cmaj7""_Head" E4 | "E7" E2- E z/ E/- | "Bb7" E2- (3E ^D E | "A7" F2 E3/2 A/- |  "Gbdim" A4- | "B7" A2 G ^F/G/- |
+"Edim" G4- | "Eb7" G2 G G/G/- |  "Ab7" G2- G/F/E/D/- | "Dm7" D4 "G7" | "Edim" z2 G/A/G/A/- | "A7" A4 |
+"Gbdim" z2 A/B/A/B/- | "B7" B3 A | "Emaj7" G2- (3G "A7" F E | "Dm7" F2 "G7" G2 |  "Cmaj7" E4 | "E7" E2- E z/ E/- |
+"Bb7" E2- (3E ^D E | "A7" F2 E3/2 A/- |  "Gbdim" A4- | "B7" A2 G ^F/G/- | "Edim" G4- | "Eb7" G2 G G/G/- |
+"Ab7" G2 G/F/E/D/- | "Dm7" D2 "G7" z/ G3/2 | "Edim" (3A G A _B c | "A7" A2 (3E F G |  "Ddim" G F _A2- | "G7""^To \nCoda" A2 B2 |
+"Cmaj7" c z (3e/d/c/ _B/ "Cmaj7"_A/ | G/F/D/_E/ =E/G/ A || "^Solos Over Form" z4 || E/E/D/E/ z/ A G/ |"^Cool Soli Section" E/E/D/E/ z/ B/A/G/ |
+F/A,/ C/ E G/ ^G/A/ |  z2 z/ ^G/A/B/ | c3/2 A/ z/ F/z/D/ | _E2 B/c/B/A/ | G2 d c/B/ |
+_B f2 z | z/ ^G,/C/F/ (3E/F/E/ D/G/ | z7/2 G/ | z/ _B,/D/G/ (3F/G/F/ E/A/ |  z7/2 A/ |
+z/ C/E/A/ (3G/A/G/ ^F/B/- | B3 A | G3 F/E/ |  F2 z G || "Gbdim""_Coda" c4- | "Fm7" c B/c/ d/e/d/B/ |
+"Emaj7" c4- |  "Ebdim" c B/c/ d/e/c/B/ | "Dm7" c3 A | "G7" B2 e3/2 g/- | "Cmaj7" g4 |]

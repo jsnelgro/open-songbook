@@ -1,0 +1,29 @@
+---
+workId: lester-young-jumpin-with-symphony-sid
+arrangementId: h-604bf89a
+title: Jumpin' With Symphony Sid
+artist: Lester Young
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Jumpin' With Symphony Sid
+C:Lester Young
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:4/16/2018
+Z:
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+G/ "C7"A/c/e/ z/ e e/- | e d/c/ d/e/ z | "F7" G/A/c/e/ z/ e e/- | "C7" e d/c/ d/e/ z |
+"C7" G/A/c/_e/ z/ e e/- | e d/c/ d/_e/ z | "F7" G/A/c/e/ z/ e e/- | e d/c/ d/e/ z |  "G7" G/A/c/_e/ z/ e e/- |
+"F7" e d/c/ d/_e/ z | "C7" G/A/c/e/ z/ e e/- | e z z2 |]

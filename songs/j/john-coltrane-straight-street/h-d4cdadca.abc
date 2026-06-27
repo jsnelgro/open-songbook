@@ -1,0 +1,33 @@
+---
+workId: john-coltrane-straight-street
+arrangementId: h-d4cdadca
+title: Straight Street
+artist: John Coltrane
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Straight Street
+C:John Coltrane
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z "Bbm7" B/ "Bm7"A/ |:"^A" z "Bm7" z/ ^c/ B/ "E7"e/c/A/ | "Am7" B3/2 "D7" A/- A2 | "Gm7" z z/ A/ "C7" G/c/A/F/ |
+"Fm7" G F/G/ "Bb7" _B,/F/_B/_A/ | "Ebm7" _G2- __G/_D/_G/=G/- | "E7" G2- G/^F/^G/^c/- | "F#maj7" c2- c/^F/^G/F/ |
+"D7" z E/^F/ D/E/F/^G/ | "Fm7" _B4- | "Bb7" B _A/_B/ E/F/B/A/ | "Ebm9" _G4- |1  G3 "Bbm7" d/ "Bm7"B/ :|2
+"^B""_Latin\n" "Ebm9" G2 z/ _d/_c/_A/ || "Dbm7" _G4- | "Gb7" G2- G/_d/_B/^G/ |  "Ebm7" G4- | "Ab7" _G2- G/d/_d/G/ | "Em9" ^F4- |
+"A13" F2- F/c/B/A/ |  "Dmaj7" ^F4- | "C13" F2 z/ ^c/B/^G/ | "Bm" ^F7/2 ^G/4F/4 | "C#7" F ^F G ^G |  "F#7" B2 "B7" A2 |
+"G7" c2 "C7" _B2 ||"^A\n" z "Bm7" z/ ^c/ B/ "E7"e/c/A/ | "Am7" B3/2 "D7" A/- A2 |  "Gm7" z z/ A/ "C7" G/c/A/F/ | "Fm7" G F/G/ "Bb7" _B,/F/_B/_A/ |
+"Ebm7" _G2- __G/_D/G/_G/- | "E7" G2- G/^F/^G/^c/- |  "F#maj7""_Solos over Form\nAABA\nNo style change at B on solos" c2- c/^F/^G/F/ | "D7" z E/^F/ D/E/F/^G/ | "Fm7" _B4- |
+"Bb7" B _A/_B/ E/F/B/A/ |  "Ebm9" _G4 |]

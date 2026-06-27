@@ -1,0 +1,33 @@
+---
+workId: juan-tizol-duke-ellington-caravan
+arrangementId: h-267a7035
+title: Caravan
+artist: 'Juan Tizol, Duke Ellington'
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Caravan
+C:Juan Tizol, Duke Ellington
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5
+Z:11/10/2019
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "C7""_A" c4- | "Db7" c4- | "C7" c d c G | "C7" B c =e G ||  "C6" B4- | "Db7" B4- |
+"C7" B c d c | d c =B G |  "C7" B4- | "Db7" B4- | "C7" B c =B _B | =A _A _G =E |
+"Fm6" F4- | F4- | F4- | F3 z :|
+"F7""_B" f4 | =d2 c3/2 G/- | G4- | "F7" G3/2 F/ =E F |  "Bb7" [cf]4 | [Gg]2 [Ff]3/2 [Cc]/- | "Fm7" [Cc]4 | "Bb7" z2 B/c/d/=d/ |  "Eb7" e4 |
+[cf]2 [Be]3/2 [F-c]/ | [F-B]4 | "Eb9" F2 "Eb7b9" G E |  "Abmaj7" c3/2 A/- A2- | A2 B A | "C7" G2 G3/2 "Fm6" G/- | "Ebdim7" G2 z2 "C7" ||
+"_C" "Gdim7" c4- | "Db7" c4- | "Gdim7" c d c G | B c =e G ||  "Gdim7" B4- | "Abdim7" B4- |
+B "Gdim7" c d c | d c =B G |  "Gdim7" B4- | "Db7" B4- | "Gdim7" B c =B _B | =A _A _G =E |
+"Fm7" F4- | F4- | F4- | F3 z |]

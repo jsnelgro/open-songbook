@@ -1,0 +1,34 @@
+---
+workId: nacio-herb-brown-good-morning
+arrangementId: h-13048f9c
+title: Good Morning
+artist: Nacio Herb Brown
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Good Morning
+C: Nacio Herb Brown
+M: 4/4
+L: 1/8
+Q: 220
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/good-morning/
+K: Bb
+P: A
+F2|"Bb"D2F4F2|d2B6|F4d3c|B2B2F2"Bbm7b5"=E2|
+"F7"E2F4c2|A2F4c2|"Bb"B4-"Eb"B4|"Bb"z4"F7"z2F2||
+P: A
+"Bb"D2F4F2|d2B6|F4d3c|B2B2F2"Bbm7b5"=E2|
+"F7"E2F4c2|A2F4c2|"Bb"B4-"Eb"B4|"Bb"z8||
+P: B
+"D"A3^F"A7"G3F|"D"A3^F"A7"G3F|"D"A3^F"A7"G3F|"D"A8|
+"F"c3A"C7"B2A2|"F"c2AB- "Gm7b5"B2AB|"C7"c2B2A2G2|"F"F4 "F7"F2F2||
+P: A
+"Bb"D2F4F2|d2B6|F4d3c|B2B2F2"Bbm7b5"=E2|
+"F7"E2F4c2|A2F4c2|"Bb"B4-"Eb"B4|"Bb"z4"F7"z4||

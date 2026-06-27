@@ -1,0 +1,35 @@
+---
+workId: sammy-fain-alice-in-wonderland
+arrangementId: h-f5626fed
+title: Alice in Wonderland
+artist: Sammy Fain
+source: jazz
+key: C
+tags:
+  - 3/4 Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Alice in Wonderland
+C: Sammy Fain
+M:3/4
+L:1/4
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories 3/4 Swing
+%%songbook-tags 3/4 Swing
+%%songbook-uri /post/alice-in-wonderland/
+K: C
+|:"Dm7"G3|"G7"g2f|"C^7"e2c|"F^7"G3|
+"Bm7b5"def|"E7"e2d|"Am7"e2c|"Eb7"G3|
+"Dm7"def|"G7"e2d|"Em7"e2g|"Am7"c'2a|
+"Dm7"g2f|"G7"e2d|1 "Em7"g2-"A7"g-|"Dm7"g2"G7"z:|2 "C^7"c3-|"Am7"c2^c||
+"D7"d3|"G7"a3|"Em7"g3|"Am7"c3|
+"Dm7"def|"G7"g2a|"C^7"b2g|"F^7"e3|
+"F#m7"^f3|"B7b9"c'3|"Em7"b2g|"A7"e3|
+"Dm7"a2"A7"g|"Dm7"f2"A7"e|"Dm7"d2"Ab7"c|"G7"B3||
+"Dm7"G3|"G7"g2f|"C^7"e2c|"F^7"G3|
+"Bm7b5"def|"E7"e2d|"Am7"e2c|"Eb7"G3|
+"Dm7"def|"G7"e2d|"Em7"e2g|"Am7"c'2a|
+"Dm7"g2f|"G7"e2d|"C^7"c3-|c3||

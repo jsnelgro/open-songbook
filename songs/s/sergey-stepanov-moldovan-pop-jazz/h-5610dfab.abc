@@ -1,0 +1,33 @@
+---
+workId: sergey-stepanov-moldovan-pop-jazz
+arrangementId: h-5610dfab
+title: Moldovan Pop Jazz
+artist: Sergey Stepanov
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Moldovan Pop Jazz
+C:Sergey Stepanov
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 10/14/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|:"_C" A z A/A/4A/4 G/4A/4 z/ | A z A/A/4A/4 G/4A/4 z/ | A z/ =c A/ z/ G/ | G/=F/z/D/ D/E/^F/D/ ::
+[K:Db] B/4B/4d/<e/z/4d/4 B/4B/4d/<e/z/4d/4 | B/4B/4d/<e/z/4B/4 d/4z/4B/4 z/4 B/4A/4B/ | B/4B/4d/<e/z/4d/4 B/4B/4d/<e/z/4d/4 |
+B/4B/4d/<e/z/4B/4 d/4z/4B/4 z/4 B/4A/4F/ ::
+[K:E]"_Bb" B z B/B/4B/4 A/4B/4 z/ | B z B/B/4B/4 A/4B/4 z/ | B z/ =d B/ z/ A/ | A/=G/z/E/ E/F/^G/E/ ::
+[K:Eb] c/4c/4e/<f/z/4e/4 c/4c/4e/<f/z/4e/4 | c/4c/4e/<f/z/4c/4 e/4z/4c/4 z/4 c/4B/4c/ | c/4c/4e/<f/z/4e/4 c/4c/4e/<f/z/4e/4 |
+c/4c/4e/<f/z/4c/4 e/4z/4c/4 z/4 c/4B/4G/ ::
+[K:B]"_Eb" f z f/f/4f/4 e/4f/4 z/ | f z f/f/4f/4 e/4f/4 z/ | f z/ =a f/ z/ e/ | e/=d/z/B/ B/c/^d/B/ ::
+[K:Bb] g/4g/4b/<c'/z/4b/4 g/4g/4b/<c'/z/4b/4 | g/4g/4b/<c'/z/4g/4 b/4z/4g/4 z/4 g/4f/4g/ | g/4g/4b/<c'/z/4b/4 g/4g/4b/<c'/z/4b/4 |
+g/4g/4b/<c'/z/4g/4 b/4z/4g/4 z/4 g/4f/4d/ :|

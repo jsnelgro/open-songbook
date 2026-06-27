@@ -1,0 +1,35 @@
+---
+workId: lee-morgan-ceora
+arrangementId: h-ee04d9f0
+title: Ceora
+artist: Lee Morgan
+source: jazz
+key: Ab
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Ceora
+C: Lee Morgan
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Bossa Nova,Latin
+%%songbook-uri /post/ceora/
+K: Ab
+P:A
+|:"Ab^7" z E =de- e E2 e1/2d1/2|"Bbm7"_d4 "Eb7"z4|"Ab^7"z E =Bc- c E2 _B-|"Ebm7"B4 "Ab7"z4|
+"Db^7" z G, GA- A A,2 A|"Dm7" G4 - "G7"G3 G1/2A1/2|"Cm7"E6- EC1/2E1/2|"F7" A3 _G (3=B1/2c1/2B1/2 =A _A_G|
+"Bbm7"FA2 c- c d2 e1/2c1/2|"Eb7"B6 B1/2A1/2G1/2F1/2|"Cm7"G B2 =d- d e2 f1/2d1/2|"F7"c6 c1/2d1/2B1/2c1/2|
+"Dm7"=A c2 =e- ef e1/2=d1/2c1/2=A1/2|"G7"=d3 e - ed (3c1/2d1/2c1/2=B|"Cm7"c3 f "F7"(3d1/2e1/2d1/2F =Ac|"Bbm7"B3 d "Eb7"=e1/2^f1/2_e- ed||
+P: B
+"Ab^7" z E =de- e E2 e1/2d1/2|"Bbm7"_d4 "Eb7"z4|"Ab^7"z E =Bc- c E2 _B-|"Ebm7"B4 "Ab7"z4|
+"Db^7" z G, GA- A A,2 A|"Dm7" G4 - "G7"G3 G1/2A1/2|"Cm7"E6- EC1/2E1/2|"F7" A3 _G (3=B1/2c1/2B1/2 =A _A_G|
+"Bbm7"F A2 c- c d2 e1/2f1/2|"Eb7"B6 B1/2A1/2_G1/2F1/2|"Cm7b5"_G4 (3G1/2A1/2G1/2F =EF|"F7"f3c (3cFA d{=B~}c|
+"Bbm7"A4- AF A1/2B1/2A-|"Eb7sus4"A4-AA1/2G1/2 B1/2A1/2E1/2F1/2|"Ab^7"G6 C1/2E1/2G1/2_G1/2|[1 "Bbm7"F3 E- "Eb7"E2z2:|
+P: Ending
+[2 "Bbm7"F3 E- "Eb7"EE_G=E|"Ab^7"_E8||

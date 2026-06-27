@@ -1,0 +1,31 @@
+---
+workId: cole-porter-night-and-day
+arrangementId: h-0a2302fe
+title: Night And Day
+artist: Cole Porter
+source: jazz
+key: C
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Night And Day
+C: Cole Porter
+M: 4/4
+L: 1/8
+Q: 1/4=130
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Standard50
+%%songbook-uri /post/night-and-day/
+K: C
+G2 GG-||:"Dm7b5"G8-|"G7"G4 (3F2E2D2|"C^7"E8-|E4 G2 GG-|
+"Dm7b5"G2 G2 G2 G2|"G7"G2 F2(3F2E2D2|"C^7"E8-|E4 E3 E||
+"F#m7b5"E2 E2 E2 E2|"Fm7"_E4-E E2 E|"Em7"D2 D2 D2 D2|"Ebo7" D2 _DC-C2 B,2|
+"Dm7" A,2 _A,G,-G,4-|"G7"G,4 G2 GG-|"C^7"G8-|[1 G4 G2 GG ]:|[2 "Bb7"G4 G2 G2] ||
+"Eb^7"_B8-|B4 (3G2F2_E2|"C^7" G2 GG-G4-|G4 G3 G|
+"Eb^7"_Bc2 Bc2 Bc-|c_B2 G- (3G2F2_E2|"C^7" G2 GG-G4-|G4 E3 E||
+"F#m7b5"E2 E2 E2 E2|"Fm7"_E4-E E2 E|"Em7"D2 D2 D2 D2|"Ebo7"D_DCB- B_B A2|
+"Dm7" G2 GG-G4-|"G7"G4 c2 cc-|"C^6"c8|z8||

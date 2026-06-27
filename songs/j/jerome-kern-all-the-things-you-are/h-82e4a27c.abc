@@ -1,0 +1,36 @@
+---
+workId: jerome-kern-all-the-things-you-are
+arrangementId: h-82e4a27c
+title: All the things you are
+artist: Jerome Kern
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: All the things you are
+C: Jerome Kern
+M: 4/4
+L: 1/4
+Q: 1/4=160
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/all-the-things-you-are/
+K: Ab
+P: A
+"Fm7"A4|"Bbm7"d3 A|"Eb7"G G G G|"Ab^7"G c2 G|
+"Db^7"F F F2|"G7" (3FGA G F|"C^7"=E4-|E4|
+P: B
+"Cm7"_E4|"Fm7"A3 E|"Bb7"=D D D D|"Eb^7"=D G2 D|
+"Ab^7" C C C2|"D7" (3C=DE DC|"G^7"=B,4-|B, =D G =d||
+P: C
+"Am7"=d2 c2-|"D7"c E =E c|"G^7"=B4-|B =D G =B|
+"F#m7b5"=B2 =A2-|"B7"A B, =B, =A|"E^7"_A4-|"C7b13"A4||
+P: D
+"Fm7"A4|"Bbm7"d3 A|"Eb7"G G G G|"Ab^7"G c2 G|
+"Db^7"F4|"Dbm7"e2 d2|"Cm7"E E (3EEE|"B07"G3 F|
+"Bbm7"D F A d|"Eb7" f2 g2|"Ab^7" a4-|a4||

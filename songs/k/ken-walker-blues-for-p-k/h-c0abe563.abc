@@ -1,0 +1,29 @@
+---
+workId: ken-walker-blues-for-p-k
+arrangementId: h-c0abe563
+title: Blues for P.K.
+artist: Ken Walker
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blues for P.K.
+C:Ken Walker
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 |: "Bb7" B/F/B/=E/ _E z | B/e/B/_d/ z2 | B/F/B/=E/ B/ _E D/ |
+_A/ z/ z z2 | "Eb9" B/ e _d B/ z/ z/ | F/ B _A =E/ z/ z/ | "Bb7" F =E _E D |  _A/ z/ z F/ B A/- |
+"F9" A/ E z/ G/ B E/- | "Eb9" E/ C z/ F/B/=E/B/ | "Bb7" E/C/ B,/ z/ z2 |1 "^Solos" z4 :|2 z4 ||
+"Bb7" z4 | "Bb7" z4 |  "Bb7" z4 | "Bb7" z4 | "Eb9" z4 | "Eb9""_Solos-Blues in Bb" z4 |  "Bb7" z4 | "Bb7" z4 |
+"F9" z4 | "Eb9" z4 |  "Bb7" "Cm7" z4 | "F7" "Eb9" "Bb7" z4 |]

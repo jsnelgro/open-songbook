@@ -1,0 +1,29 @@
+---
+workId: eddie-harris-instant-death
+arrangementId: h-06eae196
+title: Instant Death
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Instant Death
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=225
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z2 "C" E/4E/4F/4F/4 ^F/4F/4G/ | "C" z c z/ G/_B/c/ | "C" z2 E/4E/4F/4F/4 ^F/4F/4G/ | "C" z c z/ G/_B/c/ ::
+"C" z _B z/ A/ z | "C" G z F G/E/- | "C" E z z _B/c/- |1 "C" c/ c _B/ c B :|2  "C" c/ c c/ _e/c/F/C/ ||
+"C" E/ z/ c z/ _B z/ | "C" G z/ _G/- (3G/F/_E/ C | "C" E z z2 |  "C" C z C z | "C" _B,/ B, B,/- B,/ B, B,/ |
+"C9" _e c/G/ F C/E/- | "C" E4- |  "C" E4 |]

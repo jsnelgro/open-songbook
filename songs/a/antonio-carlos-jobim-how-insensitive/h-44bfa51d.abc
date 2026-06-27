@@ -1,0 +1,31 @@
+---
+workId: antonio-carlos-jobim-how-insensitive
+arrangementId: h-44bfa51d
+title: How Insensitive
+artist: Antônio Carlos Jobim
+source: jazz
+key: Am
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: How Insensitive
+C: Antônio Carlos Jobim
+M: 4/4
+L: 1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Antônio Carlos Jobim
+%%songbook-uri /post/how-insensitive/
+K: Am
+"Dm7"A8-|A_B2A2B2A-|"C#o7"A8-|A_B2A2B2A-|
+"Cm6"A4-(3A2^G2A2|cB2_B-B2A2|"G7/B"A3G-G4-|G8||
+"Bb^7"G8-|GA2G2A2G-|"Eb^7"G8-|GA2G2A2G-|
+"Em7b5"G4-(3G2^F2G2|"A7b9"_B3A(3_A2G2G2-|"Dm7"G3F-F4-|"Db13"F8||
+"Cm7"F8-|FG2F2G2F-|"Bo7"F8-|FG2F2G2A-|
+"Bb^7"A6F2|"Em7b5"D2E2"A7"D2E2|"Dm7"F4F4-|F4-"Db7"F4||
+"Cm9"F8-|"F7"F3G F G2E-|"Bm7"E8-|"E7b9"EF2E2F2E-|
+"Bb^7"E4-(3E2^D2E2|"A7"G3_GF2E2|"Dm7"E3D-D4|z8||

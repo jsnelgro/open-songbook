@@ -1,0 +1,34 @@
+---
+workId: wilton-felder-way-back-home
+arrangementId: h-af1695eb
+title: Way Back Home
+artist: Wilton Felder
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Way Back Home
+C:Wilton Felder
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 6/8/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Ebm7/Db" [G,B,DE]/>D/ z/ "Db" [F,A,D]/- [F,A,D] A,/4B,/4D/ | "Ebm7/Db" [G,B,DE]/>D/ z/ "Db" [F,A,D]/- [F,A,D] [F,A,]/4[G,B,]/4[A,D]/ | "Ebm7/Db" [G,B,DE]/>D/ z/4 B,/4 "Db"[F,A,D]/- [F,A,D] A,/4B,/4D/ |
+"Ebm7/Db" [G,B,DE]/>D/ z/ "Db" [F,A,D]/ z/ [F,A,D]/[G,B,E]/[F,A,D]/ |  "Gbmaj7" [G,B,DE]/>[G,B,D]/ z/ [G,B,D]/- [G,B,D] [F,A,]/4[G,B,]/4[A,D]/ | "Ebm7" [B,DEG]/>[G,A,DF]/ z/ "Ab/Gb" [G,B,DE] [A,D]/ [B,E]/4D/4B,/4A,/4 |
+"Ebm7/Db" [G,B,DE]/>D/ z/ "Db" [F,A,D]/- [F,A,D] [F,A,]/4[G,B,]/4[A,D]/ | "Ebm7/Db" [G,B,DE]/>D/ z/ "Db" [F,A,D]3/2 [F,A,]/4[G,B,]/4[A,D]/ :|
+"Ebm7/Db" E/>D/ z/ "Db" F/- F2- | "Ebm7/Db" "Db" F3 z | "Ebm7/Db" E/>D/ z/ "Db" F/- F2- |
+"Ebm7/Db" "Db" F3 B,/D/ |  "Gbmaj7" E/>B,/ z/ D3/2 B,/D/ | "Ebm7" G/>F/ z/ "Ab/Gb" E3/2 E/4D/4B,/4A,/4 |
+"Ebm7/Db" E/>D/ z/ "Db" F3/2 B,/D/4B,/4 | "Ebm7/Db" E/>D/ z/ "Db" D2- D/ ||  "Ebm7/Db" [B,E]/>[G,D]/ z/ "Db" [A,F]/- [A,F]2- |
+"Ebm7/Db" "Db" [A,F]3 z | "Ebm7/Db" [B,E]/>[A,D]/ z/ "Db" [A,F]/- [A,F]2- | "Ebm7/Db" "Db" [A,F]3 [G,B,]/[B,D]/ |
+"Gbmaj7" [DE]/>[G,B,]/ z/ [G,D]3/2 B,/D/ | "Ebm7" [EG]/>[DF]/ z/ "Ab/Gb" [B,E]3/2 [B,E]/4[A,D]/4[G,B,]/ | "Ebm7/Db" [B,E]/>[G,D]/ z/ "Db" [A,F]3/2 [F,B,]/[B,D]/ |
+"Ebm7/Db" [DE]/>[B,D]/ z/ "Db" [F,D]2- [F,D]/ |]

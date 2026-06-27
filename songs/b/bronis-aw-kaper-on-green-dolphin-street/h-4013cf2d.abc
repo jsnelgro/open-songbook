@@ -1,0 +1,36 @@
+---
+workId: bronis-aw-kaper-on-green-dolphin-street
+arrangementId: h-4013cf2d
+title: On Green Dolphin Street
+artist: Bronisław Kaper
+source: jazz
+key: Eb
+tags:
+  - Swing
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: On Green Dolphin Street
+C: Bronisław Kaper
+M: 4/4
+L: 1/4
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing,Latin
+%%songbook-tags Standard50
+%%songbook-uri /post/on-green-dolphin-street/
+K: Eb
+P: A
+"Eb^7"e4-|e2 (3dBG|"Ebm7"_d4-|d4|
+"F7/Eb"c4-|c2 "E/Eb"(3_cA_F|"Eb^7"B4-|B4||
+P: B
+"Fm7"z1/2 B3/2 FG|"Bb7"AB_c_d|"Eb^7"B4-|B4|
+"Abm7"z1/2 _d3/2 AB|"Db7"_c_d__e_f|"Gb^7"_d4-|d2 "Bb7"B2||
+P: A
+"Eb^7"e4-|e2 (3dBG|"Ebm7"_d4-|d4|
+"F7/Eb"c4-|c2 "E/Eb"(3_cA_F|"Eb^7"B4-|B4||
+P: C
+"Fm7"z1/2 B3/2 "Fm/Eb" FG|"Dm7b5"AB "G7b9"_c g|"Cm7"f3/2 e1/2-"Cm/Bb"e2|"Am7b5"EF "D7" _Gd|
+"Gm7"c3/2 B1/2-"C7"B2|"Fm7"z1/2 B3/2 "Bb7"BB|"Eb^7"B4-|B4||

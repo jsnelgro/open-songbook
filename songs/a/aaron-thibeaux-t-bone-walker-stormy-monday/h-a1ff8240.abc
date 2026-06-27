@@ -1,0 +1,32 @@
+---
+workId: aaron-thibeaux-t-bone-walker-stormy-monday
+arrangementId: h-a1ff8240
+title: Stormy Monday
+artist: Aaron Thibeaux "T-Bone" Walker
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Stormy Monday
+C:Aaron Thibeaux "T-Bone" Walker
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:3/24/2017
+Z:
+L:1/4
+Q:1/4=96
+M:12/8
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "G9" d/d/d/ d/d/d/ "Ab9" d/d/d/ d/d/d/ |1 "G9" d/ z/ "G" z/ D/F/^A/ d3/2 z3/2 :|2
+"D" d/ z/ z/ D/F/^A/ d3/2 z/ ^G/_B/ |: "G9" G/A/E/ G/ G- G/ z/ z/ z3/2 |  "C9" z3/2 z G3/2 _B/ G/A/E/ |
+"G9" E3 "Ab9" z3 | "G9" z6 | "C9" z2 G/d/ _B/c/d/ B/ G |  z3 z/ G/ "C#dim7" c3/2 c/ |
+"G9" _B/G/G/ D3/2 "Am7" z3 | "Bm7" "Bbm7" z6 | "D9" z3/2 z/ c/c/ d3/2 z3/2 |  "Eb9""^To Coda" z2 z/ "D9" E _B/G/ c/c/B/ |
+"G7" G3 "C9" z3 | "G9" "D+" z6 :|"^CODA""_They call it stormy Monday but Tuesday's just as bad\nThey call it stormy Monday but Tuesday's just as bad\nWednesday's worse and Thursday's also sad\n\nYes, the eagle flies on Friday and Saturday I go out to play\nEagle flies on Friday and Saturday I go out to play\nSunday I go to church, then I kneel down and pray\n\nLord have mercy, Lord have mercy on me\nLord have mercy, my heart's in misery\nCrazy about my baby, yes, send her back to me" z/ "C9" d- "G" d3/2 z/ D/4D/4E/- E/G/_B/ |  "G7" G3 "C9" z3 |
+"G7" G3/2 "Ab7" G3/2 "G9" G3 |]

@@ -1,0 +1,35 @@
+---
+workId: duke-ellington-satin-doll
+arrangementId: h-8f961c3c
+title: Satin Doll
+artist: Duke Ellington
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Satin Doll
+C: Duke Ellington
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50,Duke Ellington
+%%songbook-uri /post/satin-doll/
+K: C
+P: A
+"Dm7"AGAG-"G7" GA3|"Dm7"zA3 "G7"GA3|"Em7"BABA- "A7"AB3|"Em7"zB3"A7"AB3|
+"Am7"zd3"D7"cd3|"Abm7"z_B3"Db7"_A2BG-|"C"G8|"Emb5"z4"A7b9"z4||
+P: A
+"Dm7"AGAG-"G7" GA3|"Dm7"zA3 "G7"GA3|"Em7"BABA- "A7"AB3|"Em7"zB3"A7"AB3|
+"Am7"zd3"D7"cd3|"Abm7"z_B3"Db7"_A2BG-|"C"G4-"Dm7"G4|"D#o7"z4"Em7"z4||
+P: B
+"Gm7"c_BAG- "C7"GABc-|"Gm7"c_BAG- "C7"GABc-|"F^7"c8-|"Gm7"c4 "C7"z4|
+"Am7"dc=BA- "D7"ABcd-|"Am7"dc=BA- "D7"ABcd-|"Dm7"d4- "G7"d4|"Em7"z4"A7"z4||
+P: A
+"Dm7"AGAG-"G7" GA3|"Dm7"zA3 "G7"GA3|"Em7"BABA- "A7"AB3|"Em7"zB3"A7"AB3|
+"Am7"zd3"D7"cd3|"Abm7"z_B3"Db7"_A2BG-|"C"G4-"Dm7"G4|z8||

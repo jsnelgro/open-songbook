@@ -1,0 +1,35 @@
+---
+workId: benny-goodman-lionel-hampton-flying-home
+arrangementId: h-f6731b43
+title: Flying Home
+artist: 'Benny Goodman, Lionel Hampton'
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Flying Home
+C:Benny Goodman, Lionel Hampton
+C:Illinois Jacquet
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:2/27/2018
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Ab" _c2 "Ab7" z/ E/F/A/ | "Fm7" _c/B/A/_G/ F/ "E9"E/D/=B,/ | "Ab" C/E/ _G/ "Db7" A3/2 G | "Ab" A _G z2 "Eb7" |:  "Ab" c/ e "Ab9" B2- B/ |
+"Fm7" (3=B/c/e/ (3B/c/e/ "E9" (3B/_B/A/ F/ "Ab"E/ | "Ab" c/ e "Ab9" B/- B2 | "Fm7" (3=B/c/e/ (3B/c/e/ "E9" (3B/_B/A/ "Ab" F/E/ |1  "Ab" C/E/F/ "Ab9"A/ z/ _G3/2- |
+"Ab9" G2 z2 "Eb6" :|2 "Ab9" C/E/F/A/ z/ "Ab9" _G E/ || A/ _G E/ z/ A,3/2 ||  "Ab7""^First Solo" z4 | z4 | "Db" z4 |
+z4 |  "Bb7" z4 | z4 | "Eb7" z4 | z4 ||  "Ab" "Ab7" z4 | "Db" "Ddim" z4 | "Ab" "Fm7" z4 |
+"Bbm7" z4 "Eb7" |  "Ab" "Ab7" z4 | "Db" "Ddim" z4 | "Ab" z4 | "Eb7" z4 |:
+"Ab""^Subsequent\nSolos" "Fm7" z4 | "Bbm7" "Eb7" z4 | "Ab" "Fm7" z4 | "Bbm7" "Eb7" z4 |  "Ab" "Ab7" z4 | "Db9" "Ddim" z4 | "Ab" z4 | z4 ||
+"Ab" "Fm7" z4 | "Bbm7" "Eb7" z4 | "Ab" "Fm7" z4 | "Bbm7" "Eb7" z4 |  "Ab" "Ab7" z4 | "Db9" "Ddim" z4 | "Ab" z4 | z4 ||
+"Ab7" z4 | z4 | "Db" z4 | z4 |  "Bb7" z4 | z4 | "Eb7" z4 | z4 ||
+"Ab" "Fm7" z4 | "Bbm7" "Eb7" z4 | "Ab" "Fm7" z4 | "Bbm7" "Eb7" z4 |  "Ab" "Ab7" z4 | "Db9" "Ddim" z4 | "Ab" z4 | z4 :|

@@ -1,0 +1,28 @@
+---
+workId: eddie-harris-blues-in-the-basement
+arrangementId: h-a078e74a
+title: Blues In the Basement
+artist: Eddie Harris
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blues In the Basement
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+C "C7" z/ C/ z/ C/ E/>F/ | "F7" G G (3:2:4F/G/4F/4E/ C/>B,/ | "C7" C z/ C/ z/ C/ E/>F/ |
+"C7" G G (3:2:4F/G/4F/4E/ C/>B,/ |  "F7" C z/ C/ z/ C/ E/>F/ | "F7" G G (3:2:4F/G/4F/4E/ C/>B,/ | "C7" C z/ C/ z/ C/ E/>F/ |
+"Em7" G G "A7" (3:2:4F/G/4F/4E/ C/>B,/ |  "Dm7" C z/ C/ z/ C/ E/>F/ | "G7" G G (3:2:4F/G/4F/4E/ C/>B,/ |
+"C7" (3z/ C/C/ (3C/B,/C/ (3z/ C/C/ (3C/B,/C/ | "C7" (3z/ C/C/ (3C/B,/C/ (3C/B,/C/ (3C/B,/C/ |]

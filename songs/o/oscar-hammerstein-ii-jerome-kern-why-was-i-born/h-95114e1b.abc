@@ -1,0 +1,32 @@
+---
+workId: oscar-hammerstein-ii-jerome-kern-why-was-i-born
+arrangementId: h-95114e1b
+title: Why Was I Born?
+artist: Oscar Hammerstein II/Jerome Kern
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Why Was I Born?
+C:Oscar Hammerstein II/Jerome Kern
+C:John Coltrane & Kenny Burrell
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Dmaj7" z d d d | "Fm7" d4- | "Em7" d A A A | "A7" A B3- |  "Dmaj7" B F F F |
+"Am7" F4- "D7" | "Gmaj7" F E E E | "C9" E F3 |  "Dmaj7" A,/B,/ D F B | "Bm7" B d A B | "E9" F z F2- |
+"A7" F A E F |  "Am7" D z "D7" D2- | "Gmaj7" D E "C7" F G | "F#m7" A4- "B7" | "Em7" A3 "A7" z |  "Dmaj7" z d d d |
+"Fdim7" d4- | "Em7" d A A A | "A7" A B3- |  "Dmaj7" B F F F | "Am7" F4- "D7" | "Gmaj7" F E E E |
+"C9" E F3 |  "Dmaj7" A,/B,/ D F A | "Bm7" B d2 B | "E7" f4- | "C9" f4- |  "Bm7" f d "F13" d d |
+"Em7" d "A7" D2 E | "D7" D4- | "Em7" D2 "A7" z2 |]

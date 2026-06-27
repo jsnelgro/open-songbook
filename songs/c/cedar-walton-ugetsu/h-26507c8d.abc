@@ -1,0 +1,40 @@
+---
+workId: cedar-walton-ugetsu
+arrangementId: h-26507c8d
+title: Ugetsu
+artist: Cedar Walton
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ugetsu
+C:Cedar Walton
+C:Art Blakey
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:3/18/2018
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=216
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|:"^Intro" z4 | z4 :| z3 A |:"^Head" c2 z A/B/- |  B2 z/ B/e/B/ |
+c2 z/ A/c/A/ | B2 z/ c/B/F/- | F2 z/ B/A/_G/- |  G2 z/ D/E/F/- |
+F2 z/ D/G/B/ | A G =C E/^C/- | C2 z/ B,/C/D/- |  D2 z/ C/D/E/ | E3 [B,DF] |
+[CEG] [C=FA] [DG_B] [_DA=c] :| A4- |  A4 |"^Blow on this" z4 | z4 | z4 |
+z4 | z4 | z4 :|
+V:2
+|: z/ "Dmaj7" d3/2 d3/2 d/- | "A13" d4 :| z4 |: "Dmaj7" z3/2 [A,F]/- [A,F]2 |  "Cmaj7" z3/2 [B,E]/- [B,E]2 |
+"Dmaj7" z3/2 [A,F]/- [A,F]2 | "Cmaj7" z3/2 [EG]/- [EG]2 | "Dmaj7" z3/2 [A,=C]/- [A,C]2 |  "Ab7" z3/2 [_B,_E]/- [B,E]2 |
+"Gmaj7" z3/2 [A,D]/- [A,D]2 | "C#m7b5" [B,E]2 "F#7" A,2 | "Bmaj" C2 z/ B,/C/D/- |  "Cmaj7" D2 z/ C/D/E/- | "Bm7" E3 "E7" "Gmaj7" [B,DF] |
+"F#7" [CEG] "Fmaj7" [C=FA] "E7" [DG_B] "Eb7" [_DA=c] :| z/ "Dmaj7" d3/2 d3/2 d/- |  "A13" d4 |"_Solos over form\nAll of the A13s may be\nEmin7/A" z/ "Dmaj7" d3/2 d3/2 d/- | "A13" d4 | z/ "Dmaj7" d3/2 d3/2 d/- |
+"A13" d4 | z/ "Dmaj7" d3/2 d3/2 d/- | "A13" d4 :|

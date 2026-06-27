@@ -1,0 +1,29 @@
+---
+workId: george-duke-it-s-on
+arrangementId: h-334f0f1d
+title: It's On
+artist: George Duke
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:It's On
+C:George Duke
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:11/17/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Fm7""^A" z4 | z4 | z4 | z4 |:  "Fm7""^B""^After 1x, imrpov" z2 C/c/ B/4A/4F/4A/4 |
+"C/E" B/c/ c z c/B/4A/4 | "Fm7/Eb" B/c/ c2 B/A/ |1,2,3 "Bb/D" B/F/ "Eb"z/B/ "C/E" A z :|4  "Bb/D" z2 "Eb" z/ [CF]/ "C"[EA]/[FB]/ ||
+"Fm7""_C" c/>c/ z2 B/A/ | "Bb9" B/>F/- F2 A/B/ | "Eb9" c/d/c/B/ A F/B/ |  "Db/Ab" z/ F/ "Ab" E z/ "Gm7" F/A/ "C7#9"B/ |
+c/> "Fm7"c/ z2 B/A/ | "Bb9" B/>F/- F2 A/B/ | "Eb9" c/d/c/B/ A F/B/ |  "Db/Ab" z/ F/ "Ab" E "Gm7" z2 "C7#9" |]

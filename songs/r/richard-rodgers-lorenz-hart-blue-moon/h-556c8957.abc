@@ -1,0 +1,31 @@
+---
+workId: richard-rodgers-lorenz-hart-blue-moon
+arrangementId: h-556c8957
+title: Blue Moon
+artist: Richard Rodgers Lorenz Hart
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blue Moon
+C:Richard Rodgers Lorenz Hart
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+B |: "Ebmaj7" B4- "Cm7" | B/ "Fm7"A/B/c/ "Bb7" B/B/A/B/- | "Eb" B4- "Cm7" |  B/F/ "Fm7"G/A/ G/ "Bb7"G/F/G/- | "Eb" G4- "Cm7" |
+"Fm7" G/E/F/G/ E/E/E/E/- | "Eb" E4- "Ab" |  "Eb" E2 z "Bb7" B- | "Eb7" B4- "Cm" | "Fm7" B/A/B/c/ "Bb7" B/B/A/B/- | "Eb7" B/ B3/2- "Cm7" B2- |
+"Fm7" B/F/B/A/ "Bb7" G/G/F/G/- | "Eb7" G/ G3/2- "Cm7" G2- | "Fm7" G/E/F/G/ E/E/E/E/- | "Eb7" E/ E3/2- "Fm" E2- |  "Eb" E2 z/ E/E/E/ |
+"Fm7" F/F/F/F/ "Bb7" G G | "Eb" E/ E3/2- E/E/E/E/ | "Fm7" F/F/F/F/ "Bb7" G G |  "Eb7" E2- E/E/E/E/ | "Abm7" E/E/E/E/ "Db7" F F |
+"Gb" _D/ D3/2- D/D/D/D/ | "Bbmaj7" D/>D/ D/>D/ "F7" F F |  "Fm7" B3 "Bb7" B | "Eb7" B4- "Cm7" | "Fm7" B/A/B/ "Bb7"c/ B/B/A/B/- |
+"Ebmaj7" B4- "Cm7" |  B/ "Fm7"F/G/A/ "Bb7" G/G/F/G/- | "Ebmaj7" G4- "Cm7" | "Fm7" G/E/F/G/ E/E/E/E/- |1 "Eb7" E4- "Fm7" |  "Eb" E2 z "Bb7" B :|2
+"Eb7" "Fm7" G4- || "Ebmaj7" G2- G z |]

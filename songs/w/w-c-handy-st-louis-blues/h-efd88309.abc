@@ -1,0 +1,32 @@
+---
+workId: w-c-handy-st-louis-blues
+arrangementId: h-efd88309
+title: St Louis Blues
+artist: W.C. Handy
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:St Louis Blues
+C:W.C. Handy
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=225
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "G7" B/d/B/G/- G2 | "C7" z/ ^D/E/G/ _B A/G/- | "G7" G4- | "G7" G3 z |  "C7" E/ G A/- A2 |
+"C7" z/ E/G/A/ _B A | "G7" G4- | "G7" G3 z |  "D7" F/A/F/D/- D2 | "C7" z/ E/G/A/ _B A | "G7" G2- G2- |1
+"Am7" G3 "D7" z :|2  G2 z/ d/d/_B/ |:[K:Bb] "Gm7" d/d/- d3 | "Gm7" z/ c/c/^c/ d B | "D7" A4- |
+"D7" A2 z/ c/c/A/ | "D7" c/c/A/c/- c2- | "D7" c/c/c/^c/ d A |1 "Gm7" G4- |  "Gm7" G2 z/ d/d/B/ :|2
+"Gm7" G z "Eb7" A z || "Am7" d "Ddim" d/- "D7"d/- d A/B/ |:[K:G] "G7" G ^A/B/ G A/B/ |  "G7" G ^A/B/ G/A/B/G/- | "G7" G4- |
+"G7" G3 A/_B/ | "C7" A G/E/ G A/_B/ |  "C7" A G/E/ G/A/_B/G/- | "G7" G4- | "E7#9" G3 ^A/B/ |
+"Am7" d ^A/B/ D/A/B/C/- |  "D7" C/^A/B/D/- D/A/B/G/- | "G7" G4 "Bb7" | "Am7" z2 "D7" z/ z/"_(" A/"_)"B/ :|

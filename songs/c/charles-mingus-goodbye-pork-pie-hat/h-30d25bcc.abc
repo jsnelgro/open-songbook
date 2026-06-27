@@ -1,0 +1,31 @@
+---
+workId: charles-mingus-goodbye-pork-pie-hat
+arrangementId: h-30d25bcc
+title: Goodbye Pork Pie Hat
+artist: Charles Mingus
+source: jazz
+key: Gb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Goodbye Pork Pie Hat
+C:Charles Mingus
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z z/ B,/ | "Eb7" E/G/- (3G/E/ "B7"G/ A/ G E/4D/4 | "Emaj7" E/ G E/4D/4 "A7" E3/2 B,/ |
+"Db7" E/G/- (3G/E/G/ "B7" =A/ _A E/4D/4 |  "Db7" E/ G E/4D/4 "Eb7" E3/2 E/ | "Abm7" B/d/- (3d/E/ "B7"G/ A/ G E/4G/4 |
+"Fm7" B/e/- (3e/G/A/ "Bb7" d/B/ (3G/=D/C/ | "C7" (3G =A E "F7" (3=D A F |  "B7" G2 E3/2 "Emaj7" =A/4_A/4 | "A7" G2 "Ab7" E2 |
+"Bb7" A/G/E/D/ "Db7" =A/_A/G/E/ | "Eb7" G2 "B7" E2 |  "Emaj7" (3B A G "A7" (3E D B, | "Eb7" E/G/- (3G/E/G/ A/ "B7" G E/4D/4 |
+E/ "Emaj7" G E/4D/4 "A7" E3/2 B,/ | "Db7" E/G/- (3G/E/G/ =A/ "B7"_A/- A/E/4D/4 |  "Db7" E/ G E/4D/4 "Eb7" E3/2 E/ | "Abm7" B/d/- (3d/E/ "B7"G/ A/ G E/4G/4 |
+"Fm7" B/e/- (3e/G/A/ "Bb7" d/B/ (3G/=D/C/ | "C7" (3G =A E "F7" (3=D A F |  "B7" G2 E3/2 "Emaj7" =A/4_A/4 | "A7" G2 "Ab7" E2 |
+"Bb7" A/G/E/D/ "Db7" =A/_A/G/E/ | "Eb7" G2 "B7" E2 |  "Emaj7" (3B A G "A7" (3E D B, |]

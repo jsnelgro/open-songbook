@@ -1,0 +1,32 @@
+---
+workId: jeff-lorber-toad-s-place
+arrangementId: h-9619aaa6
+title: Toad's Place
+artist: Jeff Lorber
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Toad's Place
+C:Jeff Lorber
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/29/2016
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "F9""^Bass/Piano" F3/4F/ "Bb7"_A/ "E9"=A/_B3/4 [F_A]/4z/4 "Eb9"[EB]/- | [EB]2 _E/4_D/4_B,/4_A,/4 E/< "E9"=E/ ::"^4x" z "F9" (3_b/4=b/4_b/4_a/ "Bb7" c'/4z/ "E9"a/4 z/ "Eb9" f/- |
+f f/_e/ g e/>c/- |  "F9" c4 "Bb7" "E9" | "Eb9" z4 | z "F9" (3_b/4=b/4_b/4_a/ "Bb7" c'/4z/ "E9"a/4 z/ "Eb9" f/- | f f/_e/ g e/>c/- |
+"F9" c4 "Bb7" "E9" | "Eb9" z4 | z "F9" (3_b/4=b/4_b/4_a/ "Bb7" c'/4z/ "E9"a/4 z/ "Eb9" f/- | f f/_e/ g e/>c/- |  "F9" c4 "Bb7" "E9" | "Eb9" z4 |
+z "F9" (3_b/4=b/4_b/4_a/ "Bb7" c'/4z/ "E9"a/4 z/ "Eb9" f/- | f f/_e/ g e/>c/- |  "F9" c4 "Bb7" "E9" | "Eb9" z4 "Eb9" | "D9" z2 e/g/a/c'/ |
+"G7" (3_e'/4d'/4c'/4d'/4c'/4- c'/a/ z a/e/4g/4- |  "Am7" g2 e/g/ (3_e/4d/4c/4d/4A/4 | "D9" c/>d/- d/ z/ z2 "Abm7" |
+"Gm7" z _b/4a/4b/4c'/4 a/g/4c/4- c | "Bb7" B/> "B7"B/- B/ "C7"B/ z _e/4c/4_A/ |  "F9" B z "Bb7" B/4z/ "E9"B/4 z/ "Eb9" B/- | B3 z/4 "E9" B3/4 |
+"F9" B z "Bb7" B/4z/ "E9"B/4 z/ "Eb9" B/- | B3 z/4 "E9" B3/4 ::  "F9" "Eb9" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  "D9" z4 | "G7" z4 | "Am7" z4 |
+"D9" c/>B/- B2 z/4 "Abm7" B/4z/4 "Gm7"B/4- |  B4 | "Bb7" B/> "B7"B/- B/ "C7"B/- B2 :|

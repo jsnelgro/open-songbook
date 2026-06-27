@@ -1,0 +1,34 @@
+---
+workId: duke-jordan-no-problem
+arrangementId: h-06ce0f30
+title: No Problem
+artist: Duke Jordan
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:No Problem
+C:Duke Jordan
+C:Chet Baker
+C:Arr. 6EQUJ5
+Z:©2018 6EQUJ5
+Z:7/28/2018
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Lively Latin Lullaby""_Bass Intro" (3C E G |: "Cm7""^A" (3c d c G2- | "Cmaj" G2 (3B G F | "Cm" G4- |  "Am7b5" G2 (3C E G | "Fm7" (3c d c G2- |
+"Bb7" G2 (3B G F | "Eb7" G4- |  "Eb7" G2 (3G E C | "D7" F4- | "G7" F2 (3E C B, | "Cm7" C4- |
+C2 (3G E C | "Dm7b5" F4- | "G7" F2 (3E C B, | "Cmaj" C4- |1  C2 (3C E G :|2 C3 C ||
+"Gm7b5""^Lightly Salted Swing""_B" B3- B/G/ | "C7" z3 C/B/- |  "Gm7b5" B/ B B c/ B/G/ | "C7" z3 C | "Fm7" A3- A/F/ | "Bb7" z3 G/A/ |
+"Dm7b5" B c/(3c/c/c/B/ A/G/ | "G7" z2 (3C E G ||
+"Cm7""^A Tempo""_C" (3c d c G2- | "Cmaj" G2 (3B G F |  "Cm" G4- | "Am7b5" G2 (3C E G |
+"Fm7" (3c d c G2- | "Bb7" G2 (3B G F |  "Eb7" G4- | "Eb7" G2 (3G E C | "D7" F4- | "G7" F2 (3E C B, |
+"Cm7" C4- | C2 (3G E C | "Dm7b5" F4- | "G7" F2 (3E C B, |  "Cmaj" C4- | C4 |]

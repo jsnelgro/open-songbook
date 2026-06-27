@@ -1,0 +1,32 @@
+---
+workId: duke-ellington-it-don-t-mean-a-thing
+arrangementId: h-fbeafde0
+title: It Don't Mean A Thing
+artist: Duke Ellington
+source: jazz
+key: Gm
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: It Don't Mean A Thing
+C: Duke Ellington
+M: 4/4
+L: 1/8
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Duke Ellington,Standard50
+%%songbook-uri /post/it-dont-mean-a-thing/
+K: Gm
+d2||:"Gm"G4 "Gm/Gb"G2B2|"Gm/F"d4 "Gm/E"G2B2|"Eb7"_d2 c2-"D7"c2 B2|"Gm"G6 z2|
+"C7" z2 BB- BB B2|"F7sus4" B B2 B B2 BB-|"Bb6"BB B2 BB2 B|1 B2 z2 "D7"z2 d2:|2 B4 z2 B2||
+"Fm7"c2 c2 cB2 c-|"Bb7"c2 B2 cB3|"Eb^7"G8-|G6 B2|
+"Gm7"c2 c2 cB2 c-|"C7"c2 B2 cB3|"F4"d8-|d4 z2 d2||
+"Gm"G4 "Gm/Gb"G2B2|"Gm/F"d4 "Gm/E"G2B2|"Eb7"_d2 c2-"D7"c2 B2|"Gm"G6 z2|
+"C7" z2 BB- BB B2|"F7sus4" B B2 B B2 BB-|"Bb6"BB B2 BB2 B|B8||
+P: Ending
+"C7" z2 BB- BB B2|"F7sus4" B B2 B B2 BB-|"Bb6"BB B2 BB2 B|B8|
+"C7" z2 BB- BB B2|"F7sus4" B B2 B B2 BB-|"Bb6"BB B2 BB2 B|>B z z6||

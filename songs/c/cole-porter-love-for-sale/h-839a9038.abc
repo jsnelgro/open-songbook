@@ -1,0 +1,39 @@
+---
+workId: cole-porter-love-for-sale
+arrangementId: h-839a9038
+title: Love for Sale
+artist: Cole Porter
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Love for Sale
+C: Cole Porter
+M: 4/4
+L: 1/8
+Q: 190
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/love-for-sale/
+K: Bb
+"Eb^7"B8-|B6G2|"Bbm7"F8-|F6z2|
+"Eb^7"z2BB B2B2|B2B4G2|"Bbm7"F8-|F6z2|
+"Ebm7"z2BBB2B2|"Ab7"B2c2c4|"Db^7"z2_AAA2A2|"Gb7"_A2_G2G4|
+"Cm7"F8-|"F7"F6_D2|"Bbm7"B,8-|B,4z4||
+"Eb^7"B8-|B6G2|"Bbm7"F8-|F6z2|
+"Eb^7"z2BB B2B2|e2c2B2G2|"Bbm7"F8-|F6z2|
+"Ebm7"z2BBB2B2|"Ab7"B2c2c4|"Db^7"z2_ddd2d2|"Gb7"_d2_G2G4|
+"Cm7"F8-|"F7"F6_D2|"Bbm7"B,8-|B,4z4||
+"Ebm7"z2B,C_D2E2|"Ab7"F2E2E4|"Db^7"z2C_DE2F2|_A8|
+"Ebm7"z2B,C_D2E2|"Ab7"F2E2E4|"Db^7"z2C_DE2F2|"Bbm7"B8|
+"Bb7"z2B,C=D2F2|_G2F2F4|"Ebm7"z2D2 (3E2F2_G2|c2B2B4|
+"Gm7b5"_d4"C7"c4|"Gm7b5"_d4"C7"c4|"B7"z2=BBB2B2|"Bb7b9"=B4 "Bb7"_B4||
+"Eb^7"B8-|B6G2|"Bbm7"F8-|F6z2|
+"Eb^7"z2BB B2B2|e2c2B2G2|"Bbm7"F8-|F6z2|
+"Ebm7"z2BBB2B2|"Ab7"B2c2c4|"Db^7"z2_ddd2d2|"Gb7"_d2_e2e4|
+"Cm7"f8-|"F7"f6_d2|"Bbm7"B8-|B4z4||

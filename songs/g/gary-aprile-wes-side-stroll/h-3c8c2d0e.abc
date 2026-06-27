@@ -1,0 +1,31 @@
+---
+workId: gary-aprile-wes-side-stroll
+arrangementId: h-3c8c2d0e
+title: Wes Side Stroll
+artist: Gary Aprile
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Wes Side Stroll
+C:Gary Aprile
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/25/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+D/F/G/F/ |: "Dm7" A2 z/ "G7" d/_A/G/- | "Dm7" G2 F/ "G7"G/A/F/ | "Dm7" D4 "G7" |  "Dm7" z2 D/ "G7"F/G/A/- |
+"Dm7" A2 z/ "G7" c/_A/G/ | "Dm7" G2 B,/ "G7"D/F/B,/ | "Dm7" D4 "G7" |1  "Dm7" z2 "G7" D/F/G/F/ :|2 "D" z2 D/F/G/A/ ||
+"G" "F#7" z2 "F7" z/ _A/D/F/ | "Bb7" "A7" z2 "Ab7" z/ ^C/D/G/- |  "E7" "Bb7" G4 "A7" | z/ c/_A/G/ F/D/C/F/ | "D7" "Ab7" z4 | "G7" z B,/D/ F/D/B,/D/ |
+"Fm7" "Bb7" z4 | "Fm7" "Bb7" z4 | "Fm7" "Bb7" z4 | "Fm7" "Bb7" z4 |  "Em7" z4 "A7" | z _A/G/ F/D/ C | z2 "Dm7" z D ||
+"Dm7""^\"Blowin Changes\"" "G7" z4 |  "Dm7" "G7" z4 | "Dm7" "G7" z4 | "Dm7" "G7" z4 | "Dm7" "G7" z4 |  "Dm7" "G7" z4 | "Dm7" "G7" z4 | "Dm7" "G7" z4 |
+"Cm7" "F7" z4 |  "Cm7" "F7" z4 | "Cm7" "F7" z4 | "Cm7" "F7" z4 | "Dm7" "G7" z4 |  "Dm7" "G7" z4 | "Dm7" "G7" z4 | "Dm7" "G7" z4 |
+"Fm7" "Bb7" z4 |  "Fm7" "Bb7" z4 | "Em7" "A7" z4 | "Em7" "A7" z4 |]

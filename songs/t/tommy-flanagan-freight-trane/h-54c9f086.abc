@@ -1,0 +1,29 @@
+---
+workId: tommy-flanagan-freight-trane
+arrangementId: h-54c9f086
+title: Freight Trane
+artist: Tommy Flanagan
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Freight Trane
+C:Tommy Flanagan
+C:John Coltrane & Kenny Burrell
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:2/8/2018
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+E/ F/G/ |: "Abmaj7" A/E/ z z z/ G/ | "Gm7" B/A/G/F/ "C7" =E/d/B/=B/ | "Fm7" c/=B/c/B/ "E+7" c/A/ z |
+"Ebm7" z/ =B/c/A/ "Ab7" _B/A/_G/A/ | "Dbmaj7" F- (3F/A/c/ e/d/ z | "Dbm7" z _c/ "Gb7" B3/2 _F/E/ | "Cm7" z/ B/ B/ "F7" B A/ E/=D/ |
+"Bm7" z/ B/ B/ "E7" B A/ =D/_D/ | "Bbm7" z3 d/A/ | "Eb7" =d/e/ z/ =A3/2 _A | "Ab7#9" _c A "F7#9" _G E |  "Bbm7" _G =G/A/ "Eb7" z/ E/F/G/ :|

@@ -1,0 +1,29 @@
+---
+workId: john-coltrane-cousin-mary
+arrangementId: h-0cba67a7
+title: Cousin Mary
+artist: John Coltrane
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cousin Mary
+C:John Coltrane
+C:Arr. TF
+Z:©APUFMusic 9/19/2015
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z "C7#9" e _g3/2 "Eb7#9" e/- | "Ab7" e4 | z "C7#9" e _g3/2 "Eb7#9" e/- | "Ab7" e4 |  z "Ab7" e "D7" _g3/2 a/- |
+"Db9" a4 | z "C7#9" e _g3/2 "Eb7#9" e/- | "Ab7" e4 |  z/ "D9#11" a/_g/a/- a g/a/- | "Db7" a3/2 _g/ e d |
+z "C7#9" e _g3/2 "Eb7#9" e/- | "Ab7" e4 ::
+"Ab7""^Solos\n" z4 | "Ab7" z4 | "Ab7" z4 | "Ab7" z4 |  "Db7" z4 |
+"Db7" z4 | "Ab7" z4 | "Ab7" z4 |  "D7" z4 | "Db7" z4 | "Ab7" z4 | "Ab7" z4 :|

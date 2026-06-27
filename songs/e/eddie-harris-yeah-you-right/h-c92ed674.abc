@@ -1,0 +1,33 @@
+---
+workId: eddie-harris-yeah-you-right
+arrangementId: h-c92ed674
+title: Yeah You Right
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Yeah You Right
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/16/2016
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+C,/ "C7"z/z/G,/ E/-E/z/F,/- | F,/F,/_B,/C/ _E C/ z/ | C,/z/z/G,/ E/-E/z/F,/- |
+F,/F,/_B,/C/ _E C/ z/ |  C/z/z/G/ e/-e/z/F/- |"^Bass Groove" F/F/_B/c/ _e c/ z/ || _B (3z/ _G/F/ (3_E/F/C/- C |
+z2 z/ _B,/C/_E/- |  E C/>G,/ _B,3/2 C/ | z4 | _B (3z/ _G/F/ (3_E/F/C/- C | z2 z/ A,/C/_E/- |
+E (3_E/A,/G,/ C _B, | z/ _B/ c _e/ z/ z | z2 _B- (3__B/_G/F/ | _E/F/E/F/ z2 |  z4 |
+z/ d/ f d3/2 c/- | c (3_A/G/F/ G D/F/- | F/z/B,/D/- D/D/ F |  z4 | _B (3z/ _G/F/ (3_E/F/C/- C |
+z2 z/ _B,/C/_E/- | E C/>G,/ _B,3/2 C/ |  z4 | _B (3z/ _G/F/ (3_E/F/C/- C | z2 z/ A,/C/_E/- |
+E (3_E/A,/G,/ C _B, |  z4 | "Db" G/ F F/- F/_E/-__E/E/- | "Eb" E/ D D3/2 z/ C/ | "F" (3_E/F/C/- C- C2 |
+"F" z4 | "Ab" G/ _E E C C/- | "Bb" C/ G,3/2 z/ _B,/C/B,/ | "C" C/z/F/G/ _A G/_B/ |  "C" c _B/c/ _e c |
+"C" C/ z G/ e/-e/z/F/- | "C" F/F/_B/c/ _e c/ z/ | "Cm" C/ z G/ e z/ F/- |  F/F/_B/c/ _e c/ z/ |]

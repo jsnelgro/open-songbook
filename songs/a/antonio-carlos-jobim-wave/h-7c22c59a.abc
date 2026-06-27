@@ -1,0 +1,36 @@
+---
+workId: antonio-carlos-jobim-wave
+arrangementId: h-7c22c59a
+title: Wave
+artist: Antônio Carlos Jobim
+source: jazz
+key: D
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Wave
+C: Antônio Carlos Jobim
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Antônio Carlos Jobim
+%%songbook-uri /post/wave/
+K: D
+P: Intro
+"Dm7"z4 "G7"z4|"Dm7"z4 "G7"z4|"Dm7"z4 "G7"z4|"Dm7"z4 "G7"z B dc||
+P: A
+|:"D^7"A6 z F|"Bbo7"G_Bce g f2 a-|"Am7"a8|"D7b9"z2 aa- a b2 a-|
+"G^7"a g2 gf2 g2-|"Gm6"g2 fg-g2a f-|"F#7"f4-"F#7b13"f4|"B9"zfa_a "B7b9"gf2f-|
+"E7"fddd- dBde|"Bb7"=fd=c_A "A7"G=F2 F-|"Dm7"FD3-"G7"D4-|1 D4 zBdc:|2 D8||
+P: B
+"Gm7/Bb" d4 (3=c2_B2A2|"C7/Bb"G4 (3A2_B2d2|"F^7/A"=c3 c c4-|c8|
+"Fm7/Ab"=c4-c_B_AG|"Bb7/Ab"=F4 (3G2_A2=c2|"Eb^7/G"_B3 B-B4-|"A7b9"B4 z =B d^c||
+P: A
+"D^7"A6 z F|"Bbo7"G_Bce g f2 a-|"Am7"a8|"D7b9"z2 aa- a b2 a-|
+"G^7"a g2 gf2 g2-|"Gm6"g2 fg-g2a f-|"F#7"f4-"F#7b13"f4|"B9"zfa_a "B7b9"gf2f-|
+"E7"fddd- dBde|"Bb7"=fd=c_A "A7"G=F2 F-|"Dm7"FD3-"G7"D4-| D8||

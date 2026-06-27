@@ -1,0 +1,28 @@
+---
+workId: billy-cobham-red-baron
+arrangementId: h-21350cfe
+title: Red Baron
+artist: Billy Cobham
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Red Baron
+C:Billy Cobham
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me 1/25/2018
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Gm7" z4 "C9" |1 "Gm7" "C7" z4 :|2 "Gm7" z7/2 "C7" g/4G/4 |: "Gm7" z7/4 D/4 "C7" F/4G/G/4 z/4 G/G/4 |
+"Gm7" B/A/4G/4 G/4 "C7"B/4G/- G z/ g/4G/4 | "Gm7" z7/4 D/4 F/4 "C7"G/G/4 z/4 G/G/4 | "Gm7" (3:2:4^c/d/B/4A/4 (3G/c/d/ "C7" (3:2:4B/4G/4G/c/ (3:2:4d/B/4A/4G/ | g/4 "Gm7"G/4 z z/4 D/4 "C7" F/4G/G/4 z/4 G/G/4 |
+"Gm7" B/A/4G/4 A/4B/4G/- G "C7" G/4B/c/4 | "F" ^c/4d/g/4 z/4 d/G/4 B/(3G/4F/4D/4 C/4B/4A/4G/4 | A/4G/4F/4A/4- "Eb7b5" A3 | "Db7" G3 z/ g/4G/4 ::
+"Gm7""^Solos" "C9" z4 | "Gm7" "C7" z4 :|

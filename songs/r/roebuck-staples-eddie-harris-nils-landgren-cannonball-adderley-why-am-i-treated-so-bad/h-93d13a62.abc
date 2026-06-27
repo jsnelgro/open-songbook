@@ -1,0 +1,30 @@
+---
+workId: >-
+  roebuck-staples-eddie-harris-nils-landgren-cannonball-adderley-why-am-i-treated-so-bad
+arrangementId: h-93d13a62
+title: Why Am I Treated So Bad!
+artist: Roebuck Staples Eddie Harris Nils Landgren Cannonball Adderley
+source: jazz
+key: E
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Why Am I Treated So Bad!
+C:Roebuck Staples Eddie Harris Nils Landgren Cannonball Adderley
+C:Arr.
+Z:©2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:E
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "E7#9" [=de-]4 | [=de]4 | z a/=g/ a/g/b/e/- | e4- |  e z e f |
+"A7" =g2- g2- | g4 | z a/=g/ a/g/b/e/- |  "E7#9" e4- | e- e z2 |
+"B7" f3/2 f/ z z/ "Bb7" ^e/ | "A7" e3/2 e/ z z/ "Bb7" ^e/ |  "B7" f3/2 f/ z z/ "Bb7" ^e/ | "A7" e3/2 e/ z z/ "Bb7" ^e/ | "B7" f3/2 f/ z z/ "Bb7" ^e/ |
+"A7" e/z/ "E"a/=g/ a/g/b/e/- |  "E7#9" e4- | e4- | e4 | z4 ::  "E7#9""_Solos" z4 | z4 | z4 | z4 |
+"A7" z4 | z4 | "E7#9" z4 | z4 |  "Bb7" z4 "Bb7" | "A7" z4 "Bb7" | "B7" z4 "Bb7" | "A7" z4 |  "E7#9" z4 | z4 | z4 | z4 :|

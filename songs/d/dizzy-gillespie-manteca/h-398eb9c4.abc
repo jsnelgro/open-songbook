@@ -1,0 +1,34 @@
+---
+workId: dizzy-gillespie-manteca
+arrangementId: h-398eb9c4
+title: Manteca
+artist: Dizzy Gillespie
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Manteca
+C:Dizzy Gillespie
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/22/2016
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z z/ _A/ B/B/A/B/- | B/ A B B, z/ :: B b z/ B b/- | b/ z B b3/2 ::
+B z/ f/ b/b/z/f/ | B z/ _A B z/ | z4 | z4 ::  "Bb7" z4 | z4 |
+z4 | z4 ::  "Bb7" F _A A/ B B/- | B/_A/ F/ B A3/2 | F _A A/ B B/- |
+"Bb7" B/_A/ F/ B A3/2 |  F _A A/ B B/- | B/_A/ F/ B A B/- | "Db7" B/_A/ F/ "Ab7" B A/ "Db7" F/B/- |
+"Gb7" B/A/ F/ "F7" B A3/2 :|  "Abm7" B4- | "Db7" B2 _A _G | "Gbmaj7" F4- | "Cm7" F2 E2 "F7" |  "Bb7" =E F G _A |
+"Eb9" A B "A7" c _d | "Abmaj7" e4- | e4 |  "Abm7" z4 | "Db7#9" z4 | "Gbmaj7" z4 | "F#m7" "B7" z4 |  "Fm7" z4 |
+"Bb7" z4 | "Cm7" z4 | "F7" z4 |  "Bb7" F _A A/ B B/- | B/_A/ F/ B A3/2 | F _A A/ B B/- |
+B/_A/ F/ B A3/2 |  F _A A/ B B/- | B/_A/ F/ B A "Db7" B/- | B/_A/ F/ "Ab7" B A/ F/B/- |
+"Db7" B/A/ "Gb7" F/ "F7" B A3/2 |]

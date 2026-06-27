@@ -1,0 +1,39 @@
+---
+workId: jeff-golub-dangerous-curves
+arrangementId: h-49a5c637
+title: Dangerous Curves
+artist: Jeff Golub
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Dangerous Curves
+C:Jeff Golub
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+E/G/G/E/ A/8_B/8A/8G/4E/4G/G/ z/8 || "G13" z4 | "C7" z4 | "G13" z4 |  "C7" z4 | "G13" z4 |
+"C7" z4 | "G13" z4 |  "C7" z4 |: "G13" z z/ =f/ z/ d c/- | "C7" c3/2 _B/ c/B/c/d/ | "G13" _B B z2 |
+"C7" z z/ G/ c/_B/c/d/ | "G13" _B B z2 | "C7" z z/ G/ c/_B/c/d/ | "G13" _B G z2 |  z2 z G/G/ :|
+z z/ =F/ z/ D C/- | C3/2 _B,/ C/B,/C/D/ | _B, B, z2 |  "C7" z z/ G/ c/_B/c/d/ | "G13" _B B z2 |
+"C7" z z/ G/ c/_B/c/d/ | "G13" _B G z2 |  z2 z G/G/ | "G13" z z/ =f/ z/ d c/- | "C7" c3/2 _B/ c/B/c/d/ |
+"G13" _B B z2 |  "C7" z z/ G/ c/_B/c/d/ | "G13" _B B z2 | "C7" z z/ G/ c/_B/c/d/ | "G13" _B G z2 |
+z4 | "A9" z E/G/ G/ "Bb9" z/ "B9" z | "C9" E/G/G/E/ (3_B/4A/4G/4E/ "G13" G/G/ | "G13" z4 |  "C9" z4 |
+"A9" z E/G/ G/ "Bb9" z/ "B9" z | "C9" E/G/G/E/ (3_B/4A/4G/4E/ G/G/ | "G13" z4 |  "C9" z4 "G7" | "Cm9" z G/_B/ z/ c d/- |
+"F13" d/-d/G/_E/ D C/A/- | "Bm9" A3/2 "E9" ^G/- G3/2 G/- |  "Bbm9" G3/2 "Eb9" =G/- G2 | "A9" z E/G/ G/ z/ z |
+"A9" E/G/G/E/ (3_B/4A/4G/4E/ G/ "G13"G/ | "C7" z z/ G/ c/_B/c/d/ |  "G13" _B B z2 | "C7" z z/ G/ c/_B/c/d/ |
+"G13" _B B z2 | "C7" z z/ G/ c/_B/c/d/ |  "G13" _B G z2 | z/ d/g/_b/ c'/b/c'/d'/ | _b g z/ z/ g/g/ |
+"^solo break" z4 |  z4 |: "G13""^open solos\n" z4 | "C9""^ad naseaum" z4 :|1"^After solo" z/ d/g/_b/ c'/b/c'/d'/ ||  _b g z/ z/ g/g/ ||
+"G13" z z/ =F/ z/ D C/- | "C7""^Bass Break\n" C3/2 _B,/ C/B,/C/D/ | "G13" _B, B, z2 |  "C7" z z/ G,/ C/_B,/C/D/ | "G13" _B, B, z2 |
+"C7" z z/ G,/ C/_B,/C/D/ | "G13" _B, G, z2 ||  "G13" z z/ =f/ z/ d c/- | "C7""^whole band" c3/2 _B/ c/B/c/d/ | "G13" _B B z2 |
+"C7" z z/ G/ c/_B/c/d/ |  "G13" _B B z2 | "C7" z z/ G/ c/_B/c/d/ | "G13" _B G z2 | z2 z "G13" G/G/ |]

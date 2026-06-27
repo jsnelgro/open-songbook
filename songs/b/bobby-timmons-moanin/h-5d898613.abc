@@ -1,0 +1,34 @@
+---
+workId: bobby-timmons-moanin
+arrangementId: h-5d898613
+title: Moanin'
+artist: Bobby Timmons
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Moanin'
+C:Bobby Timmons
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:4/9/2018
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Horns Play Head 2x" z/ F/z/F/ A/A/F/C/ |: E "Bb/F" F3 "F" | z/ F/z/F/ A B/B/4_c/4 | B/4A/4F/ "Bb/F" F3 "F" |
+z/ F/z/F/ c e/c/4_c/4 | B/4A/4F/- "Bb/F" F3 "F" | z/ F/z/F/ A/A/F/C/ | E "Bb/F" F3 "F" |1  z/ F/z/F/ A/A/F/C/ :|2
+z2 F F || "Bbm7" c2 (3_c/B/ "Ab7"F/ B/F/ | "G7" A3/2 F/ E/ "C7"C/E/F/- |  "Bb/F" F4- | "Fm7" F z F "B9#11" F |
+"Bbm7" c2 (3_c/ "Ab7"B/F/ B/F/ | "G7" A3/2 F/ A/F/A/c/- |  "C7#9" c2 e/c/B/c/ | "Ab" z/ F/z/F/ A/A/F/C/ | E "Bb/F" F3 "F" |
+z/ F/z/F/ A B/>B/ |  (3_c/B/A/ "Bb/F" F3 "F" | z/ F/z/F/ c e/c/ | (3_c/B/A/ "Bb/F" F3 "F" | z/ F/z/F/ A/A/F/C/ |
+E "Bb/F" F3 "F" | z4 |:
+"Fm7""^Solos" "Ab7" "G7" z4 "C7" | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 |
+"Bbm7" "Ab7" z4 | "G7" "C7" z4 |  "Fm7" z4 | "F7" "F7" z4 | "Bbm7" "Ab7" z4 | "G7" z4 |  "Gdim" z4 | "C7" z4 |
+"Fm7" "Ab7" "G7" z4 "C7" | z4 |  z4 | z4 :|

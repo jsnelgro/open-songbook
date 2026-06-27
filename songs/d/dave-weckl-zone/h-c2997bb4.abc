@@ -1,0 +1,34 @@
+---
+workId: dave-weckl-zone
+arrangementId: h-c2997bb4
+title: The Zone
+artist: Dave Weckl
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Zone
+C:Dave Weckl
+C:Jay Oliver
+C:Arr. 6EQUJ5
+Z:©2018 6EQUJ5
+Z:6/1/2018
+Z:
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  "A7" z4 | z4 | z4 | z4 |:  "A7" G/4A/A/4 c/4^c/c/4 e/ ^f g/- | "G/A" g/a/ ^f "D/A" e/d/- d |
+"A7" G/4A/A/4 c/4^c/c/4 g/a/^f/g/ | "G/A" z4 "D/A" :|  "A7" z4 | z4 | z4 | z4 |:  "A7" G/4A/A/4 c/4^c/c/4 e/ ^f g/- |
+"G/A" g/a/ ^f e/d/- "D/A" d | "A7" G/4A/A/4 c/4^c/c/4 g/a/^f/g/ | "G/A" "D/A" z4 :|  "C9" z/ G/A/ "B9"c/ d/ "Bb9" c _e/ | z/ "A9" d/z/c/ "Bb9" z/ A/ "B9"z/G/- |
+"C9" G/A/ "B9" z3/2 G "Bb9" G/- | G/A/ "A9" z "Bb9" z2 "B9" |  "C9" z/ G/A/ "B9"c/ d/ "Bb9" c _e/ | d/ "A9"c/ "Ab9" _e/ "G7" d c/ "Gb7" A | "F9" A c d c/a/- |
+"E7#9" a2 z2 |:  "A7" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 ::  "Am7" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 :|  "C9" c c/c/- "B9" c c/ "Bb9"c/- | c c/ "A9"c/- c c |
+"C9" c c/ "B9"c/- c c/ "Bb9"c/- | c c/ "A9"c/- c c |  "C7" "B7" z4 | "E7#5" c c "A7" c/ "Ab7"c/ "G7"c/ "Gb7"c/ | "F9" c/c/c/c/ c/c/c/c/ |
+"E7#9" c/c/ c/c/4c/4 z2 |  "A7" z4 | z4 | z4 | z4 :|

@@ -1,0 +1,34 @@
+---
+workId: hamiet-bluiett-hattie-wall
+arrangementId: h-e22a5970
+title: Hattie Wall
+artist: Hamiet Bluiett
+source: jazz
+key: none
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hattie Wall
+C:Hamiet Bluiett
+C:Arr. 6EQUJ5
+Z:©2015 Fimusic
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:none
+%%stretchlast true
+V:1 treble transpose=-21 nm="Baritone Sax" snm="B. Sx."
+%%MIDI program 67
+V:1
+[K:D] B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A ||
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |  B,/B,/ A B,/A/- A |
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A ||  B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |
+G/G/ =f G/>f/- f | G/G/ =f G/>f/- f |  C/C/ B C/>B/- B | C/C/ B C/>B/- B |
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |  B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ | B,/B,/ B,/4B,/A/4- A/4A/A/4 B, |
+B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ | B,/B,/ B,/4B,/A/4- A/4A/A/4 B, |  B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ |
+B,/B,/ B,/4B,/A/4- A/4A/A/4 B, | B,/B,/ B,/4B,/A/4- A/4A/A/4 A/A/ | B,/B,/ B,/4B,/A/4- A/4A/A/4 B, ||  B,/B,/ A B,/A/- A |
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |  B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |
+B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |  B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A | G/G/ =f G/>f/- f |
+G/G/ =f G/>f/- f |  C/C/ B C/>B/- B | C/C/ B C/>B/- B | B,/B,/ A B,/A/- A | B,/B,/ A B,/A/- A |]

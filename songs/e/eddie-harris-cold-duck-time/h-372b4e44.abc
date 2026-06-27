@@ -1,0 +1,35 @@
+---
+workId: eddie-harris-cold-duck-time
+arrangementId: h-372b4e44
+title: Cold Duck Time
+artist: Eddie Harris
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cold Duck Time
+C:Eddie Harris
+Z:©2014 Finmusic/effendi.me
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+|: "F7" z4 | "Bb7" z4 | "F7" z4 |1 "Bb7" z z _E/F/F/_A/ ::
+"F7" z z/"_(""_)" z/ _E/F/F/_A,/ | "Bb7" z z/ z/ _E/F/F/_A/ | "F7" z/ B/z/c/ _A F/_E/ | "Bb7" F z _E/F/F/_A/ |
+"F7" z z/"_(""_)" z/ _E/F/F/_A,/ | "Bb7" z z/ z/ _E/F/F/_A/ | "F7" z/ B/z/c/ _A F/_E/ | "Bb7" F z _E/F/F/_A/- |
+"Dbmaj13#11" A7/2 F/- | "Ebmaj13#11" F7/2 "F7" F/ |"^Fill/Solo Break" z4 | z z/"_(""_)" F,/ _E/F/F/_A/ :|
+V:2
+|: F,,/C,/_E,/C,/ D,/ F,3/2 | B,, C,/_A,,/ z2 | F,,/C,/_E,/C,/ D,/ F,3/2 |1 B,, C,/_A,,/ z2 ::
+F,,/C,/_E,/C,/ D,/ F,3/2 | B,, C,/_A,,/ z2 | F,,/C,/_E,/C,/ D,/ F,3/2 | B,, C,/_A,,/ z2 |
+F,,/C,/_E,/C,/ D,/ F,3/2 | B,, C,/_A,,/ z2 | F,,/C,/_E,/C,/ D,/ F,3/2 |"_on Cue" B,, C,/_A,,/ z z/ _D,/- |
+D,7/2 _E,/- | E,7/2 F,/ | z4 | z4 :|

@@ -1,0 +1,35 @@
+---
+workId: charlie-parker-scrapple-from-the-apple
+arrangementId: h-fe9547b8
+title: Scrapple from the Apple
+artist: Charlie Parker
+source: jazz
+key: F
+tags:
+  - Bebop
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Scrapple from the Apple
+C: Charlie Parker
+M: 4/4
+L: 1/8
+Q: 210
+%%songbook-source jazzleadsheet
+%%songbook-categories Bebop
+%%songbook-tags Charlie Parker
+%%songbook-uri /post/scrapple-from-the-apple/
+K: F
+P: A
+"Gm7" z ^F GB AG =FD|"C7"Ec z2 z B2 A|"Gm7"Bf (3dBG AD G_D| "C7"z2 z A z B z A|
+"F^7"cA (3GFG- "F7/A"G2 z f|"Bb^7"d2 z e- "Bo7"ed (3AB=B|"F"c2 z A "Gm7"BA ^GA|"Am7" cA Bc "D7"z4||
+P: A
+"Gm7" z ^F GB AG =FD|"C7"Ec z2 z B2 A|"Gm7"Bf (3dBG AD G_D| "C7"z2 z A z B z A|
+"F^7"cA (3GFG- "F7/A"G2 z f|"Bb^7"d2 z e- "Bo7"ed (3AB=B|"F"c2 z A "C7"BA ^GA|"F"FC EF z4||
+P: B
+"Em7" z8|"A7"z8|"Am7"z8|"D7"z8|
+"Dm7"z8|"G7"z8|"Gm7"z8|"C7"z8||
+P: A
+"Gm7" z ^F GB AG =FD|"C7"Ec z2 z B2 A|"Gm7"Bf (3dBG AD G_D| "C7"z2 z A z B z A|
+"F^7"cA (3GFG- "F7/A"G2 z f|"Bb^7"d2 z e- "Bo7"ed (3AB=B|"F"c2 z A "C7"BA ^GA|"F"FC EF z4||

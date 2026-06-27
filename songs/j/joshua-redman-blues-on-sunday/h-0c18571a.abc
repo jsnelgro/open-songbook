@@ -1,0 +1,33 @@
+---
+workId: joshua-redman-blues-on-sunday
+arrangementId: h-0c18571a
+title: Blues on Sunday
+artist: Joshua Redman
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blues on Sunday
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/14/2014
+Z:
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Eb7" g e/B/ A/_g/ z | "Ab7" A f/e/ z2 | "Eb7""^Bass Fill" z4 | z e2- e/E/ |
+"Ab7" c/e/ z z2 | z/ c/ e/ _g e/ c/B/ | "Eb7" e2 e e | (3z G =B (3c _G F |
+"Fm7" z2 (3z/ z/ A/ (3B/f/^f/ | "Bb7" g/e/c/B/ A/_g/ (3A/f/e/ | "Eb7" z z/ ^f/ g/c/ z | z2 z3/2 g/- ||
+"Eb7" g e/B/ A/_g/ z | "Ab7" A f/e/ z2 | "Eb7""^Bass Fill" z4 | z e2- e/G/ |
+"Ab7" c/e/ z z2 | z/ c/ e/ _g e/ c/B/ | "Eb7" e2 e e | (3z e =e (3f ^f g |
+"Fm7" z2 (3z/ z/ A/ (3B/e/^f/ | "Bb7" g/e/c/B/ A/_g/ (3A/_f/e/ |
+"Eb7""^Solo Break!" "Eb" z4 | "Eb7" z4 |]

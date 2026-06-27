@@ -1,0 +1,31 @@
+---
+workId: booker-t-green-onions
+arrangementId: h-15ad668b
+title: Green Onions
+artist: Booker T
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Green Onions
+C:Booker T
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  F/F/ z z2 | z z/ F/ A B | A F/F/ z2 |
+z z/4 C/4C/4C/4 E/z/F/ z/ |  F/F/ z z2 | z c B/<A/ F | F/F/ z z2 | z f f f |
+e/<c/ z2 c | A/F3/8 B B B z/8 | A/F/ z z2 | z E/4E/4 z/ E/4E/4 z/ (3E/=D/C/ |  F z z2 |
+z C B,/A,/F,/E,/ | F, z z2 | z z/ C/ E F |  A/A/ z z2 | z/ F/A/B/ B3/2 A/ |
+F/F/ z z (3E/C/E/ | C/ z/ z z/ C/E/F/ |  G G E/C/ F | F F F F/E/ | F/F/ z z2 |
+z4 |]

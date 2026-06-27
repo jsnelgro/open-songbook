@@ -1,0 +1,32 @@
+---
+workId: jimmy-smith-8-counts
+arrangementId: h-1b84a437
+title: 8 Counts
+artist: Jimmy Smith
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:8 Counts
+C:Jimmy Smith
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/1/2014
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"G7""_Head" z4 | "G7" z4 | "G7" z4 | "G7" z4 |  "C7" z4 | "C7" z4 | "G7" z4 |
+"G7" z4 |  "Db/Eb" c'3/2 b/- "C/D" b2 | "Cm7" b3/2 "F7" b2- b/ | "C" z4 | z4 |  "G7" z4 | "G7" z4 | "G7" z4 |
+"G7" z4 |  z "E7" b z "F7" b/< "E7"b/ |
+"Eb7" b/< "D7"b/ "Db7" b/< "C7"b/ "Db7" b/< "C7"b/ "Db7" b/< "C7"b/ |
+"G7" z4 | "G7" z4 |  "Db/Eb" c'3/2 b/- "C/D" b2 | "Cm7" b3/2 "F7" b2- b/ | "G7" z4 |: "G7""^Solos\n" z4 |  "G7" z4 |
+"G7" z4 | "G7" z4 | "G7" z4 |  "C7" z4 | "C7" z4 | "G7" z4 | "G7" z4 |  "Db/Eb" c'3/2 b/- "C/D" b2 |
+"Cm7" b3/2 "F7" b2- b/ | "C" z4 | z4 :|

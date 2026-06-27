@@ -1,0 +1,34 @@
+---
+workId: jeff-lorber-horace
+arrangementId: h-1f437b36
+title: Horace
+artist: Jeff Lorber
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Horace
+C:Jeff Lorber
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 6/20/2016
+Z:©2017 Finmusic/effendi.me 1/21/2017
+L:1/4
+Q:1/4=107
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z/ F/4^F/4 G/4^G/4A/4G/4 =G/4=F/4D/4F/C/4 "Dm7"D/4 z/4 | z F/G/4F/C/D/4 z/ z/4 "Dm7" z/4 | z/ F/4^F/4 G/4^G/4A/4G/4 =G/4=F/4D/4F/C/4 "Dm7"D/4 z/4 |
+z F/G/4F/C/D/4 z/ z/4 "G9" z/4 |  z/ F/4^F/4 G/4^G/4A/4G/4 =G/4=F/4D/4F/C/4 "G9"D/4 z/4 | z F/G/4F/C/D/4 z/ z/4 "Dm7" z/4 |
+z/ F/4^F/4 G/4^G/4A/4G/4 =G/4=F/4D/4F/C/4D/4 "Dm7" z/4 | z F/G/4F/C/D/4 z/ z/4 z/4 |1  "G9" f/d/ c/<d/ "F9" c/A/ G/<A/ |
+"Em7" ^G/=G/ F/4G7/8 "Dm7"F/4G/F/4D/4C/4D/4 | "C" z F/G/ F/ z/ z/4 A,/4C/4D/4 | z G/4F/4D/4F/D/4C/4D/4 z/4 z/ z/4 |  "G9" f/d/ c/<d/ "F9" c/A/ G/<A/ |
+"Em7" ^G/=G/ F/4 "Dm7" G D/4F/4G/4 A/<_B/- | "Cm7" B4 "F7" | "Dm7/A" z4 :|2  f/ "G9"d/ c/<d/ "F9" c/A/ G/<A/ ||
+"Em7" ^G/=G/ F/4G7/8 "Dm7"F/4G/F/4D/4C/4D/4 | "C" z D/4F/G/^G/4A/4 z/4 z/4 z/4 z/ | z G/4F/4D/4F/D/4C/4D/4 z/4 z/ z/4 |  "G9" f/d/ c/<d/ "F9" c/A/ G/<A/ |
+"Em7" ^G/=G/ F/4 "Dm7" G D/4F/4G/4 A/<_B/- | "Cm7" B4 "F7" | "Dm7/A" z4 ||  "G9""^Solos" z4 | "G9" z4 | "C7" z4 | "Bb7" z4 |
+"E" z4 | "Eb" "F7" z4 | "A7" z4 | "Bb7" z4 |:  "Dm7" z4"^Cue" :| "Cm7" A2 "F" c2 | "F9" z4 | "Cm7" A2 "F" c2 |
+"F9" z4 | "D" d4 | "F" F4"^DC, play head after each solo" |]

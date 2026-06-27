@@ -1,0 +1,28 @@
+---
+workId: turner-layton-after-you-ve-gone
+arrangementId: h-a38277e0
+title: After You've Gone
+artist: Turner Layton
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: After You've Gone
+C: Turner Layton
+M:4/4
+L:1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Gypsy
+%%songbook-uri /post/after-you-have-gone/
+K: Bb
+"Eb^7"GBcd-d4|"Ebm7"zcdc "Ab7"dc3|"Bb^7"DFGA-A4|"Dm7"zGAG "G7"AG3|
+"C9"Gd2d-d4|"F9"Gc2c-c4|"Bb6"zFGF AFGF|"Bb7"BD2F-F4||
+"Eb^7"GBcd-d4|"Ebm7"zcdc "Ab7"dc3|"Bb^7"DFGA-A4|"Dm7"zGAG "G7"AG3|
+"Cm7"e4"G7"d4|"Cm7"c^FGd- "Ebm7"d2 "Ab9"c2|"Bb^7"z ^cdB "Am7"=c=B"D7"cA|"Gm7/F"_B^CDA-"Eo7"A2G2|
+"Bb6/F"FGBd-"G7"d4|"Cm7"zEFA"F7"c2d2|"Bb6"B2-B6|"Bb7"z8||

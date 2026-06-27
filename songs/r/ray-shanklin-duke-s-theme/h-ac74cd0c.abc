@@ -1,0 +1,51 @@
+---
+workId: ray-shanklin-duke-s-theme
+arrangementId: h-ac74cd0c
+title: Duke's Theme
+artist: Ray Shanklin
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Duke's Theme
+C:Ray Shanklin
+Z:©2018 Finmusic/effendi.me 2/8/2018
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=96
+M:12/8
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+z/ z/ z/ F F/ A A/ =A A/ |:"^A" B3- B3/2 z/ z/ z/ | z3/2 B B/ d d/ e/- e/ d/- |
+d3- d3/2 z/ z/ z/ |  z3/2 B B/ d d/ e/ d/ f/- | f3/2 z3 z3/2 |
+z3/2 F F/ A =A/ B =B/ | c z4 z |  z2 z2 z/ e/ B/ d/- | d3- d3/2 z3/2 |
+z B/ e/ B/ d3/2 F/ B/ F/ A/- |"_Piano Fill" A z4 z |  z3/2 =E/ F/ B/ E/ _E/ D/ E/ B,/ D/- |
+D4 z2 | z3/2 F F/ A A/ =A A/ | B3- B3/2 z3/2 |1 "_Drum Fill" z6 |
+"_B" z6 | z/ B,/ C/ D/ E/ =E/ ^F/ =G/ =A/ B/ c/ d/- | d2 |
+z/ B,/ C/ D/ E/ =E/ ^F/ =G/ =A/ B/ c/ d/- | d2 z/ z/ z/ z/ z/ z/ z/ z/ |
+z/ B,/ C/ D/ E/ =E/ ^F/ =G/ =A/ B/ c/ d/- | d2 |  z/ z/ z/ F F/ A A/ =A A/ :|2
+"_Solos" B3/2 "Db" z2 z2 z/ |: z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- | B3/2 z2 z2 z/ |  z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- |
+B3/2 z2 z2 z/ | z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- | B3/2 z2 z2 z/ |  z "F" F2 "Gm7" z =G2 | z "Abm" A2 "A" z B z/ "Bbm7" B/- |
+"Eb/Bb" B3/2 "Bbm7" B11/4 z/4 z/ z/ z/ | z2 z2 z z/ "Db" B/ |  "Db" z6 | z6 "Gb" |
+"Gb" z6 | "F" z6 |  z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- |"_Cue B in between Solos, and to go back to head" B3/2 "Db" z2 z2 z/ :|
+V:2
+z6 |: z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- | B3/2 z2 z2 z/ |
+z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- |  B3/2 z2 z2 z/ | z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- |
+B3/2 z2 z2 z/ | z "F" F2 "Gm7" z =G2 |  z "Abm" A2 "A" z B z/ "Bbm7" B/- | "Eb/Bb" B3/2 B11/4 "Bbm7" z/4 z/ z/ z/ |
+z2 z2 z z/ "Db" B/ | "Db" z6 |  z6 "Gb" |
+"Gb" z6 | "F" z6 | z3/2 "Bbm7" B3 "Eb/Bb" B "Bbm7" B/- |1  B3/2 "Db" z2 z2 z/ |
+"Eb7" B/ z "Eb7" B2- B/ "E7" B/ "F7" B "Gb7" B/- | B/ z2 z2 z3/2 | "Eb7" B/ z "Eb7" B2- B/ "E7" B/ "F7" B "Gb7" B/- |
+B/ z2 z2 z3/2 | "Eb7" B/ z "Eb7" B2- B/ "D7" B/ "Db7" B "C7" B/- |
+"C7" B/ z2 z2 z "Gb" B/- | B4- B3/2 "F" B/ |  z6 "Db" :|2
+z6 |: z6 | z6 |  z6 |
+z6 | z6 | z6 |  z6 | z6 |
+z6 | z6 |  z6 | z6 |
+z6 | z6 |  z6 | z6 :|

@@ -1,0 +1,31 @@
+---
+workId: kenny-dorham-lotus-blossom
+arrangementId: h-53dbb66b
+title: Lotus Blossom
+artist: Kenny Dorham
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Lotus Blossom
+C:Kenny Dorham
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/17/2016
+Z:
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Dm7" d- d/ "C7" c3/2 "Dm7" d/ z/ | "Dm7" z/ c/d/f/ d/c/A/G/ | "Cm7" A3/2 "F7" G3/2 "Bbmaj7" A/ z/ | "Bbmaj7" z/ G/A/c/ A/G/F/D/ |
+"Bm" F/D/z/ "B7"G/ D/z/ "A7"_A/D/- | D F G/F/D/D/ |1 "Dm7" z/ ^G,/A,/E/ z/ "C7" B,/C/G/ | z/ "Em7" E/F/c/- "A7" c z :|2  z4 ||
+z/ B,/C/D/ _E/F/G/A/ | "Am7" d2- d c/_B/- | "D7" B2- B A/_B/- |  "Gm7" B4 | z z z z |
+"Gm" c- c2 _B/A/- | "C7" A2- A G/A/- |  "Fmaj7" A G/F/ E/-E/D/E/- | "Em7" E3/2 "A7" A/ z2 | "Dm7" d- d/c/- "C7" c "Dm7" d/ z/ |
+z/ c/d/f/ d/c/A/G/ |  "C7" A- A/ "F7" G3/2 "Bbmaj7" A/ z/ | z/ G/A/c/ A/G/F/D/ | "Bm7" F/D/z/ "Bb7"G/ D/z/_A/ "A7"D/- | D F "Dm7" G/F/D/D/ |
+"C" z4 | z4 |]

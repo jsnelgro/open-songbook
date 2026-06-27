@@ -1,0 +1,31 @@
+---
+workId: edison-lambert-hendricks-ross-centerpiece
+arrangementId: h-6255755a
+title: Centerpiece
+artist: 'Edison, Lambert, Hendricks, Ross'
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Centerpiece
+C:Edison, Lambert, Hendricks, Ross
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 2/17/2016
+Z:
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z z/ F/ || "Ab7" A/B/_c/B/ A F | A3/2 "Db7" B/ z z/ F/ | "Ab7" A/B/_c/B/ A _G/E/ |
+"Ab7" z2 z z/ F/ | "Db7" A/B/_c/B/ A F | A3/2 B/ z z/ F/ | "Ab7" A/B/_c/B/ A _G/E/ |  "Ab7" z2 z z/ F/ |
+"Bbm7" A/B/_c/B/ A F | "Eb7" A3/2 B/ z z/ F/ | "Ab7" A/B/_c/B/ A _G/E/ |  "Eb7" z2 z z/ [FA]/ ||
+"Ab7""^B" [A_c]/[Bd]/[=B=d]/[_B_d]/ [Ac] [FA] | "Db7" [A_c]3/2 [Bd]/ z z/ [FA]/ | "Ab7" [A_c]/ [Bd] [=B=d] [_B_d] [A-=c]/ |  "Ab7" [Ac]/ [FA] [E-_G]/ [EG]3/2 [FA]/ |
+"Db7" [A_c]/[Bd]/[=B=d]/[_B_d]/ [Ac] [FA] | [A_c]3/2 [Bd]/ z z/ [FA]/ | "Ab7" [A_c]/ [Bd] [=B=d] [_B_d] [A-=c]/ |  "Ab7" [Ac]/ [FA] [E-_G]/ [EG]3/2 [FA]/ |
+"Bbm7" [A_c]/[Bd]/[=B=d]/[_B_d]/ [Ac] [FA] | "Eb7" [A_c]3/2 [Bd]/ z z/ [FA]/ | "Ab7" [A_c]/ [Bd] [=B=d] [_B_d] [A-=c]/ |  "Ab7" [Ac]/ [FA] [E-_G]/ [EG]3/2 z/ |]

@@ -1,0 +1,33 @@
+---
+workId: bart-howard-flying-me-to-the-moon
+arrangementId: h-d8361169
+title: Flying me to the Moon
+artist: Bart Howard
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Flying me to the Moon
+C: Bart Howard
+M: 4/4
+L: 1/8
+Q: 1/4=200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/fly-me-to-the-moon/
+K: C
+P: A
+"Am7"c3 B A2 GF-|"Dm7"F G3 A2 c2|"G7"B3 A G2 FE-|"CMaj7"E4-"C7"E4|
+"F^7"A3 G F2 ED-|"Bm7b5"D E3 F2 A2|"E7b9"^G3 F E2 DC-|"Am7"C4 "A7"z2 ^C2|
+"Dm7"D A2 A-A4-|"G7"A4 c2 B2|"C^7"G8-|"Em7"G4"A7"z3 B,|
+"Dm7"C F2 F-F4-|"G7"F A3-A2 G2|"C^7"F3 E-E4-|"Bm7b5"E4 "E7"z4||
+P: B
+"Am7"c3 B A2 GF-|"Dm7"F G3 A2 c2|"G7"B3 A G2 FE-|"CMaj7"E4-"C7"E4|
+"F^7"A3 G F2 ED-|"Bm7b5"D E3 F2 A2|"E7b9"^G3 F E2 DC-|"Am7"C4 "A7"z2 ^C|
+"Dm7"D A2 A-A4-|"G7"A4 c2 B2|"E-7"e8-|"A77"e6 c2|
+"Dm7"d A2 A-A4-|"G7"A4 B2 d2|"C^7"c8-|"Bm7b5"c4 "E7"z4||

@@ -1,0 +1,26 @@
+---
+workId: eddie-harris-boogie-woogie-bossa-nova
+arrangementId: h-eaf2dcf7
+title: Boogie Woogie Bossa Nova
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Boogie Woogie Bossa Nova
+C:Eddie Harris
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Ab7" _A4- | "Gb7" A/ _B _A _G _E/- | "Emaj7" E4- | "A7" E2 z z/ _A/ |  "Db7" B/ _d _e d B/- |
+"Eb7" B/ _A _G/ A/ B A/- | "Ebm7" A2 z/ _G _B/- | "Ab7" B2 z/ _G _A/- |  "Abm7/Db" A4 | "C#m7" z/ B _B "F#7" _G _E/- |
+"Bmaj7" E4- | "Emaj13" E2 z z/ D/ |  "Bb7#9" F/ _A B _B _G/- | "Eb7" G/ _E _D/ _A/ _B A/- | "Ab7" A4- | "Gb7" A3 "G7" z |]

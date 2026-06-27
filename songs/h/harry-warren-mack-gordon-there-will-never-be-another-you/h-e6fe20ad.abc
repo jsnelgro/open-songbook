@@ -1,0 +1,31 @@
+---
+workId: harry-warren-mack-gordon-there-will-never-be-another-you
+arrangementId: h-e6fe20ad
+title: There Will Never Be Another You
+artist: 'Harry Warren, Mack Gordon'
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:There Will Never Be Another You
+C:Harry Warren, Mack Gordon
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 8/15/2019
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+B, || "Ebmaj7" C D E F | G B F3/2 E/ | "Dm7b5" F4- |  "G7" F3 G | "Cm7" E F G B |
+c e c3/2 B/ | "Bbm7" c4- |  "Eb7" c3 B | "Abmaj7" e c B A | "Db9" G F G A | "Ebmaj7" B G F E |
+"Cm7" F E F3/2 E/ | "F7" d c B =A | G F G F | "Fm7" A4- |  "Bb9" A3 B, || "Ebmaj7" C D E F |
+G B F3/2 E/ | "Dm7b5" F4- |  "G7" F3 G | "Cm7" E F G B | c e c3/2 B/ | "Bbm7" c4- |
+"Eb7" c3 B | "Abmaj7" e c B A | "Db9" G F G3/2 A/ | "Ebmaj7" B G F E |  "Am7" d3 "D7" c || "Ebmaj7" B e "D7" d c |
+"Gm7" B E "C7" B A | "Fm7" F2 "Bb7" G2 |  "Ebmaj7" E4 "Bb7" |]

@@ -1,0 +1,29 @@
+---
+workId: bobby-hutcherson-montara
+arrangementId: h-1e687089
+title: Montara
+artist: Bobby Hutcherson
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Montara
+C:Bobby Hutcherson
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/21/2016
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Fmaj7" e g/a/- "Em11" a2 | "C13" a g/e/- "G6" e2 | "Fmaj7" g f/d/- "Em7" d2 | "C7" _b a/f/- "Gmaj7" f2 |
+"Fmaj7" e g/a/- "Em11" a2 | "C13" a g/e/- "G6" e2 | "Fmaj7" g f/d/- "Em7" d2 | "C7" _b a/f/- "Gmaj7" f2 |  "Fmaj7" e g/f/- "Em11" f2 |
+"C13" g _b/a/- "G6" a2 | "Fmaj7" b d'/f'/- "Em7" f'2 | "C7" d' _b/a/- "Gmaj7" a2 |  "Fmaj7" e g/f/- "Em11" f2 | "C13" g _b/a/- "G6" a2 |
+"Fmaj7" g _b/a/- "Em7" a2 | "C7" b d'/f'/- "Gmaj7" f'2 |  "Fmaj7" d' _b/a/- "Em11" a2 | "C13" e g/a/- "G6" a2 | "Fmaj7" a g/e/- "Em7" e2 |
+"C7" g f/d/- "Gmaj7" d2 |  "Fmaj7" _b a/f/- "Em11" f2 |]

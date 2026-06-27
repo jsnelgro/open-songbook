@@ -1,0 +1,32 @@
+---
+workId: charlie-parker-diverse
+arrangementId: h-c9a8ea9e
+title: Diverse
+artist: Charlie Parker
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Diverse
+C:Charlie Parker
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/16/2016
+Z:
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z/ "Bbm7" f d/ B/F/z/F/ | "Cm7" e/=G/B/=A/ "F7" z z/ F/ | "Bbm7" =G/d/c/B/ e/c/d/G/- |
+"Cm7" G/ D D/ G/ "F7"=B,/=A,/_B,/ |  "Bbm7" z/ f d/ B/F/z/F/ | "Cm7" G/B/c/B/ "F7" d/B/c/B/ |1 "Bbm7" z7/2 F/ |
+"F7" A/4G/4 A G/ A/4G/4 A- A/ :|2  "Cm7" G/F/D/C/ =B,/=A,/ _B,/ z/ || "F7" z F,/4=G,/4=A,/4B,/4 C/B,/ (3A,/B,/C/ |
+"Bbm7" D/F/- F z2 | "Fm7" z/ _F/ (3=F/A/c/ e2- |  "Bb7" e =d/_d/ c/_c/B/=A/ | "Ebm7" A/=G/ _G z E/F/- |
+"Ebm7" F3/2 E/4D/4 G/E/- E | "Ebm7" z z f/e/4d/4 B/G/ |  "Ab7" E/B,/D/B,/ C/ F E/ | "Dbmaj7" A/_F/ (3=F/A/c/ e/=d/ _d/e/4d/4 |
+"Cm7" c/B/ (3=A/c/ "F7"e/ g/f/ z || z/ "Bbm7" f d/ B/F/z/F/ |  "Cm7" e/=G/B/=A/ "F7" z z/ F/ | "Bbm7" =G/d/c/B/ e/c/d/G/- |
+"Cm7" G/ D D/ G/ "F7"=B,/=A,/_B,/ | "Bbm7" z/ f d/ B/F/z/F/ |  "Cm7" G/F/D/C/ =B,/=A,/ _B,/ z/ | "Bbm7" z4 | "F7" z4 |]

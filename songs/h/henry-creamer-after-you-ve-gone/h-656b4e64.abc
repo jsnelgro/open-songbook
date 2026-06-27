@@ -1,0 +1,31 @@
+---
+workId: henry-creamer-after-you-ve-gone
+arrangementId: h-656b4e64
+title: After You've Gone
+artist: Henry Creamer
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:After You've Gone
+C:Henry Creamer
+C:Turner Layton
+C:Stephane Grappelli
+C:Arr. 6EQUJ5
+Z:2017 Finmusic/effendi.me
+Z:7/23/2017
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Ebmaj7" G/B/c/d/- d2 | "Ebm7" z/ c/d/c/ "Ab9" d/ c3/2 | "Bbmaj7" D/F/G/A/- A2 | "Dm7" z/ G/A/G/ A/ "G9" G3/2 |  "C9" G/ d d/- d2 |
+"F9" G/ c c/- c2 | "Bbmaj7" z/ F/G/F/ A/F/G/F/ | "Bb7" B/ D F/- F2 |  "Ebmaj7" G/B/c/d/- d2 | "Ebm6" z/ c/d/c/ "Ab9" d/ c3/2 |
+"Bbmaj7" D/F/G/A/- A2 | "Dm7" z/ G/A/G/ "G9" A/ G3/2 |  "Cm7" e2 d2 "G7" | "Cm7" c/^F/G/d/- "Ebm7" d c | "Bbmaj7" z/ ^c/d/B/ =c/=B/c/A/ |
+"Gm7" B/^C/ D/ A3/2 G |  "Bbmaj7" F/G/B/d/- d2 | "Cm7" z/ E/F/A/ "F7" c d | "Bbmaj7" d/B/- B3 | "Bb7" z4 |]

@@ -1,0 +1,35 @@
+---
+workId: duke-ellington-in-a-mellow-tone
+arrangementId: h-22668576
+title: In a Mellow Tone
+artist: Duke Ellington
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: In a Mellow Tone
+C: Duke Ellington
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags standard50,Duke Ellington
+%%songbook-uri /post/in-a-mellow-tone/
+K: Ab
+P: A
+GE F G2 A-||"Bb7"A8|"Eb7"z2 GE F G2 A-|"Ab^7"A8|z2 GE F G2 A-|
+"Ebm7"A8|"Ab7"z2 BF A B2 c-|"Db^7"c8|z2 BF A B2 F-|
+P: B
+"Db"F8|"Do7"z2 AB-B2Ac-|"Ab^7/Eb"c8|"F7"z2 GE F G2 A-|
+"Bb7"A8|z2 Ac-c2 AE-|"Eb7"E8|z2 GE "F7" F G2 A-||
+P: A
+"Bb7"A8|"Eb7"z2 GE F G2 A-|"Ab^7"A8|z2 GE F G2 A-|
+"Ebm7"A8|"Ab7"z2 BF A B2 c-|"Db^7"c8|"Db7"z2 =Bf-f2 BF-|
+P: C
+"Db7"F8|"Do7"z2 =Bf-f2 BF-|"Ab^7/Eb"F8|"F7" z2 =Bf-f2 BF-|
+"Bb7"F8|"Eb7"z2 GE F G2 A-|"Ab"A8|z8||

@@ -1,0 +1,31 @@
+---
+workId: george-benson-clockwise
+arrangementId: h-b1860894
+title: Clockwise
+artist: George Benson
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Clockwise
+C:George Benson
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Gm" G, G G, G | z _d/=d/ c/_B/G/ z/ | G, G G, G |1 z "Db13" _D3 :|2  z4 :|3
+z "D7#9" D2 z/ G,/ |: "G7" C _B,/=B,/ G,/ z/ E,/ z/ | "G7" C B, C/_D/z/=D/- |  "G7" D z z2 | "G7" z z z z/ E/- |
+"C7" E _E/D/ _D z/ D/- | "C#dim7" D C/B,/ _B, z/ B,/- |  B, A,/_A,/ G, z/ G,/- | "Edim7" G, F,/=F,/ E, z/ G,/ |
+"Am7" C _B,/=B,/ G,/E,/z/G,/ | "D7" C _B,/=B,/ G,/A,/z/G,/- |  "G7" G,2 z z/ =F/ | "Ab13" z/ =F/ F2 z | "G7" G, G G, G |
+"^1st solo\n" z "G7" _d/=d/ c/_B/G/ z/ |  "G7" G, G G, G | z "Db13" _D3 || "C7" z4 | "C7" z4 |  "G7" z4 | "G7" z4 |
+"Am7" z4 | "D7" z4 |  "G7" z4 | "D7""^Solos" z4 | "G7" z4 | "G7" z4 |  "G7" z4 | "G7" "Db13" z4 |
+"C7" z4 | "C7" z4 |  "G7" z4 | "G7" z4 | "Am7" z4 | "D7" z4 |  "G7" z4 | "D7" z4 |]

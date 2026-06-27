@@ -1,0 +1,31 @@
+---
+workId: hank-mobley-soft-impressions
+arrangementId: h-c7abe9e9
+title: Soft Impressions
+artist: Hank Mobley
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Soft Impressions
+C:Hank Mobley
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 2/5/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Am7""^Drunkish Piano Intro" "C/G" z4 | "F7" "E7" z4 | "Am7" "C/G" z4 | "F7" "E7" z4 |  "Am7" "C/G" z4 | "F7" "E7" z4 | "Am7" z4 "C/G" |
+"F7" z2 "E7" z/ c/^G/A/- |:  "Am7" A/B/ c "C/G" z B/c/- | "C/F#" c/d/ e z/ "F7" _e/ (3d/c/A/ | "Am7" A (3z/ c/ "D7"A/ d c/e/- | "A7" e2 "Bb7" z (3A/ "A7"c/A/ |
+"Dm7" d/c/A/c/ "C/C" z (3A/c/A/ | "Bm7" (3_e/d/c/ (3d/A/c/- "Bb7" c (3A/c/d/ | "Am7""_TO CODA AFTER REPEAT" (3_e/=e/g/ (3a/ "D7"c'/a/ (3g/e/_e/ (3d/c/=e/- | "C#m7" e2 "F#7" z e |
+"F7" [fa]3/2 [fa]/ "E7" [ea]/[ea]/z/[_ea]/- | "Dm7" [ea] (3g/=e/ "E7"_e/ d c/A/ |1 "Am7" z2 "C/G" z2 | "F7" z2 z/ "E7" c/^G/A/ :|2  "Am7" z4 ||
+"F7" "E7" z4 |: "Am7" z4 | "Bm7" "E7" z4 |  "Am7" z4 | "Am7" "A7" z4 | "Dm7" "C/C" z4 | "Bm7b5" z4 "E7" |  "Am7" z4 "D7" |
+"C#m7" z4 "F#7" | "F7" z4 | "E7" z4 |  "Am7" "C/G" z4 | "F7" "E7" z4 :| "Am""^Coda" "C/G" z4 | "F7" z (3g/e/_e/ "E7" d c/A/ |
+"Am7" "C/G" z4 | "F7" z (3g/e/_e/ "E7" d c/A/ | "Am7" z4 "C/G" | "F7" z (3g/e/_e/ "E7" d c/[EB]/- |  "Am9" [EB]4 |]

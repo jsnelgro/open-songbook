@@ -1,0 +1,32 @@
+---
+workId: sammy-fain-that-old-feeling
+arrangementId: h-0a85937c
+title: That Old Feeling
+artist: Sammy Fain
+source: jazz
+key: Eb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: That Old Feeling
+C: Sammy Fain
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/that-old-feeling/
+K: Eb
+P: A
+"Eb"G2B2GB2G-|G2E2G2B2|"Gm7b9"_d8|"C7"c2G6|
+"Fm7"A2c2Ac2A-|A2F2A2B2|"Fm7b5"_c8|"Bb7"B2F6||
+"Cm7"z2E2EEE2|"G7"G2G2G4|"Gm7b5"z2G2G2G2|"C7"c8|
+"F7"z2c2c2c2|d2d2d4|"Fm7"z2e2e2e2|"Bb7"F8||
+P: B
+"Eb"G2B2GB2G-|G2E2G2B2|"Gm7b9"_d8|"C7"c2G6|
+"Fm7"A2c2Ac2A-|A2F2A2c2|"Ab˙"e8|"G7"e2d6||
+"Gm7b5"z2_d2d2d2|"C7b9"_d2cB- BAG2|"Fm"z2B2(3B2=A2_A2|"Abm7"e4"Db7"z2EF|
+"Cm7"G8|"F7"G2c6|"Fm7"z2E2"Bb7"GEG2|"Eb"E8||

@@ -1,0 +1,28 @@
+---
+workId: jerome-kern-yesterdays
+arrangementId: h-8f0aa3e9
+title: Yesterdays
+artist: Jerome Kern
+source: jazz
+key: Dm
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Yesterdays
+C: Jerome Kern
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags Ballad
+%%songbook-uri /post/yesterdays/
+K: Dm
+|:"Dm"A6F2|"Em7b5"G4 "A7b9"z4|"Dm"A6F2|"Em7b5"G4 "A7b9"z4|
+"Dm"D2E2 "Dm/C#"F2G2|"Dm/C"^G2A2=B2c2|"Bm7b5"f6 =B2|"E7"e8|
+"A+7"f6 A2|"D7"e8|"G7"e6 G2|"C7"d8|
+"Cm7"d4- "F7"d2 A2|"Bb^7"c2B2 "Eb^7"F2G2|"Em7"A8|[1 "Eb7"A4 A4:|
+[2 "Eb7"A4 A4|"Dm"A8-|A6z2||

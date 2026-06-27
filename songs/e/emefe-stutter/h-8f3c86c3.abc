@@ -1,0 +1,138 @@
+---
+workId: emefe-stutter
+arrangementId: h-8f3c86c3
+title: Stutter
+artist: EMEFE
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Stutter
+C:EMEFE
+C:Miles Arntzen
+C:Jas Walton
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 effendi.me 7/14/2019
+%%score [ ( 1 2 3 ) | 4 | 5 | 6 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble nm="Intro Horns" snm="IH"
+%%MIDI program 0
+V:2 treble 
+%%MIDI program 0
+V:3 treble 
+%%MIDI program 0
+V:4 treble nm="Horn 1" snm="H1"
+%%MIDI program 0
+V:5 treble nm="Horn 2" snm="H2"
+%%MIDI program 0
+V:6 treble nm="Bari Sax" snm="B.Sax"
+%%MIDI program 0
+V:1
+[Af]2 [Gb]2 | [_Ge]2 [Fa]2 | d/_c/ e3- |
+E2 A2 | [M:3/4] z/ [Ae] [Ae]/ z/ [Ae]/ | z/ [Ae] [Ae]/ z/ [Ae]/ | z/ [Ae] [Ae]/ z/ [Ae]/ | z/ [Ae] [Ae]/ z/ [Ae]/ |
+[EA] [EB] [Fc] | [Ae]/A/- A/ z/ f | [Fe] z [Fd] |[M:4/4] d2 c2 |:  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 ::  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 :|1  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 ||  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 :|2  z4 || z4 |
+z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |
+z4 |]
+V:2
+x4 | x4 | x4 |
+e4 | [M:3/4] x3 | x3 | x3 | x3 |
+x3 | x3 | x3 |[M:4/4] x4 |:  x4 |
+x4 | x4 | x4 |  x4 | x4 |
+x4 | x4 ::  x4 | x4 |
+x4 | x4 |  x4 | x4 |
+x4 | x4 :|1  x4 | x4 |
+x4 | x4 |  x4 | x4 |
+x4 | x4 ||  x4 | x4 |
+x4 | x4 |  x4 | x4 |
+x4 | x4 :|2  x4 || x4 |
+x4 | x4 |  x4 | x4 | x4 |
+x4 |  x4 | x4 | x4 |
+x4 |  x4 | x4 | x4 | x4 |  x4 |
+x4 | x4 | x4 |  x4 | x4 | x4 | x4 |
+x4 |]
+V:3
+x4 | x4 | E E3 |
+x4 | [M:3/4] x3 | x3 | x3 | x3 |
+x3 | x3 | x3 |[M:4/4] x4 |:  x4 |
+x4 | x4 | x4 |  x4 | x4 |
+x4 | x4 ::  x4 | x4 |
+x4 | x4 |  x4 | x4 |
+x4 | x4 :|1  x4 | x4 |
+x4 | x4 |  x4 | x4 |
+x4 | x4 ||  x4 | x4 |
+x4 | x4 |  x4 | x4 |
+x4 | x4 :|2  x4 || x4 |
+x4 | x4 |  x4 | x4 | x4 |
+x4 |  x4 | x4 | x4 |
+x4 |  x4 | x4 | x4 | x4 |  x4 |
+x4 | x4 | x4 |  x4 | x4 | x4 | x4 |
+x4 |]
+V:4
+C2 E- E/F/4E/4 | B,2 D E | A, A,3- |
+A,2 =B,2 | [M:3/4] z/ E E/ z/ E/ | z/ E E/ z/ E/ | z/ E E/ z/ E/ | z/ E E/ z/ E/ |
+C E A | F z E | B, z B, |[M:4/4] A2 A2 |:  z A z A |
+z2 A A/c/ | z F z F | z2 F z |  z F z F | z2 F F/A/ |
+z =E z E | z2 =E z ::  z z/ B/ z/ A3/2 | z/ c/z/A/ F/E/C/F/ |
+F z/ F/ z/ F3/2 | z/ c/z/A/ F/E/C/F/- |  F z/ F/ z/ F3/2 | z/ c/z/A/ F/E/C/E/- |
+E z/ E/ z/ E3/2 | z/ E/z/E/ z/ E3/2 :|1  [CF]/[CF]/z/[CF]/ [CF]/[CF]/z/[CF]/ | [EA]/[EA]/z/[EA]/ [CF]/[CF]/z/[CF]/ |
+[CF]/[CF]/z/[CF]/ [CF]/[CF]/z/[CF]/ | [CF]/[CF]/z/[CF]/ [CF]/[CF]/z/[CF]/ |  [CF]/[CF]/z/[CF]/ [CF]/[CF]/z/[CF]/ | [EA]/[EA]/z/[EA]/ [CF]/[CF]/z/[CF]/ |
+[B,E]/[B,E]/z/[B,E]/ [B,E]/[B,E]/z/[B,E]/ | [DE]/[DE]/z/[DE]/ [CE]/[CE]/z/[CE]/ ||  [A,F]/[A,F]/z/[A,F]/ [A,F]/[A,F]/z/[A,F]/ | [CA]/[CA]/z/[A,F]/- [A,F] [^F,F]- |
+[F,F] z/ [^F,F]/ [F,F]/[F,F]/z/[F,F]/ | [F,F]/[F,F]/z/[F,F]/- [F,F] [A,F]- |  [A,F] z/ [A,F]/ [A,F]/[A,F]/z/[A,F]/ | [CA]/[CA]/z/[A,F]/- [A,F] [B,E]- |
+[B,E] z/ [B,E]/ [B,E]/[B,E]/z/[B,E]/ | [DE]/[DE]/z/[DE]/ [B,E]/[B,E]/ z :|2  E4 || f/e/c/e/ z/ f/z/a/ |
+z c- c/ f3/2 | z/ e/c/B/ A/ F3/2 |  A/ F3/2 A/ F3/2 | A/F/B/F/ A/ F3/2 | A/ F3/2 A/F/B/F/ |
+A/ =E3/2 A/ E3/2 |  A/=E/B/F/ A B | =B/c/e/g/ z/ f/ a- | (3a c' b (3a f e |
+(3f a f- f2 |  e2 c2 | B2 c A | B3/2 c/- c B- | B4 |  A4 |
+F4- | F4 | F4- |  F4 | C4- | C3 z | E4- |
+E4 |]
+V:5
+z/ E3/2 z/ _C/ E | z/ D/- D D A,/ z/ | z2 z/ z/4 F,/8A,/8 (3C/E/G/- |
+G2 A3/4_G/8=E/8 _E/D/ | [M:3/4] c3 | d3 | c3 | d3 |
+A E A, | F z A | _F z _G |[M:4/4] F2 E2 |:  z E z E |
+z2 E E/F/ | z C z C | z2 C z |  z C z C | z2 C C/E/ |
+z C z C | z2 B, z ::  z z/ =D/ z/ C3/2 | z z/ A,/ C/B,/[A,C]/[^F,C]/ |
+[^F,C] z/ [F,C]/ z/ [F,C]3/2 | z z/ A,/ C/B,/[A,C]/[A,-C]/ |  [A,C] z/ [A,C]/ z/ [A,C]3/2 | z z/ A,/ C/B,/A,/B,/- |
+[B,C] z/ [B,C]/ z/ [B,C]3/2 | z/ [B,C]/z/[B,C]/ z/ [B,D]3/2 :|1  C4 | z4 |
+C4 | z4 |  E4 | z4 |
+E,4 | z4 ||  C C z2 | z4 |
+C C z2 | z4 |  C C z2 | z4 |
+C C z2 | z4 :|2  B,4 || F/E/C/E/ z/ F/z/A/ |
+z C- C/ F3/2- | F3/2 F/ E/ C3/2 |  E/ C3/2 E/ C3/2 | C C3 | C2 C C |
+C2 B,2 |  B,2 B, z | E F/B/ z/ A/ F- | (3F F F (3E C B, |
+(3C B, C- C2 |  C2 C2 | C2 E C | C3/2 E/- E C- | C4- |  C4 |
+C4- | C4 | C4 |  B,4 | C4- | C3 z | B,4 |
+B,4 |]
+V:6
+"^16b" A2 G2 | _G2 F z | =E F3- |
+F2 =E2 | [M:3/4] F z F | =E z E | F z F | =E z E |
+_E A c | _D z D | _G z G |[M:4/4] z4 |:  F/c/ z F/c/ z |
+z F/c/ z2 | =D/=A/ z D/A/ z | z =D/=A/ z2 |  D/A/ z D/A/ z | z D/A/ z2 |
+^F/c/ z F/c/ z | z ^F/c/ z2 ::  F/F/z/F/ z/ e/z/f/ | z F F A |
+=D/D/z/D/ z/ c/z/=d/ | z =D D D |  D/D/z/D/ z/ c/z/d/ | z D D D |
+^F/F/z/F/ z/ ^f/ z | z/ ^F/z/F/ z z/ E/ :|1  F/F/z/F/ F/F/z/F/ | F/F/z/F/ F/F/z/F/ |
+=D/D/z/D/ D/D/z/D/ | =D/D/z/D/ D/D/z/D/ |  D/D/z/D/ D/D/z/D/ | D/D/z/D/ D/D/z/D/ |
+^F/F/z/F/ F/F/z/F/ | ^F/F/z/F/ F/F/z/F/ ||  F/F/z/F/ F/F/z/F/ | F/F/z/F/- F =D- |
+D z/ =D/ D/D/z/D/ | =D/D/z/D/- D _D- |  D z/ D/ D/D/z/D/ | D/D/z/D/- D ^F- |
+F z/ ^F/ F/F/z/F/ | ^F/F/z/F/ F/F/z/E/ :|2  ^d4 || f/e/c/e/ z/ f/z/a/ |
+z F- F/ =D3/2- | D3/2 B/ A/ F3/2 |  A/ F3/2 A/ F3/2 | D D3 | D2 D D |
+^F2 B2 |  ^f3/2 d/ ^F z | F F/F/ z/ E/ F- | (3F F F (3F E D |
+(3=D F D- D2 |  =D2 D2 | D2 D D | z z/ D/- D ^F- | F4- |  F4 |
+F4- | F3 =E/_E/ | =D4- |  D4 | D4- | D3 z | ^F4- |
+F4 |]

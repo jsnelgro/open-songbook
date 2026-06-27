@@ -1,0 +1,35 @@
+---
+workId: bobby-timmons-moanin
+arrangementId: h-590a6fc2
+title: Moanin'
+artist: Bobby Timmons
+source: jazz
+key: Fm
+tags:
+  - Swing
+  - Hardbop
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Moanin'
+C: Bobby Timmons
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing,Hardbop
+%%songbook-tags Hardbop
+%%songbook-uri /post/moanin/
+K: Fm
+P: A
+FF AAFC|:E2F2- "Bb"F3 "F"z|z2 FF A2 BB|(3_cBA F2- "Bb"F3 "F"z|z2 FFc2 ec|
+(3_cBA F2- "Bb"F3 "F"z|z2 FF AAFC|E2F2- "Bb"F3 "F"z|[1 z2 FF AAFC :|[2 z4 "F7"F2 F2||
+P: B
+"Bbm9"c4 "Ab9"(3_cBF BF|"G7b9"A3F "C7#9"ECEF-|"Fm7"F8|"F7"z4 "B7"F2 F2|
+"Bbm9"c4 "Ab9"(3_cBF BF|"G7b9"A3F AFAc-|"Gm7b5"c4 ecBc|"C7b9"z2 FF AAFC||
+P: A
+E2F2- "Bb"F3 "F"z|z2 FF AA BB|(3_cBA F2- "Bb"F3 "F"z|z2 FFc2 ec|
+(3_cBA F2- "Bb"F3 "F"z|z2 FF AAFC|E2F2- "Bb"F3 "F"z|z8||
+P: Solo A chords (B same with melody)
+"Fm7"z4 "Ab7"z4|"G7"z4 "C7b9"z4|z8|z8|z8|z8|z8|z8||

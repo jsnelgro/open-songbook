@@ -1,0 +1,31 @@
+---
+workId: wayne-shorter-tom-thumb
+arrangementId: h-28bf6b1e
+title: Tom Thumb
+artist: Wayne Shorter
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Tom Thumb
+C:Wayne Shorter
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 7/19/2017
+Z:
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"C""_Bass Intro" A,3/2 E/ E2 | C3/2 G/ G2 | A,3/2 E/ E2 | C3/2 G/ G2 ||
+"^Sax In""_A""^Latin Funk" e/A/d/^c/ z3/2 c/- |"^Vamp continues until C..." c/E/B/_B/ z3/2 e/- | e/A/d/^c/ z3/2 c/- | c/E/B/_B/ z3/2 e/- |:
+"A7""_B""^Head" E E/G/ z/ G/ A- | "C7" A z/ G/ A/G/E/D/- | "A7" D ^C z3/2 =C/- | "D7" C B, z2 |
+"A7" E E/G/ z/ G/ A- | "C7" A z/ G/ A/G/E/D/- | "A7" D ^C z3/2 =C/- | "D7" C B, z/ "Gb7" C/z/ "F7"A,/- ||
+"F7""_C""^Swing" A,2 z C/A,/ | "Bm7" D D/_E/ "E7" (3D/4E/4D/4C/ D/C/- | "Cmaj7" C B, z3/2 B,/- | "D7" B, A, z/ "Gb7" C/z/ "F7"A,/- |  A,2 z C/A,/ |
+"Bm7" D D/_E/ (3D/4 "E7"E/4D/4C/ D/C/- | "F7" C4- "Cm7" | "F7" C3/2 "Cm7" D2- D/ |  "F7" C3 "Cm7" z/ G/ | "Bb13" z/ E/ z z2 :|

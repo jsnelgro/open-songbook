@@ -1,0 +1,28 @@
+---
+workId: joe-henderson-recorda-ma
+arrangementId: h-c3b31a6c
+title: Recorda Ma(Remember Me)
+artist: Joe Henderson
+source: jazz
+key: Am
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Recorda Ma(Remember Me)
+C: Joe Henderson
+M: 4/4
+L: 1/8
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-uri /post/recorda-ma/
+K: Am
+P: A
+E BcEC||:"Am"^F4zG AB|B2 AB- BcEC|^F G2 A2 B2 B|z A BA d_e G_E|
+"Cm"A4 z _B cd|d2 cd- d_e G_E|A _B2 c2 d2 d|"Cm7"z2 z c "F7"d2cF-|
+P: B
+"Bb^7" F8|"Bbm7"zE Fc- "Eb7"c2 _BG|"Ab^7"_E4 z D E_B-|"Abm7"B4 "Db7"_A2 F_D-|
+"Gb^7"D8|"Gm7"z2A4"C7"G2|"F^7"C2zC zCG2-|[1 "E7"G2 z E BcEC:||[2 z8||

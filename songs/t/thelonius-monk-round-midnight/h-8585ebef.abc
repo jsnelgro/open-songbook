@@ -1,0 +1,32 @@
+---
+workId: thelonius-monk-round-midnight
+arrangementId: h-8585ebef
+title: '''Round Midnight'
+artist: Thelonius Monk
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:'Round Midnight
+C:Thelonius Monk
+C:Arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Ebm7" z B,/4E/4F/4 "Cm7b5"B/4 _G3/2 B,/ | "Fm7b5" E/ E D/4E/4 "Bb7" B/A/ z | "Ebm7" z E/4_G/4 "Ab7"B/4_d/4 c3/2 E/ |
+"Bm7" =A "E7" _A "Bbm7" A "Eb7" G |  "Abm7" z A/4_c/4 "Db7"e/4_g/4 f3/2 c/ | "Ebm7" B (3E/D/ "Ab7"_D/ C/ z E/4F/4 | "B7" (3^F/=F/^F/ (3=F/E/D/- D B- |1
+"Bb7" B z z2 :|2  "B7" ^F "Bb7" =F/ E E/ E- || "Ebm7" E3 E/F/ || "Cm7b5" _G/F/ G/ "F7" F2 E/ | "Bb7" D2 z E/F/ |
+"Cm7" _G/F/ G/ "F7" F2 E/ | "Bb7" D/ z/4 B3/2 z/4 z/ B | "Abm7" _c3/2 "Db7" c/4c/4 "Gbmaj7" B3/2 B/ | "B7" A _G "Bb7" F/ "Eb7" E B/ |  e/e/ e "Db7" _d/d/ d |
+"B7" _c _d/c/ "Bb7" B2 || "Ebm7" z B,/4E/4F/4 "Cm7b5"B/4 _G3/2 B,/ | "Fm7b5" E/ E D/4E/4 "Bb7" B/A/ z |  "Ebm7" z E/4_G/4 "Ab7"B/4_d/4 c3/2 E/ |
+"Bm7" =A "E7" _A "Bbm7" A "Eb7" G | "Abm7" z A/4_c/4 "Db7"e/4_g/4 f3/2 c/ | "Ebm7" B (3E/D/ "Ab7"_D/ C/ z E/4F/4 |  "B7" ^F =F/ "Bb7" E E/ E- |
+"Ebm7" E3 z |]

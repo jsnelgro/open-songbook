@@ -1,0 +1,33 @@
+---
+workId: tadd-dameron-john-coltrane-mating-call
+arrangementId: h-18da755e
+title: Mating Call
+artist: Tadd Dameron/John Coltrane
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mating Call
+C:Tadd Dameron/John Coltrane
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"F" C c/G/ z/ _D G/ | C c/G/ z/ _D G/ | z4 || z2 z C |:  "F" c4- |
+c3/2 B/ z/ G/z/F/ | G B/G/- G2 |1 z2 z C :|2  G4 || z2 z C |: "Cm7" c4- "Db9" |
+"Cm7" c3/2 B/ z/ "Db9" G/z/F/ |  "Cm7" G B/G/- "Db9" G2 | "Cm9" z2 z "Db7" C | "Gm7" A4- | "C7" A3/2 G/ z/ !~(!E !~)!D/ |1  "Fmaj7" E4 |
+"Dm7" z2 "G7" z C :|2 E3/2 "Fmaj7" E/- E2 ||"^Swing" z2 z "Bm7" c |  "Bbm7" _e2- e/_d/c/B/ | "Eb7" A B f _f |
+"Amaj7" _e2- e/c/B/_A/ | "Db9" G3 F |  "Dm7" (3G G G G/F/C/_A,/ | "G7" B _A G F | "Cmaj7" G4 | "Cmaj9" z4 |
+"Ab" _A2- (3A B A | "Db9" G _A B A | "Gbmaj7" F2- (3F _E F | "B7" _G4 |  "Cm7" _G2- G/B,/_E/_A/ | "F7" F3 G |
+"Dm7" _A2- A/C/F/B/ | "G7""^Latin" G3 z ||  z2 z C | "Cm7" c4- "Db9" | "Cm7" c3/2 B/ z/ "Db9" G/z/F/ | "Cm7" G B/G/- "Db9" G2 |
+"Cm9" z2 z "Db7" C | "Gm7" A4- | "C7" A3/2 G/ z/ !~(!E !~)!D/ | "Fmaj7" E4 |  "Dm" "G" z4 |]

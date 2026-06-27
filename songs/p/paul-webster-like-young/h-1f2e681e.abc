@@ -1,0 +1,34 @@
+---
+workId: paul-webster-like-young
+arrangementId: h-1f2e681e
+title: Like Young
+artist: Paul Webster
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Like Young
+C:Paul Webster
+C:Andre Previn
+C:Dave Pell
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 2/21/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Ab7" z/ A/ _c d/c/ A | d/_c/A/d/ z/ c3/2 | z/ A/ _c d/c/ A | z/ (3=d/4_d/4_c/4 A/A/ z2 |
+"Db7" z/ A/ _c d/c/ A | d/_c/A/d/ z/ c3/2 | "Ab7" z/ A/ _c d/c/ A | z/ (3=d/4_d/4_c/4 A/A/ z2 |
+"Bbm7" z/ A/ _c d/c/ A | d/_c/A/d/ "Eb7" z/ c3/2 | "Ab7" z/ A/ _c d/c/ A | z/ (3=d/4_d/4_c/4 A/A/ z2 :|
+"Gm7" c2- c/d/ "C7"_c/B/- | "Fmaj7" B2- A/C/F/=A/ | "Gm7" c c c/ "C7"d/B/=A/- | "Fmaj7" A2- A/C/ (3F/=A/c/ |
+"Abm7" d2- d/__e/ "Db7"_c/B/- | "Gbmaj7" B2- B/D/ (3_G/B/d/ | "Am7" =d d/^c/ "D7" d/e/ =c | "Bbm7" e e/=d/ "Eb7" e/_f/ _d ||
+"Ab7" z/ A/ _c d/c/ A | d/_c/A/d/ z/ c3/2 || z/ A/ _c d/c/ A | z/ (3=d/4_d/4_c/4 A/A/ z2 |
+"Db7" z/ A/ _c d/c/ A | d/_c/A/d/ z/ c3/2 | "Ab7" z/ A/ _c d/c/ A | z/ (3=d/4_d/4_c/4 A/A/ z2 |
+z/ "Bbm7" A/ _c d/c/ A | d/_c/A/d/ "Eb" z/ c3/2 | "Ab7" z/ A/ _c d/c/ A | z/ (3=d/4_d/4_c/4 A/A/ z2 |]

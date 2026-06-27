@@ -1,0 +1,35 @@
+---
+workId: monty-norman-james-bond-theme
+arrangementId: h-b9444339
+title: James Bond Theme
+artist: Monty Norman
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:James Bond Theme
+C:Monty Norman
+C:Orig Arr. John Barry
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Em" B,2 "C" C2 | "Em" ^C2 "C" =C2 | "Em" B,2 "C" C2 | "Em" ^C2 "C" =C2 |:  "Em" E/F/4F/4 F/ "C"F/- F/E/E/E/ |
+"Em" E/G/4G/4 G/G/- "C" G/F/F/F/ | E/ "Em"F/4F/4 F/ "C"F/- F/E/E/E/ | "Em" E/G/4G/4 G/G/- "C" G/F/F/F/ |  "Em" E/F/4F/4 F/F/- "C" F/E/E/E/ |
+"Em" E/G/4G/4 G/G/- "C" G/F/F/E/ | "Em" ^d/=d/- d2 B/A/ | "Em9" B4 :|  "Em" B,2 "C" C2 | "Em" ^C2 "C" =C2 |
+"Em" B,2 "C" C2 | "Em" ^C2 "C" =C2 |:  "Em" E/ G ^d/ "C" =d3/2 G/ | "Em" ^A/B/- "C" B3 | "Em" G F3/2 "C" B,/ E/^C/- |
+"Em" C4 |  "Em" E/ G "C" ^d/ =d3/2 G/ | "Em" ^A/B/- "C" B3 | "Em" G F3/2 "C" B,/ ^D/E/- | "Em" E4 :|
+"Em7" E/ E E/ "B9" F/>E/ F | "Em7" G/ G "B9" G/ F/>E/ F | "Em7" E/ E E/ "B9" F/>E/ F | "Em7" G/ G G/ "B9" F/>E/ F |
+"Em" B/B/ z/ B, z/ B/B/ | "Em" B/B/z/B,/ B/4B/B/4 B/B/ | "Em" B,2 "C" C2 | "Em" ^C2 "C" =C2 |  "Em" E/F/4F/4 F/ "C"F/- F/E/E/E/ |
+"Em" E/G/4G/4 G/G/- "C" G/F/F/F/ | E/ "Em"F/4F/4 F/ "C"F/- F/E/E/E/ | "Em" E/G/4G/4 G/G/- "C" G/F/F/F/ |  "Em" E/F/4F/4 F/F/- "C" F/E/E/E/ |
+"Em" E/G/4G/4 G/G/- "C" G/F/F/E/ | "Em" ^d/=d/- d2 B/A/ | "Em9" B4 |
+E,/ "Em" G, "G" ^D/ =D G,/B,/- | B,/F/ =F B,/ D ^A/ | =A E/G/- G ^d/=d/- | "Em7" d !fermata!F3 |]

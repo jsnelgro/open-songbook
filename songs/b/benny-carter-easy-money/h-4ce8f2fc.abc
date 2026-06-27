@@ -1,0 +1,35 @@
+---
+workId: benny-carter-easy-money
+arrangementId: h-4ce8f2fc
+title: Easy Money
+artist: Benny Carter
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Easy Money
+C: Benny Carter
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing
+%%songbook-uri /post/easy-money/
+K: F
+P: A
+z2 C^C Dc A2||"Gm7"c3 D z4|"C7"z2 C^C Dc A2|"F"c3 D z4|"Am7"z2  C^C "D7"Dc A2|
+"Gm7"c3 D z4|"C7" z2 c^G Ac AC-|"F"C8|"Am7"z2  C^C "D7"Dc A2||
+P: A
+"Gm7"c3 D z4|"C7"z2 C^C Dc A2|"F"c3 D z4|"Am7"z2  C^C "D7"Dc A2|
+"Gm7"c3 D z4|"C7" z2 c^G Ac AF-|"F"F8|z2 AF GA z F-||
+P: B
+"F7"F8| z2 AF GA z F-|"Bb"F8|z2 AF GA z F-|
+"G7"F8| z2 AF GA z c-|"C7"c8|"Am7"z2 C^C "D7"Dc A2||
+P: A
+"Gm7"c3 D z4|"C7"z2 C^C Dc A2|"F"c3 D z4|"Am7"z2  C^C "D7"Dc A2|
+"Gm7"c3 D z4|"C7" z2 c^G Ac AF-|"F"F8|z8||

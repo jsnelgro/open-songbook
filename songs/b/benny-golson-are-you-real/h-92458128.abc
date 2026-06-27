@@ -1,0 +1,47 @@
+---
+workId: benny-golson-are-you-real
+arrangementId: h-92458128
+title: Are You Real?
+artist: Benny Golson
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Are You Real?
+C:Benny Golson
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+%%score ( 1 2 3 )
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble 
+%%MIDI program 0
+V:3 treble 
+%%MIDI program 0
+V:1
+x4 |: x4 | x4 | x4 |
+x4 | x4 | x4 | x4 |  x4 |
+x4 | x4 | x4 "G7" |  x4 |1 x4 | x4 |
+x4 |  x4 :|2 x4 || x4 | x4 |  x4 |
+x4 | x4 | x4 |  "Dm7" "G7" z4 |]
+V:2
+z2 "Dm7" c "G7" d |: "Cm7" e4- | "F7" e2 d c/d/- | "Bbmaj7" d4- |
+"Ebmaj7" d3 B | "Am7" c c c c | "D7#9" c d c A/B/- | "Gm7" B4- |  "C7" B2 F G |
+"F#m7" A2 "B7" A2- | "Fm7" A2 "Bb7" E F/G/- | "Dm7" G4- |  "Db7" G2 z "C7" E |1 "Fm7" F2 F2 | "Bb7" F G E F/G/- |
+"Ebmaj7" G4 |  "Dm7" c2 "G7" d2 :|2 "Fm7" F2 F2 || "Bb7" F G/E/- E/ F3/2 | "Gm7" G2 G2 |  "C7#9" G A/F/- F/ G3/2 |
+"F#7" A3 "B7" C | "Fm7" G2 "Bb7" G2 | "Ebmaj7" G z z2 |  x4 |]
+V:3
+z2 =A _A |: G2 B G/=A/- | A4- | =A2 A F/G/- |
+G3 B | =A A A G | ^F2 A F/G/- | G =A/_A/- A/G/_G/F/ |  E2 z2 |
+x4 | x4 | x4 |  x4 |1 x4 | x4 |
+x4 |  =A2 _A2 :|2 x4 || x4 | _D2 F2 |  x4 |
+E3 z | E2 D2 | x4 |  x4 |]

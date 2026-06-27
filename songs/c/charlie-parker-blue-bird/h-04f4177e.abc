@@ -1,0 +1,26 @@
+---
+workId: charlie-parker-blue-bird
+arrangementId: h-04f4177e
+title: Blue Bird
+artist: Charlie Parker
+source: jazz
+key: Eb
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Blue Bird
+C: Charlie Parker
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues,Charlie Parker
+%%songbook-uri /post/blue-bird/
+K: Eb
+"Eb6"GG (3EB,E GG (3EB,E|GG z2 z4|GG (3EB,E GBc_d-|"Bbm7"d4 "Eb7"z4|
+"Ab7"_GG (3EB,E GG (3EB,E|_GG z2 z4|"Eb6"=GG (3EB,E GBcd-|"Gm7"d4 "C7"z4|
+"Fm7"GG (3EB,E GG (3EB,E|"Bb7"GG z2 z4|"Eb6"GG (3EB,E GB,CE-|E4 "Bb7"z4||

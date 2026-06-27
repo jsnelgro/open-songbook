@@ -1,0 +1,31 @@
+---
+workId: eddie-harris-1974-blues
+arrangementId: h-03ff63ce
+title: 1974 Blues
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:1974 Blues
+C:Eddie Harris
+Z:©2014 FinMusic
+Z:
+L:1/4
+Q:1/4=150
+M:7/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+"F7" D,/D,/ E,/B,,/ "G7" D,/D,/ E,/ D, "D7" D,/ E,/B,,/ D,/B,,/ | "F7" D,/D,/ E,/ "G7"B,,/ D,/D,/ E,/ "D7" D, D,/ E,/B,,/ D,/B,,/ |:
+"^Head" z/ "D7" d'/ c' _a/g/ z/ ^f/ z/ c/ d/d/ F | "D7" z/ c/ d/d/ f/g/ z/ a/ z/ c/ d/c/ d |
+"D7" z/ d'/ c' _a/g/ z/ ^f/ z/ c/ d/d/ F | "D7" z/ c/ d/d/ f/g/ z/ a/ z/ c/ d/c/ d |
+"G7" z/ f'/ e' d'/b/ z/ g/ z/ f/4e/4 d/B/4A/4 G | "G7" z/ c/ d/d/ f/ z/ a/ z/ c/d/ c/ d z/ |
+"G7" z/ f'/ e' d'/b/ z/ g/ z/ f/4e/4 d/B/4A/4 G | "G7" z/ c/ d/d/ f/ z/ a/ z/ c/d/ c/ d z/ |
+"F7" c/d/ f/ "Eb7"d/ _e/f/ "D7" g/a/- a c' z | d/f/ "Bb7" g/f/ _a/ "Ab7"g/4e/4 d/b/- "G7" b d' z |
+"Gm7" d/f/ g/f/ "C7" f'/_a/ g/f/ "F7" f d z | "E7#9" g/f/ g/f/ d "A9#11" c/a/ z b d' :|

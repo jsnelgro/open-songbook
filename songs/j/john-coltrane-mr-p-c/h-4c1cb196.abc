@@ -1,0 +1,27 @@
+---
+workId: john-coltrane-mr-p-c
+arrangementId: h-4c1cb196
+title: Mr. P.C.
+artist: John Coltrane
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mr. P.C.
+C:John Coltrane
+Z:©2019 6EQUJ5 9/28/2019
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Cm7" C/C/D/D/ E/E/F/F/ | G3/2 F/ E/ C B,/ | C2 B,3/2 C/- |
+C z z2 |  "Fm7" F/F/G/G/ A/A/B/B/ | c3/2 B/ G/ F E/ |
+"Cm7" C2 B,3/2 C/- | C z E/C/E/_G/- |  "Ab7" G/ F3 _G/- |
+"G7" G/ F E/ F E | "Cm7" C2 B,3/2 C/- | C z z2 |]

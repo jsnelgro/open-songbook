@@ -1,0 +1,32 @@
+---
+workId: wayne-shorter-ping-pong
+arrangementId: h-23ed163c
+title: Ping Pong
+artist: Wayne Shorter
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ping Pong
+C:Wayne Shorter
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+L:1/4
+Q:1/4=240
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bb13""_Intro" G z/ G/ z2 | "B13" _A z/ A/ z2 | "Bb13" G z/ G/ z2 | "B13" _A z/ A/ z2 ::
+"Bb13""_Straight" (3=E/F/^F/ (3G/_A/B/ (3c/B/A/ (3=F/G/A/ | "B13" F/F/ z/ G3/2 D | "Bb13" [C=E] [CE] [B,D] z | "B13" z2 z/ D/ F |
+"Bb13" [C=EG] [CEG] [B,DF] z | "B13" z z z/ D/ F | "Bb13" [DF_A] [DFA] [C=EG] z | "B13" z2 z/ F/G/B/- |  "Dbmaj7""^Swing" B4- |
+"Cm7" B/ c3/2 "F7" A G | "Bbmaj7" A G F2- | "Abmaj7" F2 z/ F/G/_A/- |  "G7" A2 F2 | "Gbmaj7" F2 =E2 | "Fm7" G G "Bb7" F z |
+"Ebmaj7" z2 z/ c/d/e/- |  "D7" e2 c2 | "Dbmaj7" c2 =B2 | "Cm7" d f e z |1 "F7" z4 :|2  "F7" z2 e e ||
+"Bbm7" _d4- | "Eb7" d4 | "Abmaj7" z/ e3/2 c z |  "Gbmaj7" z/ e3/2 B e | "Fm7" g c'2 b | "Bb7" z B _a g |
+"F#m7" ^f =b ^g2- |  "B7" g4 || "Bb13""^Straight" (3=E/F/^F/ (3G/_A/B/ (3c/B/A/ (3=F/G/A/ | "B13" F/F/ z/ G3/2 D | "Bb13" [C=E] [CE] [B,D] z |
+"B13" z2 z/ D/ F | "Bb13" [C=EG] [CEG] [B,DF] z | "B13" z z z/ D/ F | "Bb13" [DF_A] [DFA] [C=EG] z |  "B13" z4 |]

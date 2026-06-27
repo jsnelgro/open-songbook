@@ -1,0 +1,70 @@
+---
+workId: hamiet-blueiett-full-deep-and-mellow
+arrangementId: h-42855ec5
+title: 'Full, Deep, and Mellow'
+artist: Hamiet Blueiett
+source: jazz
+key: none
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Full, Deep, and Mellow
+C:Hamiet Blueiett
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/21/2016
+%%score [ [ 1 | 2 ] | 3 | 4 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:none
+%%stretchlast true
+V:1 treble transpose=-9 nm="Alto Sax 1" snm="A. Sx. 1"
+%%MIDI program 65
+V:2 treble transpose=-9 nm="Alto Sax 2" snm="A. Sx. 2"
+%%MIDI program 65
+V:3 treble transpose=-14 nm="Tenor Sax" snm="T. Sx."
+%%MIDI program 66
+V:4 treble transpose=-21 nm="Baritone Sax" snm="B. Sx."
+%%MIDI program 67
+V:1
+[K:A] z4 | B4 | B4 | =c4 |  =c4 |
+B4 | ^A4 | =c4 |  =G4 | B4 | B4 |
+=c4 |  =c4 | B4 | ^A4 | _B4 |  =G4 |
+=c4 | =c4 | c4 |  =c4 | A4 | _B4 |
+_B4 |  =G4 | =c4 | =c4 | c4 |  =c4 |
+A4 | _B4 | _B4 |  =G4 | d2 d3/2 e/- |
+e3/2 e/ e e | d2 d3/2 e/- |  e3 e | d2 d3/2 e/- | e3/2 e/ e e |
+d2 d3/2 e/- |  e3 e | d2 d3/2 e/- | e3/2 e/ e e | d2 d2 |  e4 |
+z4 |]
+V:2
+[K:A] z4 | g4 | ^e4 | =g4 |  g4 |
+f4 | =g4 | _a4 |  c4 | g4 | ^e4 |
+=g4 |  g4 | f4 | =g4 | _a4 |  d4 |
+f4 | ^d4 | d4 |  c4 | =g4 | =g4 |
+_a4 |  =f4 | f4 | ^d4 | d4 |  c4 |
+=g4 | =g4 | _a4 |  =f4 | a2 a3/2 b/- |
+b3/2 b/ b b | a2 a3/2 b/- |  b3 a | a2 a3/2 b/- | b3/2 b/ b b |
+a2 a3/2 a/- |  a3 a | a2 a3/2 b/- | b3/2 b/ b b | a2 a2 |  b4 |
+z4 |]
+V:3
+[K:D] z4 | B4 | F4 | _B4 |  _E4 |
+A4 | ^B4 | =c4 |  ^E4 | B4 | F4 |
+_B4 |  _E4 | F4 | B4 | =c4 |  =F4 |
+A4 | E4 | _E4 |  D4 | _A4 | _B4 |
+c4 |  F4 | A4 | E4 | _E4 |  D4 |
+_A4 | _B4 | =c4 |  A4 | A2 A3/2 _B/- |
+B3/2 B/ B B | A2 A3/2 B/- |  B3 _B | A2 A3/2 _B/- | B3/2 _B/ B B |
+A2 A3/2 _B/- |  B3 _B | A2 A3/2 _B/- | B3/2 _B/ B B | A2 A2 |  _B4 |
+z4 |]
+V:4
+[K:A] z2 a/=g/=c/d/ | e4- | e2 a/=g/=c/d/ | e4- |  e2 a/=g/=c/d/ |
+e4- | e2 e/d/=c/A/ | =c4- |  c2 a/=g/=c/d/ | e4- | e2 a/=g/=c/d/ |
+e4- |  e2 a/=g/=c/d/ | e4- | e2 e/d/=c/A/ | =c4 |  =C3 =c |
+a4- | a a =g =f | e4- |  e2 z e | d4- | d2 =c A |
+=c4- |  c2 z =c | a4- | a a =g =f | e4- |  e2 z e |
+d4- | d2 =c A | c4- |  c2 a/=g/=c/d/ | =C2 C3/2 =G/- |
+G3/2 =G/ G G | =C2 C3/2 =G/- |  G3 =G | C2 C3/2 =G/- | G3/2 =G/ G G |
+=C2 C3/2 =G/- |  G3 =G | =C2 C3/2 =G/- | G3/2 =G/ G G | C2 C2 |  =G4 |
+z4 |]

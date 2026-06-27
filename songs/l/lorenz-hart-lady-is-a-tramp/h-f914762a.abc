@@ -1,0 +1,30 @@
+---
+workId: lorenz-hart-lady-is-a-tramp
+arrangementId: h-f914762a
+title: Lady is a Tramp
+artist: Lorenz hart
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Lady is a Tramp
+C: Lorenz hart
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/lady-is-a-tramp/
+K: C
+|:"C^7" z2 c2 B3 d|"A7b9"_B2 B4 B2|"Dm7"A3FA2 B2-|"G7"B8|
+"C^7" z2 c2 B3 d|"A7b9"_B2 B4 B2|"Dm7"A3FA2 G2-|"G7"G8|
+"C7sus4"z2 c2G3 E|"Gm7"D2D2 "C7"z2 D2|"F^7"C3 DE2 F2-|"Bb7sus4"F4 "Bb7"z4|
+"Em7"z2 E2 "A7"E3 E|"Dm7"D2D2"G7"D2D2|[1 "C6"C4 "A+7"z4|"Dm7"z4 "G7"z4:|[2 "C6"C8|z2C2E2G2||
+"Dm7"A8|"G7"B8|"Em7"B3GE2A2-|"A7"A8|
+"Dm7"A3FD2G2-|"G7"G8|"Bb7#11"zG3 "A7"A4|"Dm7"zA3 "G7"B4||
+"C^7" z2 c2 B3 d|"A7b9"_B2 B4 B2|"Dm7"A3FA2 B2-|"Bbm7b5"B4 "E7"z4|
+"Am7"z2 c2c3c|"Dm7"d2d2"G7"d2d2|"C^7"c8-|c8||

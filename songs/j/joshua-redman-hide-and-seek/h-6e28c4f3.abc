@@ -1,0 +1,32 @@
+---
+workId: joshua-redman-hide-and-seek
+arrangementId: h-6e28c4f3
+title: Hide & Seek
+artist: Joshua Redman
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hide & Seek
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/14/2017
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "B7#9" ^f z z2 | z4 | z z/ ^f/ =f ^f/g/ | z/ ^f/z/g/ z/ =f/ z |  ^f =f/^f/ z2 |
+z4 | z/ ^f/ z =f z/ ^f/ | z/ c' =b/ a3/2 ^f/ |  "E7#9" f d/=e/ z2 | z4 | z/ ^f d/ =f ^c |
+=e c ^d =B |  "B7#9" d z/ ^c/ d z | z4 | z/ d z/ =e/ ^c f/ | d/^f/^d/=e/ ^g/=f/z/a/ |
+"F#7#9" ^a =a/^a/ z2 | z4 | z/ ^a ^f/ =f/^f/z/d'/- | d'/ ^c'3/2 ^a ^f |  "E7#9" f z ^d/=e/ z |
+z4 | z/ =e z/ =B z/ e/- | e/ c' =b/ a =e |  "B7#9" ^d z3/2 =d/ ^d | z4 |
+z z/ ^D/ c/ ^g3/2 | A/ f3/2 ^F/ d3/2 |  =B A B z | z4 | z/ =B c ^c d/- |
+d/ ^d =e f z/ :|

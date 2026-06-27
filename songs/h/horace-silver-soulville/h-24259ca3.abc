@@ -1,0 +1,40 @@
+---
+workId: horace-silver-soulville
+arrangementId: h-24259ca3
+title: Soulville
+artist: Horace Silver
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Soulville
+C:Horace Silver
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 9/8/2019
+Z:
+L:1/4
+Q:1/4=90
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bb""_A" B, z z (3E/4F/4E/4_D/ | E2 _D3/2 B,/- | B, z3 | z/ F,/z/F,/ _A, B, |
+z/ B,/ _D/4B,/4 E3/2 D/B,/ | F/ d3/2 (3E/4F/4E/4_D/ B, | z/ B,/ _D/ E3/2 D/B,/ |S F/ _A3/2 (3E/4F/4E/4_D/ B, |
+E/_D/B,/_A,/- A,2- | A, z _A,/F,/C/G,/- | G,2 z2 |1 =E _E/_D/ E/D/B,/_A,/ :|2
+"_B" z7/2 [EF_AB]/- || [EFAB] z2 z/ E/- | E _G/E/ (3_A/4B/4A/4G/ E/_D/ | E z z2 |  z7/2 [B,_DE_A]/- | [B,DEA] z2 z/ _D/- |
+D _F/_D/ (3_G/4_A/4G/4F/ D/_C/ | _D z2 z/ _G/- |  G F/E/ _C/E/_D/C/ | B, z2 (3E/4F/4E/4_D/ |
+E2 _D3/2 B,/- | B, z3 |  z/ F,/z/F,/ _A, B, | z/ B,/ _D/4B,/4 E3/2 D/B,/ | F/ d3/2 (3E/4F/4E/4_D/ B, |
+z/ B,/ _D/ E3/2 D/B,/ |  F/ _A3/2 (3E/4F/4E/4_D/ B, | E/_D/B,/_A,/- A,2- | A, z _A,/F,/C/G,/- |
+G,2 z2 |  =E _E/_D/ E/D/"^To Coda"B,/_A,/ |:
+"Bbm7""_C""^Solos" B, z z2 | "Ebm7" z4 | "Bbm7" z4 |  "Bb7" z4 | "Ebm7" z4 | "Ebm7" z4 | "Bbm7" z4 |  "Bbm9" z4 |
+"Cm7" z4 | "F7" z4 | "Bbm7" z4 "Gm7" |  "Cm7" "F7" z4 ::
+"Bb""_D""^Nifty Trio Thing" B/ z/ f/z/4_d/4 e/z/4d/4 e/4f/4z/4B/4 | z/4 _d/4 z3/2 c/4d/4e/4c/4 d/4B/4F/4E/4 | _D/4B,/4 z/ z z2 |
+z/ B/4B/4 _c/4B/4_A/4_G/4 F/4E/4D/4F/4 A/4c/4B/4A/4 | _G/4E/4 z/ z z2 | f f/>_d/ e/>d/ e/4f/4z/4B/4 | z/4 _d/4 z/ z z2 |
+z/4 _d/4 z/ z z2 | z/ =B,/4D/4 F/4_A/4G/4F/4 =E/4G/4B/4_d/4 c/4B/4=A/4c/4 | e/4_g/4f/4e/4 _d/4_G/4 z/ z2 |
+z2 (3_A/4B/4A/4F/ c/G/- |  G2 z2 | f f (3e/4f/4e/4_d/ B/"^D.S. al Coda"_A/ :|
+O "Bbm6""_E" B,4 |]

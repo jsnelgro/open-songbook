@@ -1,0 +1,36 @@
+---
+workId: oscar-petitford-tricotism
+arrangementId: h-9d969bcc
+title: Tricotism
+artist: Oscar Petitford
+source: jazz
+key: Bbmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Tricotism
+C:Oscar Petitford
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:3/24/2017
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bbmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Bb""^Intro" F/G/ =G/ A G/ _G/F/ | =g/_g/=e/d/ =B/ A z/ | [Fc]/[Gd]/ [=G=d]/ [Ae] [Gd]/ [_G_d]/[FB]/ |
+z/ d/ e/4=e/4_e/4d/4 e/B/ z |  [Fc]/[Gd]/ [=G=d]/ [Ae] [Gd]/ [_G_d]/[FB]/ |!8vb(! z/ F,/G,/=G,/ ^G,/=G,/_G,/F,/!8vb)! | z/ "Eb7" =g3/2 g2 |
+"D7" g g2 g/ "Db"f/ |  "Bb" z g/a/ d'/=g/ (3_g/=g/_g/ | =e/d/A/=G/ _G z/ A/ ||
+"^Head\n" B/ "Dbmaj7"c/B/A/ z z/ F/ | E/F/E/D/ z/ z/ z/ F/ |  c/ "Eb7"B/=G/F/ =D/E/G/c/ | B/ "Eb7"=G/e/f/ z z/ D/ |
+G/ "Gbmaj7"G/D/G/ =G/ "Gdim"G/D/G/ | "Dbmaj7" A (3A/=G/_G/ F/ "Bb7"_c/B/=A,/ |  B,/ "A7"D/=E/=G/ ^F/E/=B/=A/ | A "Ebm7" z/ z/ z/ "Ab7" z/ A/ z/ |
+B/ "Dbmaj7"c/B/A/ z/ z/ z/ F/ | E/F/E/D/ z/ z/ z/ F/ |  c/ "Eb7"B/=G/F/ =D/E/G/c/ | B/=G/e/f/ z z/ (3:2:2B/=A/4 |
+G/ "Gbmaj7"G/D/G/ =G/ "Gdim"G/D/G/ | "Dbmaj7" A (3A/=G/_G/ F/ "Bb7"_c/B/=D/ |  E/ "Ebm7"F/G/B/ =A/ "Ab7"F/G/C/ | "Dbmaj7" D z/ z/ z/ z/ z/ z/ |
+z/ "A7" =A,/^C/=E/ =G/^F/E/=D/ | ^C/=E/G/=B/ =A z/ G/ |  A/ "Dbmaj7"A/=G/G/ c/B/A/_G/ | "Cm7" F3/2 (3A/=G/_G/ "F7"F/ E/D/ |
+B,/ "Bbm7"D/F/B/ =A/F/ "Bbmaj"D/E/ | F/ "Bbm7"D/B,/C/ D z/ F/ |  "Eb7" E/F/G/B/ d/B/G/F/ | E/ "Ebm7"B,/D/C/ z/ "Ab7" z/ z/ A/ |
+B/ "Dbmaj7"c/B/A/ z/ z/ z/ F/ | E/F/E/D/ z/ z/ z/ F/ |  c/ "Eb7"B/=G/F/ =D/E/G/c/ | B/=G/e/f/ z z/ (3:2:2B/=A/4 |
+G/ "Gbmaj7"G/D/G/ =G/ "Gdim"G/D/G/ | "Dbmaj7" A (3A/=G/_G/ F/ "Bb7"_c/B/=D/ |  E/ "Ebm7"F/G/B/ =A/ "Ab7"F/G/C/ | "Dbmaj7" D z/ z/ z/ "Ab7" z/ z/ z/ |]

@@ -1,0 +1,41 @@
+---
+workId: horace-silver-senor-blues
+arrangementId: h-b0eadd00
+title: Senor Blues
+artist: Horace Silver
+source: jazz
+key: Ebmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Senor Blues
+C:Horace Silver
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=225
+M:6/8
+%%songbook-source lots_of_jazz
+K:Ebmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ z/ z/ z/ z/ B,/ |: E, "Ebm7" B,/ E/ E/ D/ | E D/ E/ F/ B,/ | E,/ B,/ D/ E/ E/ D/ |
+E D/ E/ D/ B,/ :| E, "Ebm7" B,/ E/ E/ D/ | E D/ E/ F/ B,/ |"^Break" G,/ z/ z/ "Eb" [F=A]/ [GB] |
+(3[F=A]/4[GB]/4[FA]/4 [DG]/ z/ z/ [B,E]/ [A,D]/ || "Ebm7""^A" [B,E]3/2- [B,E] [DG]/ | z3 | "Ebm7" z3/2 [F=A]/ [GB] |  (3[F=A]/4[GB]/4[FA]/4 [DG]/ z/ z/ [B,E]/ [A,D]/ |
+[B,E]3- | [B,E]3 | "Ebm7" z3/2 [F=A]/ [GB] |  (3[F=A]/4[GB]/4[FA]/4 [DG]/ z/ z/ [=B,E]/ [=A,D]/ | "B9" [=B,E]3/2- [B,E] [DG]/ | z3 |
+z3/2 [F=A]/ [GB] |  (3[F=A]/4[GB]/4[FA]/4 [DG]/ z/ z/ [B,E]/ [A,D]/ | "Ebm7" [B,E]3- | [B,E]3 | z3/2 [GB]/ [Bd]/ [G=A]/ |  z3/2 z/ [F=A]/ [EG]/ |
+"Bb7" [FA]3/2- [F=A] [GB]/ | z3 | "Ab13" z3/2 [F=A]/ [GB] |  (3[F=A]/4[GB]/4[FA]/4 [DG]/ z/ z/ [B,E]/ [A,D]/ | "Ebm7" [B,E]3- | [B,E]3 | z3 |
+"Ebm7" z/ [Be]/ [dg]/ [ea]/ [dg]/ [Be]/ ||"^B" [dg]/4[ea]/4 z z3/2 | z3 | z3/2 z/ [Be]/ [dg]/ |  [ea]/ [dg]/ [Be]/ [dg]/ [Be]/ [Ad]/ | [Be]/ z/ z/ z/ z/ z/ |
+z3 | z3 |  z/ [=Ae]/ [dg]/ [ea]/ [dg]/ [Ae]/ | "B9" [dg]/4[ea]/4 z/ z/ z/ z/ z/ | z3 | z3/2 [=Ae]/ [dg]/ [ea]/ |
+[dg]/ [Be]/ [dg]/ [Be]/ [Ad]/ [Be]/ | "Ebm7" z3 | z3/2 [GB]/ [Bd]/ [G=A]/ | z3/2 z/ [FA]/ [EG]/ |  "Bb7" [FA]3/2- [FA] [GB]/ | z3 |
+"Ab13" z3/2 [F=A]/ [GB] | (3[F=A]/4[GB]/4[FA]/4 [DG]/ z/ z/ [B,E]/ [A,D]/ |  "Ebm7" [B,E]3- | [B,E]3 | z3 ||"^Solos" z3 |: "^C""^Ending" [Be]3- |
+[Be]3 "Ebm7" | z3/2 z/ [dg]/ [Be]/ | [Ad]/ [FB]/ [EA]/ [DG]/ [B,E]/ [A,D]/ |  [B,E]3- | [B,E]3 | z3/2 z/ [B,E]/ [DG]/ |
+[EA]/ [DG]/ [B,E]/ [DG]/ [B,E]/ [A,D]/ |  [B,E]3- | [B,E]3 | z3/2 z/ [B,E]/ [DG]/ | [EA]/ [DG]/ [B,E]/ [DG]/ [B,E]/ [A,D]/ |  [B,E]3- |
+[B,E]3 |1 z3 | z3 :|2  "Eb" E,/ z z3/2 ||
+z D/ E/ D/ B,/ | E,/ z/ z/ z/ z/ z/ | z!8vb(! D,/ E,/"^in hat" D,/ B,,/ |  E,,/ z/!8vb)! z/ z/ z/ z/ |]:
+"Ebm7""_Solos" z3 | z3 | z3 |  z3 | z3 | z3 | z3 |  z3 |
+"B7" z3 | z3 | z3 |  z3 | "Ebm7" z3 | z3 | z3 |  z3 | "Bb13" z3 | z3 | "Ab13" z3 |  z3 | "Ebm7" z3 | z3 | z3 |  z3 :|

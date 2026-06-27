@@ -1,0 +1,35 @@
+---
+workId: richard-rodgers-blue-moon
+arrangementId: h-00be786f
+title: Blue Moon
+artist: Richard Rodgers
+source: jazz
+key: Eb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Blue Moon
+C: Richard Rodgers
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing
+%%songbook-uri /post/blue-moon/
+K: Eb
+P: A
+B2||"Eb"B4-"Cm7"B4-|"Fm7"BABc "Bb7"BBAB-|"Eb"B4-"Cm7"B4-|"Fm7"BFGA "Bb7"GGFG-|
+"Db7"G4-"C7"G4-|"B7"GEFG "Bb7"EEDE-|"Eb"E4-"Cm7"E4|"Fm7"z4 "Bb7"z2B2||
+P: A
+"Eb"B4-"Cm7"B4-|"Fm7"BABc "Bb7"BBAB-|"Eb"BB3-"Cm7"B4-|"Fm7"BFGA "Bb7"GGFG-|
+"Db7"GG3-"C7"G4-|"B7"GEFG "Bb7"EEDE-|"Eb"EE3-"Ab7"E4|"Eb"z4 zE EE||
+P: B
+"Fm7"FFFF "Bb7"G2G2|"Eb"EE3- EEEE|"Fm7"FFFF "Bb7"G2G2|"Eb"E4 "A7"zE EE|
+"Abm7"EEEE "Fb7"F2F2|"Gb^7"_DD3-DDDD|"Bb/F"=DDDD"F7"F2F2|"Fm7"B4 "Bb"z2B2||
+P: A
+"Eb"B4-"Cm7"B4-|"Fm7"BABc "Bb7"BBAB-|"Eb"B4-"Cm7"B4-|"Fm7"BFGA "Bb7"GGFG-|
+"Db7"G4-"C7"G4-|"B7"GEFG "Bb7"EEDE-|"Eb"E8|z8||

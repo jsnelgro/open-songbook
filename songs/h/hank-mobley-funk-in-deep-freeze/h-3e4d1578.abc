@@ -1,0 +1,39 @@
+---
+workId: hank-mobley-funk-in-deep-freeze
+arrangementId: h-3e4d1578
+title: Funk In Deep Freeze
+artist: Hank Mobley
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Funk In Deep Freeze
+C:Hank Mobley
+C:Chet Baker
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 12/11/2016
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+C/=D/F/A/ |: B3/2 A/ z z/ _c/- | c/A/B/A/ z/ F/z/A/ | B/A/B/A/ B A/F/ |  z z/ A F/ A |
+[F=d]3/2 [F_d]3/2 [Fc]- | [Fc] [F_c] z/ F/A/B/- | B/- B A/ z/ F/E/F/ |1  z z C/=D/F/A/ :|2 z/ =E F G/ B/c/ ||
+=d e =B c/d/ | z z/ =B/ (3c =d e |  =e f3 | z4 | f3/2 B/ B2 | z z/ f2 e/ |
+d/c/c/c/ z/ f/z/c/ | B z C/=D/F/A/ | B3/2 A/ z z/ _c/- | c/A/B/A/ z/ F/z/A/ |  B/A/B/A/ B A/F/ |
+z z/ A F/ A | [F=d]3/2 [F_d]3/2 [Fc]- | [Fc] [F_c] z/ F/A/B/- |  B/- B A/ z/ F/E/F/ |"_Break" z4 |]
+V:2
+z2 |: "Fm7" z2 z B/ "Db7"B/- | B z z z | "Gm7b5" z z "C7" B B/ "Fm7"B/ |  z4"^Break" |
+"Bb7" B3/2 "Eb7" B3/2 "Ab7" B- | B "Db7" B z z/ "Gm7b5" B/- | B3/2 "C7" c2 "Fm7" c/ |1  z2 "C7" z2 :|2"^Break" z4 ||
+"Cm7" z4 | "F7" z4 |  "Bbmaj7" z4 | "Bbmaj7" z4 | "Bbm7" z4 | "Eb7" z4 |
+"Abmaj7" z4 "Ab7" | "Gdim7" z4 "C7" | "Fm7" z2 z "Db7" B/B/- | B z z z |  "Gm7b5" z z "C7" B "Fm7" B/B/ |
+z4 | "Bb7" B3/2 "Eb7" B3/2 "Ab7" B- | "Db7" B B z z/ "Gm7b5" B/ |  z4 "C7" "Fm7" | "C7" z4 |]

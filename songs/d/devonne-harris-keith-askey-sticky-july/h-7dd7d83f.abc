@@ -1,0 +1,28 @@
+---
+workId: devonne-harris-keith-askey-sticky-july
+arrangementId: h-7dd7d83f
+title: Sticky July
+artist: 'Devonne Harris, Keith Askey'
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sticky July
+C:Devonne Harris, Keith Askey
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 12/16/2019
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"F#m7""^A" "Bm7" z4 | "A7" "Dmaj7" z4 | "A69" "Dmaj7" z4 | "A9" "Dmaj7" z4 |:
+"F#m7""^B""_Freely" c/B/ A/ "Bm7" F3/2 E/D/ | "A7" E A "Dmaj7" F F | "A69" E A "Dmaj7" F F |1,2,3,4 "A9" E A "Dmaj7" F2 :|
+"Bmaj7""^C" B4 | "Em7" e4 | "G#m7" ^g4 | "A7" a4 |  "Dmaj7" d'4 | "C#7" ^^c'4 | "C7" c4 | "Bmaj7" b4 |  "Em7" e'4 | "G#m7" ^^f'4 | "A7" a'4 | "Dmaj7" d''4 |  "C#7" c''4 | "C7" =c''4 |
+"C7" =c''4 :|

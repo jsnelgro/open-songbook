@@ -1,0 +1,31 @@
+---
+workId: sonny-rollins-sonnymoon-for-two
+arrangementId: h-356e25b3
+title: Sonnymoon For Two
+artist: Sonny Rollins
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sonnymoon For Two
+C:Sonny Rollins
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/28/2016
+Z:
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ "Bb7" B3/2 _A F | "Eb7" E _D B,/B,/z/B,/ | "Bb7" z/ z E/- E _D/B,/ | z/ B,/_D/E/- E D/B,/ |
+"Eb7" z/ B3/2 _A F | E _D B,/B,/z/B,/ | "Bb7" z/ z E/- E _D/B,/ | z/ B,/_D/E/- E D/B,/ |  "Cm" z/ B3/2 _A F |
+"F7" E _D B,/B,/z/B,/ | "Bb7" z/ z E/- "G7" E _D/B,/ | "Cm7" z/ B,/_D/E/- "G7" E D/B,/ ||  "Bb7" z/ B3/2 _A F | "Eb7" E _D B,/B,/z/B,/ |
+"Bb7" z/ B,/_D/E/- E D/B,/ | z/ B,/_D/E/- E D/B,/ |  "Eb7" z/ B3/2 _A F | E _D B,/B,/z/B,/ |
+"Bb7" z/ B,/_D/E/- E D/B,/ | z/ B,/_D/E/- E D/B,/ |  "Cm7" z/ B3/2 _A F | "F7" E _D B,/B,/z/B,/ |
+"Bb7" z/ B,/_D/E/- "G7" E D/B,/ | "Cm7" z/ B,/_D/E/- "G7" E D/B,/ |]

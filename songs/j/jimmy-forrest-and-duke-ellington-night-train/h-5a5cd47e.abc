@@ -1,0 +1,31 @@
+---
+workId: jimmy-forrest-and-duke-ellington-night-train
+arrangementId: h-5a5cd47e
+title: Night Train
+artist: Jimmy Forrest & Duke Ellington
+source: jazz
+key: G
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Night Train
+C: Jimmy Forrest & Duke Ellington
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues,Duke Ellington
+%%songbook-uri /post/night-train/
+K: G
+P: Intro
+"G7"[Bdb]6 z[Bdb]-|[Bdb]2z2z2 zG|BAGED2CB,-|B,4z4|
+"C7"[_Bd_b]6 z[Bdb]-|[Bdb]2z2z2 zG|"G7"BAGED2CB,-|B,4z4|
+"Eb7"[_Bd_b]6 z[Aca]-|"D7"[Aca]2z2z2 zG|"G7"BAGED2CB,-|B,4z2z d||
+P: Verse
+"G7"gg_bb gged|"C7"gg_bb gged|"G7"gg z2 !>!G2z2|!>!G2 z !>!G-G2 zd|
+"C7"gg_bb gged|gg_bb gged|"G7"gg z2 !>!G2z2|!>!G2 z !>!G-G2 zd|
+"Am7"gg_bb gged|"D7"gg_bb gged|"G7"gg z2 !>!G2z2|!>!G2 z !>!G-G4||

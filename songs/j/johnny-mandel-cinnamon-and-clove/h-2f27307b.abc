@@ -1,0 +1,41 @@
+---
+workId: johnny-mandel-cinnamon-and-clove
+arrangementId: h-2f27307b
+title: Cinnamon and Clove
+artist: Johnny Mandel
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cinnamon and Clove
+C:Johnny Mandel
+C:Zoot Sims
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/14/2017
+L:1/4
+Q:1/4=104
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Gm7""^Intro" z4 | "Gm/Gb" z4 | "Gm/F" z4 | "Gm/E" z4 |  "Gm" z4 | "Gm/Gb" z4 | "Gm/F" z4 | "Gm/E" z4 |
+z z/ D/ G/z/A/ z/ | B/G/z/B/ z/ G/z/c/- || "Fm7""^A" c4- | "Bb9" c4- |  "Eb13" c3/2 _d/ c d/G/- |
+"Adim" G F/ D C D/- | "G" D4- | "Am7" D4 |  "Bm7" z z/ D/ G/z/A/ z/ | "Bb13" B/G/z/B/ z/ G c/- | "Ebmaj7" c4- |
+"Fm7" c4 |  "Gm" z z/ _d/ c B/G/- | "Adim" G F/D/ z/ B/z/G/- | "Gm" G4- | "Gm/Gb" G4 |  "Gm/F" z z/ D/ G D/C/- |
+"Dm/E" C/D/4C/4 B,/C/ z/ D F/- | "Ddim" F4- | "G7#9" F4- |  "Ddim" F z/ _A/ G F/E/- | "G7" E D/=B,/- B,/ A,3/2 |
+"Cm6" G,3/2 G2- G/- | "A7" G2 z/ F/z/E/ |  "A7" D/ _D3/2 A2- | "D7" A3/2 G/ F/ E D/- | "Eb13" D/- D c2- c/- |
+"Adim" c2- c2 |  z z/ _d/ c B/G/- | G F/D/ z/ B/z/G/- | "Gm" G4- | "Gm/Gb" G4 |  "Gm/F" z z/ _d/ c B/G/- |
+"Gm/E" G F/ D B/ z/ G/- | "Gm" G4- | "Gm/Gb" G4- |  "Gm/F" G4 | "Gm/E" z3/2 G,/ z D/G/ | "Cm7" F4- |
+"F9" F3/2 G/ z/ F/ z/ D/4C/4 |  "Bb" D D3 | "E7" z z/ D/ G/B/d/c/- | "Adim" c4- | "D7" c/d/z/c/ B/G/z/B/ |
+"Gm7" z/ G/- G3 | "Gm6" z/ G,/z/B,/ z/ D/z/G/ | "Cm7" F4 | "F9" z/ G/z/F/ z/ D C/ |  "Bb" D4- | "Eb" D B,/D/ z/ F/z/A/ |
+"Edim" G4 | "A7" z/ c/z/B/ A/G/z/^F/ |  "D7" z/ D/C/D/- D2- | "Adim" D4 "D7" | "Gm6" z3/2 D/ G/z/A/ z/ |
+B/c/4B/4 G/ z/ B/G/z/c/- |  "Cm7" c4- | "Bb9" c4 | "Eb13" z z/ _d/ c d/G/- | "Abdim" G/-G/ F/ D C/ z/ D/- |
+"Gmaj7" D4- | "Am7" D4 | "Bm7" z z/ D/ G/z/A/ z/ | "Bb13" B/G/z/B/ z/ G c/- |  "Fm7" c4- | "Bb9" c4 |
+"Eb13" z3/2 _d/ c B/G/- | "Adim" G F/D/ z/ B/z/G/- |  "Gm7" G4- | "Gm7/Gb" G2 z2 | "Gm7/F" z/ z/ z z2 | "Gm/E" z4 |
+"Gm" z4 | "Gm/Gb" z4 | "Gm/F" z4 | "Gm/E" z4 |]

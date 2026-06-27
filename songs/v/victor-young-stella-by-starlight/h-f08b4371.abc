@@ -1,0 +1,34 @@
+---
+workId: victor-young-stella-by-starlight
+arrangementId: h-f08b4371
+title: Stella By Starlight
+artist: Victor Young
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Stella By Starlight
+C: Victor Young
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing
+%%songbook-uri /post/stella-by-starlight/
+K: Bb
+P: A
+B2||"Em7b5"A8-|"A7b9"A2G2A2B2|"Cm7"F8-|"F7"F4 z2 F2|
+"Fm7"G8-|"Bb7"G2F2F2G2|"Eb^7"B,8-|"Ab7"B,4 z2 C2|
+"Bb^7"E2D2C2B,2|"Em7b5"D4 "A7b9"z2 =E2|"Dm7"G3 F F4-|"Bbm7"F4 "Eb7"z2 G2|
+"F^7" B2A2G2F2|"Em7b5"G4 "A7"A2B2|"Am7b5"d3 c c4-|"D7b9"c4d4||
+P: B
+"G7"e8-|e2e2e2d2|"Cm7"f8-|f2e2 (3d2c2B2|
+"Ab7"d4 d4-|d2c2B2A2|"Bb^7"c8-|c6 B2||
+P: C
+"Em7b5"A8-|"A7b9"A2G2A2B2|"Dm7b5"F8-|"G7b9"F2F2F2E2|
+"Cm7b5"_G8-|"F7b9"G2 _G2 G2 F2|"Bb^7"F8|z8||

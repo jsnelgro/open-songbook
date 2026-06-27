@@ -1,0 +1,29 @@
+---
+workId: duke-ellington-things-ain-t-what-they-used-to-be
+arrangementId: h-2290ba6d
+title: Things Ain't What They Used To Be
+artist: Duke Ellington
+source: jazz
+key: F
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Things Ain't What They Used To Be
+C: Duke Ellington
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues,Duke Ellington
+%%songbook-uri /post/things-aint-what-they-used-to-be/
+K: F
+"F7" (3zFA (3c^cd =c2dz|F3Az4|(3zFA (3c^cd =c2dz|F3Az4|
+"Bb7" (3zBd (3f^fg=f2gz|B3dz4|"F7" (3zFA (3c^cd =c2dz|F3Az3 c|
+"Gm7"f_ec2 z3c|"C7"(3f_ec (3fec _e2 =ef-|"F7"f6 z2|z4z3 F||
+"F7"^G3Az3F|^GAGA GF_EC|^G3Az3F|^GAGA GF_EC|
+"Bb7"=G3_Az3F|G_AGA GF_EC|"F7"^G3Az3F|^GAGA GF_Ec|
+"Gm7"f_ec2 z3c|"C7"(3f_ec (3fec _e2 =ef-|"F7"f8|z8||

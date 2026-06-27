@@ -1,0 +1,32 @@
+---
+workId: sonny-clark-news-for-lulu
+arrangementId: h-c548b7ea
+title: News For Lulu
+artist: Sonny Clark
+source: jazz
+key: Fmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:News For Lulu
+C:Sonny Clark
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/21/2016
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Fmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z7/2 C/ |: F,/C/"^Piano Intro"A/E/ z/ =D/z/C/ | F,/C/A/E/ z/ =D/z/C/ | F,/C/A/E/ z/ =D/z/C/ |
+F,/C/A/E/ z/ =D/z/C/ :: "Fm7""^A"S c4- | c2 z/ F/A/B/ | _c/B/A/F/ A/ B3/2- |  B3 z/ A/ |
+"Gm7" B4- | "C7#9" B z/ _c/ B/A/F/E/ |1 "Fm7" F3- F/E/ |  "C7#9""^Piano Fill" z7/2 C/ :|2 "Fm7" F3- F/F/ ||"^Piano Fill" z z z F |
+"Bbm7""^B" f2- f2- |  "Eb7" f z/ z/ (3=e/^f/e/ _e/d/ | "Abmaj7" c4- | "Cm" c2 "F7" z F | "Bbm7" f4- |
+"Eb7" f z/ [^F=B=e]/ z/ [=F_B_e]/z/[EAd]/ | "Gm7" [=DGc]2- [DGc]/=B/c/ "C7#9"[=E_Be]/ | z7/2 F/ | "Fm7""^A" c4- |  c2 z/ F/A/B/ |
+_c/B/A/F/ A/ B3/2- | B3 z/ A/ | "Gm7" B4- |  "C7#9" B z/ _c/ B/A/F/E/ | "Fm7""^To Coda" F4"^Solo Break, 1st soloist" |"_AABA" z z z2"_D.S. al Coda" |
+O "Fm7" F4- |  "Bb7" F z/ _c/ B/A/F/E/ | "Eb7" F4- | "Ab7" F z/ _c/ B/A/F/E/ | "Db7" F4- |
+"Gb7" F z/ C/ E/C/E/=E/- | "E7/F" E2- E2 |]

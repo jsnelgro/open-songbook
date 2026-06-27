@@ -1,0 +1,35 @@
+---
+workId: jimmy-van-heusen-polka-dots-and-moonbeams
+arrangementId: h-0e25ffea
+title: Polka Dots and Moonbeams
+artist: Jimmy Van Heusen
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Polka Dots and Moonbeams
+C: Jimmy Van Heusen
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Ballad
+%%songbook-uri /post/polka-dots-and-moonbeams/
+K: F
+P: A
+"F^7"zCDE "Dm7"FGAc|"Gm7"A2GF "C7"E D3|"F^7"zCDE "Dm7"FGAc|"Gm7"d2cB "A7"A G3|
+"Dm"FGFG "Db7"F4|"F/C"AAGF "Am7"E "Abm7"_E3|"Gm7"DBGF "C7"Ed2c-|"F"c4z4||
+P: A
+"F^7"zCDE "Dm7"FGAc|"Gm7"A2GF "C7"E D3|"F^7"zCDE "Dm7"FGAc|"Gm7"d2cB "A7"A G3|
+"Dm"FGFG "Db7"F4|"F/C"AAGF "Am7"E "Abm7"_E3|"Gm7"DBGF "C7"EA2F-|"F"F4"E7"z2 E^F||
+P: B
+"A^7" E2 ^c2- "A#o7"c2 e_e|"Bm7"d^c=BA "E7" ^GE3|"A^7"E^FF^G "F#m7"(3 G2A2^c2|"Bm7"e4 "e7"z2E^F|
+"A^7" E2 ^c2- "A#o7"c2 e_e|"Bm7"d^c=BA "E7" ^GE3|"A7"zA2 =B"D7"A2_B2|"Gm7"c2BG- "C7"G2z2||
+P: A
+"F^7"zCDE "Dm7"FGAc|"Gm7"A2GF "C7"E D3|"F^7"zCDE "Dm7"FGAc|"Gm7"d2cB "A7"A G3|
+"Dm"FGFG "Db7"F4|"F/C"AAGF "Am7"E "Abm7"_E3|"Gm7"DBGF "C7"EA2F-|"F"F8||

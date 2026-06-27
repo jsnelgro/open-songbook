@@ -1,0 +1,37 @@
+---
+workId: bobby-timmons-dat-dere
+arrangementId: h-f4d4b1e9
+title: Dat Dere
+artist: Bobby Timmons
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Dat Dere
+C:Bobby Timmons
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 3/19/2016
+Z:
+L:1/4
+Q:1/4=140
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Optional Drunk Piano Intro" z2 z z/ C/ |: "Cm7""^A""^Slovenly!" F/G/ (3C/ "Cm7/Bb"F/E/- E3/2 C/ | "Am7b5" F/G/ (3C/F/E/- "Abmaj7" (3E/C/D/ (3E/G/=A/ |
+"Am7b5" d (3c/G/E/ "D7#9" F/E/ (3F/E/G/- |  "Dm7b5" G2 "G7" z z/ C/ | "Cm7" F/G/ (3C/F/E/- "Cm7/Bb" E3/2 C/ | "Am7b5" F/G/ (3C/F/E/- "Abmaj7" E/C/ (3F/E/F/ |
+"Dm7b5" (3E/F/E/ B/- "G7"B/ (3_G/4F/4E/4C/ (3B,/G,/C/- |1  "Cm7" C2 "G7" z z/ C/ :|2 "Cm7""^B" C2 z c || "Dm7" g/4f/4e/4c/4 "G7" f/e/- "Cm7" (3e/G/G/ (3G/G/G/ |
+"Am7b5" d/4c/4B/4G/4 "D7" c/B/- (3B/ "Gm7"C/D/ (3E/G/=A/ |  "Am7b5" (3d/c/G/ E/ "D7#9"f/ (3e/B/_G/ (3F/E/=G/- | "Dm7b5" G2 "G7" z c |
+"Dm7b5" g/4f/4e/4c/4 "G7" f/e/- (3e/G/ "Cm7"G/ (3G/G/G/ | "Am7b5" d/4c/4B/4G/4 "D7" c/B/- B/ "Gm7"C/ (3F/E/F/ |  "Dm7b5" (3E/F/E/ B "G7" (3F/E/C/ (3B,/G,/C/- |
+"Cm7" C2 z "G7" z/ C/ | "Cm7" F/G/ (3C/F/E/- E3/2 C/ | "Am7b5" F/G/ (3C/F/ "Abmaj7"E/- (3E/C/D/ (3E/G/=A/ |  "Am7b5" d (3c/G/E/ F/ "D7#9"E/ (3F/E/G/- |
+"Cm7" G2 "G7#5" z z/ C/ | "Cm7" F/G/ (3C/F/E/- E3/2 C/ | "Am7b5" F/G/ (3C/F/ "Abmaj7"E/- E/C/ (3F/E/F/ |  "Dm7" (3E/F/E/ B/-B/ "G7" (3_G/4F/4E/4C/ (3B,/G,/C/- |
+"Cm7" C2 "G7" z2"^Fine" |:"^Solos AABA" z4"^After Solos go to c\n" :| z2 z z/ G/ |: "^C""^March Like" c- c/ "Cm7"G/ c/e/- e | "Am7" c e "Ab" f e |
+"Am7" c3/2 G/ "D7" c/e/- e | "Dm7b5" c e "G7" f (3^f/=f/e/ |  "Cm7" c3/2 G/ c/e/-e/-e/ | "Am7" c e "Abmaj7" f (3^f/=f/e/ |
+"D7" (3f/e/c/ (3B/G/^F/ (3=F/ "G7"E/C/ (3B,/G,/C/- |1 "F7" C3 G :|2  "G7""^Swing" C3 z/ c/ || "D7" (3f/z/ "G7"f/- f/f/ "Cm7" e/c/z/G/ |
+"Am7" (3d/z/d/ d/ "D7"c/ (3B/ "Gm7"C/D/ (3E/G/A/ | "Am7b5" d/c/d/c/ f/e/f/e/ |  "Dm7" A3 "G7" z/ c/ | "D7" (3f/z/ "G7"f/- f/ "Cm7"f/ e/c/z/G/ |
+"Am7" (3d/z/d/ "D7" d/c/ "Gm7" B/C/ (3F/E/F/ | "D7" (3E/F/E/ G "G7" G/4_G/4F/4E/4 C/4B,/G,/4- |  "F7" G,/4 C3 z/4 C/"^D.C. al Fine" |]

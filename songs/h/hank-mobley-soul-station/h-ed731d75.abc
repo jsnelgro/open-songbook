@@ -1,0 +1,30 @@
+---
+workId: hank-mobley-soul-station
+arrangementId: h-ed731d75
+title: Soul Station
+artist: Hank Mobley
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Soul Station
+C:Hank Mobley
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/11/2017
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ _G/ (3=G/B/c/ |: "Eb7" e _d B/A/z/_G/ | "Bb7" z z z/ _G/ (3=G/B/c/ | "Eb7" e _d B/A/z/_G/ |
+"Bbm7" z z "Eb7" z/ _c/ (3=c/e/f/ | "Ab7" a f e/_d/z/_c/ | "Ab7" z2 z/ B/ (3d/f/g/ | "Bb7" b/a/ (3z/ "Ab7" f/e/ d B/B/ |
+"Bb7" z z z c/e/ | "Eb7" e/e/ z z (3_g/e/g/ | "Eb7" e/e/ z z (3=a/_a/g/ | "Ab7" e/e/ z z (3a/e/_g/ |
+"Adim7" e/e/ z z (3B/c/e/ | "Eb7" g2 =e/ "Cm7"c/z/c/ | "F7" g/f/e/c/ d "Bb7" z/ B/ | "Eb7" e _d B/A/z/_G/ |  "Bb7" z2 z z/ B/ ::
+"Eb7""^Alternate Changes" z4 | "Eb7" z4 | "Eb7" z4 |  "Eb7" z4 | "Ab7" z4 | "Ab7" z4 | "Bb7" z4 |  "Bb7" z4 |
+"Eb7" z4 | "Eb7" z4 | "Ab7" z4 |  "Abdim7" z4 | "Eb7" "Cm7" z4 | "Fm7" "Bb7" z4 | "Eb7" z4 |  "Eb7" z4 :|

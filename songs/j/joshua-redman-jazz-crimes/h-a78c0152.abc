@@ -1,0 +1,36 @@
+---
+workId: joshua-redman-jazz-crimes
+arrangementId: h-a78c0152
+title: Jazz Crimes
+artist: Joshua Redman
+source: jazz
+key: A
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Jazz Crimes
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©
+L:1/4
+Q:1/4=110
+M:4/4
+%%songbook-source lots_of_jazz
+K:A
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z/ "F#7" B/ z "A13" B z/ "Bb7" B/ | z "Eb7#9" B z/ "D" B/ "C#" B | z/ "F#13" B/ z "B7" B z/ "D7" B/- | B/< "Gmaj7"B/ z/4 z "Bmaj7" B3/4 z/4 "A9" B3/4 ::
+"F#7" z/ F/4E/4 F/>C/ "A13" E/4A/4F/ "Bb7" z/ F/4D/4- | "Eb7#9" D/4F/4C/4F/4 "D" =G/>=C/- "C#" C/4^C/4D/4^A/4 D/=C/4A,/4 |
+"F#13" B,/4D/4F/- F/4=F/ "B7#9"E/4- E/4=G/4^G/4F/4 ^D/ "D7"=D/4=C/4 | "D7" =G/4F/4B,/ "Gmaj7" A,/>B,/ ^A,/4 "Bmaj7"D/4C/4E/4 "A9" ^D/4^G/4A/4E/4 |
+"F#7" z/ F/4E/4 ^A/>G/ "A13" =G/4=c/4 ^c =c/4 "Bb7"^G/4- | "Eb7#9" G/4=G/4d/4B/4 ^d3/4e/c/4f/4 "D"B/4 A/ "C#"^G/4F/4 | "F#13" B/4c/4d/- d/4 "B7"e/=f/^f/4=g/4c/4 B/ "D7"A/4=G/4 |
+"Gmaj7" d/4c/4F/ E/D/4F/4 =F/4 "Bmaj7"A/4G/4=c/4 "A" B/4d/4^d/4=G/4 :|3  "Gmaj7" f2- f/ "A13"f/ f/e/4f/4- | "F#" "G#7" f2- f/f/ f/c/4f/4- |
+"F7" f3/2 "Bb7" ^e/- e e/4f/=g/4 | "F#m7" g2 "B13" z/4 =g/4^g/4=g/4 ^a/4b/4f/4 "G#maj7"g/4 |  "Gmaj7" f2- "A13" f/e/ f/e/4f/4- | "F#" f2- "G#7" f/f/ f/=g/4^g/4- |
+"E" g3/2 "Eb7" =g/- g g/4^g/a/4 | "G#m7" ^a z "C#" z/4 g/4^e/4d/4 B/4G/4^E/4D/4 :|4  "Gmaj7" f2- "A13" f/f/ f/e/4f/4- || "F#" f2- "G#7" f/f/ f/^e/4f/4- |
+"F7" f3/2 "Bb7" ^e/- e e/4f/=g/4 | "F#m9" g2 z/4 "B13" =g/4^g/4=g/4 ^a/4b/4 "G#maj7"f/4g/4 |  "Gmaj7" f2- f/ "A13"a/ b/4a/4f/4e/4 | "F#" f2- f/ "G#7"f/ f/=g/4^g/4- |
+"E7" g3/2 "Eb7" =g3/2 g/4^g/a/4 | "G#maj7" ^a z/ "C#7" b/- b/=a/4b/4 f/e/ |:  "F#7" z4"^Open" | z4 :: z/ "F#7" B/ z "A13" B z/ "Bb7" B/ |
+z "Eb7#9" B z/ "D" B/ "C#" B |  z/ "F#13" B/ z "B7" B z/ "D7" B/- | B/< "Gmaj7"B/ z/4 z "Bmaj7" B3/4 z/4 "A9" B3/4 | z/ "F#7" B/ z "A13" B z/ "Bb7" B/ | z "Eb7#9" B z/ "D" B/ "C#" B |
+z/ "F#13" B/ z "B7" B z/ "D7" B/- | B/< "Gmaj7"B/ z/4 z "Bmaj7" B3/4 z/4 "A9" B3/4 :: "Em7" c3/2 "A13" B2- B/ | "Ebm7" c3/2 "G#7" B2- B/ |  "F7" c3/2 "Bb7" B2- B/ |
+"F#m7" c3/2 "B7" B2- B/ | "Em9" c3/2 "A13" B2- B/ | "Ebm7" c3/2 "G#7" B2- B/ |  "C#m7" c3/2 "F#13" B2- B/ | "G#m7" c3/2 "C#7" B2- B/ :|

@@ -1,0 +1,59 @@
+---
+workId: joshua-redman-greasy-g
+arrangementId: h-11f899ba
+title: Greasy G
+artist: Joshua Redman
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Greasy G
+T:Bass
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 12/26/2016
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+z/ z/ G,,/ | z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z2 z z/ G,,/ |  z z/ _B,,/ z z/ G,,/ |
+z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z/ F,,/ z z z/ _B,,/ |  z/ C,/ z/ z/ z/ F,,/z/G,,/ | z F,, z z/ B,,/- |
+B,, C,/C,/ B,, G,,/F,,/ | z2 z z/ G,,/ |  z z/ _B,,/ z3/2 G,,/ | z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ |
+z/ F,,/ z z z/ _D,/ |  z/ C,/ z3/2 F,,/ z/ G,,/ | z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z2 z z/ G,,/ |
+z z/ __B,,/ z z/ G,,/ | z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z/ F,,/ z z z/ _B,,/ |
+z/ C,/ z/ z F,,/ z/ G,,/ | z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z2 z z/ G,,/ |  z z/ _B,,/ z z/ G,,/ |
+z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z/ F,,/ z z z/ _B,,/ |  z/ C,/ z z/ _G,,/z/F,,/ | z4 |
+z4 | z4 |  z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |
+z4 | z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z2 z z/ G,,/ |  z z/ _B,,/ z z/ G,,/ |
+z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ | z/ F,,/ z z z/ _B,,/ |  z/ C,/ z/ z F,,/ z/ G,,/ | z F,, z z/ B,,/- |
+B,, C,/C,/ B,, G,,/F,,/ | z2 z z/ G,,/ |  z z/ _B,,/ z z/ G,,/ | z F,, z z/ B,,/- | B,, C,/C,/ B,, G,,/F,,/ |
+z/ F,,/ z z z/ __B,,/ |  z/ C,/ z/ z F,,/ z/ G,,/ |: "Gm7""^To CODA" z4 | "Gm" z4 | "C7" z4 |  "C7" z4 ::
+"^CODA""^Drum Solo" z4 | z2 z z/ F,,/ | z z z/ z/ z/ _B,,/ |  z z/ C,/ z z/ G,,/ | z4 | z2 z z/ F,,/ |
+z/ F,,/ z z z/ _B,,/ | "^DC Al Coda" z/ C,/ z z/ ^F,,/z/G,,/ :|
+V:2
+z "G7" B/ | z4 | z3 z/ "F7sus4" B/ | z7/2 "Bbm7/G" B/ |  z3/2 "Abm7/Bb" B/ z3/2 "G7" B/ |
+z4 | z7/2 "F7" B/ | z/ B/ z2 z/ "Ab7sus4" B/ |  z/ "Bb7/C" B/ z3/2 "F7" B/ z/ "G7" B/ | z4 |
+z7/2 "F7" B/ | z7/2 "Bbm7/G" B/ |  z3/2 "Abm7/Bb" B/ z3/2 "G7" B/ | z4 | z7/2 "F7" B/ |
+z/ B/ z2 z/ "Ab7sus4" B/ |  z/ "Bb7/C" B/ z3/2 "F7" B/ z/ "G7" B/ | z4 | z3 z/ "F7sus4" B/ | z7/2 "Bbm7/G" B/ |
+z3/2 "Abm7/Bb" B/ z3/2 "G7" B/ | z4 | z7/2 "F7sus4" f/ | E/ z3 "Ab7sus4/Bb" E/ |
+z/ E/ "Bb7sus4/C" z z/ "F7sus4" E/z/ "G7"E/ | z4 | z7/2 "F7" E/ | z7/2 "Bbm7/G" E/ |  z3/2 "Abm7/Bb" E/ z3/2 "G7" E/ |
+z4 | z7/2 "F7sus4" E/ | z/ D/ z/ z/ z/ z/ E/ "Ab7" z/ |  z/ "Bb7sus4/C" E/ z3/2 "Abm7" E/ z/ E/- | "Gm7/F" E4- |
+E7/2 "Gm7/F" E/- | E4- |  E7/2 E/- | "Bbm7/F" E4- | E7/2 "F#m7" E/- | E4- |  E2 z/ "C#m" c "Cm/Bb" E/- |
+B4- | E7/2 "C#dim/Bb" E/- | G7/2 "Bbm7/Eb" G/- |  E3/2 "Am7/D" E/- E3/2 "Abm7/Db" E/- | E4- | E7/2 "Gm7/C" E/- | E2 "Gm/Bb" E2 |
+"C/A" E2 "C/Ab" E3/2 "G6" E/ | z4 | z7/2 "F7sus4" f/ | z2 z/ z "Bbm7" G/ |  z z/ "Abm7/Bb" B/ z/ z "G7" B/ |
+z4 | z7/2 "F7" G/ | z/ "F7" G/ z z z/ "Ab7sus4/Bb" G/ |  z/ G/ "Bbsus4" z z/ "F7sus4" G/z/ "G7"G/ | z4 |
+z7/2 "F7" B/ | z7/2 "Bbm7/G" G/ |  z3/2 "Abm/Bb" G/ z3/2 "G7" G/ | z2 z | z7/2 "F7sus4" G/ |
+z/ G/ z z z/ "Ab7sus4" G/ |  z4 |: z4 | z4 | z4 |  z4 ::
+z4 | z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 :|

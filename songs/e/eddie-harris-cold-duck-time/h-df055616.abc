@@ -1,0 +1,41 @@
+---
+workId: eddie-harris-cold-duck-time
+arrangementId: h-df055616
+title: Cold Duck Time
+artist: Eddie Harris
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cold Duck Time
+C:Eddie Harris
+Z:©2014 Finmusic/effendi.me
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+|: "Bb7" z4 | "Eb7" z4 | "Bb7" z4 |1 "Eb7" z z _A/B/B/_d/ ::
+"Bb7" z z/"_(""_)" z/ _A/B/B/_D/ | "Eb7" z z/ z/ _A/B/B/_d/ | "Bb7" z/ e/z/f/ _d B/_A/ | "Eb7" B z _A/B/B/_d/ |
+"Bb7" z z/"_(""_)" z/ _A/B/B/_D/ | "Eb7" z z/ z/ _A/B/B/_d/ | "Bb7" z/ e/z/f/ _d B/_A/ | "Eb7" B z _A/B/B/_d/- |
+"Gbmaj13#11" d7/2 B/- | "Abmaj13#11""_Fill/Solo Break" B7/2 "Bb7" B/ | z4 |1"^on Cue" z z/"_(""_)" B,/ _A/B/B/_d/ ::2  z4 "Bb7" ||
+"Eb7" z4 | "Bb7" z4 | z4 "Eb7" |  "Bb7" z4 :|
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |]
+V:2
+|: B,,/F,/_A,/F,/ G,/ B,3/2 | E, F,/_D,/ z2 | B,,/F,/_A,/F,/ G,/ B,3/2 |1 E, F,/_D,/ z2 ::
+B,,/F,/_A,/F,/ G,/ B,3/2 | E, F,/_D,/ z2 | B,,/F,/_A,/F,/ G,/ B,3/2 | E, F,/_D,/ z2 |
+B,,/F,/_A,/F,/ G,/ B,3/2 | E, F,/_D,/ z2 | B,,/F,/_A,/F,/ G,/ B,3/2 | E, F,/_D,/ z z/ _G,/- |
+G,7/2 _A,/- | A,7/2 B,/ | z4 |1 z4 ::2  B,,/_A,,/B,,/-B,,/ z A,,/B,,/ ||
+E,3/4B,,/_D,/B,,/E,/B,,/D,/B,,/4- | B,,/B,,/_A,,/B,,/ z/ A,,/B,,/E,/- | E,/4B,,/_D,/B,,/E,/B,,/D,/B,,/-B,,/4- |  B,,/B,,/_A,,/B,,/ z/ A,,/B,,/E,/ :|
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |]

@@ -1,0 +1,35 @@
+---
+workId: fabian-andre-wilbur-schwandt-dream-a-little-dream-of-me
+arrangementId: h-64a60059
+title: Dream a Little Dream of Me
+artist: 'Fabian Andre, Wilbur Schwandt'
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Dream a Little Dream of Me
+C: Fabian Andre, Wilbur Schwandt
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags standard50
+%%songbook-uri /post/dream-a-little-dream-of-me/
+K: C
+P: A1
+"C" c4 BcBA|"Ab7"c4 "G7"B4|"C" c4 BcBA|"A7"^c e2 c_B2A2|
+"Dm"d4 cdcA|"Fm"dc2 _Ac4|"C"GAcd"D7"e2a2|"G7"g8||
+P: A2
+"C" c4 BcBA|"Ab7"c4 "G7"B4|"C" c4 BcBA|"A7"^c e2 c_B2A2|
+"Dm"d4 cdcA|"Fm"dc2 _Ac4|"C"GAcd"Ab7"_e2 "G7"d2|"C"c4 z4||
+P: B
+"Ab"_a4 "Fm7"fa2f|"Bbm7"_ec2e"Eb7"F2G2|"Ab"_a4 "Fm7"fa2f|"Bbm7"_e4"Eb7"z4|
+"Ab"_a4 "Fm7"fa2f|"Bbm7"_ec2e"Eb7"F2G2|"Ab"_a4 "Fm7"_ec2g-|"Dm7"g4"G7"z4||
+P: A4
+"C" c4 BcBA|"Ab7"c4 "G7"B4|"C" c4 BcBA|"A7"^c e2 c_B2A2|
+"Dm"d4 cdcA|"Fm"dc2 _Ac4|"C"GAcd"Ab7"_e2 "G7"d2|"C"c8||

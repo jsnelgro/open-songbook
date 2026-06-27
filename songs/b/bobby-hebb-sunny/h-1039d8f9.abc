@@ -1,0 +1,29 @@
+---
+workId: bobby-hebb-sunny
+arrangementId: h-1039d8f9
+title: Sunny
+artist: Bobby Hebb
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sunny
+C:Bobby Hebb
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/25/2016
+Z:
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Am7" E3/2 E/- E2- "Abm7" | "Gm7" E2{/A} "C7" G/E/ D/ z/ | "Fmaj7" C C/A,/ C/D/C/E/- | "F" "Bm7" E3 "E7" z/4 A,/4C/4D/4 |  "Am7" E3/2 E/- E2- "Abm7" |
+"Gm7" E2 "C7" A/G/E/D/ | "Fmaj7" C C/A,/ C/D/C/E/ | "F" "Bm7" E3 "E7" A,/C/ |  "Am7" D/E/C/D/ C- C/D/ |
+"C7" E/C/D/C/- C3/2 D/ | "Fmaj7" E/ D C/- C D/E/ | "Bb7" G D/C/ D/- D3/2 |  "Bm7" C/D/E/E/ E/ E D/- |
+"E7#9" D z C/ D{/G,} A,/- | "Am7" A,3 z | "E7#9" z4 |]

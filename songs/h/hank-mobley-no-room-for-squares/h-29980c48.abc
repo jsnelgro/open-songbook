@@ -1,0 +1,40 @@
+---
+workId: hank-mobley-no-room-for-squares
+arrangementId: h-29980c48
+title: No Room For Squares
+artist: Hank Mobley
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:No Room For Squares
+C:Hank Mobley
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/20/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "Cm7""_Intro/Outro" [GB]3 [=Ac] | "Fmaj7" [F=A]3 [DF] | "Cm7" [EG]4 | "Fmaj7" [F=A]3 z |  "Cm" [GB]2 [Bd]2 |
+"F6/C" [F=A]3 [GB]/[EG]/- | "Cm7" [EG]4- | [EG] z z2 ::  "Cm7""^A" z/ G/ C D E | F ^F G B/G/ | z4 |
+z4 |  z/ G/ C D E | F ^F G B/c/ | z4 |1 z4 :|2  z2 z z/ "Fm7" c/ ||
+"^B" z/ F/A/c/ (3B/c/B/ G | A F G/E/F/G/ | z4 |  z2 z z/ G/ | z/ C/E/G/ (3F/G/F/ D |
+E C D C/D/ | z4 |  z G [FB]3/2 [EG]/ |"^A" z/ "Cm7" G/ C D E | F ^F G B/c/ |
+z4 |  z4 | z/ G/ C D E | F ^F G B/c/ | z4 |  z4 |]
+V:2
+|: z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 ::  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 |1 z4 :|2  z4 ||
+z z/ "Eb7" F/ z z/ "Ddim" F/ | z z/ "Db7" F/ z z/ "Cm7" F/ | z4 |  z2 z z/ "Cm7" F/ | z z/ "Bb7" F/ z z/ "Adim" F/ |
+z z/ "Ab7" F/ z/ z/ z/ "G7" F/ | z z/ "Fm7" F/ z2 |  z "Eb7" F "Db7" F3/2 "Cm" F/ | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |  z4 |]

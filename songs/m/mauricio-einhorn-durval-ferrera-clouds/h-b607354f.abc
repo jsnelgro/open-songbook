@@ -1,0 +1,36 @@
+---
+workId: mauricio-einhorn-durval-ferrera-clouds
+arrangementId: h-b607354f
+title: Clouds
+artist: Mauricio Einhorn Durval Ferrera
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Clouds
+C:Mauricio Einhorn Durval Ferrera
+C:Cannonball Adderley
+C:arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/19/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Slovenly!\nFreely" F,3 f/_g/ | "Ebm7" [F_GBe]3 d/f/ | "Dbmaj7/F" [CDFc]3 B/c/ | "Bmaj7/F" [_CE_A]3 _G/A/ |  "Gbm7" z/ [_F,G,D] [G,A,D]/ [G,A,_D] [G,A,D] |
+"F7#9" [_G,A,D] [G,A,D]/[A,,_D,E,G,_D]/- [G,,D,E,F,D]2"^Bossa" || "Bbmaj7" D4- | D/ C B, C D/- |  "Gm7" D4 | z/ B c/4B/4 A F/E/- |
+"Cm7" E4- | "G7" E D- (3D C D |  "Cm7" E4- | E2 (3z ^F, G, | "Cm7" E4- | (3E- E D- (3D =B, C |
+"Abmaj7" E4 | z z/ D/ =B,/ C E/- | "Am7" E4- | "F7" E3/2 D/- (3:2:4D/_D/4C/4 =B, C |  "Bbmaj7" F4- |
+F/>A,/ B,/4E/4C/4^C/4 D z | "D7" (3z/ =E/F/ ^F/A/4c/4 e/ d c/ | "Gm7" B/G/- G2- G/d/ |  "C7" c3/2 (3B/4 "F7"c/4B/4 A/c/4e/4 g/f/- |
+"Dm7" f2 (3z "G7" =E F | "D7" ^F3/4A/8c/8 e/d/- d3/2 c/ | "Gm7" B/ G z/ z/ d z/ |  "C7" B/ G3/2- G/d/B/c/- |
+"Cm7" c B/4c/8B/8G/4 "F7"E/4 C/4G,/4B,/4E/4 A,/F,/ | "Cm7" D4- | "G7" D3/2 C/- (3C B, C |  "Cm7" D4 | z z/ B/- (3B A F |
+"Cm7" E4- | "G7" E3/2 D/- (3D ^C D |  "Cm7" E4- | E2 z/ G,/ _A,/4G,/4^F,/4G,/4 | "Cm7" E4- |
+E3/2 D/- (3D =B, C |  "Abmaj7" E4- | E3/2 D/ =B,/ C E/- | "Am7" E4- |
+"F7" E/D/- (3D/4C/4A,/4G,/4F,/4 =B,/ C F/- |  "Bbmaj7" F4- | F z (3z =E F | "D7" ^F3/4A/8c/8 e/d/- d3/2 c/ |
+"Gm7" B/ G3/2- G/B/d/c/- |  "C7" c3/2 B/4c/8B/8 "F7" A/(3c/4e/4f/4 g/f/- | "Abmaj7" f2- (3f "G7" =E F | "Cm7" _G3/2 e/- =e2- | "F7" e2 A3/2 B/ |]

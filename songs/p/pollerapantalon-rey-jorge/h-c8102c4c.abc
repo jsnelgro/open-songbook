@@ -1,0 +1,30 @@
+---
+workId: pollerapantalon-rey-jorge
+arrangementId: h-c8102c4c
+title: Rey Jorge
+artist: PolleraPantalon
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Rey Jorge
+C:PolleraPantalon
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:7/9/2017
+L:1/4
+Q:1/4=113
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bbm7" z4 |1 "Eb7" z4 :|1 "Eb7" e/4_d/4e/4d/4 z/ e/4d/4 e/4d/4 z/ B/ z/ || "Bbm7" z/ B/4 z/4 _A/4B/_d3/4B/ z/4 A/4B/ |
+"Eb7" E4 | "Bbm7" z/ B/ _A/4B/_d3/4B/ A/B/ | "Eb7" e4 | "Bbm7" z/ B/4 z/4 _A/4B/_d3/4B/ z/4 A/B/4 |  "Eb7" E4 |
+"Bbm7" z/ B/4 z/4 _A/4B/_d3/4B/ z/4 A/4B/ | "Eb7" e/4_d/4e/4d/4 z/ e/4d/4 e/4d/4 z/ B/ z/ |:
+"Bbm7""_Solos" z4 |  "Eb7" z4 | "Bbm7" z4 | "Eb7" z4 :|
+"Bbm7" E/4F/4z/4c/4 =B/4_B/4 z/ _A/4B/4_d/4 z/4 f/4_f/4e/4 z/4 |  "Eb7" z4 |]

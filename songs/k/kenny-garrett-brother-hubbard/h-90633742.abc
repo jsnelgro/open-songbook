@@ -1,0 +1,47 @@
+---
+workId: kenny-garrett-brother-hubbard
+arrangementId: h-90633742
+title: Brother Hubbard
+artist: Kenny Garrett
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Brother Hubbard
+C:Kenny Garrett
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 9/8/2019
+Z:
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass-8
+%%MIDI program 0
+V:1
+|:"^several bars of drum intro""_Bass Intro, vamp" D/4A/4c/4d/4 z z2 :| z z z/4 D/4A/4d/4 A/4G/4F/4G/4- |:
+"_A""^Head" G4- | G3/2 z3/4 D/4A/4d/4 A/4G/4F/4G/4- |  G/F/4D/4- D3- |
+D3/2 z3/4 D/4A/4d/4 A/4G/4F/4G/4- | G- G3/4F/8G/8 F3/2- (3F/4_E/4F/4 | G2 F F |  D4- |1
+D3/2 z3/4 D/4A/4d/4 A/4G/4F/4G/4- :|2 D2 z z/4 D/4F/4A/4 |:"^B" G/4F/4G/4A/4 F/C/<D/C/4D/4 z/4 D/4F/4A/4 |
+G/4F/4G/4A/4 F/C/4D/4- D z/4 D/4F/4A/4 | G/4F/4G/4A/4 F/C/<D/C/4D/4 z/4 D/4F/4A/4 | G/4F/4G/4A/4 F/D/4 z/4 G F/>D/- |1
+D z G F |  D4- | D4- | D4- |
+D2 z2 |: "_Solos: AAB" z4 :|2"^C" D z G F || D/>D/- D C/4z/4C/- C |
+D/>D/- D C/4z/4C/- C |  D/>D/- D C/4z/4C/- C | D/>D/- D C/4z/4C/ z/4 D/4F/4A/4 :|3"^D" D3/2 z/ z2 |:
+"^Further Solos \nover these chords" z4 :| "^ritard and end..." z4 |]
+V:2
+|: D,,/4A,,/4C,/4D,/4 z z2 :| D,,/4A,,/4C,/4D,/4 z z2 |:
+B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, | B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, |  B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, |
+B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, | "Abmaj13" z4 "Gm7" | "Abmaj7" z4 "Eb7" "A7" |  B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, |1
+B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, :|2 B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, |: "Gm7" D, "Am7" C,/> "Dm7"C,/- C,2 |
+"Gm7" D, "Am7" C,/> "Dm7"C,/- C,2 | "Gm7" D, "Am7" C,/> "Dm7"C,/- C,2 | "Gm7" D,2 "A7" E, E,/> "Bbmaj7"E,/- |1
+"Bbmaj7" C,2 "A7/Eb" C, "A7" C, |  B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, | B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, | B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, |
+B,,/> "Dm7"C,/- C, C,/4 "Gm7/Bb"z/4C,/- C, |:  z4 :|2 "Bbmaj7" C,2 "A7/Eb" C, "A7" C, || B,,/> "Gm9/Eb"C,/- C, "F7/Eb" C,/4z/4C,/ C, |
+B,,/> "Gm9/Eb"C,/- C, "F7/Eb" C,/4z/4C,/ C, |  B,,/> "Gm9/Eb"C,/- C, "F7/Eb" C,/4z/4C,/ C, | B,,/> "Gm9/Eb"C,/- C, "F7/Eb" C,/4z/4C,/ C, :|3 "Bbmaj7" C,2 "A7/Eb" C, "A7" C, |:
+z/4 "Dm11" C,/C,/4- C, "Gm7/C" C,/4z/4C,/- C, :|  D,/> "Dm11"C,/- C, "Gm7/C" C,/4z/4C,/- C, |]

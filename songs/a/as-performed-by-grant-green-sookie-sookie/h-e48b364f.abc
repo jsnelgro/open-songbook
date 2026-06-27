@@ -1,0 +1,29 @@
+---
+workId: as-performed-by-grant-green-sookie-sookie
+arrangementId: h-e48b364f
+title: Sookie Sookie
+artist: As Performed by Grant Green
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sookie Sookie
+C:As Performed by Grant Green
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Db" "B" z4 | "Ab" z4 | "Eb7#9" E, z/ B,,/ _D,/B,,/D,/E,/ | z4 |  z4 | z4 | z4 | z4 |  z4 |: "Eb7#9" z A/G/ e/e/c/c/ |
+z4 | z A/G/ e/e/c/c/ |  z4 | z A/G/ e/e/c/c/ | z4 | z A/G/ e/e/c/c/ |
+z4 | e/_d/e/d/ e/d/e/d/ |1 z A/G/ e/e/c/c/ :| e/_d/e/d/ e/d/e/d/ |  "Db" "B" z4 |
+"Ab" z4 |: "Eb7#9" z4 :|

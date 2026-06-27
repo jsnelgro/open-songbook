@@ -1,0 +1,35 @@
+---
+workId: joseph-kosma-autumn-leavese
+arrangementId: h-c3bd10e5
+title: Autumn Leavese
+artist: Joseph Kosma
+source: jazz
+key: Gm
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Autumn Leavese
+C: Joseph Kosma
+M: 4/4
+L: 1/4
+Q: 1/4=130
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/autumn-leaves/
+K: Gm
+P: A
+G A B||"Cm7"e4-|"F7"e F G A|"Bb^7"d4-|"Eb^7"d E F G|
+"Am7b5"c4-|"D7b13"c D =E ^F|"Gm6"B4|z G A B||
+P: A
+"Cm7"e4-|"F7"e F G A|"Bb^7"d4-|"Eb^7"d E F G|
+"Am7b5"c4-|"D7b13"c A c B|"Gm6"G4-|G G ^F G||
+P: B
+"Am7b5"A D A2-|"D7b13"A A G A|"Gm6"B4-|B B A B|
+"Cm7"c4-|"F7"c F f e|"Bb^7"d4-|"Eb^7"d z ^c d||
+P: C
+"Am7b5"e e c c|"D7b13"A3 e|"Gm7"d2 "Gb"d2-|"Fm7"d2 "E7"z G|
+"Am7b5"c3 B|"D7b13"A B D F|"Gm6"G4|z4||

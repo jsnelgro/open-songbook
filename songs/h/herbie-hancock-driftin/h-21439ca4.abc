@@ -1,0 +1,30 @@
+---
+workId: herbie-hancock-driftin
+arrangementId: h-21439ca4
+title: Driftin'
+artist: Herbie Hancock
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Driftin'
+C:Herbie Hancock
+Z:©2015 Finmusic/effendi.me 11/24/2015
+L:1/4
+Q:1/4=151
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"_A" z z z "Eb7" d/d/ |: z "Eb7" B E3/2 "G7" _G/ | "Ab7" A/4=A/4_A/4_G/4 E/_D/ "G7" E z/ B/ | "Cm7" d d "Bbm7" B z/ e/- |
+"A7" e3/2 _G/4E/4 G "Ab7" A | z "Gm7" B E3/2 _G/ | "C7" A/4=A/4_A/4_G/4 E/_D/ E2 |1 "Fm7" z4 |  z2 z "Bb7" e/e/ :|2
+"Fm7""_B" _d c/E/ B/ "Bb7"E/A/G/- || "Eb7" G z "A7" E/_G/B/G/ | "Ab7" A/A/ z z2 |  z2 G/B/ c | "Eb7" F/F/ z z2 |
+z z/ G/ z/ "Dm7" G/z/ "G7"F/ | "Cm7" E C "Cmaj" E =B, |  "Cm" E B, "F7" G/B/c/B/ | "Fm7" _d/4e/4d/4B/4 c/B/- B2- "Bb7" | B z z/ z/ "Eb7" c/e/ ||
+"_C" z "Eb7" B E3/2 "G7" _G/ |  "Ab7" A/4=A/4_A/4_G/4 E/_D/ "G7" E z/ B/ | "Cm7" d d "Bbm7" B z/ e/- | "F7" e3/2 _G/4E/4 G "Db7" A |
+z "Gm7" B E3/2 _G/ |  "C7" A/4=A/4_A/4_G/4 E/_D/ E2 | "Fm7" _d c/E/ "Bb7" B/E/A/G/- | "Eb7" G3"^To Coda" "Bb7" z :|
+O "Eb7" G3 "C7" z |  "Fm7" _d c/E/ B/ "Bb7"E/A/G/- | "Eb7" G3 "C7" z | "Fm7" _d c/E/ B/ "Bb7"E/A/_G/- | "Ab7" G2 "Eb7" =G2 |]

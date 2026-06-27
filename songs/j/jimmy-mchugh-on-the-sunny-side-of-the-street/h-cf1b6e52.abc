@@ -1,0 +1,30 @@
+---
+workId: jimmy-mchugh-on-the-sunny-side-of-the-street
+arrangementId: h-cf1b6e52
+title: On the Sunny Side of the Street
+artist: Jimmy McHugh
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:On the Sunny Side of the Street
+C:Jimmy McHugh
+C:Arr. 6EQUJ5
+C:
+Z:©2020-06-23 6EQUJ5
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+E D/ |: "Cmaj7" C z/ D/ E/ G e/- | "E7" e2 z/ e _e/ | "F6" d/ c3/2 A F |  "G7" E3/2 "G#dim7" D/- D2 |
+"Am7" z/ C D/ E/ c B/- | "D7" B3 ^G/A/ |1 "Dm7" c/ A "G7" F E/ D/G/- |  "Cmaj7" G2 "G7" z/ E D/ :|2 "Dm7" c/ A "G7" F E/ D/ "Cmaj7"C/ ||
+"Bb9" z/ c3/2 "Am7" c "Ab7" c || "Gm7" c2 D/ F E/- |  "C7" E2 c c | "Fmaj7" c2 E/ G F/- | "F6" F3 c | "Am7" c2 E/ G ^F/- |
+"D7" F2 z/ A3/2 | "G7" B/d/ z3/2 "Dm7" E3/2 | "G7" F/A/ z3/2 E D/ | "Cmaj7" C z/ D/ E/ G e/- |  "E7" e2 z/ e _e/ | "F6" d/ c3/2 A F |
+"G7" E3/2 D/- "G#dim7" D2 | "Am7" z/ C D/ E/ c B/- |  "D7" B3 ^G/A/ | "Dm7" c/ A "G7" F E/ D/C/- | "Cmaj7" C2 "G7" z2 |]

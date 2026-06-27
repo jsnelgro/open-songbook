@@ -1,0 +1,40 @@
+---
+workId: grant-green-jean-de-fleur
+arrangementId: h-db5de447
+title: Jean De Fleur
+artist: Grant Green
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Jean De Fleur
+C:Grant Green
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"G#m7" z/ [G,^D]/ [G,D] [G,D]/[G,D]/z/[F,^C]/- | "F#m7" [F,C]4 | "G#m7" z/ [^G,^D]/ [G,D] [G,D]/[G,D]/z/[G,E]/- | "Amaj7" [G,E]4 |
+z/ "G#m7" [^D^G]/ [DG] [DG]/[DG]/z/[^CG]/- | "F#m9" [CG]4 | "G#m7" z/ [^D^G]/ [DG] [DG]/[DG]/z/[EG]/- | "Amaj7" [EG]2- [EG]/B,/C/ "Bb13"G/- |  "Bb13" G2- G/B,/C/G/ ||
+"Bb13" z/ B,/C/G/ z/ ^F/z/ "A13"=F/- | "Ab13" F2- F/A,/_B,/F/ | "Ab13" z/ A,/_B,/F/ z/ ^F/z/ "A13"G/- |  "Bb13" G2- G/B,/C/G/ |
+"Bb13" z/ B,/C/G/ z/ ^F/z/ "A13"=F/- | "Ab13" F2- F/A,/_B,/F/ | "Ab13" z/ A,/_B,/F/ z/ "D13" B/z/ "Db13"_B/- |  "Db13" B2- B/D/_E/_B/ |
+"Db13" z/ D/_E/_B/ z/ A/ "C13"z/ "B13"^G/- | "B13" G2- G/C/^C/^G/ | "B13" z/ C/^C/^G/ z/ "Bb13" =G/z/ "A13"^F/- |  "A13" F2- F/^A,/B,/^F/ |
+"A13" z/ ^A,/B,/^F/ z/ E3/2 | "G#m7" z/ [G,^D]/ [G,D] [G,D]/[G,D]/z/[F,^C]/- | "F#m7" [F,C]4 |  "G#m7" z/ [^G,^D]/ [G,D] [G,D]/[G,D]/z/[G,E]/- | "Amaj7" [G,E]4 |
+z/ "G#m7" [^D^G]/ [DG] [DG]/[DG]/z/[^CG]/- | "F#m9" [CG]4 |  "G#m7" z/ [^D^G]/ [DG] [DG]/[DG]/z/ "Amaj7"[EG]/- | "Amaj7" [EG]4 | "Bbm7" c7/2 _c/4_B/4 |
+"Eb7" A _B c _d/_e/- |  "Abmaj7" e (3c/_B/_A/ "Db7" G _E/F/- | "Abmaj7" F4 | "Abm7" _c3 (3_B/A/_A/ | "Db7" G _A _B _c/_d/- |
+"Gbmaj7" d (3_B/_A/_G/ "B9" F _D/_E/- | "Gbmaj7" E4 | z/ "F#m7" ^G/ G G/G/z/G/ | "B7" z/ ^F3/2 ^G A |  "Emaj7" B7/2 "C#m7" ^D/ |
+"C#m7" z/ E3/2 ^G B | "Bbm7" e3 (3_d/_c/_B/ | "Eb7" _A2 _B3/2 _e/- |  "Abmaj7" e4 | "Gm7" c _e- "C7" e/B,/C/G/- | "Bb13" G2- G/B,/C/G/ |
+"Bb13" z/ B,/C/G/ z/ ^F/z/ "A13"=F/- |  "Ab13" F2- F/A,/_B,/F/ | "Ab13" z/ A,/_B,/F/ z/ ^F/z/ "A13"G/- | "Bb13" G2- G/B,/C/G/ |
+"Bb13" z/ B,/C/G/ z/ ^F/z/ "A13"=F/- |  "Ab13" F2- F/A,/_B,/F/ | "Ab13" z/ A,/_B,/F/ z/ "D13" B/z/ "Db13"_B/- | "Db13" B2- B/D/_E/_B/ |
+"Db13" z/ D/_E/_B/ z/ A/ "C13"z/ "B13"^G/- |  "B13" G2- G/C/^C/^G/ | "B13" z/ C/^C/^G/ z/ "Bb13" =G/z/ "A13"^F/- | "A13" F2- F/^A,/B,/^F/ |
+"A13" z/ ^A,/B,/^F/ z/ E3/2 |  "G#m7" z/ [G,^D]/ [G,D] [G,D]/[G,D]/z/[F,^C]/- | "F#m7" [F,C]4 | "G#m7" z/ [^G,^D]/ [G,D] [G,D]/[G,D]/z/[G,E]/- | "Amaj7" [G,E]4 |
+z/ "G#m7" [^D^G]/ [DG] [DG]/[DG]/z/[^CG]/- | "F#m9" [CG]4 | "G#m7" z/ [^D^G]/ [DG] [DG]/[DG]/z/ "Amaj7"[EG]/- | "Amaj7" [EG]4 |]

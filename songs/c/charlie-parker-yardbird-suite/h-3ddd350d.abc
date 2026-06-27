@@ -1,0 +1,35 @@
+---
+workId: charlie-parker-yardbird-suite
+arrangementId: h-3ddd350d
+title: Yardbird Suite
+artist: Charlie Parker
+source: jazz
+key: C
+tags:
+  - Bebop
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Yardbird Suite
+C: Charlie Parker
+M: 4/4
+L: 1/8
+Q: 220
+%%songbook-source jazzleadsheet
+%%songbook-categories Bebop
+%%songbook-tags Charlie Parker
+%%songbook-uri /post/yardbird-suite/
+K: C
+P: A
+"C"zc3G2A2|"Fm7"_B3_A-"Bb7" A_EFG-|"C7"G4"Bb7"G3E-|"A7"E3 E FEFG|
+"D7"EC zC-C4|"G7"z2zD zE FG-|"Em7"G3A- "A7"AEFG-|"Dm7"G4"G7"z4||
+P: A
+"C"zc3G2A2|"Fm7"_B3_A-"Bb7" A_EFG-|"C7"G4"Bb7"G3E-|"A7"E3 E FEFG|
+"D7"EC zC-C4|"G7"z2zC ECEC-|"C7"C8-|"C"C4"B7#9"z2(3G1/2A1/2G1/2_G||
+P: B
+"Em7"E3^F GE2A|"F#m7b5"zA A2- "B7#9"A4|"Em7"GAG^F EB,C^C-|"A7" C4z2z_B,|
+"Dm7"A,3AzEFG|"Emb5"zG3"A7"FED_C|"D7"EA, zE-E3 A,|"Dm7"DEFG"G7"z4||
+P: A
+"C"zc3G2A2|"Fm7"_B3_A-"Bb7" A_EFG-|"C7"G4"Bb7"G3E-|"A7"E2 EF z _E=EA|
+"D7"zA-A6|"Dm7"zA, (3B,CD "G7"E2 G,C-|"C"C6z2|z8||

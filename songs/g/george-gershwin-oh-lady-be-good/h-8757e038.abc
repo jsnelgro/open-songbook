@@ -1,0 +1,34 @@
+---
+workId: george-gershwin-oh-lady-be-good
+arrangementId: h-8757e038
+title: 'Oh, Lady Be Good'
+artist: George Gershwin
+source: jazz
+key: G
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Oh, Lady Be Good
+C: George Gershwin
+M:4/4
+L:1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/oh-lady-be-good/
+K:G
+P: A
+"G"d4c2B2|"C7"d4d4|"G"(3d2B2G2D4-|"G" D4"Bbo"e4|
+"D7"(3d2B2G2D4-|D4B4|"G"G4E2F2|"D7"G2A2B2c2||
+P: A
+"G"d4c2B2|"C7"d4d4|"G"(3d2B2G2D4-|"G" D4"Bbo"e4|
+"D7"(3d2B2G2D4-|D4B4|"G"G4 "D7"-G4-|"G"G2GA Bcd^d||
+P: B
+"C"e8|"C#o7"z2e2e2e2|"G"e4d4-|d2DE FGAB|
+"A7"G2B2B2B2|B2B2B2B2|"D7"B4A4|z2B2c2^c2||
+P: A
+"G"d4c2B2|"C7"d4d4|"G"(3d2B2G2D4-|"G" D4"Bbo"e4|
+"D7"(3d2B2G2D4-|D4B4|"G"G8|z8||

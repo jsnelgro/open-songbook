@@ -1,0 +1,34 @@
+---
+workId: antonio-carlos-jobim-triste
+arrangementId: h-d0639e24
+title: Triste
+artist: Antônio Carlos Jobim
+source: jazz
+key: Bb
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Triste
+C: Antônio Carlos Jobim
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Antônio Carlos Jobim
+%%songbook-uri /post/triste/
+K: Bb
+P: A
+"Bb"z2 z B- B A2 B|"Bb^7"A2 GD- D E2 F-|"Gb^7"F8|"B7"z8|
+"Bb"z2 z B- B A2 B|"Bb^7"A2 GD- D E2 F-|"Dm7"F8|"G7b9"z8|
+"Cm7"z2 z G F G2 F-|"Am7"F E2 D- "D7"D A,2 C-|"Gm7" CA,B,D F A2 c-|"A7alt"c4- c B2 ^c-|
+"D^7"cAAA- A4|"Em7"A^FFF- "A7"F3 =E-|"Dm7"EDDD- "G7"D2G2-|"Cm7"GFFF- "F7"F4||
+P: B
+"Bb"z2 z B- B A2 B|"Bb^7"A2 GD- D E2 F-|"Bbm7"F8|"Eb7"z8|
+"Bb"z2 z B- B A2 B|"Bb^7"A2 GD- D E2 F-|"Fm7"F8|"Bb7"z8|
+"Eb^7"z B B,C D E2 F-|"Ab7"F =E2 _E- E2 F2-|"Dm7"F2 ED "Gm7"C B,2 C-|"C7"C8|
+"Cm7"z2 z E- E D2 E|C2 DB,- "F7"B,C2 B,-|"Bbm7"B,4- "Eb7"B,4|"Bbm7"z4"Eb7"z4|
+"Bbm7"z4"Eb7"z4|"Bbm7"z4"Eb7"z4||

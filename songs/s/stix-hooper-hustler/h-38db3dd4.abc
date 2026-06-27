@@ -1,0 +1,53 @@
+---
+workId: stix-hooper-hustler
+arrangementId: h-38db3dd4
+title: The Hustler
+artist: Stix Hooper
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Hustler
+C:Stix Hooper
+C:The Crusaders
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 3/24/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=103
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "Dm7" z4 | "C#m7" z4 | "Cm7" z4 |
+"Bm7" z4 :|  "Dm7" A/B/ (3A/4B/4A/4G/ A/ z/ z | D/F/ G/>F/- F/ z/ z | C/4C/4D/ F/4z/4F/<D/ z/ z |
+z4 |  A/B/ (3A/4B/4A/4G/ A/ z/ z | D/F/ G/>F/- F/ z/ z | C/4C/4D/ F/4z/4F/<D/ z/ z | z4 |
+"G7/G" F G/A/ c/z/=B/ z/ | "G" D/4F/G/4 F3/2 z/ z/ D/4E/4 | "G7" F G/A/ c/z/=B/ z/ | "G" D/4F/G/4 F3/2 z/ z |
+"Bb" G/4F/4D/4 z/4 D/F/4G/4 z/8 "F" A/4 z/8 z/ z/4 z/8 z/8 z/ | "G" G/4F/4D/4 z/4 D/F/4G/4 z/8 A/4 "F"z3/8d/c/4A/4G/4 |
+"F" A "Am7" z "Dm7" z3/4 D/4 F/4z/4G/4 z/4 |
+"Dm7" A/B/ (3A/4B/4A/4G/ A/ z/ z |  D/F/ G/>F/- F/ z/ z | C/4C/4D/ F/4z/4F/<D/ z/4 z/4 c/4c/4d/4 z/4 | f/z/4f/ z/4 d z/ z ||
+"Dm7""_Solos""^A" z4 |  "C#m7" z4 | "Cm7" z4 | "Bm7" z4 | "Dm7" z4 |  "C#m7" z4 | "Cm7" z4 | "Bm7" z4 |:
+"Dm7""^B" z4 |  z4 | z4 | z4 | "Dm7" z4 |  z4 | z4 | z4 |
+"G" z4 |  z4 | z4 | z4 |
+"Bb" "F" z4 |  "G" "F" z4 | "F" z "Am7" A/4z/4A/4 z/4 z/4 "Dm7" A/4 z/4 z/4 "F" z/ z/4 z/4 | "Dm7" z4 |
+z4 |  z4 | "Em7" "Dm7" "A7" z4 "G7" :|
+V:2
+|: z4 | z4 | z4 |
+z4 :|  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+z4 | z4 |
+z A/4z/4A/4 z/4 z/4 A/4 z/4 z/4 z/ z/4 z/4 |
+z4 |  z4 | z4 | z4 ||
+z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 |:
+z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 :|

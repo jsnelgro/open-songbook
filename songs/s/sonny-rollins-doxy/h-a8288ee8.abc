@@ -1,0 +1,27 @@
+---
+workId: sonny-rollins-doxy
+arrangementId: h-a8288ee8
+title: Doxy
+artist: Sonny Rollins
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Doxy
+C: Sonny Rollins
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags standard50,Sonny Rollins
+%%songbook-uri /post/doxy/
+K: Bb
+F||:"Bb7"BdBG "Ab7"B2 z G|"G7"BGB_d z G2 F|"C7"=EGB_d "F7"(3c=dc GB|"Bb"z4 "F7+5"z2 z F|
+"Bb7"BdBG "Ab7"B2 z G|"G7"BGB_d z G2 F|"C7"=EGB_d (3c=dc GA|"F7"z8||
+"Fm7"g2 z f z2 _d2-|"Bb7"d3 G- G c2 B|"Eb7"_d2 dd G2 c2|"Eo"z4 z2 z F|
+"Bb7"BdBG "Ab7"B2 z G|"G7"BGB_d z G2 F|"C7"=EGB_d "F7"(3c=dc GB|"Bb"z8||

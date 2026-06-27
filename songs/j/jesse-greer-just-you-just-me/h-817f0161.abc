@@ -1,0 +1,35 @@
+---
+workId: jesse-greer-just-you-just-me
+arrangementId: h-817f0161
+title: 'Just You, Just Me'
+artist: Jesse Greer
+source: jazz
+key: Eb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Just You, Just Me
+C: Jesse Greer
+M: 4/4
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing
+%%songbook-uri /post/just-you-just-me/
+K: Eb
+P: A
+"Eb"z4 "Gm7b5/Db"B3 c-|"C7"c8|"Fm7"z4 AFAB-|"Bb7"B8|
+"Eb7"z4 (3G2G2G2|"Ab"GB A2- "Abm"A2 z2|"Cm/Bb"z ^F GB "Bb7"efee-|"Eb"e8||
+P: A
+"Eb"z4 "Gm7b5/Db"(3B2G2B2|"C7"c8|"Fm7"z4 F1/2G1/2F1/2=E1/2 FG|"Bb7"A F2 B-B4|
+"Eb7" z4 (3G2G2G2|"Ab"GB2A-"Abm"A4|"Cm/Bb"z^F GB "Bb7"FG=F=E|"Eb" _E8||
+P: B
+"Eb7"z4 e3f-|f8|"Ab"(3e2f2e2 (3c2A2F2|"Db7"GF3-F4|
+"Eb"z4 de- (3eBG|"Cm7"FE3-E4|"F7"d2d2d3c|"Bb7"cB2B-B4||
+P: A
+"Eb"z4 "Gm7b5/Db"(3G2A2B2|"C7"c8|"Fm7"z4 FGAB-|"Bb7"B8|
+"Db7"z4 G2G2|"Ab"GB A2 "Abm"z3 ^F|"Cm/Bb"GB ef "Bb7"_gefe-|"Eb"e6z2||

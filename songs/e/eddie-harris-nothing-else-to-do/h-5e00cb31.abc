@@ -1,0 +1,34 @@
+---
+workId: eddie-harris-nothing-else-to-do
+arrangementId: h-5e00cb31
+title: Nothing Else to Do
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Nothing Else to Do
+C:Eddie Harris
+C:arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z3 C |: "Cmaj7" B,2 C2 | "Cmaj7" E2 G3/2 B/- | "F#m7" B4 |  "B7" z4 | "Fm7" _B2 z F |
+"Bb7" D2 _B,3/2 D/- | "Em7" D3 G/^C/- |  "A7" C4 |1 "Ebm7" _D4 | "Ab7" _B,2 _A3/2 F/- | "Dm7" F4 |
+"G7" E2 D z/ G/- | "Em7" G2 E/ G _B/- | "Eb7" B2 z/ G/F/_E/- | "Abmaj7" E2 C/ _E G/- |  "Db7" G2 z/ F/_E/B,/- :|2
+"Ebm7" _D4 || "Ab7" _B,2 _A3/2 F/- | "Dm7" F4 |  "G7" E2 D z/ C/- | "Cmaj7" C4- | "Cmaj7" C4 | "F#m7" ^C2 ^D2 |
+"B7" A,3/2 ^G,/- G, ^F, | "E" E/^F/^G/ "G"B/ =G/A/B/d/ | "C" c/d/e/f/ "Eb" _e/f/g/_b/ | "Ab" _a c/_e/ g/f/ z |
+"Am7" z/ e/g/ "D7"e/ ^f/d'/ z | "G" G/A/B/d/ "Bb7" _B/c/d/f/ | "Eb7" _e/f/g/_b/ "F#7" ^f/^g/^a/^c'/ | "Bm7" ^c'3 z |
+"Fm7" z/ _A _B/ "Bb7" G3/2 F/ | "Ebmaj7" D2 _E2 | "Ebmaj7" G2 _B3/2 d/- | "Am7" d4 |  "D7" z4 | "Abm7" _d2 z _A |
+"Db7" F2 _D3/2 F/- | "Gm7" F3 c/E/- |  "C7" E4 | "F#m7" ^C2 B2 | "B7" ^F2 ^G2 | "Fm7" C2 _B2 |
+"Bb7" G2 _B,3/2 _E/- | "Ebmaj7" E4- | "Ebmaj7" E4 | "Dm7" z g/^g/ a/f/e/d/ |  "G7" g/G/B/d/ "C" c z |]

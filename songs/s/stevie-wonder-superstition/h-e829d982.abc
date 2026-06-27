@@ -1,0 +1,33 @@
+---
+workId: stevie-wonder-superstition
+arrangementId: h-e829d982
+title: Superstition
+artist: Stevie Wonder
+source: jazz
+key: Ebmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Superstition
+C:Stevie Wonder
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/15/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ebmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  "Ebm7" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z2 d/e/ e/B/4g/4- |: S g/< "Ebm7"e/- e2 z |
+z2 d/B/ A/G/4A/4 | G2 z2 | z2 d/e/ e/B/4g/4- |  g/<e/- e2 z | z2 d/4B/A/4- A/4G/A/4 |
+G2 z2 | z z d/4e/e/4- e/4e/g/4- |  g/<e/- e2 z | z z3/4 d/B3/4 A/4G/A/4- |
+A/4=A/4_A/4G/4- G2 z | z z B/4d/e/e/g/4- |  g g/e/- e z | z z3/4 B/4 d/<B/ A/G/4A/4 |
+G2 z2 | z2 z/ B/4B/4 B/f/- |  "Bb7" f f/f/ "B7" z B/4B/4f/- | "Bb7" f/<f/ e/ "A7"e/- e/d/4e/4 g/e/- |
+"Ab7" e/d/4B/4 A/4G/4E/- E zO | "Eb" z g/<g/ e/<B/ A/G/4A/8G/8 |  "Ebm7" E z z2 | z4 | z4 |1
+z z/4 g/4B/ d/e/ e/d/4g/4 :|2  z4 || "Bb7" e3/2 z/ B3/2 z/ | "B7" B3/2 z/ B3/2 z/ | "Bb7" B3/2 z/ B3/2 z/ |
+"A7" B3/2 z/ B3/2 z/ | "Ab7" B4 | "Eb" z4 | z4 |  z4 | z4 | z2 b/a/ e/B/4g/4"^D.S. al Coda" || z4 |
+z/4 z/O d'/4 b/>a/ a3/4g/e/4a/4g/4 | e2 z2 |: "Ebm" z4 | z4 |  z4 | z4 | z4 | z4 |  z4 :|

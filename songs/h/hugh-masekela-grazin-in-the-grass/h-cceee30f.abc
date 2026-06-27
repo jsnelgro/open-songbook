@@ -1,0 +1,34 @@
+---
+workId: hugh-masekela-grazin-in-the-grass
+arrangementId: h-cceee30f
+title: Grazin' In the Grass
+artist: Hugh Masekela
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Grazin' In the Grass
+C:Hugh Masekela
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 6/5/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Fmaj7""^Intro" "Dm7" z4 | "Gm7" "C7" z4 :| "Fmaj7""^Head" z a "Dm7" c'2 | "Gm7" _a/4g/4f/ d "C7" _A G |
+"^THE CHORDS ARE THE SAME THROUGHOUT" F z z2 | z4 | z a c'2 | _a/4g/4f/ d _A G |
+F [ca]/4[ca]/4[ca]/4[ca]/4 [cf]/A/[ca]/[Bg]/ | z4 | =b/c'/f'/b/ c'/f'/ b/4c'/4f'/ | =b/4_b/4_a/ g f d |
+c z z2 | z4 | =b/c'/f'/b/ c'/f'/ b/4c'/4f'/ | =b/4_b/4_a/ g f d |
+c z z2 | z4 | z a c'2 | _a/4g/4f/ d _A G |
+F z z2 | z4 | z a c'2 | _a/4g/4f/ d _A G |
+F z z2 | z4 | z f/4f/4f/4f/4 f/c/_e/d/- | d B/G/ c B |
+z f/4f/4f/4f/4 f/c/_e/d/- | d B/4G/4c/- c B | z/ A/ f3- | f _e/e/- e c/c/- |
+c B/ B3/2 _A/A/- | A F/>D/ F F/>D/ | F D z2 | z4 |:
+"Fmaj7" "Dm7" z4 | "Gm7" "C7" z4 :|

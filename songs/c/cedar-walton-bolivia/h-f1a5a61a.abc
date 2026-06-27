@@ -1,0 +1,34 @@
+---
+workId: cedar-walton-bolivia
+arrangementId: h-f1a5a61a
+title: Bolivia
+artist: Cedar Walton
+source: jazz
+key: G
+tags:
+  - Swing
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Bolivia
+C: Cedar Walton
+M: 4/4
+L: 1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing,Latin
+%%songbook-uri /post/bolivia/
+K: G
+V:T1
+V:B1  middle=d clef=bass
+P: Intro- Latin
+[V:T1]|:"G13"z8|z8| z8|[1,2,3 z8:|[4 z4z2"Eb^7"^d2||
+[V:B1]|:G,,2E,2=F,2D,,G,,-|G,,2E,2=F,2D,,2|G,,2E,2=F,2D,,G,,-|[1,2,3 G,,2E,2=F,2D,,2:|[4 G,,2E,2=F,2z2||
+[V:T1]  
+P: Swing
+"Eb^7"=d4_B3F-|"A13"F6A2|"D^7"^cAFA-A4-|"Ab7b9"A6zD|
+"G^7"A2FFzD2A|"F#7"zF zF zFD2|"Bm7"A2FF z D2A|"C^7#11" zF zF zFD2|
+"Bm7"A2FF zD2F|"Bm7/A"zD2D (3EDB, D2-|"G#m7b5"D8|"Gm7"z4"C7"z2zC|
+"F^7"E=FCD EFGA|"B7"Bc-c6|"Bb^7"c3E =Fc-c2|"A7#9"z8||

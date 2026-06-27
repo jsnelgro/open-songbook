@@ -1,0 +1,32 @@
+---
+workId: henry-sullivan-i-may-be-wrong
+arrangementId: h-daf45dc0
+title: I May Be Wrong
+artist: Henry Sullivan
+source: jazz
+key: Eb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: I May Be Wrong
+C: Henry Sullivan
+M: 4/4
+L: 1/8
+Q: 1/4=120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/i-may-be-wrong/
+K: Eb
+P: A
+||:"Eb"z B3 B2B2|"Bbm7"B3 B"Eb7"z4|"Ab^7"zB3B2B2|"Abm7"B3AA2 z2|
+"Eb"zG3G2G2|"F7"G3 G z4|"Bb7"z2F2 FEDE-|[1 "Eb6"E4 z4:||[2"Eb6"E4z4||
+P: B
+"Fm7"FF- FE "Bb7"(3D2E2F2|"Eb"GG-G2 z4| "Fm7"AA- AG (3F2G2A2|"F#o7"^A4z4|
+"Gm7"BB-BA(3 G2A2B2|"C7"c2c6|"Cm7"c2df-"F7" f2c2|"Fm7"B4-"Bb7"B4||
+P: A
+"Eb"z B3 B2B2|"Bbm7"B3 B"Eb7"z4|"Ab^7"zB3B2B2|"Abm7"B3AA2 z2|
+"Eb"zG3G2G2|"F7"G3 G z4|"Bb7"z2F2 FEDE-|"Eb6"E4z4||

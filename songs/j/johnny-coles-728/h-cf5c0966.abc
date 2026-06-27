@@ -1,0 +1,28 @@
+---
+workId: johnny-coles-728
+arrangementId: h-cf5c0966
+title: '728'
+artist: Johnny Coles
+source: jazz
+key: Fmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:728
+C:Johnny Coles
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Fmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z z/ c/ |: "F7#9" f/f/e/f/ z/ e/z/f/ | z/ F/ z z/ F/A/B/ | "Db7" _c/B/A/F/ "C7" B/A/F/A/ |
+"F7#9" z z "C7" z z/ c/ | "F7#9" f/f/e/f/ z/ e/z/f/ | z/ F/ z z/ F/A/B/ | "Db7" _c/B/A/F/ B/A/F/E/ |
+"C7" z z z z/ c/ | "F7#9" f/f/e/f/ z/ e/z/f/ | z/ F/ z z/ F/A/B/ | "Db7" _c/B/A/ "C7"F/ B/A/E/F/ |  "F7#9" "F7" z4 |
+"Bbm7" c2 "Eb7" F z/ B/ | "Abm7" _c/B/A/B/ z/ "Db7" F/A/B/ | "Gm7b5" _c/B/A/F/ "C7" B/A/E/F/ |1  "F7#9" z7/2 c/ :|2"_To Solos" z4 |]

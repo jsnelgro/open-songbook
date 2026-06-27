@@ -1,0 +1,32 @@
+---
+workId: django-reinhardt-minor-swing
+arrangementId: h-fc908fd6
+title: Minor Swing
+artist: Django Reinhardt
+source: jazz
+key: Am
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Minor Swing
+C: Django Reinhardt
+M:4/4
+L:1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Gypsy
+%%songbook-uri /post/minor-swing/
+K:Am
+P: Intro
+|:A2c2e3 f1/2e1/2|d2fa-a4|A2c2e3 f1/2e1/2|d2fa-a4|
+A2c2e3 f1/2e1/2|d2fa-a4|"Am"!>!c2z2 "Bass solo"z4|z8:||
+P: Solo Part
+|:"Am"z8|z8|"Dm"z8|z8|"E7"z8|z8|"Am"z8|z8|
+"Dm"z8|z8|"Am"z8|z8|"E7"z8|"Bb7"z8|"Am"z4"E7b9"z4|"Am"z8:|
+P: Outro
+|:"Am"A2c2e4|A2ceze3|"Dm"d2f2a4|d2faza3|
+"E7"e2^g2b4|e2^gbzc'3|1 "Am6"!>!a2z2 "Bass solo"z4|z8:|2 ze ^de f^fg^g|"Am6"a2zcz4||

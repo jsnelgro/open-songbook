@@ -1,0 +1,26 @@
+---
+workId: joe-sample-put-it-where-you-want-it-piano-thing
+arrangementId: h-6b36578b
+title: Put It Where You Want It Piano Thing
+artist: Joe Sample
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Put It Where You Want It Piano Thing
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 3/7/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+z [G,_B,CE]/[_G,_E]/ [F,_A,C]/[D,F,A,B,]/[^D,^F,=A,=B,]/ "C7"[E,=G,^B,C]/- |: [E,G,B,C]2 [F,_A,D]/ [^F,=A,^D] [G,_B,CE]/- |
+[G,B,CE]/z/[G,_B,CE]/[_G,_E]/ [F,_A,C]/[D,F,A,B,]/[^D,^F,=A,=B,]/ "C7"[E,=G,^B,C]/- | [E,G,B,C]2 [F,_A,D]/ [^F,=A,^D] [G,_B,CE]/ :|

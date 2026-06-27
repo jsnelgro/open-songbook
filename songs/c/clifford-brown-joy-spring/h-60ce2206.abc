@@ -1,0 +1,35 @@
+---
+workId: clifford-brown-joy-spring
+arrangementId: h-60ce2206
+title: Joy Spring
+artist: Clifford Brown
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Joy Spring
+C: Clifford Brown
+M: 4/4
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Hard Bop
+%%songbook-uri /post/joy-spring/
+K: F
+P: A1
+C Fc-||"F^7"c4- cA (3G1/2A1/2G1/2F|"Gm7"G3A "C7"z4|"F^7"zC Fd cA (3G1/2A1/2G1/2F|"Bbm7"_AF1/2_D1/2 B,G-"Eb7"G2(3FGF|
+"Am7"c!>!F3 "Ab7"!>!F3 !>!F-|"Gm7"FDFB "C7"(3A1/2B1/2A1/2F DC|"F"FCGF z4|"Abm7" z B _A_G "Db7" F _D_G_d-|
+P: A2
+"Gb^7"d4- dB (3_A1/2B1/2A1/2_G|"Abm7"_A3 B "Db7"z4|"Gb^7"z _D _G_e _dB (3_A1/2B1/2A1/2_G|"Bm7"=A^F1/2D1/2 =B,^G- "E7"G2 (3^FGF|
+"Bbm7"^c !>!^F3 "A7"!>!F3 !>!F-|"Abm7"F_E_G_c "Db7"BGE_D|"Gb" _G_D_AG z4|"Am7"z =B AE "D7"GF ^F1/2A1/2c1/2e1/2||
+P: B
+"G^7"d3 =B (3A1/2B1/2A1/2G _B2-|"Gm7"B_GF_E "C7"=E_d (3c1/2d1/2c1/2B|"F^7"c3A (3G1/2A1/2G1/2F _A2-|"Fm7"A=E_E_D "Bb7"=D_c (3B1/2c1/2B1/2_A|
+"Eb^7"B2 (3GF_E F2 G_A|"Abm7"z B _c_d "Db7"_B_AGA| "Gb^7"_d2 (3B_A_G A2 B z |"Gm7"z =A =GF "C7" ECFc-||
+P: A3
+"F^7"c4- cA (3G1/2A1/2G1/2F|"Gm7"G3A "C7"z4|"F^7"zC Fd cA (3G1/2A1/2G1/2F|"Bbm7"_AF1/2_D1/2 B,G-"Eb7"G2(3FGF|
+"Am7"c!>!F3 "Ab7"!>!F3 !>!F-|"Gm7"FDFB "C7"(3A1/2B1/2A1/2F DC|"F"FCGF z4|z8||

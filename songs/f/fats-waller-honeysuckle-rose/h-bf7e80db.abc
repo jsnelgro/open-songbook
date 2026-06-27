@@ -1,0 +1,31 @@
+---
+workId: fats-waller-honeysuckle-rose
+arrangementId: h-bf7e80db
+title: Honeysuckle Rose
+artist: Fats Waller
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Honeysuckle Rose
+C: Fats Waller
+M:4/4
+L:1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags standard50,Gypsy
+%%songbook-uri /post/honeysuckle-rose/
+K:F
+"Gm7"cBDF"C7"A4|"Gm7"cBDF"C7"A4|"Gm7"cBDF"C7"A2A2|"Gm7"A4"C7"AGFD|
+"F"FF2F-"F7/A"F4-|"Bb"F4 "C7"AGFD|"F"F4-"Bb7"F4|"Am7"z4"D7"z4||
+"Gm7"cBDF"C7"A4|"Gm7"cBDF"C7"A4|"Gm7"cBDF"C7"A2A2|"Gm7"A4"C7"AGFD|
+"F"FF2F-"F7/A"F4-|"Bb"F4 "C7"AGFD|"F"F8|z8||
+"F7"F4G4|^G4A4|"Bb6"z2 Bc-cB c2|_d2cB-B4|
+"G7"G4A4|^A4=B4|"C7"z2 cd-dc d2|_e2dc-c4||
+"Gm7"cBDF"C7"A4|"Gm7"cBDF"C7"A4|"Gm7"cBDF"C7"A2A2|"Gm7"A4"C7"AGFD|
+"F"FF2F-"F7/A"F4-|"Bb"F4 "C7"AGFD|"F"F8|z8||

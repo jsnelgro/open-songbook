@@ -1,0 +1,34 @@
+---
+workId: freddie-hubbard-red-clay
+arrangementId: h-1c2f4343
+title: Red Clay
+artist: Freddie Hubbard
+source: jazz
+key: Cmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Red Clay
+C:Freddie Hubbard
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/13/2016
+Z:
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Cmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Cm7""^Free Jazz" !fermata!G4 | "Ab7" !fermata!A4 | "G7" !fermata!B4 | "Cm7" !fermata!A4 |  z4 | z4 | z4 | z4 |:  "Cm7""^BassLine"!8va(! c/g/c'/g/ c'3/2 f/!8va)! |
+"Bbm7"!8va(! B/f/ b b3/2 a/ | "Db7" _d/a/ _d' "Eb7" e/b/ e' | "F7" f/c'/f'/ "G7"g/ d'/ g' z/ :|  "F7" f/c'/f'/g/ "G7" d'/ g'!8va)! c/- ||
+S "Cm7" c/B/c/B/ G/F/E/F/-O | "Bbm7" F3/2 E- E- E/ | "Db7" z/ _D/E/_G/ "Eb7" A F/E/ |  "F7" B G/F/ "G7" c/d/4e/4 f |
+"Cm7" z2 f/e/4c/4 B/F/ | "Bbm7" G/E/C/F/- F/ E3/2- | "Db7" E4- "Eb7" |1  "F7" E2 "G7" z z/ c/- :|2 "F7" E2 "G7" z2 |:
+z2 "Cm7" F2 | z "Bbm7" z/ E- E/ z |  z "Db7" _G z "Eb7" A |1 z "F7" B z/ "G7" c/ z :|2 z "F7" B z/ "G7" c/z/c/- ||
+"Cm7" c/B/c/B/ G/F/E/F/- |  "Bbm7" F3/2 E- E- E/ | "Db7" z/ _D/E/_G/ "Eb7" A F/E/ | "F7" B G/F/ "G7" c/d/4e/4 f |
+"Cm7" z2 f/e/4c/4 B/F/ |  "Bbm7" G/E/C/F/- F/ E3/2- | "Db7" E4- "Eb7" | "F7" E2 "G7" z2 |: "Cm7" z4 |  "Bbm7" "Eb7" z4 |
+"Abmaj7" z4 | "Dm7" z4"^D.S. al Coda" "G7" ::O "Cm7" C/G/c/G/ c3/2 F/ |  "Bbm7" B,/F/ B B3/2 A/ | "Db7" _D/A/ _d "Eb7" E/B/ e |
+"F7" F/c/f/ "G7"G/ d/ g z/ :|[M:16/4] "Cm7" C8- C8 |]

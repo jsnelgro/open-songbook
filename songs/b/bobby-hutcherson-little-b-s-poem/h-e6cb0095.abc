@@ -1,0 +1,27 @@
+---
+workId: bobby-hutcherson-little-b-s-poem
+arrangementId: h-e6cb0095
+title: Little B's Poem
+artist: Bobby Hutcherson
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Little B's Poem
+C:Bobby Hutcherson
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/16/2016
+L:1/4
+Q:1/4=150
+M:3/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Am7" a2- a/g/ | "Gm7" a2 g | "Am7" a d' c' | "Dm7" a- a c'/f/ |  "Gm7" g2- g/f/ | "Fm7" g2- g/f/ |
+"Gm7" g c' a | "Em7" g2 "A7" a/d/ |  "Dm7" f2 d/f/ | "Ebm7" _g _d' "Ab" a | "Dbmaj7" f2 _e/_d/ | "Dm7" f c' "G7" b |  "Cmaj7" e2 d/c/ |
+"C#m7" e2 ^g/e/ | "Amaj7" ^G "Bm7" A "C#m7" B | "Dm7" c "Em7" d "Gm7" f |]

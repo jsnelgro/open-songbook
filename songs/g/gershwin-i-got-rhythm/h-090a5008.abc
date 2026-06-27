@@ -1,0 +1,32 @@
+---
+workId: gershwin-i-got-rhythm
+arrangementId: h-090a5008
+title: I Got Rhythm
+artist: Gershwin
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: I Got Rhythm
+C: Gershwin
+M: 4/4
+L: 1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Rhythm Change,George Gershwin
+%%songbook-uri /post/i-got-rhythm/
+K: Bb
+P: A
+|:"Bb6"z2 F2-"Gm7"FG3|"Cm7"B3 c-"F7"c4|"Bb6"z2 c2-"Gm7"cB3|"Cm7"G3 F-"F7"F4|
+"Bb7"z2 F2-"Bb7/D"FG3|"Eb7"B3 c-"Eo7"ce2 c|"Bb6/F"d2 d2 "F7"cd c2|1 "Bb6"B4 "F7"z4:|2 "Bb6"B8||
+P: B
+"D7"z2d2-dd3|d3=e-e4|"G7"z2d2-dd3|d3G-G4|
+"C7"z2c2-cc3|c3d-d4|"F7"z2c2-cc3|c3F-F4||
+P: A
+"Bb6"z2 F2-"Gm7"FG3|"Cm7"B3 c-"F7"c4|"Bb6"z2 c2-"Gm7"cB3|"Cm7"G3 F-"F7"F4|
+"Bb7"z2 F2-"Bb7/D"FG3|"Eb7"B3 c-"Eo7"ce2 c|"Bb6/F"d2 d2 "F7"cd c2|"Bb6"B8||

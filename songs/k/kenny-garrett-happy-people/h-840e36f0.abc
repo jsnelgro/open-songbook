@@ -1,0 +1,30 @@
+---
+workId: kenny-garrett-happy-people
+arrangementId: h-840e36f0
+title: Happy People
+artist: Kenny Garrett
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Happy People
+C:Kenny Garrett
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:11/17/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+|: "Am7""^Bass Intro" A,,/E,/ F,/4E,/A,,/E,/G,3/4E,/ | A,,/E,/ F,/4E,/A,,/E,/G,3/4E,/ ::
+"Am7""^Head" e/e/4e/4 d/4d/B/4 z/4 B/4z/4d/4- d- | d2 z2 |  d/d/4d/4 c/4c/A/4 z/4 A/4z/4c/4- c- | c2 z2 |
+"Fmaj7" c/c/4c/4 B/4B/F/4- F3/2 c/- | "Dm7" c B/4B/F/4- F z |  "Am" B/B/4B/4 A/4A/A/4- A2- |1 A2 z2 :|2 A2 z z/ A/ ||
+"A7" ^c e/>a/ z3/2 A/ |  "D7" d ^f/>a/ z d/4A/4c/- | "C7" c- c/4d/4e/< "D7"d/c/4A/4 G/A/- | "A7" A2 z3/2 A/ | "A7" ^c e/>a/ z3/2 A/ |
+"D7""_Solos Over Form or Bridge, Play Intro In between Heads" d ^f/>a/ z d/4A/4c/- | "Am7" c- c/4d/4e/< "D7"d/c/4A/4 G/A/- | "Am7" A2 z2 :|

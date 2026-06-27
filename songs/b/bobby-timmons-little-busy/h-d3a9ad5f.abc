@@ -1,0 +1,34 @@
+---
+workId: bobby-timmons-little-busy
+arrangementId: h-d3a9ad5f
+title: A Little Busy
+artist: Bobby Timmons
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:A Little Busy
+C:Bobby Timmons
+C:Arr. 6EQUJ5
+Z:©2015 APUFmusic 9/26/2015
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "F7" F/F/z/F/ z/ F/z/F/ | "F" _E "Eb" E "D" D "C" C :| z [FA] [DF] [_EG] |: "F7" [C_E]4- |  [CE]4- |
+[CE]4 | z/ [Bd]/[GB]/[_EG]/ z/ E/D/C/ | [E^G]/[FA]/[DF]/[B,D]/ [_E=G]/ [CE]3/2- |  [CE]4- | [CE]4 |
+"Eb" "E" "F" z4 | z "Bb7#9" [_A_d]3 |  [FB] (3[FB]/-[FB]/[_E_A]/ (3[DF]/-[DF]/E/ (3_F/-F/E/ | _F/4_E/4_D/4B,/4 _A, B,2- |
+"Ab" B,3 "G" "D" z | z "Eb9" [_A_d]3 |  [FB] (3[FB]/-[FB]/[_E_A]/ (3[DF]/-[DF]/E/ (3_F/-F/E/ | "Bbm7" _F/4_E/4_D/4B,/4 _A, B,2- | "F" B,3 "Bb" "B" z |
+"C13" z [_A_d]3 |  [FB] (3[FB]/-[FB]/[_E_A]/ (3[DF]/-[DF]/E/ (3_F/-F/E/ | "Bb7#9" _F/4_E/4_D/4B,/4 _A, B,2- | B,3 z ||
+"F7""^Piano Riff" z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 || z [FA] [DF] [_EG] :|  "F7" [C_E]4- | [CE]4- | [CE]4 | z/ [Bd]/[GB]/[_EG]/ z/ E/D/C/ |
+[E^G]/[FA]/[DF]/[B,D]/ [_E=G]/ [CE]3/2- | [CE]4- |O [CE]4 |: "F7" z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | "Bb7" z4 |  z4 | z4 | z4 | "Eb7" z4 |  z4 |
+"Dm7" z4 "G7" | z4 | "Cm7" z4 |  "F7" z4 | "Bbmaj7" z4 | z4 |"_After Solos\n" z4"_D.C. al Coda" |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 :|
+O"^Coda\n" z4 |  z4 | z4 |
+z/ [Bd]/[GB]/[_EG]/ z/ E/D/C/ | [E^G]/[FA]/[DF]/[B,D]/ [_E=G]/ [CE]3/2- |  [CE]4- | [CE]4 |]

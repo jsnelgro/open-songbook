@@ -1,0 +1,84 @@
+---
+workId: billy-austin-louis-jordan-is-you-is-or-is-you-ain-t-my-baby
+arrangementId: h-e1b147f2
+title: Is You Is or Is You Ain't My Baby
+artist: 'Billy Austin, Louis Jordan'
+source: jazz
+key: Emin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Is You Is or Is You Ain't My Baby
+C:Billy Austin, Louis Jordan
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 12/28/2019
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Emin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+G/ |: c/d/- d3- | d2 e/d/c/A/ | G3/2 c/ ^A2 |
+w: ||||
+z7/2 G/ :|
+"Em7""^A" ^A =A/G/ "Em/D" A G | "C7" A/ G "B7" ^A3/2 z | "Em7" z2 A/ "Em7/D"G/A/G/ |
+w: |I got a gal that's|al- ways late|eve ry time we|
+"C7" A/ G "B7" ^A3/2 E/G/ | "A7" B/ B3/2- B2- |
+B3 E/G/ | "D7" B/ B3/2- B2- |
+w: have a date but i|love her _|_ yes i|love her _|
+"B7" B3 z || "Em7""^A" ^A =A/G/ "Em7/D" A G | "C" A/ G "B7" ^A3/2 z |
+"Em7" z2 A/ "Em7/D"G/A/G/ |
+w: |I'm gon na go up|to her gate|see if i can|
+"C7" A/ G "B7" ^A3/2 E/G/ | "A7" B/ B3/2- B2- | B2 E/G/ E/ z/ | "D7" B/ B3/2- B2- |
+w: get it straight cos i|miss her _|_ I'm go na|ask her _|
+"B7" B3 z |
+"Em7""^B" B B "B7/F#" B B | "Em7/G" B B "B7/F#" B A/G/- | "Em7" G/ E3/2 z2 |
+w: |is you is your|is you ain't my ba|_ by|
+z2 z "A#13" z/ E/ |
+"A7" B B B B | "Am7" B B "D7" B B/G/- | "G6" G z z2 |
+w: the|way your act ing|late ly makes me doubt||
+"C7" "B7" z4 | "Em7" B3 "B7/F#" B | "Em7/G" B B "B7/F#" B A/G/- |
+"Em7" G/ E3/2 z2 |
+w: |you'se is|still my ba by may|be _|
+z4 "A#13" | "A7" B B B B | "Am7" B B "D7" B B/G/- |
+"G6" G z z2 |
+w: |seems the flame in|your heart's done gone out||
+"Dm7" z3 "G7" G || "Cmaj7""^C" A/ G3/2 A G | "Cm7" A/ G3/2 A G/B/- | "Gmaj7" B/ D3/2- D F/E/- |
+w: a|wo man is a|crea ture that has always|_ been _ strange *|
+"Dm7" E3 "G7" G | "Cmaj7" A G A G | "Cm7" A G A G | "Bm7b5" B B "E7" B B/C/- |
+w: * just|when your sure of|one you find shes|gone and made a change|
+"Am7" C z "F#m7b5" z2 "B7" |
+"Em7" B B "B7/F#" B B | "Em7/G" B B "B7/F#" B A/G/- | "Em7" G/ E3/2 z2 |
+w: |is you is you|is or is you aint|my baby|
+z4 "A#13" | "A7" B B B B |
+"Am7" B B "D7" B/ B B/- | "Gmaj7" B4- "F7b5" |
+w: |maybe _ ba by|found some body _ new|_|
+"E7" B3 E | "A7" B B B B | "Am7" B B "D7" B/ B G/- | "Gmaj7" G4 |
+w: * or|is my ba by|still my ba by true||
+"C7" "B7" z4 |:
+"Em""^Solos" "Bm7" z4 | "C7" "B7" z4 :|
+"A7""^Ritard coda" e B3 |
+w: ||||
+"G#7" _e _B3 | "G7" [GA]4 |]
+w: ||
+V:2
+z/ |: "Em" E2 "Bm7" D2 | "C" C2 "B7" B,2 | "Em" E2 "Bm7" D2 |  "C" C2 "B7" B,2 :|
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 || z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z (3E/G/B/ d/ ^c3/2 |  (3E/G/B/ d/^c/ z/ [^Gc^dg]3/2 |
+z4 | z4 | z4 |  z4 | z4 | z4 |
+z (3E/G/B/ d/ ^c3/2 |  (3E/G/B/ d/^c/ z/ [^Gc^dg]3/2 | z4 | z4 |
+z4 |  z4 || z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z (3E/G/B/ d/ ^c3/2 |  (3E/G/B/ d/^c/ z/ [^Gc^dg]3/2 | z4 |
+z4 | z4 |  z4 | z4 | z4 | z4 |  z4 |:
+z4 | z4 :|
+z4 |  z4 | z4 |]

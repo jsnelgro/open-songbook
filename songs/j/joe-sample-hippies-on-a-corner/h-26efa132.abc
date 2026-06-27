@@ -1,0 +1,31 @@
+---
+workId: joe-sample-hippies-on-a-corner
+arrangementId: h-26efa132
+title: Hippies On A Corner
+artist: Joe Sample
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hippies On A Corner
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 2/10/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Em""^Intro" E z G/G/A/A/ | "A" z z A/A/B/E/ | "Em" E z G/G/A/A/ | "A" z2 A/A/ B ::
+"Em7""^Head""^Same Notes, emphasis on Chords" z =F z/ F/z/F/ | "A7" z/ =F/ z F F | "Em7" z =F z/ F/z/F/ | "A7" z2 A/A/ B ::  "Em" E z G/G/A/A/ |
+"A" z z A/A/B/E/ | "Em" E z G/G/A/A/ | "A" z2 A/A/ B :|  "Em7" z/ B/B/[DB]/ [^CB]/ e B/ | "F#7" A/d/A/G/- "E7" G2 |
+"A7" z/ A "Bb7" _B/ A "A7" G/ "G7"A/ | "A7" z/ "G7" G "E7" E "D7" D3/2 :|
+"C#dim" z/ B/B/B/ "Cmaj7" B/ e B/ | "Bm7" A/d/A/G/- "Gm7/Bb" G2 | z/ "Am7" G/G/G/ G/ "Abmaj7" c G/ | "F#maj7" =F/_B/F/^D/- "Ebmaj7" D2 |
+"F#m" A3/2 "Eb7" _G3/2 "Abmaj7" c | "F#m" A3/2 "Ebm7" _G2- G/ | "F#m7" A3/2 "Ebm7" _G3/2 "Abmaj7" c | "F#m7" A2- A2 |:
+"Em7" z4 | "A""_Solos, Cue bridges when bored" z4 :|

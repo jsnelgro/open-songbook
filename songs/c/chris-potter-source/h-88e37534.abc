@@ -1,0 +1,40 @@
+---
+workId: chris-potter-source
+arrangementId: h-88e37534
+title: The Source
+artist: Chris Potter
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Source
+C:Chris Potter
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me 4/9/2018
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "B13" z4 :| "B13""^A" B2 ^d z/ ^f/- | f4 | ^f2 ^d z/ B/- |  B2 z3/2 ^F/ | B2 ^d z/ ^g/- |
+g3/2 ^f/ ^g f | ^f2 ^d3/2 B/- |  B z2 z/ ^F/ | "Bm13" B2 d z/ ^f/- | "C#m13" f2 z2 |
+"Dm13" ^f2 d z/ B/- |  "Em13" B3 A/4B/4A/4^F/4 | "B7" B2 ^d z/ ^g/- | g3/2 ^f/ ^g f | ^f2 ^d z/ B/- |
+B z3/2 B/ d/e/- | "Dmaj7" e z3/2 d/ B/d/- | "Cmaj7" d z3/2 B/ A/ z/ | "G/Bb" B B2 "Amaj7" A/B/- |  B2 z/ B/d/e/- |
+"Dmaj7" e z3/2 d/ B/d/- | "Cmaj7" d z3/2 B/ A/ z/ | "G/Bb" B B2 A/ "Bmaj7"B/- |  B2 z (3B/A/^F/ || "B13" B2 ^d z/ ^f/- |
+f7/2 ^g/ | ^f2 ^d z/ B/- |  B3/2 z/ A/^F/^A/F/ | B z ^d z/ ^g/- | g3/2 ^f/ ^g f |
+^f2 ^d z/ B/- |  B2 z3/2 ^F/ | "Bm13" B2 d/B/z/^f/- | "C#m13" f2 z3/2 b/4a/4 | "Dm13" ^f z d z/ B/- |
+"Em13" B2 A/^F/^A/F/ | "B13" B z ^d z/ ^g/- | g3/2 ^f/ ^g f | "B13" ^f2 ^d z/ B/- |  B2 z/ B/d/e/- |
+"Dmaj7" e z3/2 d/ B/d/- | "Cmaj7" d z z/ B/ A/ z/ | "G/Bb" B B2 A/B/- |  "Amaj7" B2 z/ B/d/e/- | "Dmaj7" e z3/2 d/ B/d/- |
+"Cmaj7" d z3/2 B/ A/ z/ | "G/Bb" B B2 A/B/- |  "Bmaj7" B z z2 |: "B13""^B" z4 | z4 | z4 |
+z4 | "E13" z4 | z4 | "B13" z4 |  z4 | "E13" z4 |
+"D13" z4 | "B13" z4 |  z4 :|"^C" z2 "D#m7" ^f3/2 "Cmaj7" g/- | g2 "G#m7" b3/2 "G7" b/- | b2 a "Em11" z |
+"Ebmaj7" a3/2 a/- "Dmaj7" a2 | z2 "D#m7" ^f3/2 "Cmaj7" g/- | g2 "D#m7" b3/2 "Ebmaj7" d'/- | d'2 "Cmaj7" g3/2 a/- |  "Bbmaj7" a2 z2 | z2 "Em" g "F" a/g/- |
+"Em" g2 z2 | "Ddim" f/g/ "Eb"z/f/- "Ddim7" f2- |  f2 z2 | "D#m7" z2 ^f3/2 "Cmaj7" g/- | g2 "G#m7" b3/2 "G7" b/- | b2 "Ebmaj7" a3/2 "Cmaj7" a/- |
+a2 z/ d/f/g/- | "Fmaj7" g z3/2 f/ d/f/- | "Ebmaj7" f z3/2 d/ c | "Ab/B" d d2 c/d/- |  "Cmaj7" d2 z/ d/f/g/- |
+"Ebmaj7" g z3/2 f/ d/f/- | "Dbmaj7" f z3/2 d/ c | "Ab/B" d d2 c/ "Cmaj7"d/- |  d2 z2 |]

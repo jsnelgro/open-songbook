@@ -1,0 +1,31 @@
+---
+workId: sholom-secunda-bei-mir-bistu-shein
+arrangementId: h-8f340e16
+title: Bei Mir Bistu Shein
+artist: Sholom Secunda
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Bei Mir Bistu Shein
+C:Sholom Secunda
+C:Jacob Jacobs
+Z:©2017 Finmusic/effendi.me
+Z:7/23/2017
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Gm7" "F" z4 | "Eb" "D7" z4 | "Gm7" "F" z4 | "Eb" "D7" z4 |  "Gm7" "F" z4 | "Eb" "D7" z4 | "Gm7" "F" z4 |
+"D7" z4 |  "Bb" z2 z/ D3/2 |: "Gm7" B2 A3/4G3/4B/- | B2 z/ D3/2 | B2 A/ G B/- |  B2 z/ c3/4B3/4 |
+"D7" A2 ^F/ D A/- | A/ A B A G/- |1 "Gm7" G4 "F7" |  "Eb7" z2 "D7" z/ D3/2 :|2 "Gm7" G4 || z z/ G/ A B ||
+"Cm7" c2 G c- |  c/ B3/2 A G | "Gm7" B2 B/ G B/- | B3/2 G/ A B | "Cm7" c2 G c- |
+c/ B3/2 A G | "D7" d2 d/ d d/- | d2 z/ D3/2 || "Gm7" B2 A3/4G3/4B/- |  B2 z/ D3/2 |
+B2 A/ G B/ | B2 z/ c3/4B3/4 | "D7" A2 ^F/ D A/- |  A/ A B A G/- | "Gm7" G4 "F7" | "Eb" "D7" z4 :|

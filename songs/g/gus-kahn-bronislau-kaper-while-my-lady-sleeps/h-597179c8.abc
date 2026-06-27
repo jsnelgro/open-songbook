@@ -1,0 +1,37 @@
+---
+workId: gus-kahn-bronislau-kaper-while-my-lady-sleeps
+arrangementId: h-597179c8
+title: While My Lady Sleeps
+artist: 'Gus Kahn, Bronislau Kaper'
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:While My Lady Sleeps
+C:Gus Kahn, Bronislau Kaper
+C:John Coltrane
+C:Arr. 6EQUJ5
+Z:©APUF Music 9/19/2015
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z z z z/ G/ | "C7" C/G/z/_B/- B3/2 G/ | C/G/z/_B/- B3/2 G/ | C/G/z/_B/- B3/2 G/ |
+C/G/ z/ _B3/2- B/G/ | C/G/z/d/- d2- | d3/2 e/- e2- | e/4g/4a/4g/4 e/4c/4B/4e/d3/4- d/e/- |  e4 |
+z2 z z/ G/ |: "C7"S"^Ostinato" c3/2 B/ "Dbmaj7" _B/G/- G/4_E/4F/4G/4- | "C7" G3/2 _G/ "Dbmaj7" F/ _D _A,/4_B,/4 |  "Cmaj7" C3/2 D/8E/8F/8G/- G3/2 z/8 |
+"Dm7" z2 z/4 G/4 "G7"A/ (3C/D/E/- | "Cmaj7" E4 | "Dm7" z z "G7" z z/ G/ |  "C7" c2- "Dbmaj7" c/B/ _B/4G/4_E/4F/4 | "C7" G3/2 _G/ F/ "Dbmaj7"F/ F/4_D/4_A,/4_B,/4 |
+"C7" C3/2 D/8E/8F/8G/- G3/2 z/8 | "Dm7" z2 (3z/ G/ "G7"A/ (3C/D/C/- |  "C7" C4 | z z z (3z/ E/F/ | "Dm7""^Swing" (3D D E (3F F G |
+"G7#9" A3/2 G/ A/ c B/ |  "Cmaj7" A3/2 B/4d/4 G2- | "Cmaj7" G- G/4E/4D/4C/4 B, z/ (3B/4A/4G/4 | "Am7" (6:2:4^F/ F3/2 F/G/ A A3/2 B/ |
+"D7" c/c/ c "Eb7b5" z/ B/c/d/ |  c/B/ "Em7" B2 z/ "A7" B/ | "Dm7" c/4d/4A/ z/ (3F/4D/4A,/4 "G7" C/B,/z/G/ | "C7""^Ostinato" c2- c/ "Dbmaj7"_B/ B/4G/4_E/4F/4 |
+"Cmaj7" G/ G3/2- G/ "Dbmaj7"_A/ F/4_D/4_A,/4_B,/4 |  "Cmaj7" !~(!C !~)!G- G2 "Eb7b5" |1 "A7""^Swing" z2 (3z/ F/G/ F/E/ | "Dm7" D2 "Cmaj7" c2- | "Fmaj7" c (3z/ B/c/ "F#7b5" B3/2 "B7" c/ |
+"Cmaj7" e e3 | "Em7b5" d c/B/ A/ "A7" z/ G | "Fmaj7" A4 | "Em7" D B/A/ "Eb7" (3A F E |  "Dm7" A4 | "G7" z/ A,/-A,/B,/ C D |
+"C7""^Ostinato" G4- | G/(3F/4E/4D/4 E/C/- C/4_A,/4C/- C/<D/- |  D/ E3/2- E2 | z3 G/4F/4_E/4_D/4 | B,/4G,/4 C z/"^D.S. al Coda" z2 :|2
+O z2 "A7" (3z/ [DF]/"^Swing"[EG]/ [DF]/[^CE]/ ||  "Dm7" [DF]2 [Ac]2- "Cmaj7" | "F" [Ac] (3z/ [^FB]/ "F#"[Gc]/ [FB]3/2 "B7" [Ac]/ | "Cmaj7" [Be]- [Be]3 | "Em7" z [Bd]/[Ac]/ [GB]/ "A7"[FA]/z/[EG]/ |  "Fmaj7" [Ac]4 "F7" |
+z "Em7" [GB]/[FA]/ (3[EG] [DF] "Eb7" [^CE] | "Dm7" [FA]4 | z/ "G7" [A,-C]/[A,C]/[B,D]/ [CE] [DF] |  "C7""^Ostinato" G4- | G4- | G7/2 [ce]/ | "Cdim" [B^d]4 |]

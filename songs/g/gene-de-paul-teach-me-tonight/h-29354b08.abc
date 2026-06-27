@@ -1,0 +1,35 @@
+---
+workId: gene-de-paul-teach-me-tonight
+arrangementId: h-29354b08
+title: Teach Me Tonight
+artist: Gene De Paul
+source: jazz
+key: Eb
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Teach Me Tonight
+C: Gene De Paul
+M: 4/4
+L: 1/8
+Q: 90
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags Ballad
+%%songbook-uri /post/teach-me-tonight/
+K: Eb
+P: A
+z2 "Fm7"cc "Bb7"cccc||"Eb^7"c2 BB- "Ab7"B4-|"Gm7"B2cc "C7"cc"C"cc|"Fm7"c2BB-"Bb7"B4|"Gm7b5"z2 _de "C7b9"cdBc|
+"Fm7"AG F6|"Bb7" B2F4 A2|"Eb^7" G4 "C7"z4|"Fm7"z2 cc "Bb7"cccc||
+P: A
+"Eb^7"c2 BB- "Ab7"B4-|"Gm7"B2cc "C7"cc"C"cc|"Fm7"c2BB-"Bb7"B4|"Gm7b5"z2 _de "C7b9"cdBc|
+"Fm7"AG F6|"Bb7" B2F4 A2|"Eb" E8|z2 E2 "Gm78"F2 "Gbm7"=E2||
+P: B
+"Fm7"E2 E2 "Bb7"c3B|"Gm7"G2G2 "C7"z2 GB|"Fm7"A2A2"Bb7"d3 c|"Eb^7"B4- BBcB|
+"Am7b5"=A3 A "D7b9"e3d|"Gm7"B2 B2 "C7"z2 B2|"Cm7"dede "F7"c3d|"Fm7"z2 cc "Bb7"cccc||
+P: A
+"Eb^7"c2 BB- "Ab7"B4-|"Gm7"B2cc "C7"cc"C"cc|"Fm7"c2BB-"Bb7"B4|"Gm7b5"z2 _de "C7b9"cdBc|
+"Fm7"AG F6|"Bb7" B2F4 A2|"Eb" E8|z8||

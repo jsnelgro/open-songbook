@@ -1,0 +1,30 @@
+---
+workId: sonny-clark-voodoo
+arrangementId: h-4a15775f
+title: Voodoo
+artist: Sonny Clark
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Voodoo
+C:Sonny Clark
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/18/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z7/2 A/ |: "Dm7" e d "C/D" _E z/ A/ | "Bb7" e d "A7" _E z/ A/ | "Dm7" e d "F/C" _E/A/d/f/ |
+"Bb7" (3e/f/e/ d _E "A7" z/ A/ | "Dm7" e d "C/D" _E z/ A/ | "Bb7" e d "A7" _E z/ A/ | "Dm7" e d "F/C" _E/A/d/f/ |  "Bb7" e d "A7" _E z/ A/ :|
+"Bb7" z2 "A7" z A | "Dm7" d3/2 d/ d/d/z/d/- | "Cmaj7" d d d d |  "Bbmaj7" d3/2 d/ d/d/z/d/- | "Cmaj7" d d d d |
+"Dm7" d3/2 d/ d/d/z/d/- | "Cmaj7" d d d d |  "Em7b5" d3/2 d/ d/d/z/c/- | "A7" c2 z3/2 A/ | "Dm7" e d "C/D" _E z/ A/ |
+"Bb7" e d "A7" _E z/ A/ |  "Dm7" e d "F/C" _E/A/d/f/ | "Bb7" (3e/f/e/ d _E "A7" z/ A/ | "Dm7" e d "C/D" _E z/ A/ | "Bb7" e d "A7" _E z/ A/ |
+"Dm7" e d "F/C" _E/A/d/f/ | "Bb7" e d "A7" _E z/ z/ |]

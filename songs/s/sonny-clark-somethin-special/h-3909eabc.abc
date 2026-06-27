@@ -1,0 +1,28 @@
+---
+workId: sonny-clark-somethin-special
+arrangementId: h-3909eabc
+title: Somethin' Special
+artist: Sonny Clark
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Somethin' Special
+C:Sonny Clark
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/18/2016
+L:1/4
+Q:1/4=155
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z z/ ^C/ D/^F/G/A/ | B/G/ z "Gsus4" z2 "Gm7" | z z/ ^C/ D/^F/G/A/ | B/G/ "Gsus4" z z2 "Gm7" |
+z3/2 ^F/ G/=B/c/d/ | e/c/ "Csus4" z z2 "Cm7" | z3/2 ^C/ D/^F/G/A/ | B/G/ "Gsus4" z z2 "Gm7" |  z2 d B |
+"A7" c3/2 c/- c c- | c/G/B/^c/ =c/B/F/G/ | "D7" F3/2 F3/2 F- |  F2 (3F D C | "Gm7" D4 |
+"C7" z z (3G D C | "F7" D2 z/ F/E/F/ |  "D7" z3/2 ^C/ D/^F/G/A/ |]

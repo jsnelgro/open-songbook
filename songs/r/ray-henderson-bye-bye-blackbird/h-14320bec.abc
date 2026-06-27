@@ -1,0 +1,31 @@
+---
+workId: ray-henderson-bye-bye-blackbird
+arrangementId: h-14320bec
+title: Bye Bye Blackbird
+artist: Ray Henderson
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Bye Bye Blackbird
+C: Ray Henderson
+M: 4/4
+L: 1/4
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/bye-bye-blackbird/
+K: F
+"F"AAAA|BAA2|AGG2|GFF2|
+F4|"Abo"G4|"Gm7"F2E2-|"C7"E4||
+"Gm7"BBBB|cBB2|BAA2|"C7"AGG2|
+G4|"C7"A4|"F"G2F2-|F4||
+"F7"Fccc|cBAG|"Am7b5"G4|"D7"^F4|
+"Gm7"DBBB|BAGF|"Bbm"F2-"Eb7"F2-|"Gm7"F2-"C7"F2||
+"F"AAAA|BAA2|"Am7"AGG2|"D7"G1/2A1/2^F3|
+"Gm7"G2 B2-|"C7"B2E2|"F"F4|Z||

@@ -1,0 +1,34 @@
+---
+workId: mauricio-einhorn-durval-ferreira-sambop
+arrangementId: h-4f7fbaa4
+title: Sambop
+artist: Mauricio Einhorn Durval Ferreira
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sambop
+C:Mauricio Einhorn Durval Ferreira
+C:Cannonball Adderley
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/19/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ C/F/_A/ =A/c/d/c/ | "Dm7" [DAf]3/2 "G7" [_D_Af]/ z "Cm" [CGf]- | [CGf]/ "F/B" [_E_Gf] z/ [EGf] [EGf] | "Bb7" [G_cf]3/2 "A7" [_GBf]/ z "Abmaj7" [DAf] |
+z2 z/ c/ d | "Dm7" [DAf]3/2 "G7" [_D_Af]/ z "Cm7" [C-G-f] | [CGf]/ "F" [_E_Gf] z/ [EGf] [EGf] | "Bb7" [G_cf]3/2 "A7" [_GBf]/ z "Abmaj7" [DAf] |  z z/ C/ =B, C |
+"Bbm7" c z/ "Eb7" B/ G z/ A/ | "Bbm7" B/c/A/ "Eb7"B/ G/ C z/ | "Bbm7" z/ C/G/A/ "Eb7" B/c/A/B/ |  "Bbm7" G D/F/ "Eb7" E z | "Cm7" z d/c/ "F7" A A/B/ |
+"Cm7" c/d/B/c/ "F7" A/ D z/ | "Cm7" z/ D/A/B/ "F7" c/d/B/c/ |  "Cm7" A (3G/ "F7"A/G/ ^F z | "Bbm7" z/ D/G/A/ B/c/d/e/ | "Bdim7" f _A/A/- A2 |
+"Cm7" z A/B/ c/d/^d/e/ |  "B7" f _A/A/- A3/2 f/- | "E7" f2- f3/2 _e/- | "A7" e/ _d c B c/- | "Bbm7" c2- c/A/B/G/ |
+"Eb7" z4 | "Bbm7" c z/ "Eb7" B/ G G/A/ | "Bbm7" B/c/A/B/ "Eb7" G/ C z/ | "Bbm7" z/ C/G/A/ B/ "Eb7"c/A/B/ |  "Bbm7" G D/F/ "Eb7" E z |
+"Cm7" d3/2 c/ "F7" A3/2 _d/- | "Bm7" d3/2 _c/ "E7" _A/- A c/- | "Bbm7" c3/2 B/ (3A/B/ "Eb7"A/ G/F/ |  "Abmaj7" z2 z/ c/ d | "Dm" [DAf]3/2 "G7" [_D_Af]/ z "Cm7" [CGf]- |
+[CGf]/ "Fm" [_E_Gf] z/ [EGf] [EGf] | "Bb7" [G_cf]3/2 "A7" [_GBf]/ z "Abmaj7" [DAf] |  z2 z/ ^G/ (3A/c/d/ | "Dm7" f/f/f/ "G7"f/ (3_e/=e/ "Cm7"_e/ c |
+"Fm" _c/c/c/c/ (3B/c/B/ _A | "Bb7" F/F/ "A7"F/F/ "Abmaj7" _E/C/=E/F/ |  z4 |]

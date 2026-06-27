@@ -1,0 +1,39 @@
+---
+workId: jeff-lorber-water-sign
+arrangementId: h-3214b719
+title: Water Sign
+artist: Jeff Lorber
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Water Sign
+C:Jeff Lorber
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/9/2017
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: [dg]/4[fb]/4[gc']/4[ad']/4 [gc']/4[fb]/4[dg]/4[gc']/4 z/4 [gc']/4[fb]/- [fb] | [dg]/4[fb]/4[gc']/4[ad']/4 [gc']/4[fb]/4[gc']/4[c'f']/4 z/4 [c'f']/4[ad']/ (3[_a_d']/4[gc']/4[fb]/4[dg]/ |
+[dg]/4[fb]/4[gc']/4[ad']/4 [gc']/4[fb]/4[dg]/4[gc']/4 z/4 [gc']/4[fb]/- [fb] | [gc']/4[fb]/4[dg]/4[cf]/4 [fb]/4[cf]/4[^c^f]/4[dg]/4- [dg]2 ::  "Dbmaj7/C" C/4B,/4G,/4B,/4 z/"^Bass Thing\n" z/4 C,/4 _E,/F,/ _G,/4=G,/4 z/ |
+C/4B,/4G,/4B,/4 z3/4 C,/4 F,/4G,/4_E,/4F,/4 C,"^3x" :| C/4B,/4G,/4B,/4 z/ z/4 C,/4 _E,/F,/ _G,/4=G,/4 z/ |
+C/4_E/4F/4G/4 E/4F/4G/4B/4 F/4G/4B/4c/4 _e/4f/4g/4f/4 |:  "F13" z4 | "F9" z4 | "F13" z4 | z2 z/4 "Eb13" d/<d/ "E9"d/4 "F13"z/4b/4- |
+"F9" b/c'/4a/4 z3/4 c/4 g/a/4f/4- f/>c/ | _e/4f/4g/4e/4 f/4e/4c/4B/4 z/4 e3/4 (3c/4B/4G/4_E/ | G/4^G/4A/4F/4- F3- |
+F2 z/4 "Eb13" d/<d/ "E9"d/4 "F13"z/4b/4- |  "F9" b/c'/4a/4 z3/4 c/4 g/a/4f/4- f/>c/ | _e/4f/4g/4e/4 f/4e/4c/4B/4 z/4 e/4(3c/4B/4G/4 _E/C/ |
+G/4^G/4A/4F/4- F- F2- | "F9" F2 z "F13" G/ "Gm7"G/4G/4 |  "Abmaj7" z G/B/4B/4- B- "G7#9" B/4c/4_e/ | "Cm7" (3_g/4f/4_e/4f/4c/4 "Bbm7" e2 z/4 "Eb7" _G/4F/4_E/4- |
+"Abmaj7" E _E/4C/4E/ "G7" F (3z/ E/F/ | "Cm7" G/B/4B/4- "Bbm7" B3 "Eb7" |  "Abmaj7" z G/B/4B/4- "G7" B- B/4c/4_e/ | "Cm7" (3_g/4f/4_e/4f/4c/4 "Bbm7" e2 e/4 "Eb7"_G/4F/4_E/4- |
+"Abmaj7" E _E/4C/4E/4F/4- "G7" F- F/4E/4F/ | "Dbmaj7""^Play Bass Thing Here!" G4- |  G4 | z4 | C/4_E/4F/4G/4 E/4F/4G/4B/4 F/4G/4B/4c/4 _e/4f/4"^Fine"g/4f/4 ::
+"F9" z4"^Cue" :|  "Abmaj7" "G7" z4 | "Cm7" "Bbm7" z4 "Eb7" | "Abmaj7" "G7" z4 |
+"Cm7" "Bbm7" z4 "Eb7" |  "Abmaj7" "G7" z4 | "Cm7" "Bbm7" z4 "Eb7" | "Abmaj7" "G7" z4 |
+"Dbmaj7/C" c/4B/4G/4B/4 z/"^This is the Bass Thing in Treble Clef" z/4 C/4 _E/F/ _G/4=G/4 z/ |  c/4B/4G/4B/4 z3/4 C/4 F/4G/4_E/4F/4 C | "Dbmaj7/C" c/4B/4G/4B/4 z/ z/4 C/4 _E/F/ _G/4=G/4 z/ | c/4B/4G/4B/4 z3/4 C/4 F/4G/4_E/4F/4 C |
+"Dbmaj7/C" c/4B/4G/4B/4 z/ z/4 C/4 _E/F/ _G/4=G/4 z/ |  c/4B/4G/4B/4 z3/4 C/4 F/4G/4_E/4F/4 C | "Dbmaj7/C" c/4B/4G/4B/4 z/ z/4 C/4 _E/F/ _G/4=G/4 z/ |
+C/4_E/4F/4G/4 E/4F/4G/4B/4 F/4G/4B/4c/4 _e/4f/4g/4f/4 :|

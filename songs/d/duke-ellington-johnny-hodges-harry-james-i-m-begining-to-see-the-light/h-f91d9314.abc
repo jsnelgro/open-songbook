@@ -1,0 +1,29 @@
+---
+workId: duke-ellington-johnny-hodges-harry-james-i-m-begining-to-see-the-light
+arrangementId: h-f91d9314
+title: I'm Begining to See the Light
+artist: 'Duke Ellington, Johnny Hodges, Harry James'
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: I'm Begining to See the Light
+C: Duke Ellington, Johnny Hodges, Harry James
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Duke Ellington
+%%songbook-uri /post/i-am-begining-to-see-the-light/
+K: C
+_A|:"C6"AcA2"Ab7"c2"G7"d2|"C6"eA2A-A2z"C+"_A|"C6"AcA2"Ab7"c2"G7"d2|"Ab7"_e_A2A-A2zA|
+"C6"AcA2 c2 "G7"d2|"C"e"Bb"g2 g-"A7"g2 gf|"D9"ecA2"Dm7"c"G7"d2c-|1 "C"c4"Co"z2"G7"z_A:|2 "C"c4 z4||
+"E7"ze2 Be2B2|_AB2e-e4|"Eb7"z_e2 _Be2B2|G_B2_e-e4|
+"D9"zd2Ad2A2|_GA2d-d2 dd|"Ab7"_ee e2 ec2 d-|"Dm7"d4 "G7"z2 z _A||
+"C6"AcA2"Ab7"c2"G7"d2|"C6"eA2A-A2z"C+"_A|"C6"AcA2"Ab7"c2"G7"d2|"Ab7"_e_A2A-A2zA|
+"C6"AcA2 c2 "G7"d2|"C"e"Bb"g2 g-"A7"g2 gf|"D9"ecA2"Dm7"c"G7"d2c-|"C"c4 z4||

@@ -1,0 +1,27 @@
+---
+workId: john-coltrane-giant-step
+arrangementId: h-42346295
+title: Giant Step
+artist: John Coltrane
+source: jazz
+key: C
+tags:
+  - Hardbop
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Giant Step
+C: John Coltrane
+M: 4/4
+L: 1/8
+Q: 1/4=320
+%%songbook-source jazzleadsheet
+%%songbook-categories Hardbop
+%%songbook-tags Standard50
+%%songbook-uri /post/giant-step/
+K: C
+"B" ^f4 "D7"d4|"G"B4 "Bb7"G3 _B-|"Eb"B8|"Am7"=B3 A-"D7"A4|
+"G" d4 "Bb7"_B4|"Eb"G4 "F#7"^D3 ^F-|"B"F8|"Fm7"G4 "Bb7"=F3 _B-|
+"Eb"B8|"Am7"=B4 "D7"A3 d-|"G"d8|"C#m7"^d4 "F#7"^c3 ^f-|
+"B"f4 ^f4|"Fm7"g4 "Bb7"=f3 _b-|"Eb"b8|"C#m7"^f3 f-"F#7"f4||

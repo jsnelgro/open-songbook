@@ -1,0 +1,31 @@
+---
+workId: eddie-harris-bold-and-black
+arrangementId: h-f81555fd
+title: Bold and Black
+artist: Eddie Harris
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Bold and Black
+C:Eddie Harris
+C:Arr 6EQUJ5
+Z:V2
+Z:©2015 Finmusic/effendi.me
+Z:V1
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Gmaj7" f4 | "F#m7" f/ "B7" a7/2 | "E7" f/e/d/B/ d/ e B/- | "E7" B4 |  "Gmaj7" f4 | "F#m7" f/ "B7" a7/2 |
+"E7" f/e/d/B/ d/ e f/- | "F#7" f2 z/ d/ (3d/B/A/ |  "G7" B2 B/c/- c- | "A7" c4 | "C/D" e3/2 f/- "D7" f g- |
+"C9" g/a/- a- "D9" a2 |  "Gmaj7" b4 | "F#m7" b/ c'3/2- "B7" c'2 | "E7" d'/c'/b/^g/ b/ c' f/- | "Bm11" f4 |  "Gmaj13" b4 |
+"E7#5" ^g/ B7/2 | "D7" d/B/e/d/ z/ "Cmaj7" B/A/B/- | "Bm13" B4 |]

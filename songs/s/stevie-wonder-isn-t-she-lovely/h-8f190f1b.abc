@@ -1,0 +1,29 @@
+---
+workId: stevie-wonder-isn-t-she-lovely
+arrangementId: h-8f190f1b
+title: Isn't She Lovely
+artist: Stevie Wonder
+source: jazz
+key: E
+tags:
+  - Funk
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Isn't She Lovely
+C: Stevie Wonder
+M: 4/4
+L: 1/8
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Funk
+%%songbook-tags Stevie Wonder,Funk
+%%songbook-uri /post/isnt-she-lovely/
+K: E
+"C#m7"z8|"F#7"z8|"Bsus7"z8|"E"z4 (3G2A2G2||
+|:"C#m7"F4E4|"F#7"z4(3G2A2G2|"Bsus7"F4E3C|"E"B,4 (3G2A2G2|
+"C#m7"F4E4|"F#7"z4(3G2A2G2|"Bsus7"F4E3C|"E"B,4 (3G2A2B2||
+"A^7"B3GA2BA-|"G#7" A4- (3A2G2G2|"C#m7" GFEF-F2EC-|"F#7" C3B, (3G2A2G2|
+"Bsus7"F4E4|C4B,4!coda!|"E"E4z4|z4 (3G2A2G2:|
+!coda!"E"E2- (3EB,C (3EFG (3Bce|e2 z6||

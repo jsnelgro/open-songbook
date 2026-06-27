@@ -1,0 +1,25 @@
+---
+workId: duke-ellington-c-jam-blues
+arrangementId: h-6fb716f0
+title: C Jam Blues
+artist: Duke Ellington
+source: jazz
+key: C
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: C Jam Blues
+C: Duke Ellington
+M: 4/4
+L: 1/8
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues
+%%songbook-uri /post/c-jam-blues/
+K: C
+"C7"GG z6|GG z2 GG z2|G3 c z4|z8|
+"F7"GG z6|GG z2 GG z2|"C7"G3 c z4|z8|
+"G7"GG z6|"F7"GG z2 GG z2|"C7"G3 c z4|z8|

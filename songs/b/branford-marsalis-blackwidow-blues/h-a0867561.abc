@@ -1,0 +1,28 @@
+---
+workId: branford-marsalis-blackwidow-blues
+arrangementId: h-a0867561
+title: Blackwidow Blues
+artist: Branford Marsalis
+source: jazz
+key: Bmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blackwidow Blues
+C:Branford Marsalis
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 12/10/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bm7""_Bass does something here, before getting into the Groove" "Cmaj7" z4 :: "Bm7""_Bass Line (or Something Like This" A,/C/D/E/ B,/ "Cmaj7#11"D/E/F/ | "Bm7" "Cmaj7" z4 | "Bm7" "Cmaj7" z4 |  "Bm7" "Cmaj7" z4 :|
+"^Head" z3/4 d/4 e/4d/4B/4F/4 E/4F/4A/4F/4- F/>E/ | D/4B,/E/4 z/4 F/G/4- G/4_E/4=F/4_B/4 G/4c/4_e/4g/4 | z3/4 [A-a]/4 [A^g]/>[Ee]/ [Aa]/4[de]/4[Be]/- [B-e] |
+[Bd]3 z | z/ a/4 z/4 a/_a/4 z/4 g/f/4 z/4 f/e/4 z/4 | e/d/4 z/4 d/4B/4A/-<A/F/4A/8B/8 A/8F/8E3/4 | D/>[Bd]/- [B-d] [B-e]2 |
+[Bd]3 z |: "Bm7""_Solos" "Cmaj7" z4 | "Bm7" "Cmaj7" z4 :|

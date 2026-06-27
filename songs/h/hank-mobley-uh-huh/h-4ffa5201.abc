@@ -1,0 +1,32 @@
+---
+workId: hank-mobley-uh-huh
+arrangementId: h-4ffa5201
+title: Uh-Huh
+artist: Hank Mobley
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Uh-Huh
+C:Hank Mobley
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/10/2016
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bb7" B z z _d/e/ | "Eb7" z2 z/ =e/ (3_e/B/_d/ | "Bb7" B z z _d/e/ | "Eb7" z2 z/ =e/ (3_e/B/_d/ |
+"Bb7" B z z _d/e/ | "Eb7" z2 z/ =e/ (3_e/B/_d/ |1 "Bb7" B z "Ab9" z2 | "Gb9" "F7" z4 :|2  "Bb7" B z z2 ||
+"Ebm7" z/ B/_d/e/- e d/e/- | e z z2 | "Bbm7" z/ B/_d/e/- e d/B/- |  "Bb7" B z "Bb7" z2 |
+"Ebm7" z/ B/_d/e/- e d/e/- | e z z2 | "F7" z/ B/_d/e/- e d/f/- |  f z z2 | z4 |
+"Bb7" B z z _d/e/ | "Eb7" z2 z/ =e/ (3_e/B/_d/ |  "Bb7" B z z _d/e/ | "Eb7" z2 z/ =e/ (3_e/B/_d/ | "Bb7" B z z _d/e/ |
+"Eb7" z2 z/ =e/ (3_e/B/_d/ | O "Bb7" B z "Ab9" z2 | "Gb9" "F7" z4"^D.C. al Coda" |:"^Solos over blues or form (AABA)" z4 | z4 :| O B z "Ab9" z2 |
+"Gb9" z2 "F7" z/ =e/ (3_e/B/_d/ | "Bb7" B z "Ab" z2 | "Gb" "F7" z2 z/ =e/ (3_e/B/_d/ |  "Bb7" B z z2 |]

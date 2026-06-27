@@ -1,0 +1,31 @@
+---
+workId: benny-golson-blues-march
+arrangementId: h-21506f28
+title: Blues March
+artist: Benny Golson
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blues March
+C:Benny Golson
+C:Art Blakey
+C:arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:2/27/2018
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+F/ |: "Bb7" B2 (3d/B/ z/ z/ B/ | "Eb7" _d2 (3e/d/ z/ z/ F/ | "Bb7" B3 d/d/ |  B2 _A z/ F/ |
+"Eb7" B/B/_d/ "Ab7"d/ (3e/_f/e/ (3d/B/d/ | "Db7" B/B/_A/A/ "Gb7" _G/G/_D/E/ | "Gm7" F2- "Ab7" F/F/ (3_A/F/A/ |  "A7" _G2 "Bb7" z/ G/ "G7"=B/_d/ |
+"Cm7" B- (3B/_A/_G/ B- (3B/A/G/ | "F7" A "Bb" f/f/ (3e/c/A/ F/E/ | "Bb7" D/ B3/2- "Db7" B2- |1  "Gb7" B2 "B7" z3/2 F/ :|2 "Gb7" B2 "B7" z2 |:
+"Bb7" D/ B3/2- "Db7" B2 | "Gb7" z f/f/ (3e/ "Bb"c/A/ F/E/ :|  "Db7" D/ B3/2- "Db7" B2 | "Gb7" z f/f/ (3e/ "Bb"c/A/ F/E/ | "Bb7#9" D/ B3/2- B2- |
+B4 |]

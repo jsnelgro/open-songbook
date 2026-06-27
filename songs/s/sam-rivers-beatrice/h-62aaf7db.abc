@@ -1,0 +1,27 @@
+---
+workId: sam-rivers-beatrice
+arrangementId: h-62aaf7db
+title: Beatrice
+artist: Sam Rivers
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Beatrice
+C: Sam Rivers
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing,Ballad
+%%songbook-uri /post/beatrice/
+K: F
+|:"F" z2 z c c2c2|"Gb^7"f2c2c2B2|"F"c3A F2F2|"Eb^7"F2G6|
+"Dm7"z2z A A3A|"Eb^7"d2c2 _eg2 f-|"Dm7"f4 F3c|"Bbm7"Bc- c4 cF|
+"Am7"A6 c2|"Bb^7"f4 g3 a-|"Em7b5"a4- "A7"a4-|"D^7"a6 g2|
+"Gm7"zf3 f2f2|"Gb^7"f4- fcBc-|"Fm7"c3 F cB _A2-|"Gb^7"A8:|

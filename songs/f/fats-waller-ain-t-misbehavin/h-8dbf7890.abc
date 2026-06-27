@@ -1,0 +1,35 @@
+---
+workId: fats-waller-ain-t-misbehavin
+arrangementId: h-8dbf7890
+title: Ain't Misbehavin'
+artist: Fats Waller
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Ain't Misbehavin'
+C: Fats Waller
+M:4/4
+L:1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags standard50
+%%songbook-uri /post/aint-misbehavin/
+K:C
+P: A
+"C6"zCDC "A7"GG3|"Dm7"zDED"G7"A4|"C6"zGAG "C7"cBc^c|"F6"dcAF "Fm7"E2_E2|
+"C6"zCDC "A7"GG3|"Dm7"zDED "G7"AA2G|"E7"E4-"A7"E4-|"D7"E4"G7"z4||
+P: A
+"C6"zCDC "A7"GG3|"Dm7"zDED"G7"A4|"C6"zGAG "C7"cBc^c|"F6"dcAF "Fm7"E2_E2|
+"C6"zCDC "A7"GG3|"Dm7"zDED "G7"AA2G|"C6"C8-|C4"E7"z4||
+P: B
+"Am7"z2cA cA3|"F7"z2cA cA3|"D7"z2cA cA3|"A7"z2^cA cA3|
+"G6"zd3 "E7"d2d2|"Am7"d2c2"D7"B2A2|"G7"G4"A7"A4|"D7"E4"G7"D4||
+P: A
+"C6"zCDC "A7"GG3|"Dm7"zDED"G7"A4|"C6"zGAG "C7"cBc^c|"F6"dcAF "Fm7"E_E-E2|
+"C6"zCDC "A7"GG3|"Dm7"zDED "G7"AA2G|"C6"C8-|C4z4||

@@ -1,0 +1,31 @@
+---
+workId: jim-hall-grand-slam
+arrangementId: h-d9766940
+title: Grand Slam
+artist: Jim Hall
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Grand Slam
+C:Jim Hall
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/22/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+c z3 | z2 B/_A/F/A/- | A z3 | z3 f |  z4 |
+z C B/_A/F/A/- | A z z2 | z4 |  z _E B f | _a =B, _A B |
+_e B, _A/F/_E/F/- | F z z2 |  z3/2 [f_a]/- [fa]3/2 [df]/- | [df]2 z F | =B _B/_A/ (3B/4=B/4_B/4A/ F- |
+F z z2 |  z/ B, _E _A _d/- | d/- [d_g] [_d=b] [=dc'] [_db]/- | [db]2 z2 | z4 |
+z =B _d/_A/z/c/- | c z2 F | _A F B,/_A,/z/F/- | F z z2 |  f/f/f/f/ f/f/ [f_a] |
+z4 | z4 | B/B/d/d/ f/f/g/f/ |  _a/g/ f z2 | z2 _e/d/e/d/ | _e/d/ c z2 |
+z/ z/ =B,/C/ F/B/G/_A/ |  _d/_g/=B/c/ _e/_a/c'/d'/ | _e'/d'/c'/=b/ _b/_a/ f | z2 z f |]

@@ -1,0 +1,190 @@
+---
+workId: snarky-puppy-grown-folks
+arrangementId: h-3c3a010e
+title: Grown Folks
+artist: Snarky Puppy
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Grown Folks
+C:Snarky Puppy
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me 1/19/2018
+%%score [ 1 | 2 | 3 ]
+L:1/4
+Q:1/4=165
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble nm="Lead" snm="Ld"
+%%MIDI program 61
+V:2 treble nm="Rtm" snm="rtm"
+%%MIDI program 30
+V:3 bass nm="Bass" snm="Bass"
+%%MIDI program 34
+V:1
+"_A""^Drum Intro" z4 | z4 | z4 || z4 || "^B" z4 |
+z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 |
+z4 || z2 z/ A,/_C/E/ ||"^C" =D z (3A, _G, F, |  =D _D2 z |
+=D _D F,3/2 A,/- | A, z z2 | A, _C E F/_G/- |  G3- G/B/ | A3/2 _G/4F/4 E2 |
+z2 z/ A,/_C/E/ | =D z z2 |  z2 z/ A,/_C/E/ | =D z (3A, _G, F, |
+=D _D2 z/ =D/- | D/ _D E, F,/ (3A,/F,/A,/- |  A,2 z2 | (3z _C E (3A G _G- |
+(3G- G E (3_C _G, F,- | F,2{G,F,} E,2 || "^D" z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 || "^E" z4 |
+A B c e/c/ | z4 |{BA} G3/2 A/ B c/B/ |  z7/2 F/ | E/F/G/B/ =A G/F/- |
+F4 | z4 |  z4 | A B c e/c/ | z4 |
+{BA} G3/2 A/ B c/B/ |  z7/2 F/ | E/F/G/B/ =A G/F/- | F4- |
+F4 || "_Brief Piano Solo""^F" z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 || "^G" z4 |
+A B c e/c/ | z2 z/ c/B/A/ | G3/2 A/ B c/B/ |  z7/2 F/ | E/F/G/B/ =A G/F/- |
+F4- | F4 || "^H" z2 E/G/B/e/ | c/B/ c2 B | z2 _G/B/c/F/- |
+F/E/ F2 E |  z2 F/G/B/e/ | c/B/ c2 B | z2 _G/B/c/F/- | F/E/ F2 E |
+z2 E/G/B/e/ | c/B/ c2 B | z2 _G/B/c/F/- | F/E/ F2 E |  z4 ||
+z4 | z4 | z4 | "^I" z4 | z2 E/G/B/e/ |
+c/B/ c2 B | z2 _G/B/c/F/- |  F/E/ F2 E | z2 F/G/B/e/ |
+c/B/ c2 B | z2 _G/B/c/F/- |  F/E/ F2 E | z2 E/G/B/e/ |
+c/B/ c2 B | z2 _G/B/c/F/- |  F/E/ F2 E | z4 |
+z4 | z4 |  z4 ||"^J" z4 | z4 |
+z7/2 e/ |  z4 | z4 | z4 | z7/2 e/ |
+z4 | z4 | z4 | z7/2 e/ || "^K""_Drum Fill" z4 | z4 |
+z4 | z4 |  z4 ||"^L" z4 | z4 | z4 |
+z z/ _c/ B z | z z/ F/ E z | z3/2 B/ A/E/=B,/A/ | !trill(!TG!trill)! E/ z/ !trill(!!trill(!T_G!trill)!!trill)! =D/ z/ |
+!trill(!TF!trill)! D/E/ z !trill(!TE!trill)! | _C =D B,/_D/ z | z2 z/ E/F/A/ | _c c A/ B A/ |  z2 E/F/A/A/- |
+A F _c z | z4 | z/ _C/D/F/ _G/=C/E/=G/ |  A/F/A/B/ c/d/=d/e/ |
+z3/2 a/ z3/2 d/ | z3/2 _c/ z e/ z/ | z/ a/ z d/ z =B/ |  z2 A/_G/A/G/ |
+A/_c/ z2 B/_G/ | A/_C/ z z2 | z3 d/4=d/4^f/4=a/4 |  a/f/d/c/ =B/=d/_g/f/ |
+z/ =d/ z A f | e z _G/A/f/e/ | z/ _G/ z F d |  _c z3/2 A/ A |
+A A/A/ _c c/c/ | e e/a/ z3/2 b/- | b/ _c'3/2 a2 |  _g2 e3/2 _c/- | c4- |
+c4- | c4- |  c4- | c2 z/ f/z/a/ | z4 |:"^M""_Solos" z4 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 |1 z4 :|2 z4 ||  z4 |:"^N" z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |  z4 :|
+"^O" z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |  z4 ||"^P" g z e z |
+c z g f- | f4- |  f4 | z2 c e | F3/2 E/ =A c- |
+c4- |  c4 | g z e z | c z g f- | f4- |
+f4 | z2 c e | F3/2 E/ =A c- | c4- |  c4 ||
+"^Q" z/ f/=d/B/ G/E/=A/^F/ | ^G/^F/=F/E/ =D/C/B,/A,/ | =A,7/2 G/ |  z2 g/ z3/2 |
+G/ z3/2 c/ z3/2 | F/ z3/2 =A/ z3/2 | E/ z3/2 =A ^F/G/ |  z/ E/ C E E/E/ |
+z/ E/ E z/ E/ E | z/ E/ E z/ c/ E | z/ E/E/ z/ c/ E z/ |  z4 |
+z4 | z4 | z4 |  z4 |:"^R" z2 E/G/B/e/ |
+"_1x: No Chords, 2x: chords, 3x: Piano Solos (vamp)" c/B/ c2 B | z2 _G/B/c/F/- |  F/E/ F2 E | z2 F/G/B/e/ |
+c/B/ c2 B | z2 _G/B/c/F/- |  F/E/ F2 E | z2 E/G/B/e/ |
+c/B/ c2 B | z2 _G/B/c/F/- |1,2,3,4,5  F/E/ F2 E :|7 F/E/ F2 E ||
+"^S" z2 (3F G B | (3c e f (3_g f e |  f2 e/c/B/G/ | (3F G B (3z _G F | E2 F/E/ C |]
+V:2
+z4 | z4 | z4 || z4 ||  "Cm7" z4 |
+z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 |
+z4 || z4 "Ab" || z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z7/2 "Abm7" B/ ||  z2 "Eb" B/ z "Abm7" B/ | z2 "Cdim7" B/ z "Dbdim" B/ |
+z2 "Abm7" B/ z "Gm7" B/ | z2 "Gb" B/z/z/ "F"B/- |  B4 | z7/2 "Fm7" B/- | B3- B/ "Ab+"B/- |
+"Ab+" B3 z |  z2 "Dm7" B/ "Eb" z B/ | z2 "Fm7" B/ z "Gb" B/ | z2 "Absus4" B/ z "Am11" B/ | z2 "Gb" B/ z "F" B/- |
+"F" B4 | z7/2 "F" B/- | B7/2 "Eb" B/- | B3 z/ "Eb" B/ ||  "Eb" z2 B B |
+B z2 z/ B/ | z2 B B | B z2 z/ B/ |  z2 B B | B z2 z/ "F" B/- |
+"F" B3- B/B/- | "Db" B3 z/ B/ |  "Eb" z2 B B | B z2 z/ B/ | z2 B B |
+B z2 z/ B/ |  "Eb" z2 B B | B z2 z/ "F" B/- | B3- B/ "Db"B/- |
+"Db" B3 z ||  "Eb" z2 B B | B z2 z/ B/ | z2 B B | B z2 z/ B/ |
+z2 "Eb" B B | B z2 z/ "F" B/- | B3- B/ "Db"B/- | B3 z ||  "Eb" z2 B B |
+B z2 z/ B/ | z2 B B | B z2 z/ B/ |  z2 B B | B z2 "F" z/ B/- |
+"F" B3- B/ "Db"B/- | B3 z ||  "Ab" z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |  z4 ||
+z4 | z4 | z4 |  "Ab" z2 C/E/_G/F/- | F E z2 |
+z2 C/E/G/_G/- | G F z2 |  z2 C/E/_G/F/- | F E z2 |
+z2 C/E/G/_G/- | G F z2 |  z2 C/E/_G/F/- | F E z2 |
+z2 C/E/G/_G/- | G F z2 |  "Ab" z2 (3F G B | (3c e f _g f/e/ |
+!trill(!Tf2!trill)! e/c/B/G/ | (3F G B (3_G F E- |  E2 F/E/C/B,/ || "Ab" B/=A/ z2 z/ G/- | G/F/ z2 E |
+E/F/ z z2 |  z3 z/ b/- | b/=a/ z2 z/ g/- | g/f/ z2 e | e/f/ z z2 |
+z3 z/ B/- | B/=A/ z2 G | G/F/ z2 E | E/F/ z z2 ||  z4 | z4 |
+z4 | z4 |  z4 || "Abm7" z4 | z4 | z4 |
+z4 | z4 | z4 "D" | z4 |
+"Db" z4 | "Abm7" z4 | z4 | z4 |  z4 |
+z4 | z4 "D" | z4 |  "Db" z4 |
+"Abm7" z4 | z4 | z4 |  z4 |
+z4 | z4 "D" | z4 |  "Db" z4 |
+"Abm7" z4 | z4 | z4 |  z4 |
+z4 | z4 "D" | z4 |  "Db" z4 | "Abm7" z4 |
+z4 | z4 |  z4 | z4 | z4 "D" |: z4 |
+"Db" z4 | "Abm7" z4 | z4 | z2 "Abm7" B z/ "Absus4" B/ |  z "Abm7" B z2 |
+z4 |1 z4 "D" :|2 "D" z4 ||  "Db" z4 |: "Ab" B, C C z | z4 |
+B, C C z |  z3/2 A,/ z A, | B, C C z | z4 | =A =E3 |  E B,3 :|
+"Ab" g z e z | c z g f- | f4- |  f4 | z2 c e |
+F3/2 E/ =A c- | c4- |  c4 | g z e z | c z g f- | f4- |
+f4 | z2 c e | F3/2 E/ =A c- | c4- |  c4 || g z e z |
+c z g f- | f4- |  f4 | z2 c e | F3/2 E/ =A c- |
+c4- |  c4 | g z e z | c z g f- | f4- |
+f4 | z2 c e | F3/2 E/ =A c- | c4- |  c4 ||
+z/ f/=d/B/ G/E/=A/^F/ | ^G/^F/=F/E/ =D/C/B,/A,/ | =A,7/2 G/ |  z2 g/ z3/2 |
+G/ z3/2 c/ z3/2 | F/ z3/2 =A/ z3/2 | E/ z3/2 =A ^F/G/ |  z/ E/ C E E/E/ |
+z/ E/ E z/ E/ E | z/ E/ E z/ c/ E | z/ E/E/ z/ c/ E z/ |  z2 (3F G B |
+(3c e f (3_g f e | f2 e/c/B/G/ | (3F G B (3F- F E- |  E2 C/E/_G/F/- |: "Cm7" F E z2 |
+"Cm7" z2 C/E/G/ "Cdim7"_G/- | G F z2 |  "F" z2 C/E/_G/ "Cm7"F/- | "Cm7" F E z2 |
+"Cm7" z2 C/E/G/ "Cdim7"_G/- | G F z2 |  "F" z2 C/E/_G/F/- | "Cm7" F E z2 |
+"Cm7" z2 C/E/G/ "Cdim7"_G/- | G F z2 |1,2,3,4,5  "F" z2 C/E/_G/F/ :|7 "F" z4 ||
+z2 (3F G B | (3c e f (3_g f e |  f2 e/c/B/G/ | (3F G B (3z _G F | E2 F/E/ C |]
+V:3
+z4 | z4 | z4 || z2 D/E/ F/F/4_G/4 ||  F E B,/B,/E,/B,/ |
+E, D/>E/ D/E/ F/F/4_G/4 | F E B,/B,/E,/B,/ | E, D/>E/ D/E/ F/F/4_G/4 |  F E B,/B,/E,/B,/ |
+E, D/>E/ D/E/ F/F/4_G/4 | F E B,/B,/E,/B,/ | E, D/>E/ D/E/ F/F/4_G/4 |  F E B,/B,/E,/B,/ |
+E, D/>E/ z z/ _G,,/- || G,, A,, A,, z || z2 z z/ _G,,/- |  G,, A,, A,, z |
+z2 z z/ _G,,/- | G,, A,, A,, z | z7/2 =D,/- |  D,4 | D,2 _C,3/2 G,,/- |
+G,, A,, A,, z | z2 z z/ _G,,/- |  G,, A,, A,, z | z2 z z/ _G,,/- |
+G,, A,, A,, z | z2 z z/ _G,,/- |  G,, A,, A,, z | z7/2 =D,/- |
+D,4 | D,2 _C,3/2 G,,/- ||  G,, A,, A,, z | z2 z z/ _G,,/- |
+G,, A,, A,, z | z2 z z/ _G,,/- |  G,, A,, A,, z | z7/2 _G,,/- | (3G,, z G, (3=D E _G,- |
+G, =D/ _D3/2 _C/A,/ |  z4 | z A, z/ A,,/E,/E,,/ | _G,, A,, A,, z | z2 z z/ _G,,/- |
+G,, A,, A,, z | z7/2 _G,,/- | (3G,, z G, (3=D E _G,- | G, =D/ _D3/2 _C/A,/ ||  z2 F,, F,, |
+F,, z2 z/ F,/ | z2 F,, F,, | F,, z2 z/ F,/ |  z2 F,, F,, | F,, z2 z/ =A,/- |
+A,3/2 =A,/- A,/G,/F,/E,/- | E,3/2 D,2 F,/ |  z2 F,, F,, | F,, z2 z/ F,/ | z2 F,, F,, |
+F,, z2 z/ F,/ |  z2 F,, F,, | F,, z2 z/ =A,/- | A,3/2 =A,/- A,/G,/F,/E,/- |
+E,/ E, D, C,/ B,,/F,,/ ||  z2 F,, F,, | F,, z3/2 E,/ z/ D,/ | z2 D, D, | D, z2 z/ E,/ |
+z2 F,, F,, | F,, z2 z/ =A,/- | A,3/2 G,/ z/ F,/E,/D,/- | D,/ D, C,/- C,/B,,/=A,,/F,,/ ||  z2 F,, F,, |
+F,, z2 z/ F,/ | z2 F,, F,, | F,, z2 z/ F,/ |  z2 F,, F,, | F,, z2 z/ =A,/- |
+A,3/2 G,/ z/ F,/E,/D,/- | D,4 ||  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |  z2 (3F, G, B, ||
+(3C E F _G F/E/ | F2 E/C/B,/C,/ | (3B,, G, B, (3_G, z E, |  E,2 | z4 |
+_G,, z z2 | z3 E,, |  E,,/F,,/ z z2 | z4 |
+_G,, z z2 | z3 E,, |  E,,/F,,/ z z2 | z4 |
+_G,, z z2 | z3 E,, |  E,,/F,,/ z (3F, G, B, | (3C E F _G F/E/ |
+F2 E/C/B,/G,/ | (3F, G, B, (3_G, F, E,- |  E,2 F,/E,/C,/B,,/ || B,,/=A,,/ z2 z/ G,,/- | G,,/F,,/ z2 E,, |
+E,,/F,,/ z z2 |  z3 z/ B,/- | B,/=A,/ z2 z/ G,/- | G,/F,/ z2 E, | E,/F,/ z z2 |
+z3 z/ B,,/- | B,,/=A,,/ z2 G,, | G,,/F,,/ z2 E,, | E,,/F,,/ z z2 ||  z4 | z4 |
+z4 | z4 |  z4 || _G,, A,, A,, z | z3 z/ _G,,/ | _G,, A,, A,, z |
+z3 z/ _G,,/ | _G,, A,, A,, z | z7/2 =D,/- | D,4 |
+D,2 _C,2 | _G,, A,, A,, z | z3 z/ _G,,/ | _G,, A,, A,, z |  z3 z/ _G,,/ |
+_G,, A,, A,, z | z7/2 =D,/- | D,4 |  D,2 _C,3/2 _G,,/ |
+_G,, A,, A,, z | z7/2 _G,,/ | _G,, A,, A,, z |  z7/2 _G,,/ |
+_G,, A,, A,, z | z7/2 =D,/- | D,4 |  D,2 _C,3/2 _G,,/ |
+_G,, A,, A,, z | z7/2 _G,,/ | _G,, A,, A,, z |  z E,, F,, z/ _G,,/- |
+G,, A,, A,, z | z7/2 =D,/- | D,4 |  D,2 _C,3/2 _G,,/ | _G,, A,, A,, z |
+z7/2 _G,,/ | _G,, A,, A,, z |  z7/2 _G,,/ | _G,, A,, A,, z | z7/2 =D,/- |: D,4 |
+D,2 _C,3/2 _G,,/ | _G,, A,, A,, z | z7/2 _G,,/ | G,, A,, A,, z |  z7/2 _G,,/ |
+G,, A,, A,, z |1 z7/2 =D,/- :|2 D,4 ||  D,2 _C,3/2 _G,,/ |: B,, C, C, z | z4 |
+B,, C, C, z |  z3/2 A,,/ z A,, | B,, C, C, z | z4 | =A, =E,3 |  E, B,,3 :|
+B,, C, C, z | z4 | B,, C, C, z |  z3/2 A,,/ z A,, | B,, C, C, z |
+z4 | =A, =E,3 |  E, B,,3 | B,, C, C, z | z4 | B,, C, C, z |
+z3/2 A,,/ z A,, | B,, C, C, z | z4 | =A, =E,3 |  E, B,,3 || B,, C, C, z |
+z4 | B,, C, C, z |  z3/2 A,,/ z A,, | B,, C, C, z | z4 |
+=A, =E,3 |  E,7/2 B,,/ | B,, =A,,/ z2 G,,/- | G,, F,,/ z3/2 E,, | E,,/F,,/ z z2 |
+z7/2 B,,/- | B,,/=A,,/ z2 z/ G,,/- | G,,/F,,/ z2 E,, | E,,/F,,/ z z2 |  z7/2 B,,/- ||
+B,,/=A,,/ z2 z/ G,,/- | G,,/F,,/ z2 E,, | E,,/F,,/ z z2 |  z7/2 B,,/- |
+B,,/=A,,/ z2 z/ G,,/- | G,,/F,,/ z2 E,, | E,,/F,,/ z z2 |  z7/2 B,,/- |
+B,,/=A,,/ z2 z/ G,,/- | G,,/F,,/ z2 E,, | E,,/F,,/ z z2 |  z2 (3F,, G,, B,, |
+(3C, E, F, (3_G, F, E, | F,2 E,/C,/B,,/G,,/ | (3F,, G,, B,, (3F,,- F,, E,,- |  E,,2 z2 |: z4 |
+_G,, z z2 | z3 E,, |  E,,/F,,/ z z3/2 E,/ | E,2 z2 |
+_G,, z z2 | z3 E,, |  E,,/F,,/ z z3/2 E,/ | C,/B,,/ z z2 |
+_G,, z z2 | z3 E,, |1,2,3,4,5  E,,/F,,/ z z2 :|7 z4 ||
+z2 (3F,, G,, B,, | (3C, E, F, (3_G, F, E, |  F,2 E,/C,/B,,/G,,/ | (3F,, G,, B,, (3z _G,, F,, | E,,2 F,,/E,,/ C,, |]

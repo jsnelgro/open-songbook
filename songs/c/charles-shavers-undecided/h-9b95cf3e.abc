@@ -1,0 +1,35 @@
+---
+workId: charles-shavers-undecided
+arrangementId: h-9b95cf3e
+title: Undecided
+artist: Charles Shavers
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Undecided
+C: Charles Shavers
+M:4/4
+L:1/8
+Q: 190
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Gypsy
+%%songbook-uri /post/undecided/
+K:C
+P: A
+"C"BcBcA3 c|BcA2 z4|"F7"BcBcA3 c|BcA2 z4|
+"D7"BcBcA3 c|"G7"ddc2_e2dc-|"C"c8|"G7"z8||
+P: A
+"C"BcBcA3 c|BcA2 z4|"F7"BcBcA3 c|BcA2 z4|
+"D7"BcBcA3 c|"G7"ddc2_e2dc-|"C"c8|z6 cc||
+P: B
+"C7"ddc_Bc2 Bc|ddc_B c B2 c|"F"ddcAc2 Ac|dc-c2 z2 Ac|
+"D7"ddcAc2Ac|ddcA c A2 c|"G7"ddBG B2 GB|dG-G2 z4||
+P: A
+"C"BcBcA3 c|BcA2 z4|"F7"BcBcA3 c|BcA2 z4|
+"D7"BcBcA3 c|"G7"ddc2_e2dc-|"C"c8|z8||

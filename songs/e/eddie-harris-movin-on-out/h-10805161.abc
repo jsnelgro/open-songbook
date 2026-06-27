@@ -1,0 +1,33 @@
+---
+workId: eddie-harris-movin-on-out
+arrangementId: h-10805161
+title: Movin' On Out
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Movin' On Out
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+z4 |: "Abm7" _A,, _C,/_E,/ "Bbm7" _D, A,,/=C,/ | z z "Abm7" (3_G,,/G,,/G,,/ _A,,/G,,/ | "Abm7""_Vamp Chords Throughout Form" _A,, _C,/_E,/ "Bbm7" _D, A,,/=C,/ |
+z z (3_G,,/G,,/ "Abm7"G,,/ _A,,/G,,/ :: "Abm7""^Bass Sim" z/ _c'/_b/_a/ "Bbm7" z/ a f/ | _a _b "Abm7" z2 | _c'/_a/_b/f/ a/ a _A/- |
+A z _G/G/_A/G/ | z/ _c'/_b/_a/ z/ a f/ | _a _b z2 | _c'/_a/_b/f/ a/ a _c/- |
+c z _G/G/_A/G/ | z/ d'/_d'/_c'/ z/ _a _g/ | _a _b z z/ z/ | d'/_c'/_d'/_a/ c'/ a a/- |
+a z _A/A/B/_G/ | z/ d'/_d'/_c'/ z/ _a _g/ | _a _b z z/ | d'/_c'/_d'/_a/ c'/ a a/- |
+a z z2 |1 _g z z/ _d/4_c/4 _A/_G/ | _A _B z2 | _g _d/4_c/4_A/ _G/A/ A- |  A z z2 |
+_g z z/ _d/4_c/4 _A/_G/ | _A _B z2 | _g _d/4_c/4_A/ _G/A/ A- |  A z z2 :|2
+_g/g/b/_a/ z/ _e/z/_A/ || z/ z _G/ G/_A/G/ z/ | _g/g/b/_a/ z/ _e/z/_A/ |  z/ z _G/ G/_A/G/ z/ |
+_g/g/b/_a/ z/ _e/z/_A/ |]

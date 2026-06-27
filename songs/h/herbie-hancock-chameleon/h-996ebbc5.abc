@@ -1,0 +1,39 @@
+---
+workId: herbie-hancock-chameleon
+arrangementId: h-996ebbc5
+title: Chameleon
+artist: Herbie Hancock
+source: jazz
+key: Bbmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Chameleon
+C:Herbie Hancock
+C:Arr 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/10/2016
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bbmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/ =G,/A,/=A,/ |: "Bbm7" B,/z/4A/4 z/ B/ z/ C/D/=D/ | "Eb7" E/z/4B/4 z/ d/ z/"^Repeat Ad Nauseum" =G,/A,/=A,/ ::
+"Bbm7" B/4B/4 z/ A/4A/4 z/ B/4B/4 z/ d/-d/ |  "Eb7" B/ z/ z z B/4A/4F/4A/4- | "Bbm7" A/B/ z z z/ d/- | "Eb7" d/e/ z"_repeat 3x" z2"^Repeat 4x" ::
+"Bbm7" z/ f/ e e/d/- d/d/4e/4 |  "Eb7" d/4A/4E/4D/4- D/B,/- B, B/4A/4F/4A/4- | "Bbm7" A/B/ z z z/ d/- | "Ebm7" d/e/ z z2 :|
+"Bb""^Unison" z/ f/ e e/d/- d/d/4e/4 |  d/4A/4E/4D/4- D/B,/- B,- B, |"^Drum Fill" z4 | z4 |: "Bbm7""^Solos" z4 |
+"Eb7" z4 | "Bbm7" z4 | "Eb7" z4 :: "Bb""^After Last Solo" z/"^Unison" f/ e e/d/- d/d/4e/4 |  d/4A/4E/4D/4- D/B,/- B,- B,/z/4D/4- |
+D/E3/4 z"^Drum Fill" z z/4 =E/- | E/^F/ z z2"^repeat 3x" :| z/ f/"^Unison" e e/d/- d/d/4e/4 |  d/4A/4E/4D/4- D/B,/- B,- B, |
+"^Drum Fill" z4 | z4 |:"^Different funk groove" B,/> "Bbm7"B,/ B,/4z/4B,/ z/4 =B,/ z/4 C/z/4^C/4- |  "Db7sus4" C/>^C/ C/4z/4C/ z/4 =C/ z/4 =B,/4z/4_B,/- |
+"Bbm7" B,/>B,/ B,/4z/4B,/ z/4 =B,/ z/4 C/z/4^C/4- | "Db7sus4" C/>^C/ C/4z/4C/ z/4 =C/ z/4 =B,/4z/4_B,/ :: "Bbm7""^Solos" z4 |
+"Db7" z4 | "Bbm7" z4 | "Db7" z4"^After Each Solo, Play This" :| "Bb" z/ f/ e e/d/- d/d/4e/4 |  d/4A/4E/4D/4- D/B,/- B,- B, |
+"^Fill to next solo" z4 | z4 |: "Bbm7""^Final Solo" z4 |  "Db7" z4 | "Bbm7" z4 | "Db7" z4 :|
+"Bb" z/ f/ e e/d/- d/d/4e/4 |  d/4A/4E/4D/4- D/B,/- B,- B, | z4 | z2 z/ =G,/A,/=A,/ |:
+"Bbm7" B,/z/4A/4 z/ B/ z/ C/D/=D/ |  "Eb7" E/z/4B/4 z/ d/ z/ =G,/A,/=A,/ :: "Bbm7" B/4B/4 z/ A/4A/4 z/ B/4B/4 z/ d/-d/ |
+"Eb7" B/ z/ z z B/4A/4F/4A/4- | "Bbm7" A/B/ z z z/ d/- |  "Eb7" d/e/ z z2 :: "Bbm7" z/ f/ e e/d/- d/d/4e/4 |
+"Eb7" d/4A/4E/4D/4- D/B,/- B, B/4A/4F/4A/4- | "Bbm7" A/B/ z z z/ d/- |  "Ebm7" d/e/ z z2 :| z/ "Bb" f/ e e/d/- d/d/4e/4 |
+d/4A/4E/4D/4- D/B,/- B,- B,- |[M:16/4]"^buzz wow" B,8- B,8 |]

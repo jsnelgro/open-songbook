@@ -1,0 +1,39 @@
+---
+workId: dizzy-gillespie-night-in-tunisia
+arrangementId: h-527fb1c4
+title: A Night in Tunisia
+artist: Dizzy Gillespie
+source: jazz
+key: Dm
+tags:
+  - Swing
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: A Night in Tunisia
+C: Dizzy Gillespie
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing,Latin
+%%songbook-uri /post/a-night-in-tunisia/
+K: Dm
+P: Bass line
+V:1 clef=bass
+"Eb7"_E,B,_D_E- ED2B,|"Dm"D,F,A,=B,- B,A,2F,|"Eb7"_E,B,_D_E- ED2B,|"Dm"D,F,A,=B,- B,A,2F,||
+P: Melody
+V:1 clef=treble
+A,|:"Eb7"(3B,_DF c4BF|"Dm"^GA3-A3 A,|"Eb7"(3B,_DF c4BF|"Dm"A4z2zA,|
+"Eb7"(3B,_DF c4BF|"Dm"^GA3-A4|"Em7b5"ABAG "A7b5"_E2 ^CD-|[1 "Dm7"D4z2z A,:||[2 "Dm"D6A2||
+"Am7b5"c4A3G|"D7b9"^F2_ed-d2cA|"Gm"BG2^F- FGAG-|"Gm7"G4 "C7"z4|
+"Gm7b5"B4G3F|"C7b9"E2_dc-c2B^G|"F6"A3FG2FE-|"Em7b5"E4"A7b5"z2zA,||
+"Eb7"(3B,_DF c4BF|"Dm"^GA3-A3 A,|"Eb7"(3B,_DF c4BF|"Dm"A4z2zA,|
+"Eb7"(3B,_DF c4BF|"Dm"^GA3-A4|"Em7b5"ABAG "A7b5"_E2 ^CD-|"Dm7"D3AzA2,A-||
+P: Shout chord
+"Em7b5"A2GEA2GE|AGEAz2zA-|"Eb7#11"A2F_DA2FD|AF_DAz2zA-|
+"Dm"A2F=DA2FD|AFDAz2zA-|"G7#11"A2F_DA2FD|AF_DA z2 z A-|
+"GmMaj7"A2^FDA2FD|"Gm7"A=FDAz2zA|"Gb7#9"A2_F_DA2FE|A_F_DAz2Ac|
+"F^7"z8|z8|"Em7b5"z8|"A7b9"z8||

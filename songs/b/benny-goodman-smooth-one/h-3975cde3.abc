@@ -1,0 +1,32 @@
+---
+workId: benny-goodman-smooth-one
+arrangementId: h-3975cde3
+title: A Smooth One
+artist: Benny Goodman
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:A Smooth One
+C:Benny Goodman
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Bm7" d/ _A3/2 F/ "Bbmaj7"G/F/D/ | "Fmaj7" F/ A3/2 z2 | "Bm7" d/ _A3/2 F/ "Bbmaj7"G/F/D/ | "Fmaj7" F/ D3/2 z2 |
+"Bm7" d/ _A3/2 F/ "Bbmaj7"G/F/D/ | "Fmaj7" F/ A3/2 z "Fmaj7" (3D/_D/C/ | "G7" =B,/D/F/A/ "C7" D/ D D/- | "Fmaj7" D2 z z |
+"Bm" d/ _A3/2 "Bbmaj7" F/G/F/D/ | "Fmaj7" F/ A3/2 z2 | "Bm7" d/ _A3/2 F/ "Bbmaj7"G/F/D/ | "Fmaj7" F/ D3/2 z2 |
+"Bm6" d/ _A3/2 "Bb6" F/G/F/D/ | "Fmaj7" F/ A3/2 z (3D/_D/C/ | "G7" =B,/D/F/A/ "C7" D/ D D/- | "Fmaj7" D z "F7" z F/G/- |
+"Bbmaj7" G F/D/- D F/G/- | "Bm7" G F/ _A z/ B/c/- | "Fmaj7" c B/A/- A F/G/- | "Cm7" G2 "F7" z F/G/- |
+"Bbmaj7" G F/D/- D F/G/- | "Bdim" G F/ _A z/ z | "F6" A/c/d/c/ "D7#9" _e/c/d/B/ | "G7" (3c/A/B/ (3G/A/F/ "C7" (3G/E/F/ (3D/E/C/ |
+"Bm7" d/ _A3/2 F/ "Bbmaj7"G/F/D/ | "Fmaj7" F/ A3/2 z2 | "Bm7" d/ _A3/2 F/ "Bbmaj7"G/F/D/ | "Fmaj7" F/ D3/2 z2 |
+"Bm7" d/ _A3/2 F/ "Bbmaj7"G/F/D/ | "Fmaj7" F/ A3/2 z "Fmaj7" (3D/_D/C/ | "G7" =B,/D/F/A/ "C7" D/ D D/- | "Fmaj7" D2 z z |]

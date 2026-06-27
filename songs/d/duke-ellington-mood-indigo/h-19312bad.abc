@@ -1,0 +1,31 @@
+---
+workId: duke-ellington-mood-indigo
+arrangementId: h-19312bad
+title: Mood Indigo
+artist: Duke Ellington
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Mood Indigo
+C: Duke Ellington
+M:4/4
+L:1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50,Duke Ellington
+%%songbook-uri /post/mood-indigo/
+K:Ab
+"Ab^7"c4 _Bc2c-|"Bb7"c8|"Bbm7"e4"Eb+7"=B4|"Ab^7"c8|
+"Ab^7"c4 _Bc2c-|"Bb7"c8|"E7"=BB2=A-"Bm7"A2"E7"^G2|"Eb7"=G4 F^FG2|
+"Ab7"z2A2"Abo"A2"Go"G2|"Ab7"_G2 e2-efe2|"Db7"d4 d2 d2|"Bb7"B6"Eb+7"=B2|
+"Ab^7"c4 =Bc2c-|"Bb7"c8|"Bbm7"e4"Eb+7"=B4|"Ab^7"c8||
+"Ab^7"z2 E3/2=E1/2"F7"F3_E|"Bb7"=D3/2c1/2 =B_B-B4|"Bbm7"c3/2B1/2 A3/2F1/2"Eb7"G2B2|"Ab"E6 "Eb7"z2|
+"Ab^7"z2 E3/2=E1/2"F7"F3_E|"Bb7"=D3/2c1/2 =B_B-B4|"E7"c3/2B1/2 c3/2B1/2 c B3|"Eb7"_B8|
+"Ab7"z3/2A1/2 B3/2E1/2 AB2E|A3/2B1/2 FA-A4|"Db7"z3/2A1/2 B3/2A1/2 =B3A|"E7"=B3/2A1/2 _BA- A=E2 "Eb7"_E|
+"Ab^7"z2 E3/2=E1/2"F7"F3_E|"Bb7"=D3/2c1/2 =B_B-B4|"Bbm7"c3/2B1/2 A3/2F1/2"Eb7"G2B2|"Ab"A4z4||

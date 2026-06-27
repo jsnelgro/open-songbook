@@ -1,0 +1,31 @@
+---
+workId: duke-ellington-cotton-tail
+arrangementId: h-76af22db
+title: Cotton Tail
+artist: Duke Ellington
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Cotton Tail
+C: Duke Ellington
+M: 4/4
+L: 1/8
+Q: 250
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Duke Ellington,Rhythm Change
+%%songbook-uri /post/cotton-tail/
+K: Ab
+P: A
+|:"Ab^7"z B3"Fm7"FA c2|"Bbm7"B3 B"Eb7"z4|"Cm7"z B2 z"Fm7"B3 c|"Bbm7"BA F2"Eb7"E4|
+"Ab"z2 =d2-d3 f|"Db"e_d2 c"Do"zB zA|"Ab"zF^FG "Eb7"zE=E=F|1 "F7"zD=D_E-"Bbm7"E2 "Eb7"z2:|2 "Ab^7"z^FGA-A2 z2||
+P: B
+"C7"Z2|"F7"Z2|"Bb7"Z2|"Eb7"Z2||
+P: A
+"Ab^7"z B3"Fm7"FA c2|"Bbm7"B3 B"Eb7"z4|"Cm7"z B2 z"Fm7"B3 c|"Bbm7"BA F2"Eb7"E4|
+"Ab"z2 =d2-d3 f|"Db"e_d2 c"Do"zB zA|"Ab"zF^FG "Eb7"zE=E=F|"Ab^7"z^FGA-A2 z2||

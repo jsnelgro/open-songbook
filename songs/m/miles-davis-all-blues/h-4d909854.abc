@@ -1,0 +1,30 @@
+---
+workId: miles-davis-all-blues
+arrangementId: h-4d909854
+title: All Blues
+artist: Miles Davis
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:All Blues
+C:Miles Davis
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:©2016 Finmusic/effendi.me 6/12/2016
+Z:
+L:1/4
+Q:1/4=96
+M:6/8
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: G,/> "G7"B,/"^Bass/Guitar" C/4B,/4 =F/>D/ E/4D/4 | G,/>D/ E/4D/4 =F/>D/ E/4D/4 ::"^Other Non-lead instruments do this (piano vibes etc)" [gb] [ac']/ [bd'] [ac']/ | [gb] [ac']/ [bd'] [ac']/ ::
+"G7""^Head" B3/2- B- B/4D/4 | "G7" B/4c/4 B- B- B/4D/4 | "G7" B/4c/4 B- B- B/4D/4 | B3/2- B z/ |  "C7" A _B/ c d/ | "C7" c _B/ A- A/4D/4 |
+"G7" B3 | "G7" G3/2- G- G/4^G/4 |  "D7#9" A3 | "Eb7#9" _B3 "D7" | "G7" A3/2 B3/2 | "G7" A3/2 G3/2 |1  "G7" z3 | z3 |
+z3 | z3 :|2 "^Solos\n" z3 |]

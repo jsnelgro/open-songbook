@@ -1,0 +1,38 @@
+---
+workId: marvin-gaye-inner-city-blues
+arrangementId: h-ec4b9aea
+title: Inner City Blues
+artist: Marvin Gaye
+source: jazz
+key: Gb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Inner City Blues
+C:Marvin Gaye
+C:Grover Washington Jr.
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/23/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gb
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+z/4 F,/4A,/ B,/D/4B,/4 |: E/B,/ D/4E/4E,/<G/B,/>D/E/ | E/B,/ D/4E/4E,/4E,/4- E,- E,/>B,/ :| z15/4 B/4- ||
+"Ebm7" B/4A/4 z/ z z z/4 A/G/4- | G/E/4 z2 z B/4- | (3B/A/G/- G/<A/ z3/2 E/ | G/4D/4E/- E z z3/4 d/4- |
+d/-(3d/4B/4A/4 G/4 z z A/G/4- | G/E/4 z2 z B/4- | B/4A/G/A3/4 z z/4 A/G/4- | G/E/4 z2 G/E/4G/ |
+"Ab7" z G/4A/4z/4A/G/4A/ G/4A/G/4 | A/4G/4A/4=c/4 z/4 A/4G/ z2 | z/4 E/4E/4D/4 E/E/4 z/4 D/4z/4B/4A/4 z/4 A/4z/4A/4- |
+A/4G/4A/4 z B/4 z/4 A/4z/4G/4 z/4 E3/4 |  "Ebm7" G E/>E/ z/ E/4E/4 z/4 D/4E/ | G/4A/4 z/ G/4z/4E/4E/4 z/4 D/4E/4E/4 z/4 D/4E/4 z/4 |
+G E/>E/ z/4 D/4E/4E/4 z/4 D/4E/4 z/4 | G/4A/4z/4G/4 z/4 E/4z/4E/4 z/4 D/4E/4 z/4 E/4z/B/4- |  B/4A/4 z/ A/ z7/4 A/G/4- |
+G E z7/4 B/4- | B/4A/G/4- G/4A/4 z2 z/4 E/4 | G/4E/4 z/4 E __B,/4 A,/<G,/ z3/4 B/4- |
+B/4=A/4(3_A/4G/4 z/4 z z z/4 A/G/4- | G/E/4 z3 B/4- | B/4A/G/4- G/A/4 z z E/4 |
+G/4D/4E/- E z/ B/ (3=A/4_A/4G/4E/4 z/4 |  "Ab7" z3/4 D/4 E/>G/ z/4 E3/4 D/<E/ | G/4A/4z/4G/4 z/4 E/4G/ z2 |
+z/4 D3/4 E/>G/ z/4 E3/4 D/4E/4E/4D/4 | G/4A/4z/4G/4 z/4 D/4E/ z/4 B3/2 z/4 |  "Ebm7" G E/>E/ z/4 D/4E/4E/4 B,/4D/4E/ |
+G/4A/4z/4G/4 z/4 E/4z/4E/4 z/4 D/4E/4E/4 B,/4D/4E/4 z/4 | G E/>E/ z/4 D/4E/4E/4 B,/4D/4E/4 z/4 |
+G/4A/4z/4G/4 z/4 E/4z/4E/4 z/4 D/4E/4E/4 z/4 __B,/4A,/4G,/4 |  z4 |]

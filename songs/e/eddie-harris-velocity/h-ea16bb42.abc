@@ -1,0 +1,33 @@
+---
+workId: eddie-harris-velocity
+arrangementId: h-ea16bb42
+title: Velocity
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Velocity
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=275
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/ c/_e/f/- |: "Fm7" f3/2 _e/ f/e/c/_B/ | "Fm7" c3/2 c/ z/ c/_e/f/- | f3/2 _e/ f/e/c/_B/ |
+"Fm7" c3/2 c/ z/ F/_A/_B/- | "Bbm7" B3/2 _A/ _B/A/F/_E/ | "Bbm" F3/2 F/ z/ F/_A/_B/- | "Bbm7" B3/2 _A/ _B/A/F/^D/ |
+"Em7" E3/2 E/ z/ "A7" G/F/D/- | "Dm7" D4 | "C7" z/ G/F/D/ _A/G/_E/C/- | "Cm7" C4- |  "F7" C2 z2 |1 "Bb13" g c/_A/ g c/A/ |
+"Bb13" g/c/_A/g/ z3/2 ^f/- | "A13" f B/G/ ^f B/G/ |  ^f/B/^F/f/ z3/2 =f/- | "Ab13" f/_B/ _G/ f B/ G/ z/ |
+f/_B/_G/f/ z3/2 e/- | "G13" e A/F/ e _B/F/ |  e/A/F/e/ z/ c/_e/f/ :|2 "Bbm7" z/ c' _a/ "Eb7" _b/c'/z/=b/- ||
+"Bm7" b/^g/a/ "E7"b/ z2 | "Abm7" z/ _b _g/ "Db7" _a/b/z/=a/- |  "Am7" a/^f/g/ "D7"a/ z2 | "F#m7" z/ ^g e/ "B7" ^f/g/z/=g/- |
+"Gm7" g/_e/f/g/ "C7" z2 | (3z a z (3z ^f z |  (3z d z (3z _B z | "Gm" z/ ^F/G/A/ _B/c/_d/_e/ |
+e/^F/G/A/ _B/c/_d/_e/ | e/^F/G/A/ _B/c/_d/_e/ |  e/^f/g/a/ _b/c'/_d'/_e'/ | e'/ z/ z z2 |]

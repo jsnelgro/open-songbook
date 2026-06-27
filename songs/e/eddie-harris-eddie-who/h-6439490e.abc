@@ -1,0 +1,25 @@
+---
+workId: eddie-harris-eddie-who
+arrangementId: h-6439490e
+title: Eddie Who
+artist: Eddie Harris
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Eddie Who
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/3/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bb" "E7b5" z4 | "Eb7" "C7" z4 "F" | "Bb" e z "E7b5" B z | "Eb7" B z "C7" B "F" B :|

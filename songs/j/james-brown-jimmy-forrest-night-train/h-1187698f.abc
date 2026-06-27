@@ -1,0 +1,38 @@
+---
+workId: james-brown-jimmy-forrest-night-train
+arrangementId: h-1187698f
+title: Night Train
+artist: James Brown/Jimmy Forrest
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Night Train
+C:James Brown/Jimmy Forrest
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+(3z/ G/_B/ (3=B/c/^c/ (3d/=c/d/ B/ z/ | (3z/ G/_B/ (3=B/c/^c/ (3d/g/d/ =c/ z/ |
+(3z/ G/_B/ (3=B/c/^c/ (3d/=c/d/ (3:2:5c/d/ c21/64 z7/64 z/32 | (3g/a/_b/ (3a/g/=f/ (3d/c/_B/ (3:2:4_A/G/ E21/64 z7/64 |  G/G/_B/B/ G/G/E/D/ |
+G/G/_B/B/ G/G/E/D/ | G/G/ z G,/ z/ z | G,/z/z/G,/ z z/ z/ |  G/G/_B/B/ G/G/E/D/ |
+G/G/_B/B/ G/G/E/D/ | G/G/ z G,/ z/ z | G,/z/z/G,/ z/ _E/ z/ (3E/4=F/4E/4 |  D/ z/ z z/ d/g/d/ |
+g/d/c/ z/ z/ b/ a/g/4d/4 | =f2 z/ D/4E/4 =F/4E/4D/4C/4 | D/4 z/4 z/ z z/ G/4 z/4 D/^D/ |
+E/ z/ z z/ g/- g/(3:2:5=f/4d/4 c11/64 z/16 z/64 | _B/4G/B/4 z z/ B/G/D/ | =F2 z/ (3G/4F/4D/4 G/4F/4D/4C/4 |
+D/ z/ z z/ G/4 z/4 D/^D/ |  E/ z/ z z/ _b/g/=f/ | d/4=f/4g/4_b/4 z z/ g/4^f/4 d/4c/4_B/4G/4 |
+_B/G/4 z/4 z z/ G/4=F/4 D/4G/4(3F/4D/4C/4 | D z z2 |  (3z/ G/_B/ (3=B/c/^c/ (3d/=c/d/ B/ z/ |
+(3z/ G/_B/ (3=B/c/^c/ (3d/g/d/ =c/ z/ | (3z/ G/_B/ (3=B/c/^c/ (3d/=c/d/ (3:2:5c/d/ c21/64 z7/64 z/32 |
+(3g/a/_b/ (3a/g/=f/ (3d/c/_B/ (3:2:4_A/G/ E21/64 z7/64 |  G/G/_B/B/ G/G/E/D/ | G/G/_B/B/ G/G/E/D/ | G/G/ z G,/ z/ z |
+G,/z/z/G,/ z z/ z/ |  G/G/_B/B/ G/G/E/D/ | G/G/_B/B/ G/G/E/D/ | G/G/ z G,/ z/ z |
+G,/z/z/G,/ z/ _B/ (3=B/d/e/ |  (3g/g/g/ (3g/g/g/ g/_B/ (3=B/d/e/ | (3g/g/g/ (3g/g/g/ g/_B/ (3=B/d/e/ | (3g/g/g/ (3g/g/g/ (3g/g/g/ (3g/g/g/ |
+(3g/g/g/ (3g/g/g/ (3g/g/g/ z |  d'/g/_b/b/ g/d'/b/g/ | d'/g/_b/b/ g/z/4e/4 f/e/ | g _b/b/ g d'/b/ |
+g/d'/_b/g/ z/ g/b/c'/ |  d' d' d'/g/_b/c'/- | c'/_b/z/d/ g/e/b/b/ | g z/ g/ d'/g/_b/b/- |
+b/g/_d'/ z/ d/e/g/e/ |]

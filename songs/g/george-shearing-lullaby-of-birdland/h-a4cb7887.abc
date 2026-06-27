@@ -1,0 +1,34 @@
+---
+workId: george-shearing-lullaby-of-birdland
+arrangementId: h-a4cb7887
+title: Lullaby of Birdland
+artist: George Shearing
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Lullaby of Birdland
+C: George Shearing
+M: 4/4
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/lullaby-of-birdland/
+K: Ab
+P: A
+"Fm7"ccBA GF2=D-|"G7"D2F=E-"C7"E2zC-|"Fm7"C2GF-F2zD-|"Bbm7"D2cB-"Eb7"B2ze-|
+"Ab^7"e2dc "Fm7"BA2F-|"Bbm7"FcB=E- "Eb7"EcB_E-|"Ab^7"E4zB AD-|"Db7"DAGC- "C7"C4||
+P: A
+"Fm7"ccBA GF2=D-|"G7"D2F=E-"C7"E2zC-|"Fm7"C2GF-F2zD-|"Bbm7"D2cB-"Eb7"B2ze-|
+"Ab^7"e2dc "Fm7"BA2F-|"Bbm7"FcB=E- "Eb7"EcB_E-|"Ab^7"E4 "Eb7"zE GA|"Ab^7"z8||
+P: B
+"F7"c2d=de2e_d|"Bbm7"zB3-B2z2|"Bbm7"B2=Bc"Eb7"d2dc-|"Ab^7"c4z4|
+"F7"c2d=de2e_d|"Bbm7"zB3-B2z2|"Bbm7"B2=Bc"Eb7"d2dc-|"Ab^7"cdcB "C7"z4||
+P: A
+"Fm7"ccBA GF2=D-|"G7"D2F=E-"C7"E2zC-|"Fm7"C2GF-F2zD-|"Bbm7"D2cB-"Eb7"B2ze-|
+"Ab^7"e2dc "Fm7"BA2F-|"Bbm7"FcB=E- "Eb7"EcB_E-|"Ab^7"E4 "Eb7"zE GA|"Ab^7"z8||

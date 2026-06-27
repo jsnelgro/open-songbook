@@ -1,0 +1,29 @@
+---
+workId: miles-davis-bag-s-groove
+arrangementId: h-01af383c
+title: Bag's Groove
+artist: Miles Davis
+source: jazz
+key: F
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Bag's Groove
+C: Miles Davis
+M: 4/4
+L: 1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues,Standard50
+%%songbook-uri /post/bags-groove/
+K: F
+Fz||"F"[_A6c6] [G1/2B1/2][A1/2c1/2][G1/2B1/2][F1/2A1/2]|"Bb7"[G2B2][F1/2_A1/2][G1/2B1/2][F1/2A1/2][_E1/2F1/2][F2A2][E1/2F1/2][F1/2A1/2][E1/2F1/2][C1/2E1/2]|"F"[_E3F3][CE]z4|"F7"z4z2Fz|
+"Bb7"[_A6c6] [G1/2B1/2][A1/2c1/2][G1/2B1/2][F1/2A1/2]|[G2B2][F1/2_A1/2][G1/2B1/2][F1/2A1/2][_E1/2F1/2][F2A2][E1/2F1/2][F1/2A1/2][E1/2F1/2][C1/2E1/2]|"F"[_E3F3][CE]z4|z4z2Fz|
+"Gm7"[_A6c6] [G1/2B1/2][A1/2c1/2][G1/2B1/2][F1/2A1/2]|"C7"[G2B2][F1/2_A1/2][G1/2B1/2][F1/2A1/2][_E1/2F1/2][F2A2][E1/2F1/2][F1/2A1/2][E1/2F1/2][C1/2E1/2]|"F"[_E3F3][CE]z4|z4z2[Fc]z||
+"F"[_A6f6][G_e][Fc]|"Bb7"[G2_e2][Fc][_EB][F2c2][EB][C_A]|"F"[_E3B3][C_A]z4|"F7"z4z2[Fc]z|
+"Bb7"[_A6f6][G_e][Fc]|[G2_e2][Fc][_EB][F2c2][EB][C_A]|"F"[_E3B3][C_A]z4|z4z2[Fc]z|
+"Gm7"[_A6f6][G_e][Fc]|"C7"[G2_e2][Fc][_EB][F2c2][EB][C_A]|"F"[_E3B3][C_A]z4|z8||

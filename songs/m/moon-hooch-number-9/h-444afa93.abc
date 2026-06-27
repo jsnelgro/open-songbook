@@ -1,0 +1,47 @@
+---
+workId: moon-hooch-number-9
+arrangementId: h-444afa93
+title: Number 9
+artist: Moon Hooch
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Number 9
+C:Moon Hooch
+C:W. McGowen
+C:M. Wilbur
+C:J. Muschler
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 effendi,me 7/14/2019
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|:"^A" _E/z/_B/ z/ ^F/B/z/B/ | F/ z/ _B z2 | _E/z/_B/ z/ ^F/B/z/B/ | B,/B,/z/_D/ z/ D/z/D/ ::
+"^B" _E _B ^F/B/z/B/ | F _B z2 | _E _B ^F/B/z/B/ | B,/B,/z/_D/ z/ D/z/D/ ::
+"^C" _E/z/_B/ z/ ^F/B/z/B/ | F/z/_B/ z/ _E/B/z/B/ | _E/z/_B/ z/ ^F/B/z/B/ | B,/B,/z/_D/ z/ D/z/D/ ::
+"^D" _E/_B/^F/B/ =F/B/^F/B/ | _E/_B/^F/B/ =F/B/^F/B/ | _E/_B/^F/B/ =F/B/^F/B/ | _E/_B/^F/B/ =F z :|
+"^E" _E/4_B/4^F/4B/4 =F/4B/4^F/4B/4 E/4B/4F/4B/4 =F/4B/4^F/4B/4 | _E/4_B/4^F/4B/4 =F/4B/4^F/4B/4 E/4B/4F/4B/4 =F/4B/4^F/4B/4 |
+_E/4_B/4^F/4B/4 =F/4B/4^F/4B/4 E/4B/4F/4B/4 =F/4B/4^F/4B/4 | B/B/z/_d/ z _D |:
+"^F" _E _B/_e/ z/ B/z/^F/ | _A/_B/ A F/^F/ =F | _E _B/_e/ z/ B/z/^F/ | _A/_B/ A F/"_Fine"^F/=F/_D/ ::
+"_Solos""_4x""^G" z4 | z4 | z4 | z4 :|
+V:2
+|: z4 | z4 | z4 | z2 z z/ _A/4_B/4 ::
+_E E E/E/z/E/ | _D D z2 | _E E E/E/z/_A/ | _A/A/z/_B/ z/ _D/z/D/ ::
+_E E E/E/z/E/ | _D D B B | _E E E/E/z/B/ | B/B/z/_d/ z/ _D/z/D/ ::
+_E E E E | _D D D D | _E E E E | _A _B =B _D :|
+_E4- | E4- |
+E4 | B/B/z/_d/ z _D |:
+_E E/E/ z/ E/z/E/ | ^F F _A A | _E E/E/ z/ E/z/E/ | ^F F _D D ::
+_E E/E/ z/ E/z/E/ | ^F F _A A | _E E/E/ z/ E/z/E/ | ^F F _D D :|

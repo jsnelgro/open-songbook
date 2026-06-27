@@ -1,0 +1,33 @@
+---
+workId: jack-stratton-hero-town
+arrangementId: h-19d90cf0
+title: Hero Town
+artist: Jack Stratton
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hero Town
+C:Jack Stratton
+C:Vulfpeck
+C:Arr. 6EQUJ5
+Z:©2020 6EQUJ5 2020-05-12
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "G" G/G/G/G/ "E" E/E/E/E/ | "F" F/F/F/F/ F/F/F/F/ | "Gpower" "Epower" z4 | "Fpower" z4 |  "G" "E" z4 | "F" z4 |
+"D7" D/D/D/D/ "G" G/G/G/ "C"C/ | z/ "Dm" D/ "Cdim"^D/ "Em"E/ C/ "C"C/C/C/ |  "D7" D/D/D/D/ "G" G/G/G/ "C"C/ |
+z3 "F#" ^F || "G" z d/4d/4d/4d/4 "E" d/e/A/G/ | "F" z4 |  "Gpower" z d/4d/4d/4d/4 "Epower" d/e/a/g/ | "Fpower" z4 |
+"G" z d/4d/4d/4d/4 "E" d/e/A/G/ | "F" z4 | {/=F} "D7" ^F/c/ F/=F/- "G" F/c/F/ "C"E/ | z/ "Dm" F/ "Cdim"^F/ "Em"G/ z/ "C" E/E/E/ |
+"D7" ^F/ z/ F/=F/- "G" F/.c/F/ "C"E/ |1 z3 "F#" ^F :|2  "F#" ^F z z2 |:
+[I:repeat 1 1]"^Drum Solo" z4 ::
+"D7""_Open Solo" D/D/D/D/ "G7" G/G/G/ "C7"C/- | "C7" C/ "Dm"D/ "D#dim"_E/ "C"c/ z/ "Am7" A,/A,/A,/ |
+"D7" D/D/D/D/ "G7" G/G/G/ "C7"C/- | "C7" C/ "B7"B,/ "Bb7"_B,/ "A7"A,/ z/ "A7" A,/A,/A,/ :|

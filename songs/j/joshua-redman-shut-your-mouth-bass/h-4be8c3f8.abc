@@ -1,0 +1,30 @@
+---
+workId: joshua-redman-shut-your-mouth-bass
+arrangementId: h-4be8c3f8
+title: Shut Your Mouth Bass
+artist: Joshua Redman
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Shut Your Mouth Bass
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/2/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+|: G,,/>B,,/ z/ C,/- C,/4C,/4D,/ F,/G,/ | G,,/>B,,/ z/ C,/- C,/B,,/4C,/4 D,/4F,,/4 z/ | G,,/>B,,/ z/ C,/- C,/4C,/4D,/ F,/G,/ |
+G,,/4-G,,/B,,/4 z/ C,/- C,/B,,/4C,/4 D,/4F,,/4 z/ :|  G,,/>B,,/ z/ C,/- C,/4C,/4D,/ F,/G,/ | G,,/>B,,/ z/ C,/- C,/B,,/4C,/4 D,/4F,,/4 z/ |
+G,,/>B,,/ z/ C,/- C,/4C,/4D,/ F,/G,/ | G,,/>B,,/ z/ C,/- C,/B,,/4C,/4 D,/4F,,/4 z/ |  G,,/>B,,/ z/ C,/- C,/4C,/4D,/ F,/G,/ |
+G,,/>B,,/ z/ C,/- C,/B,,/4C,/4 D,/4F,,/4 z/ | G,,/>B,,/ z/ C,/- C,/4C,/4D,/ F,/G,/ |1 z4 :|2  z4 || B,, B,, B,,/>D,,/ z/ E,,/- |
+E,,2 _A,, =A,, | B,, B,, B,,/>D,,/ z/ E,,/- |  E,,2 _A,, =A,, | B,, B,, B,,/>D,,/ z/ E,,/- | E,,4 |
+z2 z2 |  z2 z2 | z2 z2 | z4 |]

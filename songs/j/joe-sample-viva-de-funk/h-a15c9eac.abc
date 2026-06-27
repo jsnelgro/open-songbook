@@ -1,0 +1,33 @@
+---
+workId: joe-sample-viva-de-funk
+arrangementId: h-a15c9eac
+title: Viva De Funk
+artist: Joe Sample
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Viva De Funk
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:6/23/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Am7""_Intro" z4 | "D7" z4 | "Am7" z4 |1,2,3 "D7" z4 :|4  "D7" z2 e c |:
+"Am7""_A" d2- d/e/A/d/ | "D7" z/ c/ z e c | "Am7" d3/2 B/4c/4 B G/A/- |  "D7" A3/2 z/ e c | "Am7" d2- d/e/A/d/ |
+"D7" z/ c/ z A c | "Am7" B3/2 A/4G/4 E G/A/- |  "D7" A4 || "Am7" z4 | "D7" z4 | "Am7" z4 |1  "D7" z4 |
+"Am7" z4 | "D7" z4 | "Am7" z4 |  "D7" z4 :|2
+"D7""_B" z2 "Dm7" e "Em7" f || "Fmaj7" g3/2 e/4f/4 g3/2 f/4e/4 | "E7" d2 (3z A c |  "Am7" d3/2 c/ d/e/ z/ d/8_e/8d/8c/8 |
+"D7" A3/2 z/ A/c/c/A/ | "Gm7" c3/2 A/ c/d/e/d/ | "Gm7/C" z/ c/z/c/ e/f/g/e/- |  "F7" e z z/ A/c/d/ | "E7" e d/8_e/8d3/4 c c |
+"Am7" A2 z2 | "D7" z4 |:
+"Am7""_Solos" z4 | "D7" z4 | "Am7" z4 | "D7" z4 :|

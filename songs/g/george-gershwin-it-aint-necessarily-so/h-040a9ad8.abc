@@ -1,0 +1,34 @@
+---
+workId: george-gershwin-it-aint-necessarily-so
+arrangementId: h-040a9ad8
+title: It Aint Necessarily So
+artist: George Gershwin
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:It Aint Necessarily So
+C:George Gershwin
+C:Joe Henderson
+C:Sting
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 2/21/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Bb""^A" F/ |: "Fm7" (3c _c F "Bb" (3B =A F | "Fm7" A3 "Bb" z/ F/ | "Fm7" (3c _c F "Bb" (3B [=A__B] F |  "Fm7" A3 z/ F/ |
+"Bb7" (3c _c F "B7" (3A F A | (3F "Bb7" A F (3A "B7" F A | "G7" (3F A F "C7" (3E C E |1,2,3,4  "Bbm7" F4- "Bb7" | "Db7" F3/2 "C7" z2 F/ :|5
+"Fm7" F2- "F7" F/ z/ f || "B7""^B" (3e d _c "Gb" (3B A _G |  "Gb" (3F E F (3_G A B | "Gm7" c3/2 c/ c3/2 "C7" c/ | "Fmaj7" c3 "F7" c |
+"Bb7" (3B A G (3F E =D |  "Eb" (3C B, C "Ebmaj7" (3=D E F | "G7" G3/2 G/ "G7" G3/2 G/ | "A7" A3 C || "Fm7" (3c _c F "Bb" (3B __B F |
+"Fm7" A3 "Bb" z/ F/ | "Fm7" (3c _c F "Bb" (3B __B F | "Fm7" A3 z/ F/ | "Bb7" (3c _c F "B7" (3A F A |  "Bb7" (3F A F "B7" (3A F A |
+"G7" (3F A F "C7" (3E C E | "Fm7" F4- "Bb7" | "E7" F2 "Db7" z F |
+"Bbm7""_CODA" (3G A B (3G A B | "F" c2- "C" (3c z C |
+"Bb" (3=D =E F "A7" (3^F =A G | "Dm7" (3F G A "Bbm7" (3=A c B |  "F7" (3=A B c "C9" (3=d d d | "Fmaj7" =d4 |]

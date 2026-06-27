@@ -1,0 +1,32 @@
+---
+workId: erroll-garner-misty
+arrangementId: h-4e9ed334
+title: Misty
+artist: Erroll Garner
+source: jazz
+key: Eb
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Misty
+C: Erroll Garner
+M: 4/4
+L: 1/8
+Q: 1/4=80
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags Standard50,Erroll Garner,Ballad
+%%songbook-uri /post/misty/
+K: Eb
+P: A
+BG|:"Eb^7"D6 B,C|"Bbm7"_Dccc "Eb7"cBGE|"Ab^7"C4 (3zG,A, (3CEG|"Abm7"BBBA "Db7"B2 AB|
+"Eb^7"G2-(3GAB "Cm7"E2-(3EFG|"Fm7"A C2 "Bb7"C (3D2E2F2|1 "Gm7"G4-"C7"G4-|"Fm7"G4 "Bb7"z2 BG:|2 "Eb6"E8|(3z2E2F2 (3G2B2c2||
+P: B
+"Bbm7"_dddd-d4-|"Eb7"d2 _de (3_f2e2d2|"Ab^7"cccc-c4|(3z2E2F2 (3G2B2c2|
+"Am7"dddcd4-|"D7"dddc "F7" (3f2d2c2|"Gm7"B4-"C7"B4-|"Fm7"B4 "Bb7"z2 BG||
+P: A
+"Eb^7"D6 B,C|"Bbm7"_Dccc "Eb7"cBGE|"Ab^7"C4 (3zG,A, (3CEG|"Abm7"BBBA "Db7"B2 AB|
+"Eb^7"G2-(3GAB "Cm7"E2-(3EFG|"Fm7"A C2 "Bb7"C (3D2E2F2|"Eb6"E8-|e4 z4|

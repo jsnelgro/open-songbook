@@ -1,0 +1,40 @@
+---
+workId: jeff-lorber-tune-88
+arrangementId: h-5d5bfe79
+title: Tune 88
+artist: Jeff Lorber
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Tune 88
+C:Jeff Lorber
+C:Arr. 6EQUJ5
+Z:©2016 6EQUJ5 4/27/2016
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "G13" _B/A/G/E/ A/>G/- G- | G2 =F/G/4F/4 G/4G/4F/4G/4 | "G13" z4 | z4 |  "C13" _B/A/G/E/ A/>G/- G |
+z/4 C/4F/4_B/4 A/4F/4D/4G/4- G/F/4^D/4 E/4G/4A/4=B/4 | "G13" z4 | z4 |
+"Eb13" G/4=F/4_E/4B/4- B2 z/4 G,/4_B,/4C/4 | ^C/4D/4G/4C/4 D/4G/4C/4D/4 G/4C/4D/4G/4 C/4=C/4_B,/4G,/4 | G z z2 | z4 :|
+"G9" G/4G/4-G/ z/ z/4 G/4 =F/<G/ "Ab9" z | "G9" =F/4G/_B/4 z/4 F/4G/ z2 | "G9" G/4G/4-G/ z/ z/4 G/4 =F/<G/ "Ab9" z | "G9" =F/4G/_B/4 z/4 F/4G/ z2 |
+"G9" G/4G/4-G/ z/ z/4 G/4 =F/<G/ "Ab9" z | "G9" =F/4G/_B/4 z/4 F/4G/ z2 | "G9" G/4G/4-G/ z/ z/4 G/4 =F/<G/ "Ab9" z |
+g/4=f/4d/4c/4 f/4d/4c/4_B/4 d/4c/4B/4c/4 B |  "G9" G z/ "Db7#9" g/ z2 |]
+V:2
+|: z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |
+z4 | "E13" B/> "F13"G/- G/ "F#13"G/- G/< "G13"G/ "Ab13" G/G/ | "G13" z4 | z4 :|
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 |
+z4 |  z4 |]

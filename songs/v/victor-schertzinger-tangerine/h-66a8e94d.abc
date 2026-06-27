@@ -1,0 +1,31 @@
+---
+workId: victor-schertzinger-tangerine
+arrangementId: h-66a8e94d
+title: Tangerine
+artist: Victor Schertzinger
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Tangerine
+C: Victor Schertzinger
+M:4/4
+L:1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/tangerine/
+K:F
+d2B2||"Gm"A8-|"C7"A4c2A2|"F"G2F2"Bb"D4-|"Am7"D4 "D7b9"F2D2|
+"Gm7"F3 D"C7"E3 D|"Gm7"F3 D"C7"E3 C|"F"A8-|"Amb5"A4 "D7"d2B2|
+"Gm"A8-|"C7"A4c2A2|"F"G2F2"Bb"D4-|"Bmb5"D4 "E7"E2F2|
+"A"E3^FA3F|"Bm7"A3^F"E7"=B2F2|"A7"A8-|"D7b9"A4d2B2||
+"Gm"A8-|"C7"A4c2A2|"F"G2F2"Bb"D4-|"Am7"D4 "D7b9"F2D2|
+"Gm7"F3 D"C7"E3 D|"Gm7"F3 D"C7"E2C2|"Eb7"A8-|"D7#9"A4B2c2|
+"Gm7"d2B2 (3A2c2B2|"Emb5"A4 "A7#9"z2 G^G|"Dm7"A2F2 (3E2=G2F2|"G7"E6D2|
+"Gm7"^C2D2F2B2|"C7"d4E4|"F"F8-|F4 z4||

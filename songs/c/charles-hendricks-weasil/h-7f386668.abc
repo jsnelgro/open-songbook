@@ -1,0 +1,32 @@
+---
+workId: charles-hendricks-weasil
+arrangementId: h-7f386668
+title: The Weasil
+artist: Charles Hendricks
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Weasil
+C:Charles Hendricks
+C:Donald Byrd
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/25/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/ F,/4F,/4 _B,/4C/4C/4B,/4 |: "C7#9""^Groove" C4 | C C C/F,/4F,/4 _B,/4C/4C/4B,/4 | "C7#9" C4 |
+z2 z/ _B,/4B,/4 ^C/4_E/4E/4C/4 | "Eb7#9" C4 | C C C/F,/4F,/4 _B,/4C/4C/4B,/4 | "C7#9" C4 |
+z2 z/ C/4C/4 E/4E/4F/4G/4 | "D7#9" z2 z/ D/4D/4 ^F/4F/4G/4A/4 | "E7#9" C C C/F,/4F,/4 _B,/4C/4C/4B,/4 | "C7#9" C4 |
+C C C/F,/4F,/4 _B,/4C/4C/4B,/4"^Head" :| z/ G A/ _B/A/G/C/- | C/z/G/G/ A/ G3/2 | z/ G A/ _B/A/G/C/- |
+C/z/G/G/ A/ G3/2 | z/ _B c/ _d/c/B/_E/- | E/z/_B/B/ c/ B3/2 | z/ G A/ _B/A/G/C/- |
+C/z/G/G/ A/ G3/2 | z/ A/A/B/ A/D/4D/4 ^F/4F/4G/4A/4 | z/4 c/c/d/c/z/4c/4_B/4 G/4(3^F/4=F/4E/4C/4 |
+z/ G A/ _B/A/G/C/- |  C/z/G/G/ A/ G3/2 |]

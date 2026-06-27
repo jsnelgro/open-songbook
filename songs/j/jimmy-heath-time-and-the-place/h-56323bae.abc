@@ -1,0 +1,32 @@
+---
+workId: jimmy-heath-time-and-the-place
+arrangementId: h-56323bae
+title: The Time and the Place
+artist: Jimmy Heath
+source: jazz
+key: Cm
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: The Time and the Place
+C: Jimmy Heath
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Latin
+%%songbook-uri /post/the-time-and-the-place/
+K: Cm
+P: A, Cm7 & Gm7 in all bars
+GB||"Cm7"d2 cB "Gm7"G2 CE|G2FE C2 B,C-|C8|z6 GB|
+d2 cB G2 CE|G2FE C2 B,C-|C8|z6 G,2||
+P: B
+"Ab7"D8-|"G7"D4- (3D2E2F2|"Cm7"G8-|"C7/F#"G4-GA-A2|
+"Fm7"F8-|"Bb7"(3F2=E2F2 (3G2A2B2| "Bbm7"c8-|"Eb7"c4- cB-Bd-|
+"Ab^7"d8|zG, A,B, CDEF|"Dm7"G8|"G7"G4 z e z c-||
+P: Out Cm7 & Gm7 in all bars
+"Cm7"c4- "Gm7"c4|z8|z8|z8||

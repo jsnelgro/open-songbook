@@ -1,0 +1,30 @@
+---
+workId: eddie-harris-ballad
+arrangementId: h-aab76d07
+title: Ballad
+artist: Eddie Harris
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ballad
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+[Beg]3/2 [A_df]3/2 z | [A_df]3/2 [Gce]3/2 z || "Ebm7" B4 "Db" | "Db" z/ e/e/B/ "Ab" B/E/E/C/ |  "Ebm7" C/B,/- "Db/Eb" B,3 |
+"Db/Eb" z/ e/e/B/ B/ "Ab/Eb"G/G/C/ | "Ebm7" E4 "Db" | "B/Eb" z/ B/B/_G/ "Db7" G/E/E/G/ |  "Gbm7" E/_D/- D3 | "Em7" A/ A "F#" _G E/ _D/E/- |
+"Bm7" E4 | "Gb" _G/ G "B7" E _D/ A,/B,/- |  "Emaj7" B,3 C | "Ab" E/ E "Ab/Bb" F F G/- | "Ebm7" G4 "Db" |
+"Fm7" z/ A/ F "Bb7" E/D/D/B/- |  "Gm7" B4 | "Abm7" z/ B/ A "Ab" _G/F/_D/_d/- | "Gb7" d4 | "Ab/Bb" e/ e "Gm" B "Ab" E3/2 |
+"Ab" e/ e "Gm" B "Ab" E3/2 | "Ab" z/ e/e/e/ "Gm" B/ B E/- | "Ab" E2 E/ F G/- | "Ebm7" G4 |  "Db" A2 A c | "Eb" B4- |
+"Eb7" B4 |]

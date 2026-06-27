@@ -1,0 +1,29 @@
+---
+workId: jimmy-smith-root-down
+arrangementId: h-86cad4d5
+title: Root Down
+artist: Jimmy Smith
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Root Down
+C:Jimmy Smith
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/20/2016
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: =F,/4G,/G,/4 z/4 G,3/4 F,/4_G,/4F,/ _B,/<G,/ | =F,/4G,/G,/4 z/4 G,/F,/4 G,/>_B,/ C/<B,/ ::
+(3:2:4b/ "G7"f/4=f/4d/ _B/4=B/4G/ z z | z3/4 D/4 =F/4G/F/4 G/F/4G/4- G/4G/4G/ |  B/G/4=F/4 G/F/4G/4- G/4F/4[_B_d]/4[=B=d]/4 z/ z/ |
+"C7" (3:2:4b/f/4=f/4d/ _B/4=B/4G/ z z | z3/4 D/4 =F/4G/F/4 G/F/4G/4- G/4G/4G/ | "G7" z4 |  z3 D/4=F/4G/ |
+"Bb7#9" G3/2 "B7#9" G3/2 "C7#9" G- | G/ "C#7#9"G/- G "D7#9" G/G/4=F/4 G/F/ | "Eb7#9" F3/2 "E7#9" F3/2 "F7#9" F- |  F/ "F#7#9"F/- F "G7#9" F z | "G7" z4 | z4 |
+z4 |  z "F7" F3/2 "F#7" F3/2 :|

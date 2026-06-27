@@ -1,0 +1,35 @@
+---
+workId: thelonious-monk-round-midnight
+arrangementId: h-295a6a41
+title: Round Midnight
+artist: Thelonious Monk
+source: jazz
+key: Ebm
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Round Midnight
+C: Thelonious Monk
+M: 4/4
+L: 1/8
+Q: 80
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags Monk,Ballad
+%%songbook-uri /post/round-midnight/
+K: Ebm
+P: A
+"Ebm"z2 B,1/2E1/2F1/2B1/2 "Cm7b5" G3 B,|"Fm7b5"E3 =D1/2E1/2 "Bb7"BA z2|"Ebm7" z2 E1/2G1/2B1/2d1/2 "Ab7"=c3 E|"Bm7"=A^F1/2=D1/2 "E7"^G2 "Bbm7"_A=F1/2_D1/2 "Eb7"=G2|
+"Abm7"z2 A1/2c1/2e1/2g1/2 "Db7" f3 c|"Ebm7"B2 (3E=D_D "Ab7"=C A2 E1/2F1/2|"B7"(3^FFF (3F=F^D F3 D|"Bb7"=DB, z2 z4||
+P: A
+"Ebm"z2 B,1/2E1/2F1/2B1/2 "Cm7b5" G3 B,|"Fm7b5"E3 =D1/2E1/2 "Bb7"BA z2|"Ebm7" z2 E1/2G1/2B1/2d1/2 "Ab7"=c3 E|"Bm7"=A^F1/2=D1/2 "E7"^G2 "Bbm7"_A=F1/2_D1/2 "Eb7"=G2|
+"Abm7"z2 A1/2c1/2e1/2g1/2 "Db7" f3 c|"Ebm7"B2 (3E=D_D "Ab7"=C A2 E1/2F1/2|"B7"^F2 =F^D "Bb7"F2 E_D|"Ebm7"E6 EF||
+P: B
+"Cm7"G2 FE "F7b9"F3 E|"Bb7"=DB z2 z2 EF|"Cm7"G2 FE "F7b9"F3 E|"Bb7"=DB, z2 z2 B2|
+"Abm7"c2 "Db7"zc "Gb^7"B3 B|"Cb7"A2G2 "Bb7"F3 B|"Eb7"eee2 "Db7"dd d2| "Cb7"c2 E=D "Bb7"BA=ED||
+P: A
+"Ebm"z2 B,1/2E1/2F1/2B1/2 "Cm7b5" G3 B,|"Fm7b5"E3 =D1/2E1/2 "Bb7"BA z2|"Ebm7" z2 E1/2G1/2B1/2d1/2 "Ab7"=c3 E|"Bm7"=A^F1/2=D1/2 "E7"^G2 "Bbm7"_A=F1/2_D1/2 "Eb7"=G2|
+"Abm7"z2 A1/2c1/2e1/2g1/2 "Db7" f3 c|"Ebm7"B2 (3E=D_D "Ab7"=C A2 E1/2F1/2|"Cb7"G2 FE "Bb7"F2 ED|"Ebm"E8||

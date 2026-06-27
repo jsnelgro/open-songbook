@@ -1,0 +1,31 @@
+---
+workId: roy-hargrove-strabourg-st-denis
+arrangementId: h-6f2c5c5b
+title: Strabourg/St Denis
+artist: Roy Hargrove
+source: jazz
+key: Ab
+tags:
+  - Funk
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Strabourg/St Denis
+C: Roy Hargrove
+M: 4/4
+L: 1/16
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Funk
+%%songbook-tags Funk
+%%songbook-uri /post/strabourg-st-denis/
+K: Ab
+V:1 clef=bass
+P: Bass line
+"Bbm7"B,,4B,,4"Cm7"C,2C,2 z2 D,2-|"Db^7"D,8-"F7b9"D,2C,2F,,2C,2|"Bbm7"B,,4B,,4"Cm7"C,2C,2 z2 D,2-|"Db^7"D,6 E,=E,F,D,"F7b9"F,,6|
+"Bbm7"B,,4B,,4"Cm7"C,2C,2 z2 D,2-|"Db^7"-D,2D,2=D,2E,2- "Eb7b9"E,4 G,2B,2|"Ab^7"A,2E,2A,,4 A,,2G,,2_G,,2"F7b9"F,,2-|F,,16||
+V:1 clef=treble
+|:"Bbm7"afef cBAB "Cm7"E2B2A4-|"Db^7"A8 "F7b9"z8|"Bbm7"afef cBAB "Cm7"E2B2A4-|"Db^7"A4 c2e2"F7b9"z8|
+"Bbm7"afef cBAB "Cm7"E2B2A4-|"Db^7"A4-AFA2 "Eb7"c4 B2A2|[1 "Ab^7"G3FE4 E2E2F2_G2-|"F7b9"G2_G4F2-F8:||
+|[2 "Ab^7"G3FE4 G2G2A2=A2-|"F7b9"A2_G4F2-F8||

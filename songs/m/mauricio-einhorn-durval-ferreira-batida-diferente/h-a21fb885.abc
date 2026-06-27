@@ -1,0 +1,33 @@
+---
+workId: mauricio-einhorn-durval-ferreira-batida-diferente
+arrangementId: h-a21fb885
+title: Batida Diferente
+artist: 'Mauricio Einhorn, Durval Ferreira'
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Batida Diferente
+C:Mauricio Einhorn, Durval Ferreira
+C:Cannonball Adderley
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/15/2016
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ "D" D3/2 F/ G A/- | A B/c/ z2 | z/ D3/2 F/G/F/D/ | E/C/ (3B,/A,/D/- D2 |
+z/ !trill(!Td3/2 c B!trill)! | c/B/z/A/ z/ G/ F | z/ A,/C/E/ B,/A,/ D | z7/2 D/ |:  "Gmaj7" ^C/D/c/B/ A/G/F/=F/- |
+"G7" F2- F/G/=F/E/- | "Cmaj7" E7/2 =F/- | "F7" F _E/D/ C/_B,/C/D/- |  "Bm7" D/ D "Bbmaj7" D/ G G |1 "Abm7" D D =F/ "Abmaj7"D/C/D/ |
+"Gmaj7""^Break" z/ D/E/F/ G/A/B/c/ | d/B/c/B/ z/ D D/ :|2  "Am7" D D =F/ "Abmaj7"D/^F/G/ || "Gmaj7" z/ F/"^Break"E/F/ A/F/G/A/ |
+B/G/D/_D/ C/A/F/=D/ || "Dm7" G/=F/G/F/ E/ D G/- |  "G7" G (3=F/G/F/ (3E D E | "Cmaj7" B,3/2 A,2- A,/- |
+A, z z/ C D/4G/4 | "Em7" A/G/A/G/ F/ E A/- |  "A7" A/-A/ (3G/A/G/ F/ E G/ | "Am7" B/c/d/c/ B/G/D/C/- |
+"D7" C2 z z/ D/ | "Gmaj7" ^C/D/c/B/ A/G/F/=F/- |  "G7" F2- F/G/=F/E/- | "Cmaj7" E7/2 =F/- | "F7" F _E/D/ C/_B,/C/D/- |
+"Bm7" D/ D "Bbmaj7" D/ G G |  "Am7" D D =F/ "Abmaj7"D/^F/G/ | "Gmaj7""^Break" z4 | z4 |]

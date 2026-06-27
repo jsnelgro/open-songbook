@@ -1,0 +1,35 @@
+---
+workId: frank-foster-shiny-stockings
+arrangementId: h-b94d8924
+title: Shiny Stockings
+artist: Frank Foster
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Shiny Stockings
+C: Frank Foster
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Count Basie
+%%songbook-uri /post/shiny-stockings/
+K: Ab
+P: A
+"Am7"=B|| "Bbm7"c2 z2Bc2e|"Eb7"zc3B2c2|"Bbm7"F2B2cB2c|"Eb7"z4 z=A3|
+"Ab6"B2z2AB2e|"Db7"zB3A2B2|"Cm7"E2A2BA2B|"Bo7"z4 z=A3||
+P: B
+"Bbm7"_A2z2FAce-|"Eb7"e4 "Db7"z_c3|"Cm7"B2z2GB=df-|"F7"f6_dc|
+"Dm7"z4 =Ac=eg-|"G7"g4 z=e3|"C6"c2z2z2z _g|"Cm7b5"z_gf2 "F7b9"ed3||
+P: A
+"Bbm7"c2 z2Bc2e|"Eb7"zc3B2c2|"Bbm7"F2B2cB2c|"Eb7"z4 z=A3|
+"Ab6"B2z2AB2e|"Db7"zB3A2B2|"Cm7"E2A2BA2B|"Bo7"z4 z=A3||
+P: C
+"Bbm7"_A2z2FAce-|"Eb7"e4 "Db7"z_c3|"Cm7"B2z2GB=df-|"F7"f4 z g3|
+"Bbm7"a2f2ed2c|"Eb7"zA3 c c2 A|"Ab6"z8|z8||

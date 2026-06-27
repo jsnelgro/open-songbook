@@ -1,0 +1,44 @@
+---
+workId: miles-davis-so-what
+arrangementId: h-edf93392
+title: So What
+artist: Miles Davis
+source: jazz
+key: C
+tags:
+  - Cool
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: So What
+C: Miles Davis
+M: 4/4 
+L: 1/8 
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Cool
+%%songbook-tags Modal,Cool
+%%songbook-uri /post/so-what/
+K: C
+V:T1  clef=treble
+V:T2  clef=bass
+P: Melody
+V:T1
+z8|:z4 [D3G3B3] [CFA]|z8|z4 [D3G3B3] [CFA]|z8|
+V:T2
+z D,, A,,B,, C,D,E,C,|:D,4 [E,3A,3] [D,G,]|z D,, A,,B,, C,D,E,C,|D, A,,3  [E,3A,3] [D,G,]|z D,, A,,B,, C,D,E,C,|
+V:T1
+z4 [D3G3B3] [CFA]|z8|z4 [D3G3B3] [CFA]|[1 z8:|[2 z8||
+V:T2
+D,4 [E,3A,3] [D,G,]|z E,3 E,2E,2|D, A,,3  [E,3A,3] [D,G,]|[1 z D,, A,,B,, C,D,E,C, :|[2 z _E,, _B,,C, _D,_E,F,D,||
+V:T1
+z4[_E3_A3c3] [_D_G_B]|z8|z4 [_E3_A3c3] [_D_G_B]|z8|
+V:T2
+_E,4 [F,3_B,3] [_E,_A,]|z _E,, _B,,C, _D,_E,F,D,|_E, _B,,3 [F,3_B,3] [_E,_A,]| z _E,, _B,,C, _D,_E,F,D,|
+V:T1
+z4 [_E3_A3c3] [_D_G_B]|z8|z4 [_E3_A3c3] [_D_G_B]|z8:|
+V:T2
+_E,4 [F,3_B,3] [_E,_A,]|z _E,, _B,,C, _D,_E,F,D,|_E, _B,,3 [F,3_B,3] [_E,_A,]|z D,, A,,B,, C,D,E,C,:|
+P:Solo
+"Dm7"Z16|"Ebm"Z8|"Dm7"Z8||

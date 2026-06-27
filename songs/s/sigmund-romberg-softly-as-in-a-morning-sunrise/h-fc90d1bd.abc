@@ -1,0 +1,32 @@
+---
+workId: sigmund-romberg-softly-as-in-a-morning-sunrise
+arrangementId: h-fc90d1bd
+title: Softly As In A Morning Sunrise
+artist: Sigmund Romberg
+source: jazz
+key: Cm
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Softly As In A Morning Sunrise
+C: Sigmund Romberg
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags standard50
+%%songbook-uri /post/softly-as-in-a-morning-sunrise/
+K: Cm
+P: A
+|:"Cm7"c4 G4|"Dm7b5"zF GF "G7"G2F2|"Cm7"c4 E4|"Fm7"z D ED E2 D2|
+"Cm7"G4 C4|"Dm7b5"zF GF "G7b9"E2D2|"Cm7"C8|1 "Dm7b5"C2z2"G7"z4:|2 "Fm7"(3-C2D2E2 "Bb7" (3F2G2A2||
+P: B
+"Eb^7"B4 E4|zB cB "Fm7"c2 B2|"C7b9"B4 =E4-|(3E2=E2F2 (3G2A2B2|
+"Fm7"c4 F4|zc dc d2c2|d8|"G7"F2 FF E2D2||
+P: A
+"Cm7"c4 G4|"Dm7b5"zF GF "G7"G2F2|"Cm7"c4 E4|"Fm7"z D ED E2 D2|
+"Cm7"G4 C4|"Dm7b5"zF GF "G7b9"E2D2|"Cm7"C8-|C8||

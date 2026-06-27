@@ -1,0 +1,32 @@
+---
+workId: eddie-harris-set-us-free
+arrangementId: h-e42c36f6
+title: Set Us Free
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Set Us Free
+C:Eddie Harris
+C:Les McCann
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=225
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 || "F" A3 C | "Eb" G4 |  "F" (3z A A A3/2 C/ | "Eb" G4 | "F" z2 (3A _B c |
+"Eb" G2 (3z A _B |  "Am7" c3/2 d/- d2 | "D7" (3z B A G3/2 E/ | "Gmaj7" D/ z/ D- D/ D E/- | "C" E2 z2 |
+"G" D/ z/ D- D/ D E/- | "C" E2 z2 | "G" D/ z/ D- D/ D E/- | "C" E3/2 E/ (3A, D G |  "C9" c/ z/ c- c2 |
+"C7" z2 d/f/f/d/ |: "Eb7" _E/_B/_e/B/ "Bb7" d3/2 F/ | "F7" c/d/F/F/- F/ E F/ |  "Eb7" _E/_B/_e/B/ "Bb7" d3/2 F/ |
+"F7" c/d/F/F/- F _E/F/ :| "Eb7" G z/ "Bb7" F/- F3/2 F/- | "F7" F/_E/F/E/ F/E/F/E/ |  "Eb7" G z/ "Bb7" F/- F3/2 F/ |
+"F7" F/_E/F/E/ F/E/F/E/ |]

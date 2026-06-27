@@ -1,0 +1,29 @@
+---
+workId: john-johnny-e-carisi-israel
+arrangementId: h-e8ceeb48
+title: Israel
+artist: John (Johnny) E. Carisi
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Israel
+C:John (Johnny) E. Carisi
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 12/13/2017
+L:1/4
+Q:1/4=170
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Intro" d/e/f/c'/ b/g/ f- | "C" f4 | "F" z2 g/_g/e/_c/- | c g/_g/ e/ _c3/2 |
+"C" d/e/f/c'/ b/g/f/c'/ | b/g/f/c'/ b/g/f/g/ | z/ g/- g3 |"^Fill" g z/ g/- g2 |:
+"^Head" z "Cm7" f/g/ d/ c g/- | "Cm" g/g/ (3f/e/d/ c B/G/- | "Cm6" G2 B d/G/- | "C7" G2- G/G/c/e/- |
+"Fm7" e/ f3/2 z2 | "Fm6" z/ f/ (3e/d/c/ "G7" B d/G/- | "Cmaj7" G2- G/d/c/D/- | "Ebmaj7" D3/2 g3/2 f |
+"Abmaj7" (3z C F (3B E A | "G7" _d3/2 =B =d/ e/f/ | "Cm7" (3G A G "Eb7" f3/2 e/ | "Ab7" (3d/e/d/ ^F- "G7" F/G/=B/c/ :|

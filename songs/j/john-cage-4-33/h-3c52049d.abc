@@ -1,0 +1,43 @@
+---
+workId: john-cage-4-33
+arrangementId: h-3c52049d
+title: 4'33"
+artist: John Cage
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:4'33"
+C:John Cage
+C:Arranged: 6EQUJ5
+Z:©2015 APUFMusic 9/19/15
+%%score [ 1 | 2 ] [ 3 | 4 ] 5
+L:1/4
+Q:1/4=2
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble nm="C Instruments 1"
+%%MIDI program 0
+V:2 bass nm="Bass 2"
+%%MIDI program 0
+V:3 treble transpose=-9 nm="Eb Instruments" snm="A. Sx."
+%%MIDI program 65
+V:4 treble transpose=-14 nm="Bb Instruments" snm="T. Sx."
+%%MIDI program 66
+V:5 perc nm="Percussion" snm="Perc."
+K:none
+%%MIDI program 0
+V:1
+"_=1.38064852 × 10-23 m2 kg s-2 K-1""_Add Bicycle .++=6.0223*10**23""^Accel.""^Rit.""^a Tempo" z4"^DO NOT MOVE" |]
+V:2
+"^Count to 4'33\" (273 seconds)" z4"^DO NOT MOVE" |]
+V:3
+[K:A]!pppp!"^bucket""^Like A Dirgible" z4 |]
+V:4
+[K:D]!ffff!"^open""^harmon w/stem" z4"^DO NOT MOVE" |]
+V:5
+!ff!"^Set Backup Stopwatch to 4'33\", In the Event that the Bassist loses count" z4!f!"^DO NOT MOVE" |]

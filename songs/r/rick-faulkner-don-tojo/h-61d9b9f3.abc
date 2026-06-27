@@ -1,0 +1,50 @@
+---
+workId: rick-faulkner-don-tojo
+arrangementId: h-61d9b9f3
+title: Don Tojo
+artist: Rick Faulkner
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Don Tojo
+C:Rick Faulkner
+C:New York Ska Jazz Ensemble
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 7/1/2017 Version IV
+Z:©2016 Finmusic/effendi.me 6/5/2017 Version III
+Z:©2015 Finmusic/effendi.me 10/13/2015 Version II
+Z:©2013 Finmusic/effendi.me 08/13/2013 Version I
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=161
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "G""^Bass Intro" G/ z/ c/ z3/2 G/ z/ | _B/ z G/ B/z/G/=F/ :|1 z3 G/_B/ |: "C7""^A" c/c/_B/c/ z2 |
+"Bb7" z3 G/_B/ | "C7" c/c/_B/c/ z/ B/z/G/ | "Bb7" z3/2 G3/2 _B | "C7" c/c/_B/c/ z2 |  "Bb7" z z/ _B/ c/c/B/c/ |
+"C7" _B/ z/ G3 | "Bb7" z3 G/_B/ || "C7""_B" c/c/_B/c/ z2 |  "Bb7" z3 G/_B/ | "C7" c/c/_B/c/ z/ B/z/G/ |
+"Bb7" z3/2 G3/2 _B | "C7" c/c/_B/c/ z2 |  "Bb7" z z/ _B/ c/c/B/c/ | "C7" _B/ z/ G3 | "Bb7" z2 G _B || "Bbdim7""^C" G4 |
+G/_B/ c B/G/=F/ "Gm7"G/- | G4- | G2 G _B | "Bbdim7" G4 |  G/_B/ c B/G/B/ "D7"d/- | d4 |
+z z/ g/ g/z/g/ z/ || "C7""^D" c/c/_B/c/ z2 |  "Bb7" z3 G/_B/ | "C7" c/c/_B/c/ z/ B/z/G/ | "Bb7" z3/2 G3/2 _B |
+"C7" c/c/_B/c/ z2 |  "Bb7" z z/ _B/ c/c/B/c/ | "C7" _B/ z/ G3 | "Bb7" z4 ::"^Solos ABCD" z4 ::
+"_Cool Sax Break \n(Play top Line After \nBari Takes a few)" e/e/ =f/ g f/ z/ d/ | z4 | e/e/ =f/ g f/ z/ z/ | z4 ::
+"_Solos ABCD" z4 :|
+V:2
+|: z4 | z4 :|1 z4 |: z4 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 || z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 || z4 |
+z4 | z4 | z4 | z4 |  z4 | z4 |
+z4 || z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 :: z4 ::
+"G" c/d/c/_B/ c/G/ z | z2 c/z/d/ z/ | c/d/c/_B/ c/G/ z | z z/ G/ G/z/G/ z/ ::
+z4 :|

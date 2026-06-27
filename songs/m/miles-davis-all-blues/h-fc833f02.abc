@@ -1,0 +1,37 @@
+---
+workId: miles-davis-all-blues
+arrangementId: h-fc833f02
+title: All Blues
+artist: Miles Davis
+source: jazz
+key: G
+tags:
+  - 3/4 Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: All Blues
+C: Miles Davis
+M: 6/8
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories 3/4 Swing
+%%songbook-tags 3/4 Swing,Miles Davis
+%%songbook-uri /post/all-blues/
+K: G
+V:T1  clef=treble name="Melody" snm="M"
+V:T2  clef=treble name="Rhythm" snm="pn"
+V:T1
+B3-B2-B1/2D1/2|B1/2c1/2B2-B2_B1/2D1/2|B1/2c1/2B2-B2_B1/2D1/2|B3-B2z|
+V:T2
+"G7"[B,2D2] [CE] [D2=F2] [CE]|z8|z8|z8|
+V:T1
+A2 _B c2 d|c2 _B A2- A1/2D1/2|=B6|G3-G2-G1/2^G1/2|
+V:T2
+"C7"[_B,2D2] [CE] [D2F2] [CE]|z8|"G7"[B,2D2] [CE] [D2=F2] [CE]|z8|
+V: T1
+A6|_B6|A3=B3|A3G3||
+V: T2
+"D7"z8|z8|"G7"z8|z8||

@@ -1,0 +1,32 @@
+---
+workId: duke-ellington-don-t-get-around-much-anymore
+arrangementId: h-adad939f
+title: Don't Get Around Much Anymore
+artist: Duke Ellington
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Don't Get Around Much Anymore
+C: Duke Ellington
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50,Duke Ellington
+%%songbook-uri /post/dont-get-around-much-anymore/
+K: C
+P: A
+z e2 d cGFE-||:"C^7"E2-"Dm7"E3-"D#o7"E-E-"E-7"E|z e2 d cGFE-|"A7"E8|zG2 F EDCc-|
+"Am7"c3 A-"D7"A4|"G7"z EF^F GC^DE|1 "C" C8|z e2 d cGFE :|2 "C" C8-|"C7"C6z2||
+P: B
+"F"d4 cA2c-|"Fm"c6 c2|"Em7"d4 "C"cG2E-|"C7"E4-"C+7"Ec3|
+"D7"d4 cA2c-|"F#m7b5"c4-"B7b9"c4|"Em7"zB BB "D7b9"BA2 G-|"G7"B e2 d cGFE-||
+P: A
+"C^7"E2-"Dm7"E3-"D#o7"E-E-"E-7"E|z e2 d cGFE-|"A7"E8|zG2 F EDCc-|
+"Am7"c3 A-"D7"A4|"G7"z EF^F GC^DE|2 "C" C8-|"C7"C6z2||

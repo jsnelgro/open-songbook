@@ -1,0 +1,53 @@
+---
+workId: joshua-redman-home-fries
+arrangementId: h-f227fe89
+title: Home Fries
+artist: Joshua Redman
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Home Fries
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/19/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+z/ B,/C/ z/ || E/ z/ z z2 | z/ B,/C/ z/ E/_G/z/E/ | z4 |  z2 z/ _D/E/_G/ |
+z4 | z/ _G/ z G/E/G/F/ | z4 |  z/ B,/z/C/ E/_G/z/E/ | z4 | z/ E/ =B G/F/E/E/ |
+z2 z/ E/z/E/ |  z2 z/ E/F/E/ | G3/2 A/4B/4 G/E/z/A/ | z/ (3_G/E/_D/B,/ A,/E,/_G,/E/ |
+z/ B,/ (3C/E/F/ _G/E/F/E/ ||  z4 | z/ _G/ =G/4>A/4B/4c/4 _d/4c/4B/4c/f/4e/ | z4 |
+z/ _D/- D/E/4F/4 G/G/G/A/ |  (3B/c/_d/- d z z | z/ A/ (3F/E/C/ (3A,/B,/E/ (3F/E/_G/ | z4 |
+z/ A (3G/4F/4E/4 B,/_D/z/=D/ |  z4 | z/ E,/ z/ _G,/4A,/4 =A,/E,/ (3=G,/B,/E/ | z4 |
+z/ (3c/z/A/F/ E/ z/ z |  z/ c/ (3z/ =A/F/ E/C/4E/4 ^F/G/- | G3/2 A/4B/4 G/E/z/A/ | z/ _G/ (3E/_D/B,/ A,/F,/_G,/E/ |
+"^TO CODA" z/ B,/ (3C/E/F/ _G/E/F/E/ |  z4 |:
+"Eb7""_SOLOS\n" z4 | z4 | z4 |  z4 | "G7" z4 | "Gb7" z4 | "F7" z4 |  "Bb7" z4 |
+"Eb7" z4 | z4 | "Ab7" z4 |  "Adim" z4 | "Gm7" "C7" z4 | "Fm7" "Bb7" z4 | "Eb7" z4 |  z4 :|
+"_CODA\n" z/ B,/ "Eb7" (3C/E/F/ _G/E/F/G/ | "B7" z/ E/4=B,/4 A,/F/ "Bb7" z/ E/F/G/- | "Gm7" G3/2 A/4B/4 "C7" G/E/z/A/ |  "F7" z/ _G/ (3E/_D/B,/ "Bb7" A,/F,/_G,/E/ |
+"Eb7" z/ B,/ (3C/E/ "Bb7"F/ _G/E/F/E/ | "Eb7" z z/ E/ z2 |]
+V:2
+z2 || "Eb7" z4 | z4 | "Ab7" z4 |  z4 |
+z4 | "Gb7" z4 | "Fm7" z4 |  "Bb7" z4 | "Eb7" z4 | "G7" z4 |
+"Ab7" z4 |  "Adim" z4 | "Eb7" z4 "C7" | "F7" z4 "Bb7" |
+"Eb7" z4 ||  "Eb7" z z/ B/ "Bb7" z/ B/ c | "Eb7" e/ z/ z z2 | z/ B/c/ z/ e/_g/z/e/ |
+"Ab7" z4 |  z2 z/ B/e/_g/ | "Gb7" z4 | "Fm7" z/ _g/ z f/e/g/f/ |
+"Bb7" z4 |  "Eb7" z/ B/z/c/ e/_g/z/e/ | "G7" z4 | "Ab7" z/ e/ =b g/f/e/e/ |
+"Adim" z2 z/ e/z/e/ |  "Gm7" z4 "C7" | "F7" z4 "Bb7" | "Eb7" z4 "Bb7" |
+"Eb7" z4 "Bb7" |  "Eb7" "Bb7" z4 |:
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 :|
+z4 | z4 | z4 |  z4 |
+z4 | z4 |]

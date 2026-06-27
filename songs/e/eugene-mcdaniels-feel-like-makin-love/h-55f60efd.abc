@@ -1,0 +1,28 @@
+---
+workId: eugene-mcdaniels-feel-like-makin-love
+arrangementId: h-55f60efd
+title: Feel Like Makin' Love
+artist: Eugene McDaniels
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Feel Like Makin' Love
+C:Eugene McDaniels
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Fm7" z E/E/4G/4- G/4G/4E/- E | z E/F/4G/4- G/4 "Bb7"G/4E/- E/F/ | "Ebmaj7" G4- | "Db7" G4 "C7#9" |
+"Fm7" z E/E/4G/4- G/4G/4E/- E | z E/F/4G/4- G/4 "Bb7"G/4E/- E/F/ | "Ebmaj7" G4- | "Bbm7" G4 "Eb7" "A7" |  "Abmaj7" z G/C/4E/4- E2- |
+"Gm7" E z/ E/ B/B/ G/4F/4E/4F/4- | "Db7" F3- F/G/- | "Cm7" G4 "A7" |  "Abmaj7" z G/C/4E/4- E2- | "Gm7" E z/ E/ B/B/4G/4- G/4F/4E/ |
+"Db7" F3 F/ "Cm7"E/- | E/C/- C z/ _G/F/F/- |  "F7" F4 :|

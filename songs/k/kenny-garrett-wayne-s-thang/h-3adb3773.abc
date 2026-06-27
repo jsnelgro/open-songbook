@@ -1,0 +1,37 @@
+---
+workId: kenny-garrett-wayne-s-thang
+arrangementId: h-3adb3773
+title: Wayne's Thang
+artist: Kenny Garrett
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Wayne's Thang
+C:Kenny Garrett
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:11/17/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+"Em7" g3/2 f/4e/4 d z | z4 | d/e/ z z2 | z4 |
+"Cmaj7" d3/2 e/4^f/4 g z | z4 | ^f/e/ z z2 | z4 |
+"B7" g3/2 f/4e/4 _e z | z4 | e/_e/ z z2 | z3 e |
+"Em7" z4 | z4 | z4 | e z z2 |]
+V:2
+E, z/ B,/ A, D, | E, z/ B,/ A, D, | E, z/ B,/ A, D, | E, z/ B,/ A, D, |
+C, z/ B,/ A, D, | C, z/ B,/ A, D, | C, z/ B,/ A, D, | C, z/ B,/ A, D, |
+B,, z/ B,/ A, D, | B,, z/ B,/ A, D, | B,, z/ B,/ A, D, | B,, z/ B,/ A, D, |
+E, z/ B,/ A, D, | E, z/ B,/ A, D, | E, z/ B,/ A, D, | E, z z2 |]

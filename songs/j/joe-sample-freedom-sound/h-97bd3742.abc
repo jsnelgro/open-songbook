@@ -1,0 +1,42 @@
+---
+workId: joe-sample-freedom-sound
+arrangementId: h-97bd3742
+title: Freedom Sound
+artist: Joe Sample
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Freedom Sound
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 10/8/2016
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 32
+V:1
+"Abmaj7" [CG]4- | [CG]4 | "Gm7" [_B,F]4- | [B,F]4 |:
+"Abmaj7""^A""^Piano with horns on whole notes" z G _B _b | g (3f/_e/c/ f g | "Gm7" z G _B f | _e/_B/F/G/ [AB]2 |
+"Abmaj7" z G _B _b | g (3f/_e/c/ f g | "Gm7" z G _B f | _e/_B/F/G/ A2 |
+"Fmaj" _a/c/e/f/ g a | "Fm7" g2 f2 | "Cm7" f4 | _e2 _B F/B/ |
+c4- | c4"^Fine" |"^B" z4 "Cm7" | z4 :|  "Ab7" C3 D |
+"Ab7#11" _E F "D7#11" ^F ^G | "Dbmaj7" F4 | "C7" _B _G "F7" A _E |  "Bb7" D3 E | "Bm7" F G "E7" ^G B | "Amaj7" ^c4 |
+"Bbm7" ^c4 :|
+V:2
+_E,/_A,/C/_D/ C A, | _E,/_A,/C/_D/ C A, | D,/G,/_B,/C/ B, G, | D,/G,/_B,/C/ B, G, |:
+_E,/_A,/C/_D/ C A, | _E,/_A,/C/_D/ C A, | D,/G,/_B,/C/ B, G, | D,/G,/_B,/C/ B, G, |
+_E,/_A,/C/_D/ C A, | _E,/_A,/C/_D/ C A, | D,/G,/_B,/C/ B, G, | D,/G,/_B,/C/ B, G, |
+C,/F,/_A,/_B,/ A, F, | C,/F,/_A,/_B,/ A, F, | G,,/C,/_E,/F,/ E, C, | G,,/C,/_E,/F,/ E, C, |
+G,,/C,/_E,/F,/ E, C, | G,,/C,/_E,/F,/ E, C, | G,,/C,/_E,/F,/ E, C, | G,,/C,/_E,/F,/ E, C, :|  z4 |
+z4 | z4 | z4 |  z4 | z4 | z4 |
+z4 :|

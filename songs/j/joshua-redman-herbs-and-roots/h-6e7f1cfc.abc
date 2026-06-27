@@ -1,0 +1,33 @@
+---
+workId: joshua-redman-herbs-and-roots
+arrangementId: h-6e7f1cfc
+title: Herbs and Roots
+artist: Joshua Redman
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Herbs and Roots
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2017 Finmuisc
+Z:5/14/2017
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/ g/b/g/ |: "Cm7" c' b/c'/ a/c'/z/g/ | z/ g/c'/g/ f/c'/z/f/ | =e c/_e/ z c- |
+c B/G/ (3_G/F/E/ C/B,/ | E F/C/- C2 | z4 | z4 |  z/ g/b/g/ c' b/c'/ |
+"Ab7" _a/c'/z/_g/ z c' | f c'/e/ z "Bb/A" f- | f e/c/ "Bb/Bb" c'/c/ z |  "Bb" z3/2 f/ "Bb/B" g/f/e/c/ | "Cm7" f e/c/- c2- |
+c2 z2 | z2 z/ g/b/g/ |  c' b/c'/ a/c'/g/d'/- | "G7#9" d' =b/d'/ a/ "F13"g/ a | c'/a/ g "C7/E" c'/g/z/f/ |
+=e/c/z/ "Eb13"_e/ c'/c'/z/c'/ |  "D7" z/ b/g/_g/ "Db13" f/e/_c/e/ | "Cm7" f e/c/- c2- | c2 z2 | z4 |1
+z2 (3_G/F/E/ C/ z/ | E F/C/- C2 | z4 | z4 |  "G7" z2 z/ g/b/g/ :|2 e' c' b/g/_g/f/ ||
+e/c/B/G/ e/c/ e | c z z2 |:  "Cm7" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  "Ab7" z4 | z4 | z4 | z4 |  "Cm7" z4 | z4 | z4 | z4 |
+"G7" z4 | z4 | "F7" z4 | z4 |  "Eb7" z4 | z4 | "Db7" z4 | z4 |  "Cm7" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 :|

@@ -1,0 +1,35 @@
+---
+workId: bobby-timmons-this-here
+arrangementId: h-09248aa6
+title: This Here
+artist: Bobby Timmons
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:This Here
+C:Bobby Timmons
+C:Julian Cannonball Adderley
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:3/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z z/ "F7" C/ F/C/ | "F7" F [Ac] [Bd] | "F7" [Fc_e]/C/ F/C/ F/C/ | "F7" F [Ac] [Bd] |  "F7" [c_e] z/ C/ F/C/ | "F7" F [Ac] [Bd] |
+"F7" [Fc_e]/C/ F/C/ F/C/ | "F7" F [Ac] [Bd] |  "F7" [c_e] z/ F/ B/F/ | "Bb7" B [Ac] [Bd] | "Bb7" [Bc_e]/F/ B/F/ B/F/ | "Bb7" B [Ac] [Bd] |
+"Bb7" [c_e] z/ C/ F/C/ | "F7" F [Ac] [Bd] | "F7" [Fc_e]/C/ F/C/ F/C/ | "F7" F [Ac] [Bd] |  "F7" [c_e] z/ C/ F/C/ | "F7" F [Ac] [Bd] |
+"F7" [Fc_e]/C/ F/C/ F/C/ | "F7" F [Ac] [Bd] |  "F7" [c_e] z/ C/ F/C/ | "F7" F [Ac] [Bd] | "F7""^Vamp Sim Throughout" [Fc_e]/C/ F/C/ F/C/ || "F7" z z3/4 c/4 f/>c/ |
+"F7" f/f/4_e/4 c/>B/ _A |: "F7" F3- | "F7" F3 | "F6" z z3/4 c/4 f/>c/ |  "F7" f/f/4_e/4 c/>B/ _A | "F7" F3- | "F7" F3 |
+"F7" z z3/4 f/4 _a/>f/ |  "F7" _a/a/4f/4 c/>B/ _A/>F/ | "Bb7" [_A^c] [Bd]2- | "Bb7" [Bd]3 | "Bb7" z z3/4 c/4 f/>c/ |  "Bb7" f/f/4_e/4 c/>B/ _A |
+"F7" F3- | "F7" F3 | "F7" z z C |  "F7" D F G/D/ | "Bb7" F3- | "Bb7" F3 | "A7" z2 C |  "A7" D F G/D/ |
+"Ab7" F3- | "Ab7" F3 | "G7" z2 C |  "G7" D F G/D/ | "Ab7" F3- | "Ab7" F3 | "G7" z "F" z3/4 f/4 _a/f/4e/4 |
+c/>_c/ B/>F/ _A/>F/ | "F7" _A =A2- | "F7" A3- | "F7" A3- |  "F7""_To Solos, Over Form" A3 |"^Piano Vamp Cont" z3 | z3 | "F7" z z3/4 c/4 f/>c/ |1
+"F7" f/f/4_e/4 c/>B/ _A :|2 z3 |]

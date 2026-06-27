@@ -1,0 +1,35 @@
+---
+workId: bernie-pinkard-casey-sweet-georgia-brown
+arrangementId: h-2dd3ded7
+title: Sweet Georgia Brown
+artist: Bernie Pinkard Casey
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Sweet Georgia Brown
+C: Bernie Pinkard Casey
+M:4/4
+L:1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Gypsy
+%%songbook-uri /post/sweet-georgia-brown/
+K: F
+P: A
+"D7"D2E2^F2D2|A2^F2=B2A2|d4 A ^F2 D-|D8|
+"G7"D2E2=F2D2|A2F2=B2A2|d4 =BA2G-|G8||
+P: B
+"C7" C2D2E2C2|G2E2A2G2|c4GE2C-|C2 CD- DC D2|
+"F"A8-|"C7"A2 CD- DC D2|"F" A4- A A3|"Em7"G3 A- "A7"A4||
+P: A
+"D7"D2E2^F2D2|A2^F2=B2A2|d4 A ^F2 D-|D8|
+"G7"D2E2=F2D2|A2F2=B2A2|d4 =BA2G-|G4 "A7"A4||
+P: C
+"Dm7"A3 A-A4|"A7"GE2 A-A4|"Dm7"A3 A-A4|"A7"GE2 A-A4|
+"F"CD2F- F A2 c-|"Eb7"cA ^cd- "D7"d2 A2|"G7"G4 "C7"cA2F-|"F"F4 z4||

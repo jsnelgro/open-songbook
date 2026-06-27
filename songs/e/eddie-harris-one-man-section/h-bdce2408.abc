@@ -1,0 +1,39 @@
+---
+workId: eddie-harris-one-man-section
+arrangementId: h-bdce2408
+title: One Man Section
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:One Man Section
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 3/24/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Dm7" z/ A3/2 d f | "G7" g f/>d/ c d/A/- | "Dm7" A3 z/ c/- | "Dm7" c/ z/ z z2 |  "Gm7" z/ B3/2 f g |
+"Gm7" _a/g/f/d/ c d/A/- | "Dm7" A3 z/ c/- | "Dm7" c/ z/ z z2 |  "Em7" z/ a3/2 g "A7" z | "Fm7" z/ g3/2 "Bb9" f z |
+"Ebm" z/ f3/2 "Ab7" _e z | "Em7" z/ e3/2 d/ "A7"e/ e/ z/ |  "Ebm7" z/ _B3/2 _e _a | "Gbm7" _d _g "B7" A e/=d/- | "D" d3 z/ d/- |
+"Dmaj7" d/ z/ z z2 |  "Dm7" z/ A3/2 d f | "G7" a g/>f/ d c/A/- | "Dm7" A3 d/_B/- | "Ebm7" B3 d/A/- |  "Dm7" A3 a/g/- |
+"G7" g2 z/ f/e/f/- | "Bbmaj7" f2- f2 | "Em7" "A7" z4 |  "Dm7" z/ a3- a/ | "B13" ^d/ ^e ^f- f/ ^g/=e/- | "Bb7" e3 f/_B/- |
+"Em7" B2 c3/2 "A7" A/- |  "Dm7" A3 c- | c/ "F#dim"d/- d _e- e/_B/- | "Em7" B3/2 z/ z2 | "A7" z4 |  "Dm7" a/g/f/g/- g z |
+"Dm7" z z3/4 d/4 g/f/d/f/- | "G7" f z z2 | "G7" z2 z/ A/d/f/ |  "Dm7" a/g/f/g/- g z | "Dm7" z/ A/d/f/ g/f/c/d/- |
+"G7" d4 | "G7" z4 |  "Asus4" z _d'/b/ d'/b/_b/_a/ | "Gbsus4" _b/b/_a/b/- b a | "D9" _g d/>B/ e g |
+"Gb13" c d/e/ z2 |  "Dm7" z d/f/ a/g/f/g/- | "Dm7" g3/2 d/ g/f/g/f/- | "G7" f4 | "G7" z4 |  "Dm7" z/ a z/ z2 |
+"Dm7" g a/f/ z2 | "Eb6" z2 _b/ c' a/- | "Dm" a2 z2 |  "Dm" z z/ A/ d/ e f/- | "Bbm7" f2 _B/ _e f/- |
+"A7" f3 z/ d/- | "Dm" d/ z/ z z2 |  "Em7" z/ a3/2 "A7" g z | "Fm7" z/ g3/2 "Bb7" f z | "Ebm7" z/ f3/2 z/ _e/_d/e/- |
+"Ab7" e/ z/ z z2 |  "Cm7" z/ a3/2 g f | "Bbmaj7" d2 c/ d A/- | "Dm7" A4 | "Eb" _B3/2 _e/- e z |  "Em7" z/ a3/2 g f |
+"Bbmaj7" d2 c/ d ^f/- | "B13" f3/2 ^c3/2 z/ ^g/- | "B13" g3/2 A3/2 z |  "Em7" z/ a3/2 g f | "Bbmaj7" d3/2 c3/2 z | "Eb" z/ _B3/2 d _e |
+"Eb" f3/2 _g3/2 z/ f/ |  "Em7" z/ a3/2 g f | "Bb" d2 c3/2 d/- | "G" d4 | "G" z4 "Bm7" |  "A7" z/ a3/2 g f |
+"Bbmaj7" d2 "A7" c3/2 d/- | "Dm7" d4- | "Dm7" d4 |]

@@ -1,0 +1,31 @@
+---
+workId: fats-waller-moppin-and-boppin
+arrangementId: h-08b59de2
+title: Moppin' and Boppin'
+artist: Fats Waller
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Moppin' and Boppin'
+C: Fats Waller
+M: 4/4
+L: 1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/moppin-and-boppin/
+K: F
+P: A
+|:"F" FF z F "F7/A"AF z F|"Bb"BF z F "Bo7"=BF z F|"F/C"cf z2z4|"C7" (3^GBG FG =GFDC|
+"F" FF z F "F7/Eb"AF z F|"Bb/D"BF z F "Db7"=BF z F|"C7"cF z2 z2 z C|"F"FCEF z4:|
+P: B
+"D7"z8|z8|"Gm"z8|z8|
+"G7"z8|z8|"C7"z8|z8||
+P: A
+"F" FF z F "F7/A"AF z F|"Bb"BF z F "Bo7"=BF z F|"F/C"cf z2z4|"C7" (3^GBG FG =GFDC|
+"F" FF z F "F7/Eb"AF z F|"Bb/D"BF z F "Db7"=BF z F|"C7"cF z2 z2 z C|"F"FCEF z4||

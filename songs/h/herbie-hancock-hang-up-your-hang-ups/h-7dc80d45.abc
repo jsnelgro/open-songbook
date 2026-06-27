@@ -1,0 +1,39 @@
+---
+workId: herbie-hancock-hang-up-your-hang-ups
+arrangementId: h-7dc80d45
+title: Hang Up Your Hang Ups
+artist: Herbie Hancock
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hang Up Your Hang Ups
+C:Herbie Hancock
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/8/2016
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Em7""^Intro\n" A/G/ E,/4E,/4E,/4E,/4 E,/4E,/4E,/4E,/4 E,/4E,/4E,/4E,/4 :| "Em7" ^c/4c/4Sc/4B/4 z/ z/ z z/ z/ | e/4e/4e/4d/4 z z2 |
+^c/4c/4c/4B/4 z/ z/ z z/ z/ |  e/4e/4e/4d/4 z z2 | ^c/4c/4c/4B/4 z/ z/ z z/ z/ | e/4e/4e/4d/4 z z2 |
+^c/4c/4c/4B/4 z/ e/4e/4 e/4d/4 z/ z |  g/4e/4 z/ d/4B/4 z/ z2 | f/>e/- e3 | z3/2 d/ z/4 e/4 z/ g |
+^c/ f c/ e d/4e/4 z/ |  z/4 z/4 ^c/ B- B c/e/ | g/4f/e/4- e3 | z3/2 d/ z/4 e/4 z/ g |
+^c/ f c/ e A/4G/4 z/ |  z/ G/ E- E z | "B/C#" [^DF^c] "C/D" [EGd] "A7" [=F_B_e] "Gmaj7" [FB=e]/> "Em7"[Adg]/- | [Adg]/e/ z z2 |
+"Db9" [^DF^c] "D9" [EGd] "Eb9" [=F_B_e] "Em7" [FB=e]/> "G9"[Adg]/- |  [Adg]/e/ z z2 | "Db9" [^DF^c] "D9" [EGd] "Eb9" [=F_B_e] "Em7" [FB=e]/> "G9"[Adg]/- | [Adg]/e/ z z2 | "Em7" c d ^d e/>g/- |
+g/e/ z z2 | f/>e/- e3 | z3/2 d/ z/4 e/4 z/ g | ^c/ f c/ e d/4e/4 z/ |  z/4 z/4 ^c/ B- B c/e/ |
+g/4f/e/4- e3 | z3/2 d/ z/4 e/4 z/ g | ^c/ f c/ e A/4G/4 z/ |  z/ G/ E- E z |: "Em7""^Intro\n" z4 | z4 | z4 |  z4 ::
+"Em7""^Solos" z4 :| "B/C#" [^DF^c] "C/D" [EGd] "A7" [=F_B_e] "Gmaj7" [FB=e]/> "Em7"[Adg]/- | [Adg]/e/ z z2 |  "B/C#" [^DF^c] "C/D" [EGd] "A7" [=F_B_e] "Gmaj7" [FB=e]/> "Em7"[Adg]/- | [Adg]/e/ z z2 |
+"B/C#" [^DF^c] "C/D" [EGd] "A7" [=F_B_e] "Gmaj7" [FB=e]/> "Em7"[Adg]/- | [Adg]/e/ z z2 |  z4 | "B/C#" [^DF^c] "C/D" [EGd] "A7" [=F_B_e] "Gmaj7" [FB=e]/> "Em7"[Adg]/- | [Adg]/e/ z z2 |:
+"Em7" ^c/4c/4c/4B/4 z/ z/ z z/ z/ |  e/4e/4e/4d/4 z z2 | ^c/4c/4c/4B/4 z/ z/ z z/ z/ | e/4e/4e/4d/4 z z2 |
+^c/4c/4c/4B/4 z/ z/ z z/ z/ |  e/4e/4e/4d/4 z z2 | ^c/4c/4c/4B/4 z/ z/ z z/ z/ | e/4e/4e/4"^D.S. Al Coda"d/4 z z2 :|
+[Gc]/O[^G^c]/4[Ad]/4 z z2 |  [dg]/[^cf]/4[=c=f]/4 z z2 | [Gc]/4[Gc]/4[^G^c]/4[Ad]/4 z/ [=G=c]/4[Gc]/4 [^G^c]/4[Ad]/4 z/ z |
+[Gc]/4[Gc]/4[^G^c]/4[Ad]/4 z/ [=G=c]/4[Gc]/4 [^G^c]/4[Ad]/4 z/ z |:"^Piano Solo\n" "G9" z4 |  "F9" z4 | "G9" z4 | "F9" z4 :|
+[Gc]/4[Gc]/4[^G^c]/4[Ad]/4 z/ [=G=c]/4[Gc]/4 [^G^c]/4[Ad]/4 z/ z |  [Gc]/4[Gc]/4[^G^c]/4[Ad]/4 z/ [=G=c]/4[Gc]/4 [^G^c]/4"^Fine"[Ad]/4 z/ z |]

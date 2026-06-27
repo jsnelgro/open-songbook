@@ -1,0 +1,29 @@
+---
+workId: dj-harrison-cross-river
+arrangementId: h-c841d6ff
+title: Cross River
+artist: DJ Harrison
+source: jazz
+key: C#min
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cross River
+C:DJ Harrison
+C:Butcher Brown
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 8/10/2019
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C#min
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "C#m11""^Intro\n" F3/2 G/ G2 | "F#m9" G3/2 G/ G2 | "C#m11" F3/2 G/ G2 | "F#m9" G3/2 G/ G2 ::
+"C#m11""^Head" z/ C/E/G/ F/E/C/F/- | "F#m9" F/G/- G- G2 | "C#m11" z/ C/E/G/ F/E/C/F/- | "Bsus4" F/G/- G- G2 |
+"Amaj7" z2 G/F/E/C/ | "Emaj7" D C/ G,2- G,/ | "Amaj7" z2 G/F/E/C/ | "Emaj7" D C/ G,3/2 [Fd]/[Bf]/ |
+"F#m9" [ceg]4 | "A#m9" [=c=f]3 [Fd]/[Bf]/ | "F#m9" [ceg]4 | "A#m9" [=c=f]4 :|

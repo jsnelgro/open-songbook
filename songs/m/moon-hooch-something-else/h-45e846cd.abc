@@ -1,0 +1,42 @@
+---
+workId: moon-hooch-something-else
+arrangementId: h-45e846cd
+title: Something Else
+artist: Moon Hooch
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Something Else
+C:Moon Hooch
+C:
+Z:©2019 6EQUJ5 7/21/2019
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble nm="Tenor" snm="Tenor"
+%%MIDI program 0
+V:2 treble nm="Bari" snm="Bari"
+%%MIDI program 0
+V:1
+|:"_(""_)" E/_D/E/D/ E/D/E/D/ | B,/=A,/E/C/ B,/A,/E/C/ | E/_D/E/D/ E/D/E/D/ | E/C/B,/=A,/ E/C/B,/A,/ ::
+z/ B,/B,/B,/ B,/B,/B,/B,/ | B,/B,/B,/B,/ B,/B,/B,/B,/ |1 B,/B,/B,/B,/ B,/B,/B,/B,/ | z/ B,/B,/B,/ B,/B,/B,/B,/ :|2
+_D/4C/4=A,/ D/4C/4A,/ D/4C/4A,/ D/4C/4A,/ || _D/4C/4=A,/ D/4C/4A,/ D"^Go To Measure 0" z |: (3:2:2F F/ z/ G/4A/4 c/G/E/E/ |
+_D/4_d/d/4 c/4A/E/4 D D |  z/ B,/ B,/C/4_D/4 F/D/A,/A,/ | A,/4F/E/4 _D/4C/D/4 E/C/B,/=A,/ |
+(3:2:2F F/ z/ _G/4F/4 E/_D/C/B,/ | F/4E/_D/4 C/4B,/C/4 D/C/ B, |  z/ B,/ B,/C/4_D/4 F/C/A,/A,/ |1
+B,/4F/E/4 _D/4C/D/4 E/C/B,/=A,/ :|2 B,/4F/E/4 _D/4C/D/4 E z"^Fine" |:
+z4"^Go To Measure 0" |  z4 | z4 | z4 :|
+V:2
+|: z/ B/z/B/ z/ B/z/B/ | z/ f/z/f/ z/ f/z/f/ | z/ B/z/B/ z/ B/z/B/ | z/ =A/z/A/ z/ A/z/A/ ::
+z/ B/_G/G/ z/ B/G/G/ | z/ B/_G/G/ z/ B/G/G/ |1 z/ B/_G/G/ z/ B/G/G/ | z/ B/_G/G/ z/ B/G/G/ :|2
+F/F/F/F/ F/F/F/F/ || F/F/F/F/ F z |: (3:2:2_D D/ z/ E/ F/_d/D/d/ |
+B/4B/B/4 A/4F/A/4 B B |  z/ _G/ G/G/4G/4 G/G/G/G/ | F/4F/F/4 F/4F/F/4 =A/A/_G/F/ |
+(3:2:2B B/ z/ B/4B/4 B/B/B/B/ | B/4B/B/4 A/4_G/A/4 B/B/ B |  z/ _G/ G/G/4G/4 G/G/G/G/ |1
+A/4A/A/4 A/4A/A/4 A/A/_G/F/ :|2 A/4A/A/4 A/4A/A/4 A z |:
+B4 |  _d2 f2 | B4 | _G2 F2 :|

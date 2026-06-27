@@ -1,0 +1,31 @@
+---
+workId: eddie-harris-more-soul-than-soulful
+arrangementId: h-febec40f
+title: More Soul than Soulful
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:More Soul than Soulful
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:12/8
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "G7" z6 | "C7" z6 | "G7" z6 | "C7" z6 :|  "G7" d G/ c G/ B/ G z G/ |
+"C7" d G/ c G/ B3/2 z G/ | "G7" d G/ c G/ B/ G z G/ | "C7" d G/ c G/ B/ G z G/ |:
+[K:D] "A7""_Bb" z6 | "D7" z6 | "A7" z6 | "D7" z6 :|  "A7" e A/ d A/ c/ A z A/ |
+"D7" e A/ d A/ c3/2 z A/ | "A7" e A/ d A/ c/ A z A/ | "D7" e A/ d A/ c/ A z A/ |:
+[K:A] "E7""_Eb" z6 | "A7" z6 | "E7" z6 | "A7" z6 :|  "E7" b e/ a e/ g/ e z e/ |
+"A7" b e/ a e/ g3/2 z e/ | "E7" b e/ a e/ g/ e z e/ | "A7" b e/ a e/ g/ e z e/ |]

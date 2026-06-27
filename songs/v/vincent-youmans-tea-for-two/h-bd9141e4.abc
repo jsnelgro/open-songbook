@@ -1,0 +1,31 @@
+---
+workId: vincent-youmans-tea-for-two
+arrangementId: h-bd9141e4
+title: Tea for Two
+artist: Vincent Youmans
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Tea for Two
+C: Vincent Youmans
+M:4/4
+L:1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/tea-for-two/
+K:Ab
+"Bbm7"A3F"Eb7"G3F|"Bbm7"A3F"Eb7"G3E|"Ab^7"G3E"Db7"F3E|"Cm7"G3E"Bo7"F3E|
+"Bbm7"A3F"Eb7"G3F|"Bbm7"A3F"Eb7"G3E|"Ab^7"c4-"Bbm7"c4-|"Cm7"c4"Db^7"z4||
+"Dm7"c2c=A"G7"=B2BA|"Dm7"c2c=A"G7"=B2BG|"C^7"=B2BG"F7"=A2AG|"Em7"=B2BG"A7"=A2AG|
+"Dm7"c2c=A"G7"=B2BA|"Dm7"c2c=A"G7"=B2G2|"C^7"=e8|"Bm7"_e4-"Eb7"e4||
+"Bbm7"A3F"Eb7"G3F|"Bbm7"A3F"Eb7"G3E|"Ab^7"G3E"Db7"F3E|"Cm7"G3E"Bo7"F3E|
+"Bbm7"A3F"Eb7"G3F|"Bbm7"A3F"Eb7"G3E|"Cm7b5"e8-|"F7b9"e8||
+"Bbm7"f3f"F7"e3e|"Gb7"d3d"F7"c3c|"Ao7"e3e"Bbm7"d3d|"Db^7"c3c"Gb7"B4|
+"Ab/C"A3F"Bo7"G3F|"Bbm7"A3F"Eb7"G3c|"Ab^7"A8-|A8||

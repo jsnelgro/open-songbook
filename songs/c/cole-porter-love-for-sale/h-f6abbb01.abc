@@ -1,0 +1,35 @@
+---
+workId: cole-porter-love-for-sale
+arrangementId: h-f6abbb01
+title: Love For Sale
+artist: Cole Porter
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Love For Sale
+C:Cole Porter
+C:arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Ebmaj7" B4- | "Ebmaj7" B z G2 | "Bbm7" F4- | "Bbmaj" F3 z |  "Ebmaj7" z B/B/ B B | "Ebmaj7" B B2 G |
+"Bbm" F4- | "Bbm" F4 |  "Ebmaj7" z/ B3/2 B B | "Ebm7" B/ c c/- "D7" c2 | "Db7" z/ _A3/2 A A | "Dbm7" _A/ _G "Gb7" G/- G2 |
+"Cdim7" F4- | "B7" F2 _D2 | "Bbm7" B,2- B,2- | "Bbm7" B,3 z |  "Ebmaj7" B4- | "Ebmaj7" B z G2 | "Bbm7" F4- |
+"Bbmaj" F3 z |  z "Ebmaj7" B/B/ B B | "Eb" e c B G | "Bbmaj7" F4- | "Bbmaj7" F3 z |  "Eb" z/ B3/2 B B |
+"Ebm7" B/ c c/- "D7" c2 | "Db7" z/ _d3/2 d d | "Dbm7" (3_d A "Gb7" _A _G2 |  "Cdim7" F4- | "Bb7" F2 _D2 | "Bbm7" B,2- B,2- |
+"Bbm7" B,3 z |  "Ebm7" z B,/C/ _D E | "Ab6" F3/2 E/ E2 | "Db" z C (3_D "Ebm7" E F | "Fm7" _A4 "E7" |
+"Ebm7" z B,/C/ _D E | "Ab7" F E E2 | "Db7" z/ C3/2 _D/E/ F | "Fm7" B4 "Gbmaj7" |  "Fm7" z B,/C/ "Bb7" D F | "B7" _G F "Bb7" F2 |
+"Ebm7" z D (3E F _G | "Ebm7" c B B2 |  "Gm7" _d2 "C7" c2 | "Gm7" _d2 "C7" c2 | "F#m7" z =B/ "B7"B/ B B | "Fm7" =B2 _B2 "E7" |
+"Ebmaj7" B4- | "Ebmaj7" B z G2 | "Bbm" F4- | "Bbm" F3 z |  "Eb" z B/B/ B B | "Ebmaj7" B B2 G | "Bbmaj7" F4- |
+"Bbmaj7" F4 |  "Ebmaj7" z/ B3/2 B B | "Ebm7" B/ c c/- "D7" c2 | "Dbmaj7" z/ _d3/2 d d | "Dbm7" _d/=d/e/ "Gb7"e/- e z |  "Cdim7" f4- |
+"B7" f2 _d2 | "Bbm7" B4- | "Bbm7" B3 z |]

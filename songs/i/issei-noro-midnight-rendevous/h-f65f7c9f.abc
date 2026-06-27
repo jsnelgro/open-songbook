@@ -1,0 +1,51 @@
+---
+workId: issei-noro-midnight-rendevous
+arrangementId: h-f65f7c9f
+title: Midnight Rendevous
+artist: Issei Noro
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Midnight Rendevous
+C:Issei Noro
+C:
+Z:©2017 Finmusic/effendi.me
+Z:10/15/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+z15/4 E,/4- |: "Em7" E, B, G/z/4G/4 z/4 E,/4=F,/4^F,/4- | "F#7" F, z/4 A,/4_B,/4 "B7"=B,/4- B, z/4 D/4E/4E,/4- |
+"Em7" E, B, G/z/4G/4 z/4 E,/4=F,/4^F,/4- |  "F#7" F, z/4 A,/4_B,/4=B,/4- "B7" B, z/4 D/4E/4E,/4 :|
+z4 | z3 G/4A/4z/4B/4- |:
+"Em7" B3 z3/4 ^A/4- |  "F#7" A/4e/4f/4g/f/4e/4=A/4- "B7" A G/4A/4z/4B/4- | "Em7" B3 z3/4 ^A/4- | "F#7" A/4d/4e/4f/4 z/4 g/4 z/4 "B7" a f/4 g/f/4B/4- |
+"Em7" B3 z3/4 ^A/4- |  "F#7" A/4e/4f/4g/f/4e/4 "B7"=A/4- A G/4A/4z/4B/4- | "Em7" B3 z3/4 ^A/4- |
+A/4 "F#7"e/4f/4g/4 z/4 "B9" a/4z/4b/4- b a/4b/4a/4g/4- | "Cmaj7" g2- g/>e/ g/4a/4z/4b/4- |  "Bm7" b3 d'/4_b/4a/4g/4- |
+"Cmaj7" g2- g/>e/ g/4a/4g/4f'/4- |1 "D7" f' e'/4z/4b/4a/4- "B7" a b/4a/4g/4a/4 | "Em7" !trill(!b4- |  "F#7" b2!trill)! z "B7" b/4a/4g/4a/4 | "Em7" a4- |
+"F#7" a2 z "B7" G/4A/4z/4B/4 :|2 "D7" f' e'/4z/4b/4a/4- a b/4a/4g/4a/4 ||  "Gmaj7" !trill(!b4!trill)! | "G7" z [=F=f]3/4 z/4 [Gg] [Aa] |
+"Cmaj7" [Bb]/4[Bb]/4[Bb]/4[Bb]/4 z/4 [cc']/4z/4[Bb]/4- [Bb]2- | [Bb] [Bb] [cc'] [dd']/4z/4[Bb]/- |  "Bm7" [Bb] z/ [Aa]2- [Aa]/ | "G7" z [=F=f] [Gg] [Aa] |
+"Cmaj7" [Bb]/4[Bb]/4[Bb]/4[Bb]/4 z/4 [cc']/4z/4[Bb]/4- [Bb]2- | [Bb] [Bb] [cc'] [dd']/4z/4[ff']/- |  "Bm7" [ff'] z/ [dd']/ [dd'] z/ g/- | "Em7" g/f/e/A/ B/d/ e/4b/4z/4g/4- |
+"Cmaj7" g3 g | "Bm7" f/d/4B/4 z/ "E7" =f/- f e/4c'/4z/4b/4- |  "Am7" b2- b/>d/ e/4d'/4z/4c'/4- | "D7" c'3 z | z4 |]
+V:2
+z4 |: z4 | z4 |
+z4 |  z4 :|
+"A/E" F3/4 "B/E" F- "C/E" F/F3/4 "Db/E" F | z/4 "D/E" F3/4 "Eb/E" F/4z/4 "E"F/4 "F/E" z/4 "F#/E" F/4z/4 "G"F/4 "F#" z/4 "G" F/4 "A"F/4 z/ |:
+z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 |
+z4 | z4 |  z4 |
+z4 |1 z4 | z4 |  z4 | z4 |
+z4 :|2 z4 ||  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 |]

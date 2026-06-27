@@ -1,0 +1,30 @@
+---
+workId: zac-zinger-sanma-samba
+arrangementId: h-3fde0e0a
+title: Sanma Samba
+artist: Zac Zinger
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sanma Samba
+C:Zac Zinger
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5
+Z:6/22/2019
+L:1/4
+Q:1/4=111
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z z z3/4 A/4 c/4d/4f/4g/4 || "Dm7" a/f/4g/d/<f/c/4d/4g/4 f/4d/4c/4_A/4 | "Bb7" G2- G/ z/ c/4d/4f/4g/4 |
+"Dm7" a/f/4g/d/<f/c/4d/4g/4 f/4d/4c/4G/4- |  "Bb7" G/d/4c/4- c2 z/4 G/4c/4d/4 | "Am7" e/d/4e/f/e/c3/4 A/4c/4d/- | "D7" d3 z/ d/4f/4 |
+"Bb7" g/e/4c/A/4 d3/2 c'/4c'/4^g/- |  "Dbmaj7" g3/2 a/ z/4 "Ebmaj7" D/4F/4A/4 c/4d/4f/4=g/4 | "Dm7" a/f/4g/d/<f/c/4d/4g/4 f/4d/4c/4_A/4 | "Bb7" G2- G/ z/ c/4d/4f/4g/4 |
+"Dm7" a/f/4g/d/<f/c/4d/4g/4 f/4d/4c/4G/4- |  "Bb7" G/d/4c/4- c2 z/4 G/4c/4d/4 | "Am7" g/4f/4d/4f/g/ d- d/4 c/4d/4f/4a/4 | "D7" g/4f/4d/4f/c/4 d3/2 z |
+"G7" f/4c'/4a/4d'/c'/4a/4^g/4 g/8a/8g/4f/4 z/4 A/4c/4A/4=g/4 |  "Dbmaj7" ^g/8=g/8f/4d/4c/4 d/ z/ "Ebmaj7" z z |]

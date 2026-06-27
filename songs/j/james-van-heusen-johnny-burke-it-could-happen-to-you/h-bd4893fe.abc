@@ -1,0 +1,30 @@
+---
+workId: james-van-heusen-johnny-burke-it-could-happen-to-you
+arrangementId: h-bd4893fe
+title: It Could Happen To You
+artist: James Van Heusen Johnny Burke
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:It Could Happen To You
+C:James Van Heusen Johnny Burke
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5
+Z:11/10/2019
+Z:
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Fmaj7" C3 D | "Am7b5" _E D/ "D7"A/- A2 | "Gm7" D3 E | "Bm7b5" F E/ "E7"=B/- B2 |  "Fmaj7" c2 c2 | "Bb7" c B2 F |
+"Am7b5" A4 | "D7" z4 |  "Gm7" A2 A2 | "Eb7" A B F G/A/- |1 "Fmaj7" A2 A2 | "Em7b5" "A7" z4 |  "Dm7" F2 F2 |
+"G7" F G D E/F/- | "Gm7" F2 G2 | "C7" D3/2 E/- E2 :|2
+"Fmaj7" A E G "Bb7" F/c/- || "Am7b5" c4 "D7" | "Gm7" C2 C2 | "C7" B G2 A |  "Fmaj7" F4 | "Gm7" "C7" z4 |]

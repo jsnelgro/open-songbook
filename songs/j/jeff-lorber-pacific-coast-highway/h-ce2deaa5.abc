@@ -1,0 +1,36 @@
+---
+workId: jeff-lorber-pacific-coast-highway
+arrangementId: h-ce2deaa5
+title: Pacific Coast Highway
+artist: Jeff Lorber
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Pacific Coast Highway
+C:Jeff Lorber
+C:Arr. 6EQUJ5
+Z:©5/21/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|:"^Bass Intro\n" C/> "Cm9"G/ B/=B/ c/4F/4G/4C/4 z3/4 G/4 | B/=B/ c/F/4^F/4 G/4D/4G,/4G/4 z/4 G,/4z/4C/4- |
+C/>G/ B/4G/4=B/4G/4 c/4F/4G/4C/4 z3/4 G/4 | B/=B/c/F/ G/4D/4G,/4G/4 z/4 G,/4z/4C/4 :|  z "Cm7" z3/4 g/4 f/>d/ z/ z/ |
+z3/4 g/4 f G/4B/4F/4E/4 D/C/4F/4- | F z3/4 g/4 f/>d/ z | z3/4 g/4 f G/4B/4F/4E/4 D/C/4F/4- |  F z3/4 g/4 f/>d/ z |
+z3/4 g/4 f G/4B/4F/4E/4 D/C/4F/4- | F z3/4 g/4 f/>d/ z | "Fm7" z/4 _A/4c/4e/4 g/4b/4_a/4g/4 f/4e/4d/4 "G7"c/4 =B/ "Cm7"a/4g/4 |
+"Cm11" z/4 F/4G/ c/B/ g/B/4c/4 z3/4 G/4 | F/B/4G/4- G z/4 F/4 "G7"G/4B/4 c/4 "C13"d/4e/4f/4 | "Cm7" g3/4_a/8g/8 f/>e/ d/e/4d/4- d/4c/B/4- |
+B- B/4F/4G/4B/4 "Gb13" c/d/ e/4 "Fm9"f/4g/4b/4- |  b2 g/>f/ z | "Fm7" z (3c'/4^c'/4=c'/4b/ g/> "G7"f/- f/> "Cm11"e/ | d/>e/ d/>c/ B/4c/4d/4c/4 z |
+"Cm7" z4 ||  "Ab" z c/ "Bb"e/ B "Fm" G/>E/ | "F" F/G/4F/4- F z2 | "Ab" z g/4_a/ "Bb"g/f/ "Fm7"e/c/B/4- |
+B/c/ G/ "Gm7"c/4B/4- B z/4 B,/4C/4B,/4 |  E2 "Bb/Ab" F c | "Eb" B G "Bb9" B c/>g/- | g2 z/4 "Ab9" F/4G/4B/4 c/4d/4e/4f/4 |
+(3g/8 "Ab"a/8g/8f/4g/ f/b/>a/e/4=B/4 _B/_A/4G/4 |  "Cm7" z z3/4 g/4 f/>d/ z/ z/ | z3/4 g/4 f G/4B/4F/4E/4 D/C/4F/4- |
+F z3/4 g/4 f/>d/ z | z3/4 g/4 f G/4B/4F/4E/4 D/C/4F/4- |  F z3/4 g/4 f/>d/ z | z3/4 g/4 f G/4B/4F/4E/4 D/C/4F/4- |
+F z3/4 g/4 f/>d/ z | "Fm7" z/4 _A/4c/4e/4 g/4b/4_a/4g/4 f/4e/4 "G7"d/4c/4 "Cm9" =B/a/4g/4 |: "^Solos Over Form" z4 ::
+"C7#11" c4 | "Bb7#11" B4 | "Ab7#11" _A4 |  "Fm7" F2 "G13" G2 :|1 "Fm7" F2 "G13" G2"^DS and Fade" |]

@@ -1,0 +1,27 @@
+---
+workId: kenny-barron-sequel
+arrangementId: h-f5794b37
+title: The Sequel
+artist: Kenny Barron
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Sequel
+C:Kenny Barron
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/22/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Fm7" _d3/2 c/ _B "Bb7#9" _A/B/- | "Ebmaj7" B3 z | "Dm7b5" _B3/2 _A/ G "G7" F/G/- | "Cmaj7" G3 z |  "Bm7b5" G3/2 F/ "E7#9" E D/E/- |
+"Amaj7" E/E/^F/^G/ A/B/^c/d/ | "Abm7" e3/2 d/ _d "Db7" _c/d/- | "Gbmaj7" d3 z ::  "C7" z4 | "Eb7" z4 | "C7" z4 |
+"Eb7" z4 :|

@@ -1,0 +1,29 @@
+---
+workId: grant-green-duke-pearson-idle-moments
+arrangementId: h-4c4e74e6
+title: Idle Moments
+artist: Grant Green/Duke Pearson
+source: jazz
+key: Cmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Idle Moments
+C:Grant Green/Duke Pearson
+C:Arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+Z:©2015 Finmusic/effendi.me (revised)
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Cmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Cm" z/ g g/ g "Cmaj" g | "Cm7" g g/g/- "Cm6" g2 :| z/ "Cm" g g/ g "Cmaj" g | "Cm7" g g "Cm6" g/a/e/f/- |  "Dm7" f4 |
+"G7#9" z4 | z/ "Cm" g g/ g "Cmaj" g | "Cm7" g g "Cm6" g/a/e/f/- |  "Dm7" f4 | "G7#9" z4 | "Cm7" z/ g/_g/=g/ d'/c'/g/e/ |
+"Fm7" b =a/_a/- a2 |  "G7#9" z/ f/_f/=f/ a g/e/- | "Abmaj7" e2 z2 | "Fm7" z/ d/_d/=d/ "G7" f e/c/- | "Ab7" c2 z2 |
+"Dm7" z/ e/d/e/ "G7" _c d/=c/- | "Cm7" c2 "G7" z2 :|

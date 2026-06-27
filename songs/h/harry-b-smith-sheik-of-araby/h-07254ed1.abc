@@ -1,0 +1,33 @@
+---
+workId: harry-b-smith-sheik-of-araby
+arrangementId: h-07254ed1
+title: The Sheik of Araby
+artist: Harry B. Smith
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: The Sheik of Araby
+C: Harry B. Smith
+C: Francis Wheeler
+C: Ted Snyder
+M: 4/4
+L: 1/4
+Q: 220
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Gypsy
+%%songbook-uri /post/the-sheik-of-araby/
+K: Bb
+F||"Bb"G3F|G3F|"F7"G4-|G2zF|
+"F7"G3F|c2d2|"Bb"B4-|B2zA|
+"Bb/D"c3B|"Dbo"A3G|"F7"G4-|G2zG|
+"F7"B3G|A3F|"Bb"G4-|"F7"G2zF||
+"Bb"G3F|G3F|"F7"G4-|G2zF|
+"F7"G3F|"E7"c2"Eb7"_d2|"D7"=d4-|d2zd|
+"G7"e3d|e3d|"C7"d4-|d2zA|
+"F7"G3A|F3c|"Bb"B4|"F7"z4||

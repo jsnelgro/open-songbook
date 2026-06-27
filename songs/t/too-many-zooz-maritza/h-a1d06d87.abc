@@ -1,0 +1,43 @@
+---
+workId: too-many-zooz-maritza
+arrangementId: h-a1d06d87
+title: Maritza
+artist: Too Many Zooz
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Maritza
+C:Too Many Zooz
+Z:©2019 6EQUJ5 7/21/2019
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble nm="Lead" snm="LD"
+%%MIDI program 0
+V:2 treble nm="LOW" snm="LW"
+%%MIDI program 0
+V:1
+|:"^A" z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z7/2 c/ ::
+"^Bari Continue Motif""_B" e/4f/4c/ c/c/ c/c/B/_A/ | c _d/<c/- c z/ c/ | e/<f/- f/b/4_a/4- a- (3a/b/a/ | g/>_a/ g/>a/ g2- |
+g/_c/=c/_d/ c/>d/ c/c/ | z/ _c/=c/_d/ c/>d/ c/c/ | z/ c/_c/=c/ _d/=d/e/=e/ | f/c/ _d/<c/- c z/4 z/4 c/ :|
+"^C" e/<f/ e/<f/ e/<f/ c/e/ | _d/A/ c/4=d/4A/ B _A/B/ | G/F/ =E/4_A/4B/4_d/4 c/c/_c/=c/ |
+f/c/ _d/<c/- c z |  a2 g2 | f/[_de]/4d/4- d z d/4c/4_c/ | c _d/=d/ e =e/f/4g/4 | f z z z/ c/ |
+"^BARI: A Motif""_D" e/4f/4c/ c/c/ c/c/B/_A/ | c _d/<c/- c z/ c/ | e/<f/- f/b/4_a/4- a- (3a/b/a/ | g/>_a/ g/>a/ g2 |
+z/ _c/=c/_d/ c/>c/ _c/=c/ | z/ _c/=c/_d/ c/>c/ _c/=c/ | z/ c/_c/=c/ _d/=d/e/=e/ | f/ z/ z z2 |]
+V:2
+|: F z/ _A/ c f | F z/ _A/ c f | F z/ _A/ c f | C z/ e/ d/4_d/4 z/ c |
+C z/ e/ d/4_d/=d/4 _d/c/ | C z/ e/ d/4_d/4 z/ c | C z/ _d/ c/B/_A/G/ | F z/ _A/ G/>G/ z/ _G/ ::
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 :|
+z/ F/z/F/ z/ A/z/A/ | z/ B/z/B/ z/ B/z/B/ | z/ c/z/c/ z/ C/z/C/ |
+z/ F/z/F/ z/ _A/G/_G/ |  z/ F/z/F/ z/ A/z/A/ | z/ B/z/B/ z/ B/z/B/ | c z/ B/ _A G | C/c/c/C/ c/c/ C |
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |]

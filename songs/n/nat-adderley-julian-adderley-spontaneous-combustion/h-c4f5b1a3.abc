@@ -1,0 +1,29 @@
+---
+workId: nat-adderley-julian-adderley-spontaneous-combustion
+arrangementId: h-c4f5b1a3
+title: Spontaneous Combustion
+artist: 'Nat Adderley, Julian Adderley'
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Spontaneous Combustion
+C:Nat Adderley, Julian Adderley
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=143
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ B _A/- A/4B/4A/4F/4 [E_F]/[B,_D]/ |: "Bb7" [^C=E]/[DF]/[B,D]/[CE]/ [DF]/ z/ z | "Bb7" z/ B _A/- A/4B/4A/4F/4 [E_F]/[B,_D]/ |
+"Bb7" [^C=E]/[DF]/[B,D]/[CE]/ [DF]/ z/ z |  "Bb7" z/ B _A/- A/4B/4A/4F/4 [E_F]/[B,_D]/ | "Eb7" [^C=E]/[DF]/[B,D]/[CE]/ [DF]/ z/ z |
+"Eb7" z/ B _A/- A/4B/4A/4F/4 [E_F]/[B,_D]/ | "Eb7" [^C=E]/[DF]/[B,D]/[CE]/ [DF]/ z/ z |  "Eb7" z/ B _A/- A/4B/4A/4F/4 [E_F]/[B,_D]/ |
+"Cm7" [^C=E]/[DF]/[B,D]/[CE]/ [DF]/ z/ z | z/ B "F7" _A/- A/4B/4A/4F/4 [E_F]/[B,_D]/ | "F7""_To Solos, Over Form/Blues" [^C=E]/[DF]/[B,D]/[CE]/ [DF]/ z/ z |1
+"F7" z/ B _A/- A/4B/4A/4F/4 [E_F]/[B,_D]/ :|2 z4 |]

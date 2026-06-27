@@ -1,0 +1,26 @@
+---
+workId: john-coltrane-mr-p-c
+arrangementId: h-8df052dc
+title: Mr. P.C.
+artist: John Coltrane
+source: jazz
+key: Cm
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Mr. P.C.
+C: John Coltrane
+M:4/4
+L:1/8
+Q: 220
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Swing,John Coltrane
+%%songbook-uri /post/mr-pc/
+K: Cm
+|:"Cm7" CC DD EE FF|G3 F EC z B,|C4B,3C|z8|
+"Fm7"FF GG AA BB| c3 B AF z E|"Cm7" C4 B,3 C|z4 EC E_G|
+"Dm7b5"z F3- F3 _G|"G7"z F2 E F2 E2|"Cm7"C4 B,3 C|z8:|

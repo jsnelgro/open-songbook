@@ -1,0 +1,34 @@
+---
+workId: paul-desmond-take-five
+arrangementId: h-84017d48
+title: Take Five
+artist: Paul Desmond
+source: jazz
+key: Ebm
+tags:
+  - Swing
+  - 5/4
+  - Cool
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Take Five
+C: Paul Desmond
+M: 5/4
+L: 1/8
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing,5/4,Cool
+%%songbook-tags 5/4,Cool
+%%songbook-uri /post/take-five/
+K: Ebm
+P: A
+B,EGA||"Ebm"=ABA_A G2 "Bbm7" B,2 D2|"Ebm"E6 "Bbm7"F1/2G1/2F1/2E1/2 D2|"Ebm" E6 "Bbm7"D1/2E1/2D1/2B,1/2 A,2|"Ebm"B,6 "Bbm7"B,EGA|
+"Ebm"=ABA_A G2 "Bbm7" B,2 D2|"Ebm"E6 "Bbm7" D1/2E1/2D1/2B,1/2 A,2|"Ebm"B,6 "Bbm7"F1/2G1/2F1/2E1/2 D2|"Ebm"E6- "Bbm7"E2z2||
+P: B
+"Cb^7"eg2ec2 "Abm6"ABc=c|"Bbm7"df2dB2 "Ebm7"GA=AB|"Abm7"ce2cA2 "Db7"FGA=A|"Gb^7"B=ABc d2 d=cd=d|
+"Cb^7"eg2ec2 "Abm6"ABc=c|"Bbm7"df2dB2 "Ebm7"GA=AB|"Abm7"ce2cA2 "Db7"FAdc|"Fm7b5"B6 "Bb7b9"B,EGA||
+P: A
+"Ebm"=ABA_A G2 "Bbm7" B,2 D2|"Ebm"E6 "Bbm7"F1/2G1/2F1/2E1/2 D2|"Ebm" E6 "Bbm7"D1/2E1/2D1/2B,1/2 A,2|"Ebm"B,6 "Bbm7"B,EGA|
+"Ebm"=ABA_A G2 "Bbm7" B,2 D2|"Ebm"E6 "Bbm7" D1/2E1/2D1/2B,1/2 A,2|"Ebm"B,6 "Bbm7"F1/2G1/2F1/2E1/2 D2|"Ebm"E6 z4||

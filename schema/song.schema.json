@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://open-songbook/schema/song.schema.json",
+  "title": "Open Songbook arrangement frontmatter",
+  "description": "YAML frontmatter prepended to each .chopro/.abc arrangement file. The body below the frontmatter is unchanged ChordPro or ABC.",
+  "type": "object",
+  "required": ["workId", "arrangementId", "title", "artist", "source", "contributedAt", "schemaVersion"],
+  "properties": {
+    "workId": { "type": "string", "description": "slugify(normalize(artist)-normalize(title))" },
+    "arrangementId": { "type": "string", "description": "ug-<id> / session-<id> / h-<sha1(content)[:8]>" },
+    "title": { "type": "string" },
+    "artist": { "type": "string" },
+    "source": { "type": "string", "enum": ["ug", "session", "jazz", "user"] },
+    "sourceUrl": { "type": "string" },
+    "variant": { "type": "string", "description": "e.g. Live, Acoustic, Ukulele" },
+    "key": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "contributedAt": { "type": "string", "format": "date-time" },
+    "schemaVersion": { "type": "integer", "minimum": 1 }
+  }
+}

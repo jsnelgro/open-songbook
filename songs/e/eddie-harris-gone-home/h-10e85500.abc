@@ -1,0 +1,29 @@
+---
+workId: eddie-harris-gone-home
+arrangementId: h-10e85500
+title: Gone Home
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Gone Home
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ c' z/ _b z/ ^f/- | f/ z/ =f z _e | z ^f z/ =f z/ | _e z z c |
+c' z/ _b/ z ^f | z f z/ _e z/ || c z z2 || "C#7" "C7" z2 z/ c/ (3_e/z/f/ |  g (3f/z/c/ _e "C#7" z |
+"C7" z/ _e/ _b/4c'/4z/4^f/4- f z | z/ c/ (3f/c/_e/ c "C#7" z | "C7" z2 z/ c/ (3_e/z/f/ |  g (3f/z/c/ _e "C#7" z |
+"C7" z/ _e/ _b/4c'/4z/4^f/4- f z | z/ c/ (3f/c/_e/ c "C7" z | "G7""_solos: blues in C (concert)" _B "C" c/_e/ f/g/ z |  c'/_b/b/g/ g/f/f/_e/ |
+"C7" c z c3/2 c/- | c z z2 |]

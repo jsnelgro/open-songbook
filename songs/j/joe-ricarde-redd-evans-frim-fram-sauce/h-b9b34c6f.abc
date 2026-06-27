@@ -1,0 +1,31 @@
+---
+workId: joe-ricarde-redd-evans-frim-fram-sauce
+arrangementId: h-b9b34c6f
+title: The Frim Fram Sauce
+artist: 'Joe Ricarde, Redd Evans'
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: The Frim Fram Sauce
+C: Joe Ricarde, Redd Evans
+M:4/4
+L:1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/the-frim-fram-sauce/
+K: Bb
+P: A
+^C DF||:"Bb6"B2 G^C D F3|B2 G^C D F3|"C7"=EGBd-d2cG-|G4zd dc|
+"Eb6"B2B2"Eo7"B2BG|"Bb/F"B2AG-"G7"G2GB|"C7"dB3"F7"B2cB-|[1"Bb6"B4"F7"z^CDF:|[2 "Bb6"B4z2BB||
+P: B
+"Fm7"_AB3"Bb7"B2B2|"Fm7"_AAB2-"Bb7"B2BB|"Eb6"GB3d2cG-|G8|
+"Gm7"B2c2"C7"c2cA-|"F^7"A4"F#o7"zAB_c|"Gm7"=c_cBA"C7"z2AF-|"Cm7"F4"F7"z^C DF||
+P: A
+"Bb6"B2 G^C D F3|B2 G^C D F3|"C7"=EGBd-d2cG-|G4zd dc|
+"Eb6"B2B2"Eo7"B2BG|"Bb/F"B2AG-"G7"G2GB|"C7"dB3"F7"B2cB-|"Bb6"B4z8||

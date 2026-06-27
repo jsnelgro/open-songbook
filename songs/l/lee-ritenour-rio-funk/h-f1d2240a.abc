@@ -1,0 +1,41 @@
+---
+workId: lee-ritenour-rio-funk
+arrangementId: h-f1d2240a
+title: Rio Funk
+artist: Lee Ritenour
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Rio Funk
+C:Lee Ritenour
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/21/2017
+Z:
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|:"^Free Blowing Intro" z4 :| z2 z/ =E,/F,/_G,/ |: z/ "Bb" F/G/F/ B/>B/ z/4 [Gc=e]/[FBd]/4 |
+z/ F/G/F/ B/>G/ z/ F/4F/4 |  G/F/G/F/ B/>B/ z/4 d/c/4 | c/B/ G F,/F/4F,/4 ^F,/4^F/4A,/4[B,G]/4 |
+z/ F/G/F/ B/>B/ z/4 [Gc=e]/[FBd]/4 | z/ F/G/F/ B/>G/ z/ F/4F/4 |1  G/F/G/F/ B/>B/ z/4 d/c/4 |
+c/B/ G F,/F/4F,/4 ^F,/4^F/4A,/4[B,G]/4 :|2 G/F/G/F/ B/>B/ z/4 F/G/4 || z2 z/4 d/4d/ f/g/ |  "Gm7" c'/>b/ z z/ c/d/f/ |
+"C9" a/>g/ z z/4 d/4d/ f/g/ | "Gm7" c'/>b/ z z/ d'/>b/g/ | "C7" c'/>b/ z z/ d/f/g/ |  "Gm" c'/>b/ z z/ c/d/f/ |
+"C7" a/4a/4a/4g/4 z z/ d/f/g/ | "Gm7" c'/4c'/4c'/4b/4 z z/ d'/>b/g/ | "C7" c'/>b/ z z/ d/4d/4 f/g/ |  "Gm7" c'/>b/ z z/ c/d/f/ |
+"C7" a/4b/4a/4c'/4 z/4 a/4z/4g/4 z/ c/d/f/ | "Gm7" c'/>b/ z z/ d'/>b/g/ | "C7" c'/>b/ z z/ d/f/g/ |  "Gm7" c'/>b/ z z/ c/d/f/ |
+"C7" a/4b/4a/4c'/4 z/4 a/4z/4g/4 z/ c/d/f/ | "Gm7" c'/>b/ z z/ d/f/g/ | "Bbmaj9" c'/4c'/4c'/4c'/4 z/4 "Bmaj9" ^c'/4z/4d'/4 "Cmaj9" z ^f/a/ |  "Bm9" ^c'3 d' |
+"Em9" ^f/4g/4f/- f (3z f a | "Bm7" ^c'2 (3z =e' d' | "Em7" ^f2 (3z =B d |  "Gmaj7/A" ^f3 g | "F#7" d3 ^A |
+"Bm7" ^c/=B/4B/4- B/^F/4=E/4 c/B/F/E/- | "Em7" E3 ^f/a/ |  "Bm7" ^c'3 d' | "Em7" ^f2 (3z f a | "Bm7" ^c'2 (3z e' d' |
+"Em7" [d^f]2 z/ A/=B/d/ |  "Gmaj7" ^f3 g | d3 ^A | "Bm7" [^c=e]/=B/4B/4- B/4B/4^F/ [ce]/B/ B |
+"C" [ce]/4[ce]/4[ce]/4[ce]/4 z/4 [ce]/[ce]/4- [ce]2 |  "F/G" [ce]/d/4G/4- G/>G/ e/d/ d | "C9" [cdg]/4[cdg]/4[cdg]/4[cdg]/4 z/4 "C#9" [^c^d^g]/4z/4 "D9"[=dea]/4 z [Gg] |
+G,/F/G/F/ c/>B/ z/4 [EGce]/4z/4[DFBd]/4 | "Bb" z/ F/4F/4 G/F/ B/4d/G/4 z/ F,/4F,/4 |  G,/F/G/F/ c/>B/ z/4 d/4z/4c/4- |
+c/B/ G F,/F/4F,/4 ^F,/4^F/4A,/4[B,G]/4 | z/ F/G/F/ c/>B/ z/4 [EGce]/4z/4[DFBd]/4 | z/ F/G/F/ B/>G/ z/ F,/4F,/4 |
+G,/F/G/F/ c/>B/ z/4 [Fd]/4z/4[Gg]/4 |:
+"Gm7""^Solos" z4 | "C7" z4 :|

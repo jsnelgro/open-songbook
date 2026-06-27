@@ -1,0 +1,33 @@
+---
+workId: george-gershwin-it-aint-necessarily-so
+arrangementId: h-63ad9ac1
+title: It Aint Necessarily So
+artist: George Gershwin
+source: jazz
+key: Gb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:It Aint Necessarily So
+C:George Gershwin
+C:Grant Green
+C:Sonny Clark
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 3/24/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Ebm7" "Db" z4 | "B" "Bb7" z4 | "Ebm7" z4 "Db" | "B" z2 "Bb7" z/ B/ (3d/e/f/ |:
+{/=b} "Ebm7""^Head" _b{/=a} _a/g/ (3:2:4_a/ "Db"=a/4_a/4g/ a/g/ | "B" a/b/ z z/ "Bb7" B/ (3d/e/f/ | "Ebm" b a/g/ a/g/ "Db"a/g/ |
+"B" (3a/g/e/- e/ "Gb7" z B/ "A7" (3c/e/g/ |  "Am7" (3b/e'/a/ (3e'/g/d'/ (3f/ "Db7"z/^G/ (3=A/^c/=e/ |
+"Gbm7" (3^g/^c'/^f/ (3c'/=e/ "B7"=b/ (3^d/z/=G/ (3A/=c/_e/ | "Ab/Bb" b/a/ (3e/=c/ "Bb7"A/ d' b/f/- | "Ab7#11" f2 z/ B/ (3d/e/f/ ||
+"Ebm7" b a/g/ a/g/ "Db"a/g/ | "B" a/b/ z "Bb7" z/ B/ (3d/e/f/ | "Ebm" b a/g/ a/ "Db"g/a/g/ | "B" (3a/g/e/- e/ "Bb" z "A7" B/ (3c/e/g/ |
+"Abm7" (3b/e'/a/ (3e'/g/d'/ "Db7" (3f/z/^G/ (3=A/^c/=e/ | "Gbm" (3^g/^c'/^f/ (3c'/=e/=b/ "B7" (3^d/z/=G/ (3=A/=c/_e/ |
+"Ab/Bb" b/a/ (3e/=c/A/ "Bb7#9" d' b/f/- | "Ab7#11""_Solos Over Form\n" f2 z2 :|

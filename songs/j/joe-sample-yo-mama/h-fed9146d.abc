@@ -1,0 +1,33 @@
+---
+workId: joe-sample-yo-mama
+arrangementId: h-fed9146d
+title: Yo Mama
+artist: Joe Sample
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Yo Mama
+C:Joe Sample
+C:The Crusaders
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 10/8/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|:"^Bass Intro" z4 :| z2 z/ z/4 G/4- G/B/ |: "Bb7""^A" =d z z/ _d/ c/B/4B/4- |
+B z z3/4 G/4- G/B/ |  =d/f/-f/g/ (3:2:5_d/4c/4B/4G/B/4- B/4c/B/4- | B z z/ d/- d/<d/ |
+"Ab7" c z3/4 B/4 d/d/ c/B/4B/4- | "Eb7" B z z3/4 G/4- G/B/ |  "Bb7" g/<d/ B/G/ "Eb7" e/>d/- "Eb9" d/B/- |1 "Bb7" B z z/4 z/ G/4- G/B/ :|2
+"Bb7" g/<d/ B/G/ "Eb7" e/>d/- "Eb9" d/B/- || "Bb7" B z z2 |  "Abm7" _G2- G/E/G/B/ | "Bbm7" A/B/ A/4F/D/4- D2 |
+"Bmaj7" B2- B/A/4_G/4 A/B/ | "Bbm7" A/F/4D/4- D z2 "Am7" |  "Abm7" _G2- G/E/G/B/ | "Bbm7" A/B/ A/F/4D/4- D2 |
+"Bmaj7" B2- B/A/4_G/4 A/B/ | "Bb7" B2 z3/4 G/4- G/B/ |  "Bb7" =d z z/ _d/ c/B/4B/4- | B z z3/4 G/4- G/B/ |
+=d/f/-f/g/ (3:2:5_d/4c/4B/4G/B/4- B/4c/B/4- | B z z/ d/- d/<d/ |  "Ab7" c z3/4 B/4 d/d/ c/B/4B/4- |
+"Eb7" B z z3/4 G/4- G/B/ | "Bb7" g/<d/ B/G/ "Eb7" e/>d/- "Eb9" d/B/- | "Bb7" B z z2 |]

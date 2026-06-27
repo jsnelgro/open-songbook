@@ -1,0 +1,38 @@
+---
+workId: sam-cooke-bring-it-on-home-to-me
+arrangementId: h-d9248c40
+title: Bring it on Home to Me
+artist: Sam Cooke
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Bring it on Home to Me
+C:Sam Cooke
+C:Arr. 6EQUJ5
+Z:©2020 6EQUJ5 2020-07-02
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:12/8
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+"^Schmaltzy Soulful Piano Intro" z6 | z6 | z6 | z6 |
+z3/2 z3/2 z3/2 d/c/B/ |: d d/ z z/ z z/ d/c/B/ | d c/- c3/2 z3/2 d/ f | g g/ z3/2 g g/ g f/ |
+f e/- e/ z/ z/ b3 | d/B/c/ B3/2 d d/ c c/ | c/ B z d/4f/4 g d/4c/4 B/G/F/ |
+B z/ B/4F/4G/4 z3/4 z3/2 B/4F/4G/4 z3/4 |1  z3/2 B/4F/4G/4 z3/2 z3/4 d/c/B/ :|2
+z z/ B/4F/4G/4 z/4 z/ z z/ z z/ :|3"^Freely""_Ending" B3/2 z3/2 E3/2 z3/2 || E3/2 E3/2 !fermata!B3 |]
+V:2
+z6 | z6 | z6 | z6 |
+"F" z3/2 z3/2 z3/2 B/G/F/ |: "Bb" B B/ z3/2 z3/2 B/G/F/ | "F7" B A/- A3/2 z3/2 B/ c | "Bb7" d d/ z3/2 d d/ c B/ |
+"Eb7" G G x [eg]3 | "Bb7" A/F/G/ F3/2 B B/ "E7" A A/ | "Eb7" A/ G z "F7" B/4d/4 e B/4A/4 G/E/ z/ |
+"Bb7" F z/ z3/2 "Eb" B/4F/4G/4 z3/2 z3/4 |1  "Bb" B/4F/4G/4 z3/2 z3/4 "F" B/4F/4G/4 z3/4 B/G/F/ :|2
+B/4F/4G/4 z/4 z/ z z/ B/4F/4G/4 z/4 z/ z z/ :|3 "Bb" z6 "Eb" || "Bb" z6 "Cm7" "Bb" |]

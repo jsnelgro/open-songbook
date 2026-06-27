@@ -1,0 +1,29 @@
+---
+workId: henry-mancini-moon-river
+arrangementId: h-c83658ad
+title: Moon River
+artist: Henry Mancini
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Moon River
+C:Henry Mancini
+C:Johnny Mercer
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me 4/9/2018
+L:1/4
+Q:1/4=96
+M:3/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Cmaj7" G3 | "Am7" d c2 | "F7#11" B3/2 A/ G/F/ | "Cmaj7" G2 C |  "F7" B3/2 A/ G/F/ | "Cmaj7" G2 C | "Bm7b5" D3- | "E7" D2 E |1
+"Am7" C3 | "C7/G" G E3/2 D/ | "Fmaj7" C3 | "Bb7" G E3/2 D/ |  "Am7" C E "Am7/G" G | c/ "F#m7" B2 "B7" A/ | "Em7" B/ A2 "A7" G/ | "Dm" A3 "G7" :|2
+"Am7" C3 || "Am7/G" E2 G | "F#m7b5" c3 | "F7" d2 B |  "Cmaj7" G3- | "Fmaj7" G B/A/ G/F/ | "Cmaj7" G3- | "F" G B/A/ G/F/ |  "Em7" G3 |
+"Am7" C3 | "Dm7" F D2- | "G7" D2 E |  "Cmaj7" C3- | "Dm7" C2 "G7" z |]

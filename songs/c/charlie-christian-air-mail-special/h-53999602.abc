@@ -1,0 +1,34 @@
+---
+workId: charlie-christian-air-mail-special
+arrangementId: h-53999602
+title: Air Mail Special
+artist: Charlie Christian
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Air Mail Special
+C:Charlie Christian
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:3/21/2018
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z/ "C" C/E/G/ c/c/z/C/ | E/G/c/c/ z/ C/E/G/ | c/c/A/G/ c/c/A/G/ | c/c/A/G/- G z |
+z/ C/E/G/ c/c/z/C/ | E/G/c/c/ z/ C/E/G/ | c/c/A/G/ c/c/A/G/ | c/G/B/c/ z z :|  "Cdim7" z/ A/c/_e/ c/A/c/e/ |
+c/A/c/_e/ c/A/^F/_E/ | "Cdim7" z/ A/c/_e/ c/A/c/e/ | c/A/c/_e/ c/A/^F/_E/ |  "Cdim7" z/ A/c/_e/ "Bdim7" c/_A/B/d/ |
+"Bbdim7" B/G/_B/_d/ B/G/E/_C/ | "Ab7" C/_G/_B/_e/ B/G/_E/C/ | "G7" B,/F/A/d/- d z ||  "C" z/ C/E/G/ c/c/z/C/ |
+E/G/c/c/ z/ C/E/G/ | c/c/A/G/ c/c/A/G/ | c/c/A/G/- G z |  z/ C/E/G/ c/c/z/C/ | E/G/c/c/ z/ C/E/G/ |
+c/c/A/G/ c/c/A/G/ | c/G/B/c/ z z ::  "C""^Optional A Section Blowing Changes" "C/E" z4 | "F" "G" z4 | "C" "C/E" z4 | "F" "G" z4 |  "C" "C7" z4 |
+"F" "F#dim7" z4 | "C/G" z4 | "C" z4 |  "Cdim7" z4 | z4 | "Cdim7" z4 | z4 :| "^Out A Section" c A/ z/ c A/_E/ |
+z3 c- | c A/ z/ c A/_E/ | z3 c- |  c A/ z/ c A/_E/ | z7/2 F/ |
+^D/E/G/F/ E/C/A,/G,/ | "C" C3/2 E/ z2 |]

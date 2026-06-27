@@ -1,0 +1,31 @@
+---
+workId: aaron-thibeaux-t-bone-walker-mean-old-world
+arrangementId: h-24b6eb0d
+title: Mean Old World
+artist: Aaron Thibeaux "T-Bone" Walker
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mean Old World
+C:Aaron Thibeaux "T-Bone" Walker
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:3/24/2017
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"G9" B/ "G13"B/ "G9" B "F9" B/ "F13"B/ "F9" B | "Eb9" B/ "Eb13"B/ "Eb9" B "D9" B2 | "G9" B/ "G13"B/ "G9" B "F9" B/ "F13"B/ "F9" B |
+"Eb9" B/ "Eb13"B/ "Eb9" B "D9" (3z g g |:  "G7" g/g/=f/d/- d2 | "C9" z/ g/ (3g/=f/d/ f/d/ (3c/_B/G/- | "G7" G z "D7" z2 |
+"G7" z2 (3z g g |  "C9" (3g g d c3/2 z/ | "C9" =f g/f/ f/d/c/_B/ | "G7" (3:2:2G/ D- "D7" D z2 | "G7" z2 "Bbm7" z/ =f/g/g/- |
+"Am7" (3g/g/g/ (3=f/f/e/ d/ c3/2 | "D7""_This is a mean old world,\nBaby to live in by yourself.\nThis is a mean old world,\nBaby to live in by yourself.\nCan't get the woman you love,\nCause you know she's lovin someone else.\n\nWell I drink to keep from worryin\nBaby and I smile to keep from cryin'.\nYes I drink to keep from worryin\nAnd you know I smile to keep from cryin.\nThat's to keep the public from knowin\nJust what I have on my mind." z/ =f/4g/4 g/B/ G/D/ (3F/G/_B/ |1,2 "G7" G z "C9" z2 | "G7" z2 "D7" (3z g g :|3  "G7" G z z2 ||
+z "Ab13" B/B/- "G13" B2 |]

@@ -1,0 +1,32 @@
+---
+workId: frank-perkins-stars-fell-on-alabama
+arrangementId: h-6ea015ac
+title: Stars Fell on Alabama
+artist: Frank Perkins
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Stars Fell on Alabama
+C: Frank Perkins
+M: 4/4
+L: 1/8
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/stars-fell-on-alabama/
+K: C
+Q: 100
+P: A
+|:"C"E4 "A7"^DEDE|"D7"A2A4 "G7"G2|"C"e4 ^dede|"C^7/E"B4 "Ebo"z2_B2|
+"Dm7"A4 ^GAGA|"G7"E2E4D2|[1 "C"G4-"A7"G4|"Dm7"z4"G7"z4:|[2 "C"C8-|C4 zE FG||
+P: B
+"Dm7"A3 A"G7" GFED|"C^7/E"B2 B2-"Ebo"Bcdc|"Dm7"G2G2-"G7#5"GABG|"C"E4-EEFG|
+"Dm7"A3A"G7" GFED|"Am"c2 c2-cd"Am/G"ec|"F#m7"B2B2-"B7"B^c^dB|"E^7"^G4"G7"=G4||
+P: A
+"C"E4 "A7"^DEDE|"D7"A2A4 "G7"G2|"C"e4 ^dede|"C^7/E"B4 "Ebo"z2_B2|
+"Dm7"A4 ^GAGA|"G7"E2E4D2|"C"C8-|C8||

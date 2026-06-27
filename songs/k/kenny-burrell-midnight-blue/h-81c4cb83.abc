@@ -1,0 +1,32 @@
+---
+workId: kenny-burrell-midnight-blue
+arrangementId: h-81c4cb83
+title: Midnight Blue
+artist: Kenny Burrell
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Midnight Blue
+C:Kenny Burrell
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Fm7" A2 "Gm7" B2 | "Abmaj7" c3/2 B/- "Gm7" B/G/ E | "Fm7" A2 "Gm7" B2 | "Abmaj7" c3/2 B/- "Gm7" B/G/ E |:
+"Fm7" F A/F/ (3=B/4 "Fm7"c/4B/4A/ F/E/ | "Abmaj7" F3/2 "C7#9" [=EBe]/ z/ F/A/c/- | "Fm7" c e/f/ (3B/4 "Gm7"_c/4B/4A/ F/E/ | "Ab" F3/2 [=EBe]/ "C7#9" z z/ E/ |
+"Fm7" F A/F/ (3=B/4 "Fm7"c/4B/4A/ F/E/ | "Abmaj7" F3/2 "C7#9" [=EBe]/ z/ F/A/c/- | "Fm7" c e/f/ (3B/4 "C7#9"_c/4B/4A/ F/E/ | "Fm7" F2 z/ F/d/e/- |
+"Fm7" e2- e/d/e/d/- | "C7" d2- d/c/d/c/- | "Fm7" c2- c/F/z/A/ | "Bb9" z2 z/ C/F/c/- |  "Bbm7" c2- c/B/c/B/- |
+"Abm7" B2 B/A/B/A/- | "C7" A F/E/ C/E/F/F/ |1 "Fm7" z/ C/-=E/- "C7#9"[Be]/- [CEBe]2 :|2  "C7#9""^solos\n" z4 || "Fm7" "G7" z4 |
+"Abmaj7" z4 "Gm7" |[I:repeat 1 2] z4 |  z4 | "Fm7" "G7" z4 | "Abmaj7" z4 "Gm7" | "Fm7" "G7" z4 |  "Abmaj7" z4 || "Gm7" z4 |
+"C7" z4 | "Fm7" z4 |  "Fm7" z4 | "Bbm7" z4 | "Bbm7" z4 | "Db9" z4 |  "C7" z4 |]

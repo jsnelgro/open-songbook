@@ -1,0 +1,26 @@
+---
+workId: bill-evans-interplay
+arrangementId: h-02711e71
+title: Interplay
+artist: Bill Evans
+source: jazz
+key: Fm
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Interplay
+C: Bill Evans
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Blues
+%%songbook-uri /post/interplay/
+K: Fm
+"Fm7"F3 c- c A2 F|"Bbm7" Bc- (3cGE F2 z A|"Fm7"GFBA dcAF|"F7"DF (3GEF z2 f2-|
+"Bbm7"f3c B2 df|cB- (3Bef B2 z d|"Fm7"efcd Be (3cAf-|"Ab7"(3fdB (3cAF z2 c2-|
+"Gm7b5"c2B2- BG c2-|"C7"cd- (3dBG c2z d-|"Fm7"dc (3AFC "Dm7b5" (3DFA (3cGF |"Db^7"(3 BAF (3GAF "Gb^7"z4:||

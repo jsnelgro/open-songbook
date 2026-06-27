@@ -1,0 +1,40 @@
+---
+workId: thelonius-monk-bye-ya
+arrangementId: h-ec696a41
+title: Bye-Ya
+artist: Thelonius Monk
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Bye-Ya
+C:Thelonius Monk
+C:Arr. 6EQUJ5
+Z:©2019 12/22/2019 6EQUJ5
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+z |: z z/ A,/ =B,/E/ G | F z/ F/ z2 | z z/ A,/ =B,/E/ G |  F z/ F/ z2 |
+z3/2 =E/ A/=B/e/_B/ | z/ B2- B/ z/ ^F/ | z/ ^F3/2 =F/E/ C |1  E3 z :|2 E3 z ||
+"A6" =E/ ^F E/ F2- | F3/2 =E ^F E/ |  "Ab6" E3- E/F/- | F4 | "Bm7" =D/ =E D/ E2- |
+"E7" E3/2 =D =E D/ |  "Bbm7" D/ E D/ "Eb7" E3/2 D/ | "Am7" C/ =D C/ "D7" D2 | "Db7" z z/ A,/ =B,/E/ G | "Ab6" F z/ F/ z2 |
+"Db7" z z/ A,/ =B,/E/ G | "Ab6" F z/ F/ z2 | "Gb7" z3/2 =E/ A/=B/e/ "Ab69"_B/ | z/ B2- B/ z/ "E9" ^F/ |  z/ ^F3/2 "B7b5" =F/E/ C |
+"Db6" "D6" E3 "Eb6" z |]
+V:2
+A, |: "Db7" D z z2 | "Ab6" A, z/ A,/ z/ A,/z/A,/ | "Db7" D z z2 |  "Ab6" A, z/ A,/ z/ A,/D/D/ |
+"Gb7" _G z2 z/ A,/ | "Ab69" z/ A,/- A,2 z/ "E9" E/ | z/ E3/2 "B7b5" B,2 |1  "Db6" D, "D6" =D, "Eb6" =E, "Ab" A, :|2 "Db6" D, "D6" =D, "Eb6" =E, z ||
+z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 |]

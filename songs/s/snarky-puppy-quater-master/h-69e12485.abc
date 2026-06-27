@@ -1,0 +1,45 @@
+---
+workId: snarky-puppy-quater-master
+arrangementId: h-69e12485
+title: Quater Master
+artist: Snarky Puppy
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Quater Master
+C:Snarky Puppy
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:12/19/2017
+L:1/4
+Q:1/4=122
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Drum Intro" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 || "_Bass Line" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 || "^Horns In" z/4 D/4F/4_A/4 G/4F/4D/4C/4 F/4G/4z/4=A/4 z/4 D/4F/4_A/4 | G/4F/4D/4C/4 G/4F/4 z/ z2 |
+z/4 D/4F/4_A/4 G/4F/4D/4C/4 F/4G/4z/4=A/4 z/4 D/4F/4_A/4 | G/4F/4D/4C/4 G/4F/4 z/ z2 |  z/4 D/4F/4_A/4 G/4F/4D/4C/4 F/4G/4z/4=A/4 z/4 D/4F/4_A/4 |
+G/4F/4D/4C/4 G/4F/4 z/ z z/ f/ | z z/ d/ z2 | z4 |  z4 | z4 | z4 | z4 ||
+z/4 D/4F/4_A/4 G/4F/4D/4C/4 F/4G/4z/4=A/4 z/4 D/4F/4_A/4 | G/4F/4D/4C/4 G/4F/4 z/ z2 | z/4 D/4F/4_A/4 G/4F/4D/4C/4 F/4G/4z/4=A/4 z/4 D/4F/4_A/4 |
+G/4F/4D/4C/4 G/4F/4 z/ z2 |  z/4 D/4F/4_A/4 G/4F/4D/4C/4 F/4G/4z/4=A/4 z/4 D/4F/4_A/4 | G/4F/4D/4C/4 G/4F/4 z/ z z/ f/ | z z/ d/ z2 |
+z4 |  z4 | z4 | z/ D/E/^F/ z2 | z A/E/ z2 |  z z E3/2 ^F/ | E3/4D3/4D/ z/ =B,/z/D/ |
+z/ E/z/^F/ F/ z3/2 | z A/E/ z2 |  z2 E3/2 F/ | E3/4D3/4D/ z2 | z/ D/E/^F/ z2 | z A/=B/ z2 |
+z z/ d/- d3/2 A/ | G/-G/4>F/4- F/A/ z2 | z/ D/E/^F/ z2 | z A/E/ z2 |  z2 e3/2 ^f/ |
+e/-e/4d/4- d- d2 | z2 z/ f/g/^g/- | g =g- g2 |  z2 z/ f/g/^g/- | g =g- g2 |
+z2 z/ f/g/^g/- | g =g- g2 |  z2 d/ z ^g/ | z/4 g/4- g ^f/ z/4 =f/4- f3/2 | c/c/ c/ z2 f/- |
+f4- |  f3/2 z/ z2 | z4 |:"_Solos" z4 | z4 :|  z2 z/ f/g/^g/- | g =g- g2 |
+z2 z/ f/g/^g/- | g =g- g2 |  z2 z/ f/g/^g/- | g =g- g2 | z2 d/ z ^g/ |
+z/4 g/4- g f/ z/4 f/4- f3/2 |  c/c/ c/ z2 F/- | F4- | F2 z2 |:"_Drum Interlude" z4 |  z4 ::
+D4 | ^F2 =B2 | A4- |  A4 | z2 A2 | ^F2 D2 | E4- |
+E3 (3z/ D/E/ | ^F/>A/- A- A2- | A3 z/ ^F/ | ^G/>=B/- B- B2- |  B z =B2 | A2 D2 |
+^F2 E2 | D4- |1  D4 :|2 z/ D/G/A/ =B2- || B4- | B2 A2- |  A4- |
+A2 z2 | A2 ^F2 | D2 E2- |  E4- | E (3z/ D/E/ ^F3/4A/-A3/4- | A4- |
+A z/ ^F/ ^G/>=B/- B- |  B3 z | =B2 A2 | D3 z | =B2 A2 |  d3 z |
+=B2 A2 | D2 ^F2 | E2 D2 |: "_Free Jazz Then Piano Solo" z4 | z4 |"_Then More DixieLand Free Jazz" z4 | z4 :|
+f/4^f/4g/4=f/d/4c/4A/4 d/ z ^g/ | z/4 g3/2 ^f/ z/4 !fermata!=f3/2 |]

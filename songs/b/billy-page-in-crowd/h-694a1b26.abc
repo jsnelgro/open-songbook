@@ -1,0 +1,32 @@
+---
+workId: billy-page-in-crowd
+arrangementId: h-694a1b26
+title: The In Crowd
+artist: Billy Page
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The In Crowd
+C:Billy Page
+C:Ramsey Lewis
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 2/20/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "D" z4 | z4 | z4 | z4 ::
+"D""^Piano In" z{/_A} [=Ad] G/F/D/F/ | z/ G3/2- G2 | z{/_A} [=Ad] G/F/D/F/ | z/ D3/2- D2 |  z{/_A} [=Ad] G/F/D/F/ |
+z/ G3/2- G2 | z/ G/A/c/- c [GB]/F/ | [GB] [FA] [DF]2 |  "G7" z2 z/"^Approx (use simpson's Three Point Rule)" [FB]/[EB]/[DB]/- | [DB]/[FB]/z/[FB]/ z/ [DB]/ F |
+[FB] [FB] [EB]/D/ [FB] | [DB]/[CB]/ F z2 |  "D" [^FA] z z/"^Approx" D/ =F | z/ [Dd]/[Fd]/[CA]/ [DA]/B,/D/A,/ | z [Fd] [Fd]/[Ed]/[Cd]/[Dd]/ |
+D/ C z/ z2 |  "F#7" z [^F^c] z/ [Fc]/ z |"^Approx" [^A^c] [^Fc] [Fc] z | "B7" z2 B/A/B/B/ | ^F/D/E/D/ z2 |
+"E7" z [EB]2 [^FB] | [EB]/[DB]/[CB]/[DB]/ z2 | "A7" z/ E/"^Approx"E/D/ E z/ C/ | "A7" [EA]/ "Bm7" [^FB] [Gc]/- "C" [Gc]2 |  "C""^Bass" D z/ C z/ A, |
+z/ G, z/ F, C, :|

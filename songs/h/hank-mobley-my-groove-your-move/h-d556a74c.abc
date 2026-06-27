@@ -1,0 +1,30 @@
+---
+workId: hank-mobley-my-groove-your-move
+arrangementId: h-d556a74c
+title: 'My Groove, Your Move'
+artist: Hank Mobley
+source: jazz
+key: Gmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:My Groove, Your Move
+C:Hank Mobley
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z z z/ D/G/B/ |: "Gm9" c/B/c/B/ c G/B/ | z/ c/ z z/ D/G/B/ | c/B/c/B/ c B/G/ |
+"G7" z2 z/ D/G/B/ | "Cm7" c/B/c/B/ c G/B/ | z/ c/ z z/ G/B/c/ |{/^d} "D7" =d{/^d} "A7" =d c/A/^c/ "D7"=d/ |
+"G" z g/f/ _d/c/ B/4G/4c/- | "Cm7" c7/2 "Bbm7" z/ | "Am7b5" z B/G/ c/ "D7"d/4c/4 B/G/ |1 "Gm7" z4 "Em7b5" |  "Adim" z2 z/ D/ "D7"G/B/ :|2
+"Gm7" z4 || "Gm7" z z/ g/- g/d/f/g/- | "Cm7" g3/2 g/ "F7" z/ f/d/c/- |  "Bb9" c3/2 c/ z/ "Eb913" G/ B/4G/4c/- | "Am" c3/2 "D7" c/- c/G/ "Gm7"F/G/ |
+"Gm7" z2 z/ d/f/g/- | "Cm7" g3/2 g/ z/ "F7" f/d/c/- |  "Bb7" c3/2 c/ "Eb7" z/ G/ B/4G/4c/- | "Am" c3/2 B/- "D7" B/G/F/G/ |
+"Gm7""^Solo Break" z4 || "Gm7""^Solos" z4 "G7" |  z4 | z4 | z4 | "Cm7" z4 |  z4 |
+"D7" "A7" z4 | "D7" z4 | "Cm" "Bm9" z4 |  "Am13" "D7" z4 | "G7" "E7#9b13" z4 | "Amaj" "D7" z4 |]

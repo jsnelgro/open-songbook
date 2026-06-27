@@ -1,0 +1,32 @@
+---
+workId: bobby-timmons-so-tired
+arrangementId: h-ddda3057
+title: So Tired
+artist: Bobby Timmons
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:So Tired
+C:Bobby Timmons
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:4/13/2018
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Fm7" z4 | "Gb9" z4 | "Fm7" z4 | "Gb9" z4 ::
+"Fm7""^A" F/ F A F/ A/B/ | "Gb9" =B/c/e/_B/- B/4=B/4_B/4A/4 F | "Fm7" F/ F A F/ A/B/ | "C7" B A/c/ z2 |
+"Fm7" F/ F A F/ A/B/ | "Gb9" =B/c/ e/_B/>=B/_B/4A/4 F | "Fm7" F/ F A F/ A/B/ |1 "Gm7" B/=B/_B/ "C7"A/ F/ "Fm7" z/ z :|2  "Gm7" B/=B/_B/ "C7"A/ F/ "Fm7" z A/ ||
+"Fm7""^B" f c/e/ c/d/ (3A/^F/=E/ | "Gbmaj7" E E/D/ E/ =E f/- | "Fm7" f c/e/ c/d/ (3A/^F/=E/ |  "Ebmaj7" E E/D/ "Emaj7" =E z/ A,/ |
+"Dbm7" E E/D/ C/ "Gb7"D/ (3E/=E/^F/ | "Gbm7" A A/_G/ F/ "B7"G/ (3A/=A/=B/ | "Bm7" d d/=B/ "E7" _B/=B/ z |  "Gm7" c/d/c/B/ "C7" ^F/G/B/A/ ||
+"Fm7""^C" F/ F A F/ A/B/ | "Gb9" =B/c/ e/_B/>=B/_B/4A/4 F | "Fm7" F/ F A F/ A/B/ |  "C7" B A/c/ z2 |
+"Fm7" F/ F A F/ A/B/ | "Gb9" =B/c/ e/_B/>=B/_B/4A/4 F | "Fm7" F/ F A F/ A/B/ |  "Gm7" B/=B/_B/ "C7"A/ F/ z/ "Fm7" z |]

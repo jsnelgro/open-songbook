@@ -1,0 +1,29 @@
+---
+workId: james-brown-maceo-parker-soul-power-74
+arrangementId: h-8689eb88
+title: Soul Power 74
+artist: James Brown/Maceo Parker
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Soul Power 74
+C:James Brown/Maceo Parker
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/2/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 ||  "Dm7" z D/A/4c/4- c/A/ z | A/4_A/4G/ A/4G/4F/4G/4- G/D/ F | z/ D/F/G/ z/ D/F/G/ |
+A A A/D/4F/4- F/G/ |  z D/A/4c/4- c/A/ z | A/4_A/4G/ A/4G/4F/4G/4- G/D/ F | z/ D/F/G/ z/ D/F/G/ |
+A A A/D/4F/4- F/G/ || "^Solo" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 ||  z D/A/4c/4- c/A/ z | A/4_A/4G/ A/4G/4F/4G/4- G/D/ F |
+z/ D/F/G/ z/ D/F/G/ | A A A/D/4F/4- F/G/ |  z D/A/4c/4- c/A/ z | A/4_A/4G/ A/4G/4F/4G/4- G/D/ F |
+z/ D/F/G/ z/ D/F/G/ | A A A/D/4F/4- F/G/ ||  "Bb9""^Bridge!" z4"_Solos: Cue Bridge, cue band in/out for solos" | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 ||  "Dm7" z4 |]

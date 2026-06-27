@@ -1,0 +1,45 @@
+---
+workId: roy-hargrove-i-m-not-so-sure
+arrangementId: h-1a1660cb
+title: I'm Not So Sure
+artist: Roy Hargrove
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:I'm Not So Sure
+C:Roy Hargrove
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:2/28/2018
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=190
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+z/ "G7" G/z/ "Ab7"A/ z/ "A7" =A/z/ "Bb7"B/ | "Eb7" E/z/z/_D/ (3E/4=D/4_D/4B,/ E/ z/ | z4 | z4 |
+z/ "G7" G/z/ "Ab7"A/ z/ "A7" =A/z/ "Bb7"B/ | "Eb7" E/z/z/_D/ (3E/4=D/4_D/4B,/ E/ z/ | z4 | z4 |
+z/ "G7" G/z/ "Ab7"A/ z/ "A7" =A/z/ "Bb7"B/ | "Eb7" E/z/z/_D/ (3E/4=D/4_D/4B,/ E/ z/ | z4 | z4 |
+z/ "G7" G/z/ "Ab7"A/ z/ "A7" =A/z/ "Bb7"B/ |: "Eb7" E/z/z/_D/ (3E/4=D/4_D/4B,/ E/ z/ | z4 | z4 |
+z/ "G7" G/z/ "Ab7"A/ z/ "A7" =A/z/ "Bb7"B/ | "Eb7" E/z/z/_D/ (3E/4=D/4_D/4B,/ E/ z/ | z4 | z4 |
+z/ "G7" G/z/ "Ab7"A/ z/ "A7" =A/z/ "Bb7"G/ || "Eb7" E/ z2 z/ "Gb7" E- | E3 z/ z/ | "F7" E2 "Bb7" E3/2 "Eb7" E/ |  z4 |
+"Eb7" E/ z3 "Dbm7" E/- | E3/2 "Gb7" E2 z/ | "F7" "Bb7" z4 |  "Db7#9" E4- | E4 | "D7#9" E4- | E4 |
+"Eb7#9" E4- | E4 | "E7#9" E4 | z/ "G7" G/z/ "Ab7"A/ z/ "A7" =A/z/ "Bb7"B/ :|
+V:2
+z/ G,,,/A,,,/A,,/ =A,,,/=A,,/B,,,/B,,/ | E,,/z/z/_D,/ E,/B,,/ E,/ z/ | z2 B,,/A,,/ _D,, | E,,/ z/ z z2 |
+z/ G,,,/A,,,/A,,/ =A,,,/=A,,/B,,,/B,,/ | E,,/z/z/_D,/ E,/B,,/ E,/ z/ | z3/2 A,,/ B,,/A,,/ _D,, | E,,/ z/ z z2 |
+z/ G,,,/A,,,/A,,/ =A,,,/=A,,/B,,,/B,,/ | E,,/z/z/_D,/ E,/B,,/ E,/ z/ | z3/2 A,,/ B,,/A,,/ _D,, | E,,/ z/ z z2 |
+z/ G,,,/A,,,/A,,/ =A,,,/=A,,/B,,,/B,,/ |: E,,/z/z/_D,/ E,/B,,/ E,/ z/ | z2 B,,/A,,/ _D,, | E,,/ z/ z z2 |
+z/ G,,,/A,,,/A,,/ =A,,,/=A,,/B,,,/B,,/ | E,,/z/z/_D,/ E,/B,,/ E,/ z/ | z3/2 A,,/ B,,/A,,/ _D,, | E,,/ z/ z z2 |
+z4 || z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 :|

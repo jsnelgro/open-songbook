@@ -1,0 +1,28 @@
+---
+workId: eddie-harris-new-deal
+arrangementId: h-5e6f47ab
+title: New Deal
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:New Deal
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/24/2017
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "G9" G3/2 G2- G/ | z4 | "G9" G3/2 G2- G/ |1 z4 :|  z2 z3/2 d/- |: "G9" d- (3d/B/A/ G/A/B/d/ |
+"Ebmaj7" _B- (3B/G/F/ _E/F/G/B/ |1 "Fmaj7" G3/2 G2- G/ |  "G7" z2 z3/2 d/- | "G9" d- (3d/B/A/ G/A/B/d/ | "Ebmaj7" _B- (3B/G/F/ _E/F/G/B/ |
+"Fmaj7" G3/2 G2- G/ |  "G7" z2 z3/2 d/- :|2 "C7" G- (3G/E/D/ C/D/E/G/ || "Bbmaj7""_Solos over Form" F- (3F/D/C/ _B,/C/D/F/ | "G9" G3/2 G2- G/- |
+G4 |]

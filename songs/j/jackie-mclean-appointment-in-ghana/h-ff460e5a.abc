@@ -1,0 +1,46 @@
+---
+workId: jackie-mclean-appointment-in-ghana
+arrangementId: h-ff460e5a
+title: Appointment in Ghana
+artist: Jackie McLean
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Appointment in Ghana
+C:Jackie McLean
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 7/19/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=280
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+"Bbmaj7""^Slovenly Intro" a3 d | "E7#9" g3 d | "D7#9" f2 d c | "G13" =e2 d z |  "Bbmaj7" a3 d | "E7" g3 d |
+"D7" f2 d c | "G13" =e2 d z |  "Bb" z4 |:"^Nasty Up Swing (The kind that makes people listen)" z2 B/c/d/B/ | c2 z2 |
+z2 B/c/d/=e/ |  f d/B/ c2 | z2 B/c/d/=e/ | [Gcf]2 [=EAd]2 | [DGc]2 [=B,=EA]3/2 [B,EA]/- |
+[B,EA]4- |1 [B,EA]3 z :|2 [=B,=EA]3 z || a3 d/g/- |  g3 d/f/- | f2 d c |
+=e3/2 d3/2 z | a3 d/g/- |  g3 d/f/- | f2 d c | =e3/2 d3/2 z |
+z2 B/c/d/B/ |  c2 z2 | z2 B/c/d/=e/ | f d/B/ c2 | z2 B/c/d/=e/ |
+[Gcf]2 [=EAd]2 | [DGc]2 [=B,=EA]3/2 [B,EA]/- | [B,EA]4- | [B,EA]3 z |:
+"Gm7""^Solos" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  "Bbmaj7" z4 | "E7#9" z4 | "D7#9" z4 | "G13" z4 |  "Bbmaj7" z4 |
+"E7" z4 | "D7#9" z4 | "G13" z4 |  "Gm7" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 :|
+V:2
+z4 | z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z z2 "Gm7" z/ B/- |: B z z2 | z7/2 "Gm7" B/- |
+"Gm7" B/ c3/2 z2 |  z7/2 "Gm7" B/- | B z z2 | "D" z B z B | z B z B |
+"Gm7" z4 |1 z3 B/B/ :|2 "Gm7" z4 || "Bbmaj7" z4 |  "E7" z4 | "D7" z4 |
+"G13" z4 | "Bbmaj7" z4 |  "E7#9" z4 | "D7#9" z4 | "G13" z3 "Gm7" B/B/- |
+"Gm7" B z z2 |  z7/2 "Gm7" B/- | B z z2 | z7/2 "Gm7" B/- | B z z2 |
+"D" z B z B | z B z B | "Gm7" z4 | z4 |:
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 :|

@@ -1,0 +1,36 @@
+---
+workId: joe-sample-chain-reaction
+arrangementId: h-36152e18
+title: Chain Reaction
+artist: Joe Sample
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Chain Reaction
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/25/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bbm7""_Intro" d/ z/ B/z/4 "Db/Ab"F/4 A/B/ z | "Ebm7" E/4F/4E/ D/z/4 "Fm7"F,/4 A,/B,/ z | "Bbm7" d/ z/ B/z/4 "Db/Ab"F/4 A/B/ z | "Ebm7" E/4F/4E/ D/z/4 "Fm7"F,/4 A,/B,/ z ::
+"_Head" z/4 "Bbm7" F,/4B,/4F/4 A/4B/4F/4A/4 "Db/Ab" E/4F/4D/4B,/4 E/4B,/4D/ | "Ebm7" B, z/4 F,/4B,/4D/4 E/8 "Fm7"_F/8E/8D/8E/4D/4- D/E/ ||
+"Bbm7" a/4b/4d'/4b/4- "Db/Ab" b2 a/4f/4e/4d/4- | "Ebm7" d/B/- "Fm" B3 ||  "Bbm7" z/4 A,/4B,/4D/4- D/E/ "Db/Ab" z/4 A,/4B,/4D/4- D/E/ |
+"Ebm7" z/4 A,/4B,/<D/E/ E/8 "Fm7"=E/8_E/8D/8E/4D/4- D/B,/ | "Bbm7" z/4 A,/4B,/4D/4- D/E/ "Db/Ab" z/4 A,/4B,/4D/4- D/E/ |1
+"Ebm7" z/4 A,/4B,/<D/E/ E/8 "Fm7"=E/8_E/8D/8E/4D/4- D/B,/ :|2  "Ebm7" z/4 A,/4B,/<D/E/ "Fm7" E/8=E/8_E/8D/8E/4 z/4 A,/B,/ || "Ebm7" F/E/D/E/- "Fm7" E/>!8va(!F/ A/B/!8va)! |
+"Gbmaj7"!8va(! f/e/d/B/- "Fm7"!8va)! B A,/B,/ | "Ebm7" F/E/D/E/- "Fm7" E/>F/ A/B/ |  "Gbmaj7" f/e/d/B/- "Fm7" B "Bb7" A,/B,/ | "Ebm7" F/E/D/E/- "Fm7" E/>F/ A/B/ |
+"Gbmaj7" f/e/d/B/- "Fm7" B A,/B,/ | "Ebm7" F/E/D/ "Fm7"E/- E/>F/ A/B/ |  "Gbmaj7" f/e/d/ "F7"f/- f2- | "F7sus4" f4 |: "Bbm7""_First Solos" "Db/Ab" z4 |
+"Ebm7" "Fm7" z4 |  "Bbm7" "Db/Ab" z4 | "Ebm7" "Fm7" z4 :| "Ebm7""^Play The Bridge Again" F/E/D/E/- "Fm7" E/>!8va(!F/ A/B/ | "Gbmaj7" f/e/d/B/- "Fm7"!8va)! B A,/B,/ |
+"Ebm7" F/E/D/E/- E/> "Fm7"!8va(!F/ A/B/ | "Gbmaj7" f/e/d/B/- "Fm7" B "Bb7"!8va)! A/B,/ | "Ebm7" F/E/D/E/- "Fm7" E/>!8va(!F/ A/B/ | "Gbmaj7" f/e/d/B/- "Fm7"!8va)! B A,/B,/ |
+"Ebm7" F/E/D/ "Fm7"E/- E/>!8va(!F/ A/B/ | "Gbmaj7" f/e/d/ "F7"f/- f2- | "F7sus4" f4!8va)! |: "Bbm7""^Guitar Break" z4 |  z4 ::
+"Bbm7""_Cool Vamp for rest of solos" A/4z/4B/4z/4z/4d/ z/4 B/4z/A/4 B/4 z/4 z/ | z4 :|

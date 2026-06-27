@@ -1,0 +1,29 @@
+---
+workId: jeff-lorber-rain-dance
+arrangementId: h-84ec0626
+title: Rain Dance
+artist: Jeff Lorber
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Rain Dance
+C:Jeff Lorber
+C:Arr 6EQUJ5
+Z:©
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Gm7" z4 | "Fm11" z4 "Bb13" | "Ebmaj9" z4 | "Am7" "D7" z4 |  "Gm7" z4 | "Eb9" "D7" z4 | "Gm7" z4 |
+"Am7" "D7" z4 |:  "Gm7" (3c/=B/_B/ A/d/ G2- | "Fm11" G3/2 F/ D "Bb13" F/B,/- | "Ebmaj7" B,2 z2 | "Am7" z z/ c/ "D7" d e/d/- |
+"Gm7" d3/2 c/ (3B/c/B/ A/G/- |1 "Eb9" G3/2 c/ "D7" A3/2 F/ | "Gm7" D/4E/4D/4C/4 D3 | "Am7" A, D3 "D7" :|2  "Eb9" G3/2 c/ "D7" A F/D/ ||
+"Gm7" G2 "Fm11" z2 | "C9" c2 A "Eb9" F/G/- |: "Dm11" G2- G2 |  "Cm7" z z/ A/ "F7" B c/d/- | "Bbmaj7" d4 "D7" | "Gm9" z2 c3/2 "Bb" B/ |
+"C13" A A/ B B G/- |  "C13" G/ G3/2 z F/ "F7"F/- |1 F4 | "F7" z2 "Eb9" z/ A/F/A/ :|2 "F7" F4 ||  "F7" F "D7" D3 |]

@@ -1,0 +1,29 @@
+---
+workId: jimmy-mchugh-on-the-sunny-side-of-the-street
+arrangementId: h-1c999837
+title: On the sunny side of the street
+artist: Jimmy McHugh
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: On the sunny side of the street
+C: Jimmy McHugh
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/on-the-sunny-side-of-the-street/
+K: C
+ED|:"C^6"C2D2E2G2|"E7"e6 e_e|"F6"d2c2A2F2|"G7"E4"G#o7"D4|
+"Am7"C2D2E2c2|"D7"B6 ^GA|"Dm7"c2 AF-"G7" FED2|1 "C6"G4 "G7"z2ED:|2 "C6"C2 z2 zc cc||
+"Gm7"c4 DF2 E-|"C7"E4 c2 c2|"F^7"c4 EG2 F-|F6 c2|
+"D7"c4 EG2 ^F-|F4 z2 G2|"Dm7"Bd-d2 z2 E2|"G7"FA-A2 z2 ED||
+"C^6"C2D2E2G2|"E7"e6 e_e|"F6"d2c2A2F2|"G7"E4"G#o7"D4|
+"Am7"C2D2E2c2|"D7"B6 ^GA|"Dm7"c2 AF-"G7" FED2|"C6"C8||

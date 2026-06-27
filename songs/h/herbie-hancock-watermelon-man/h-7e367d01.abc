@@ -1,0 +1,27 @@
+---
+workId: herbie-hancock-watermelon-man
+arrangementId: h-7e367d01
+title: Watermelon Man
+artist: Herbie Hancock
+source: jazz
+key: F
+tags:
+  - Funk
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Watermelon Man
+C: Herbie Hancock
+M: 4/4
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories Funk
+%%songbook-tags Funk,Rock,Herbie Hancock
+%%songbook-uri /post/watermelon-man/
+K: F
+|:"F7"_e8-|e2 FF [_Ac] [B2d2] F-|F8|z8|
+"Bb7"f8-|f2 FF [_Ac] [B2d2] F-|"F7"F8|z8|
+"C7"z2 cc g2 a2|"Bb7"_agfd f2 g2|"C7" z2 cc g2a2|"Bb7"_agfd c2 d2|
+"C7" z2 cc g2 _a2|"Bb7" f2 ff [_Ac] [B2d2] F-|"F7"F8|z8:||

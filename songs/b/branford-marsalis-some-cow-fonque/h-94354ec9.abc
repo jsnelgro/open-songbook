@@ -1,0 +1,33 @@
+---
+workId: branford-marsalis-some-cow-fonque
+arrangementId: h-94354ec9
+title: Some Cow Fonque
+artist: Branford Marsalis
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Some Cow Fonque
+C:Branford Marsalis
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 12/10/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Insert Free Jazz Here""^Something Harmonically Complex" z4 | z4 | z4 | z4 | "^Insert Turntable Scratching Here" z4 | z4 | z4 | z4 |:  "Ab7" "Eb7" z4 | "Ab7" "Eb7" z4 :| z3/2"_Chords Same Throughout" f a/ a/c'/ |
+c' z/ e/ f/a/ b/4a/4a/- |  a/b/z/A/ c/e/f/a/- | a z z2 | z3/2 f a/ a/c'/ |
+c' z/ _d' b a/- |  a/f/z/A/ c/e/f/A/- | A z z2 | z3/2 z/ f/a/a/c'/ |
+c' z/ e/ f/a/ b/4a/4a/- |  a/b/z/A/ c/e/f/a/- | a z z2 | z3/2 z/ f/a/a/c'/ |
+c'/ z [fad']/ z/ _c'/4b/4 a/a/- |  a/f/z/A/ c/e/f/A/- | A z z2 | z z z f/a/ |
+b3/2 _c'/4b/4 a/f/a/f/- |  f/ e z/ z f/a/ | _c'/b/b/a/ a/f/a/=c'/ | c' z f/a/a/b/- |
+b3/2 _c'/4b/4 a/f/a/f/- |  f/e/d'/_d'/ _c'/d'/e'/a/- | a z _c'/4b/4a/4g/4 a/b/4a/4 | c' z z f/a/ |
+b3/2 _c'/4b/4 a/f/a/f/- |  f/ e z3/2 f/a/ | _c'/b/b/a/ a/f/a/=c'/ | c'/z3/4_d'3/4 b/ z/ e/4f/4a/4f/4 |
+b3/2 _c'/4b/4 a/f/a/f/- |  f/e/d'/_d'/ _c'/d'/e'/a/- | a/-a/ z z2 |: "Ab7""_Insert Poignant and relevent Political Commentary." "Eb7" z4 | "Ab7" "Eb7" z4 :|

@@ -1,0 +1,34 @@
+---
+workId: art-farmer-mox-nix
+arrangementId: h-a9091fd5
+title: Mox Nix
+artist: Art Farmer
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mox Nix
+C:Art Farmer
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/8/2018
+L:1/4
+Q:1/4=208
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Dm7""^Cool 40s Gangster Stroll Tremolo" z4 | z4 | z4 | z4 :|
+"Dm7" z3 d/d/ ||"^A" d/d/d/d/ d/d/D/F/ | G/F/_A/F/ G/F/D/F/ |
+G/F/z/F/ _A/F/ z |  z3 e/d/ | "Gm11" f/f/- f2- f/d/ | z/ D/F/G/- G F/D/ |
+"Dm7" _A F/D/ G/D/ z |  z3 d/d/ | "Bb9" d/d/d/d/ d/d/D/F/ | "A7#9" G/F/_A/F/ G/F/D/ "Dm7"D/ ||
+"Dm7""_B" z2 (3:2:4A/-A/G/4F/4 D- |  D/A,/C/D/- D F/D/ | "Dm7/C" z4 "Em7" | z/ F/ "A7" _A D2- "D7" |
+D "Em7" F/D/ G/ "F6"D/ z |  "Adim7" z4 "Gm7" | z/ "Gm/F" D/ E/ F "Em11" G A/- | A/ "A7" B c d e/- |
+"Dm7" e4- |  e3/2 A/ z/ F/ "Bb9"d/_A/- | A G/F/ E/D/ z/ z/ | "A7" z A,/C/ D/- D F/- | "Em7" F/ D "B7" |  "Dm7" z4 |:
+"Dm7""_C" z4 | z4 | z4 |  z4 | "Gm7" z4 | z4 | "Dm7" z4 |  z4 |
+"Bb7" z4 | "A7" z4 | "Dm7" z4 |  z4 :|

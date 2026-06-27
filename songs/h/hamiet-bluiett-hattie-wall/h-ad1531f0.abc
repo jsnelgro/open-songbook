@@ -1,0 +1,30 @@
+---
+workId: hamiet-bluiett-hattie-wall
+arrangementId: h-ad1531f0
+title: Hattie Wall
+artist: Hamiet Bluiett
+source: jazz
+key: none
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Hattie Wall
+C:Hamiet Bluiett
+C:Arr. 6EQUJ5
+Z:©2015 Fimusic
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:none
+%%stretchlast true
+V:1 treble transpose=-9 nm="Alto Sax 1" snm="A. Sx."
+%%MIDI program 65
+V:1
+[K:D] z4 | z4 | z4 | z4 ||  B d/>e/- e/>d/- d/>B/ | B d/>e/- e/>d/- d | z4 | z4 |
+B d/>e/- e/>d/- d/>B/ | B d/>e/- e/>d/- d | z4 | z2 z z/4 c/4f/4a/4 ||  f4- |
+f2- f/B/- B | d4- | d2- d/f/- f |  e4- | e2- e/a/- a | f4- | f4 |
+f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f | f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f |
+f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f | f/f/ f/4f/f/4- f/4f/f/4 f/f/ | f/f/ f/4f/f/4- f/4f/f/4 f ||
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |]

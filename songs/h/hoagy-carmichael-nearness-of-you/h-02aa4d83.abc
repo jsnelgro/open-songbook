@@ -1,0 +1,32 @@
+---
+workId: hoagy-carmichael-nearness-of-you
+arrangementId: h-02aa4d83
+title: The Nearness of You
+artist: Hoagy Carmichael
+source: jazz
+key: F
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: The Nearness of You
+C: Hoagy Carmichael
+M: 4/4
+L: 1/8
+Q: 100
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags Ballad
+%%songbook-uri /post/the-nearness-of-you/
+K: F
+C FG||"F^7"A4c2BA|"Cm7"G2B2-"F7"B2A2|"Bb^7"F4A2GF|"Bbo7"E2G4F2|
+"Am7"C4-"Ab7"C4-|"Gm7"CDEF "C7" (3G2F2E2|"Am7"c4-"D7"c4|"Gm7"z4 "C7"zC FG||
+"F^7"A4c2BA|"Cm7"G2B2-"F7"B2A2|"Bb^7"F4A2GF|"Bbo7"E2G4F2|
+"Am7"C4-"Ab7"C4-|"Gm7"CDEF "C7" (3G2F2E2|"F6"F4-"Eb7"F4|"F6"z4 CDEF||
+"Gm7"G8-|"C7"G2EFG2FE|"F6"A3 E "Cm7"_E4-|"Cm7"E4 "F7"z2FG|
+"Bb^7"d6d2|"Am7"c4"D7"B4|"Gm7"G8-|"C7"G4 zC FG||
+"F^7"A4c2BA|"Cm7"G2B2-"F7"B2A2|"Bb^7"F4A2GF|"Bbo7"E2G4F2|
+"Am7"C4-"Ab7"C4-|"Gm7"CDEF "C7" (3G2F2E2|"Am7b5"c8-|"D7b9"c2AB(3c2B2A2|
+"Gm7"d6D2|"C7"E4F3G|"F6"F8-|F8||

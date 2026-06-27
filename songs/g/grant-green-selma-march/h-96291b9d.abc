@@ -1,0 +1,30 @@
+---
+workId: grant-green-selma-march
+arrangementId: h-96291b9d
+title: The Selma March
+artist: Grant Green
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Selma March
+C:Grant Green
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=160
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z G |: "G7" d2 d2 | "C9" d c _B/c/ z | "D7#9" z D F/ G G/- |
+"G7" G/G/_B/G/ c/B/ G/ z/ | "D7#9" z D F/ G G/- | "G7" G2 z d | "G7" f/e/f/e/ d2 "C9" |  "Fmaj7" c/_B/c/d/ "E7#9" B "A7" G |
+"D7#9" z D F/ G G/- | "G7" G/G/_B/G/ c/B/ G/ z/ | "D7#9" z D F/ G G/- |  "G7" G2 z "G7" [FB] | "C7" [E_B] z/ B/ c/B/c/d/ |
+B/G/ z z "C7" [FB] | "G7" [E_B] z/ B/ c/B/c/d/ |  "G7" B/G/ z z2 | "C7" z G c/d/-d/f/- | "D7#9" f d/f/ d z/ _B/ |
+"C7" c/_B/c/d/ B/G/z/G/- |  "G7" G D F/ G G/- | "G7" G/ z/ z/ "C7" z/ z2 "G7" | "G7" G D F/ G G/- | "G7" G/ z/ z/ "C7" z/ z2 "G7" |
+"G7" G D F/ G G/- | "G7" G/ z/ z/ "C7" z/ z2 "G7" | "G7" G D F/ G G/- | "G7" G/ z/ z/ "C7" z/ z "G7" G :|

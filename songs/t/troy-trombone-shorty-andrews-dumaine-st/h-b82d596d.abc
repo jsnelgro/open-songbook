@@ -1,0 +1,32 @@
+---
+workId: troy-trombone-shorty-andrews-dumaine-st
+arrangementId: h-b82d596d
+title: Dumaine St
+artist: Troy "Trombone Shorty" Andrews
+source: jazz
+key: Ebmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Dumaine St
+C:Troy "Trombone Shorty" Andrews
+Z:©2016 Finmusic/effendi.me 6/6/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ebmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Ebm" E z/ e/ e/ z/ d/ z/ | G/A/B/E/ z/ A/G/F/ | E z/ e/ e/ z/ d/ z/ | G/A/B/E/ z/ A/G/F/ |
+E z/ e/ e/ z/ d/ z/ | G/A/B/E/ z/ A/G/F/ | E z/ e/ e/ z/ d/ z/ | G/A/B/E/ z/ A/G/F/ |
+"Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- | "Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ | "Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- |
+"Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ |  "Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- | "Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ |
+"Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- | "Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ :|  "Ebm7" z4 | "Ab7" z4 | "Ebm7" z4 |
+"Ab7" z4 |  "Ebm7" z4 | "Ab7" z4 | "Ebm7" z4 | "Ab7" z4 |  "Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- |
+"Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ | "Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- | "Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ |
+"Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- | "Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ | "Ebm" E z/ e/ z "Ab" b/4a/4g/4a/4- |
+"Gb" a2 a/a/4=a/4 "E" _a/4g/4e/ :|

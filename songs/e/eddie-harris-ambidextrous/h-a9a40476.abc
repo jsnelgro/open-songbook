@@ -1,0 +1,33 @@
+---
+workId: eddie-harris-ambidextrous
+arrangementId: h-a9a40476
+title: Ambidextrous
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ambidextrous
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©
+L:1/4
+Q:1/4=225
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+"F7""_Bass Vamp" F,, _E,/C,/ F,/E,/C,/F,,/ | "F7" z/ C,/_E,/C,/ F, E,/ z/ | "F7" F,, _E,/C,/ F,/E,/C,/F,,/ | "F7" z/ C,/_E,/C,/ F, E,/ z/ |
+"Bb7" _B,, _A,/F,/ _B,/A,/F,/B,,/ | "Bb7" z/ F,/_A,/F,/ _B, A,/ z/ | "Bb7" _B,, _A,/F,/ _B,/A,/F,/B,,/ | "Bb7" z/ F,/_A,/F,/ _B, A,/ z/ |
+"F7" [A,C] z/ [_B,_E]/ z z/ [A,C]/ | "F7" z2 [_B,_E] z | "F7" [A,C] z/ [_B,_E]/ z z/ [A,C]/ | "F7" z2 [_B,_E] z |  "Bb7" [DF] z/ [_E_A]/ z z/ [DF]/ |
+"Bb7" z2 [_E_A] z | "Bb7" [DF] z/ [_E_A]/ z z/ [DF]/ | "Bb7" z2 [_E_A] z/ _a/ |  "C" _e/f/c/_B/ e/F/ z | z4 | z4 |
+z2 z z/ _a/ |  _e/f/c/_B/ e/c/F/C/ | A z z2 | z4 | z4 |  z2 z z/ _a/ |
+_e/f/c/_B/ e/c/F/c/ | _B/_e/c/_A/ B/F/_D/A/ | F/_B/G/_E/ C/_B,/E/F/ |  F z z z/ _a/ |
+f/_b/g/_e/ f/_B/ z | z4 | z4 |  z2 z z/ _a/ | f/_b/g/_e/ f/_B/e/_a/ | f z z2 |
+z4 |  z4 | z2 z z/ _a/ | f/_b/g/_e/ f/_B/e/_a/ | f/_b/_e'/b/ _d'/_a/_e/_B/ |
+_g/b/_d/g/ c/e/g/_b/ | _b z z2 | "F7" "Fsus4" z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | "Bb7" "Bbsus4" z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 |]

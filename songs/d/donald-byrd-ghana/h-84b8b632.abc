@@ -1,0 +1,35 @@
+---
+workId: donald-byrd-ghana
+arrangementId: h-84b8b632
+title: Ghana
+artist: Donald Byrd
+source: jazz
+key: Gb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ghana
+C:Donald Byrd
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/13/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Ebm7" E3/2 B B, B/ | E B B B, :| "Ebm7" B,4 | =C2 D2 |  F/ D F/ D2- |
+D2 =C2 | B,4- | B,3 z |  z2 z z/ B,/ |: "Ebm7" E E/E/ D/ F E/- |
+E/E/ B,3 | z E/E/ D/ F E/- |  E2 z z/ E/ | "Abm" B c/A/- "Db7" A3/2 E/ | "Gb7" A B/G/- "B7" G2 |
+"Fm7" z/ B,/D/B,/ C/D/E/G/ |  "Bb7" B/B/ A- A3/2 B,/ | "Ebm7" E E/E/ D/ F E/- | E/E/ B,3 |
+z E/E/ D/ F E/- |  E2 z z/ E/ | "Abm7" B c/A/- "Db7" A3/2 E/ | "Gb7" A B/G/- "B7" G2 |
+"Fm7" F/ A G/ F "Bb7" =D/F/- |  "Ebm7" F2 B,/E/F/G/ | "Abm7" B3/2 A/- A2 | "Db7" z2 A/B/d/B/ | "Gbmaj7" F/ E F/ E F/E/ |
+z2 F/E/=D/E/ | "Abm7" B/A/ z z B/A/ | "Db7" z z/ A/ =G/A/B/c/ | "Gbmaj7" d4- |  d2 d d |
+"Bm7" d2 =A ^F | "E7" =G A =B ^c | "Amaj7" =E4- |  E ^F/^G/ =A/=B/^c/=d/ | "Cm7" =d2 B =G |
+"F7" =A B =c =d | "Fm7" f4- |  "Bb7" f2 z z/ B,/ | "Ebm7" E E/E/ D/ F E/- | E/E/ B,3 |
+z E/E/ D/ F E/- |  E2 z z/ E/ | "Abm7" B c/A/- "Db7" A3/2 E/ | "Gb7" A B/G/- "B7" G2 |
+"Fm7" F/ A "Bb7" G/ F =D/E/- |  E3 z :|

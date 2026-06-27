@@ -1,0 +1,32 @@
+---
+workId: sonny-rollins-oleo
+arrangementId: h-7d9ac15e
+title: Oleo
+artist: Sonny Rollins
+source: jazz
+key: Bb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Oleo
+C: Sonny Rollins
+M: 4/4
+L: 1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Sonny Rollins,Rhythm Change
+%%songbook-uri /post/oleo/
+K: Bb
+P: A
+|:"Bb"z B2 G "Gm7"c3 B|"Cm7"z G c2- "F7"c2 ed|"Bb"z B2 G "G7"dedc|"Cm7"BG^GA "F7"z B2 =G|
+"Bb"c3 B "Bb7"z GB2|"Eb" z B2 G "Ebm6"edBc|"Bb"z2 z G "Gm7"z B2 G|[1 "Cm7"d3 c "F7"edAF:|[2 "Cm"_dB "F7"cB "Bb"z4||
+P: B 
+"D7"z8|z8|"G7"z8|z8|
+"C7"z8|z8|"F7"z8|z8||
+P: A
+"Bb"z B2 G "Gm7"c3 B|"Cm7"z G c2- "F7"c2 ed|"Bb"z B2 G "G7"dedc|"Cm7"BG^GA "F7"z B2 =G|
+"Bb"c3 B "Bb7"z GB2|"Eb" z B2 G "Ebm6"edBc|"Bb"z2 z G "Gm7"z B2 G|"Cm"_dB "F7"cB "Bb"z4||

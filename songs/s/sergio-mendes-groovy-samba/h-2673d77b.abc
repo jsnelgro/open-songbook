@@ -1,0 +1,30 @@
+---
+workId: sergio-mendes-groovy-samba
+arrangementId: h-2673d77b
+title: Groovy Samba
+artist: Sergio Mendes
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Groovy Samba
+C:Sergio Mendes
+C:Cannonball Adderley
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z z/ D/ G/G/ B |: "Gm7" d4 | "Ab7" z f/4_f/4e/4d/4 c/B/^F/D/ | "Gm7" =E4 |
+"Gm7" z z/ D/ G/B/d/g/ | "Adim7" c/4_d/4c/4B/4 B3 | "D+7" z c/4_d/4c/4B/4 c/B/G/F/ | "Gm7" G4 |1  "Am7" z z/ "D7" D/ G/G/ B :|2
+"Gm7" z3 G, || "Cm" G4 | "F7" z/ F/G/A/ B A/G/ |  "Bbmaj7" A4 | "Bbmaj7" z2 z ^F, | "C#m7" ^F4- |
+"F#7" F2 G ^F |  "Bmaj7" E4 | "A7" z D/G/ "D7" G/ B z/ | "Gm7" d4 | "Ab7" z f/4_f/4e/4d/4 c/B/^F/D/ |  "Gm7" =E4 |
+"Gm7" z z/ D/ G/B/d/g/ | "A7" c/4_d/4c/4B/4 B3 | "D7" z c/4_d/4c/4B/4 c/B/G/F/ |  "Gm7" G4 | "Gm6" z4 |]

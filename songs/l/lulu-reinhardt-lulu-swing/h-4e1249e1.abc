@@ -1,0 +1,31 @@
+---
+workId: lulu-reinhardt-lulu-swing
+arrangementId: h-4e1249e1
+title: Lulu Swing (Lulu's Swing)
+artist: Lulu Reinhardt
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Lulu Swing (Lulu's Swing)
+C:Lulu Reinhardt
+C:Arr. 6EQUJ5
+Z:©2020 6EQUJ5 2020-06-30
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "D69""_Repeat ad infinitum" z4 | "A+" z4 :| "D" z2 z/ A/B/d/ || "D69""^A" f/f/f/A/- A2 |  z/ A/B/d/ f/A/B/d/ |
+"E9/B" f/f/f/^G/- G2 | z/ ^G/B/d/ f/G/B/d/ | "Em7" f/f/f/G/- G2 |  "A7" z/ =f/^f/a/ =f2 |
+"D" z [fb]/[=f_b]/ [ea]/ "Bm7" [ea] [_e_a]/ | "Em7" [dg] [dg]/[_d_g]/ "A7" [=c=f] B/=d/ | "D" f/f/f/A/- A2 |  z/ A/B/d/ f/A/B/d/ |
+"E7" f/f/f/^G/- G2 | z/ ^G/B/d/ f/G/B/d/ | "Em7" f/f/f/G/- G2 |  "A7" z/ =f/^f/a/ =f2 | "Dmaj7" z4 | "D7" z4 ||
+"G""^B" z4 |  "G#dim7" z4 | "Dmaj7" z4 | "Dmaj7" z4 | "E7" z4 |  "E7" z4 | "Eb7" z4 | "A7" z2 z/ A/B/d/ ||
+"D""^A" f/f/f/A/- A2 |  z/ A/B/d/ f/A/B/d/ | "E7" f/f/f/^G/- G2 | z/ ^G/B/d/ f/G/B/d/ | "Em7" f/f/f/G/- G2 |
+"A7" z/ =f/^f/a/ =f2 | "D" z4 | "Em7" "A7" z4 |]

@@ -1,0 +1,34 @@
+---
+workId: hugh-masekela-grazin-in-the-grass
+arrangementId: h-70ae8100
+title: Grazin' In the Grass
+artist: Hugh Masekela
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Grazin' In the Grass
+C:Hugh Masekela
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 6/5/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "F""^Intro" "Dm7" z4 | "Gm7" "C7" z4 :| "F""^Head" z e "Dm7" g2 | "Gm7" _e/4d/4c/ A "C7" _E D |
+"F" C z "Dm7" z2 | "Gm7" "C7" z4 | "F" z e "Dm7" g2 | "Gm7" _e/4d/4c/ A "C7" _E D |
+"F" C z "Dm7" z2 | "Gm7" "C7" z4 | "F" ^f/g/c'/f/ "Dm7" g/c'/ f/4g/4c'/ | "Gm7" ^f/4=f/4_e/ d "C7" c A |
+"F" G z "Dm7" z2 | "Gm7" "C7" z4 | "F" ^f/g/c'/f/ "Dm7" g/c'/ f/4g/4c'/ | "Gm7" ^f/4=f/4_e/ d "C7" c A |
+"F" G z "Dm7" z2 | "Gm7" "C7" z4 | "F" z e "Dm7" g2 | "Gm7" _e/4d/4c/ A "C7" _E D |
+"F" C z "Dm7" z2 | "Gm7" "C7" z4 | "F" z e "Dm7" g2 | "Gm7" _e/4d/4c/ A "C7" _E D |
+"F" C z "Dm7" z2 | "Gm7" "C7" z4 | "F" z c'/4c'/4c'/4c'/4 "Dm7" c'/g/_b/a/- | "Gm7" a f/d/ "C7" g f |
+"F" z c'/4c'/4c'/4c'/4 "Dm7" c'/g/_b/a/- | "Gm7" a f/4d/4g/- "C7" g f | "F" z/ e/ "Dm7" c'3- | "Gm7" c' _b/b/- "C7" b g/g/- |
+"F" g f/ "Dm7" f3/2 _e/e/- | "Gm7" e c/>A/ "C7" c c/>A/ | "F" c A "Dm7" z2 | "Gm7" "C7" z4 |:
+"F""_Solos\n" "Dm7" z4 | "Gm7" "C7" z4 :|

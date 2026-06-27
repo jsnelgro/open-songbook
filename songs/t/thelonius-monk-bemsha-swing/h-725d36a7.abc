@@ -1,0 +1,28 @@
+---
+workId: thelonius-monk-bemsha-swing
+arrangementId: h-725d36a7
+title: Bemsha Swing
+artist: Thelonius Monk
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Bemsha Swing
+C:Thelonius Monk
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/4/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+F |: "Bbmaj7" B2 z/ z/ "G7" z/ [=EF]/ | "Gbmaj7" z/ B/_A/_G/ "B7" F/F/ E | "Bbmaj7" D/D/ A, B,3/2 "Db7" z/ |  "C7" z2 "B7" z F |
+"Bbmaj7" B z z/ z/ "Gm7" z/ [=EF]/ | "Gbmaj7" z/ B/_A/_G/ "B7" F/F/ E | "Bbmaj7" D/D/ A, "Ab7" B,2 |  "Gb7" z2 z "B7" B | "Ebmaj7" e2 z "Cm7" z/ [AB]/ |
+"Bmaj7" z/ e/_d/_c/ "E7" B/B/ _A | "Ebmaj7" G/G/ D "Gb7" E3/2 z/ |  "F7" z2 "B7" z F | "Bbmaj7" B2 z "Gm7" z/ [=EF]/ | "Gbmaj7" z/ B/_A/_G/ "B7" F/F/ E |1
+"Bbmaj7" D/D/ A, "Ab7" B,2 |  "Gb7" z2 "F7" z F :|2 "Bbmaj7" D/D/ A, B,- "Bmaj7#11" B,- || B,2- B,2 |]

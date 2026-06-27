@@ -1,0 +1,26 @@
+---
+workId: kenny-dorham-blue-bossa
+arrangementId: h-d26e3ba2
+title: Blue Bossa
+artist: Kenny Dorham
+source: jazz
+key: Cm
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Blue Bossa
+C: Kenny Dorham
+M: 4/4
+L: 1/8
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Standard50,Latin
+%%songbook-uri /post/blue-bossa/
+K: Cm
+G2||"Cm7"g3 f e d2 c-|c6 B2|"Fm7"A4 g3 f-|f8|
+"Dm7b5"f3 e d c2 B-|"G7b9"B6 A2|"Cm7"G4 f3 e-|e8|
+"Ebm7"e3 _d c B2 A-|"Ab7"A6 _G2|"Db^7"_G2 FB- -BF A2-|A8|
+"Dm7b5"A2 GB-B4|"G7"A2 GB-B3 A|"Cm7"G8-|G6 G2||

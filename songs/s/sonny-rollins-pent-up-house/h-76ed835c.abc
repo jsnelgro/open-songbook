@@ -1,0 +1,33 @@
+---
+workId: sonny-rollins-pent-up-house
+arrangementId: h-76ed835c
+title: Pent-up House
+artist: Sonny Rollins
+source: jazz
+key: G
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Pent-up House
+C: Sonny Rollins
+M: 4/4
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Sonny Rollins
+%%songbook-uri /post/pent-up-house/
+K: G
+P: Melody
+z D EF GABc|:"Am7"dB2 d"Ab7"_B2 d=B-|"Am7"Bd_B2"Ab7" dB2d|"G^7"A4 "Ab7"_B3 A|"G^7"z D EF GABc|
+"Am7"dB2 d"Ab7"_B2 d=B-|"Am7"Bd_B2"Ab7" dB2d|"G^7"A4 "Ab7"_B3 A|"G^7"z F AF GABd||
+"Dm7"ge2g "Db7"_e2 g=e-|"Dm7"eg _e2 "Db7"ge2g|"Cm7"d8|"Cm7"fd2 f "F7"_d4||
+"Am7"dB2 d"Ab7"_B2 d=B-|"Am7"Bd_B2"Ab7" dB2d|"G^7"A4 "Ab7"_B3 A|"G^7"z D EF GABc:|
+P: Solo
+"Am7"z8|"D7"z8|"G^7"z8|z4 "E7"z4|
+"Am7"z8|"D7"z8|"G^7"z8|z8|
+"Dm7"z8|"G7"z8|"Cm7"z8|"F7"z8|
+"Am7"z8|"D7"z8|"G^7"z8|z4 "E7"z4||

@@ -1,0 +1,32 @@
+---
+workId: irving-berlin-remember
+arrangementId: h-9ed91a56
+title: Remember
+artist: Irving Berlin
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Remember
+C:Irving Berlin
+C:Hank Mobley
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/23/2018
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+A/ | "Dbmaj7" F/A/ z2 F/c/ | "C7" z2 z/ B3/2 | "B7" A z A A/c/ |  "Bb7" z2 z/ A3/2 | "Bbm7" F z2 z/ A/ |
+"Eb7" =E z3 | "Abmaj7" c/e/ z3 |  "Ebm7" z7/2 "Ab7" A/ | "Dbmaj7" F2 A F/A/ | "C7" z2 z/ B3/2 | "B7" A z A A/c/ |
+"Bb7" z7/2 A/ | "Bbm7" F3- F/A/ | "Eb7" =E z2 z/ F/ | "Abmaj7" c/e/- e z2 |  "Ebm7" z7/2 "Ab7" d/ | "Dbmaj7" f2 a f/a/- |
+a z2 d | "Dbm7" f z2 A/d/- |  "Gb7" d (3e/4d/4e/4d/ d/=E/_E/D/ | "Abmaj7" C3/2 c/ e/z/c/d/ | e/ z2 z/ c/B/- |
+"Gm7" B/ z3/2 B B/c/ |  "C7" z7/2 A/ | "Dbmaj7" F/A/ z2 F/c/ | "C7" z2 z/ B3/2 | "B7" A2 A A/c/ |  "Bb7" z7/2 A/ |
+"Bbm7" F3 z/ A/ | "Eb7" =E/ z7/2 | "Db" "Abmaj7" z/ B/ (3c/e/b/ a/=g/_g/f/ |  "Ebm7" e/d/c/B/ "Ab7" A/=G/_G/A/ |]

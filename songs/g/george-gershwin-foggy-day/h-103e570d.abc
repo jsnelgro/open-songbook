@@ -1,0 +1,32 @@
+---
+workId: george-gershwin-foggy-day
+arrangementId: h-103e570d
+title: A Foggy Day
+artist: George Gershwin
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: A Foggy Day
+C: George Gershwin
+M:4/4
+L:1/4
+Q: 120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Gershwin
+%%songbook-uri /post/a-foggy-day/
+K: F
+"F^7"zCCC|"Am7b5"_E2-"D7b9"EEE|"Gm7"DD3|"C7"A4|
+"F6"zFFF|"Dm7b5"_A3A|"G7"G3G|"Gm7"d2"C7"z2|
+"F^7"zeee|"Cm7"cc-"F7"c2|"Bb6"A3A|"Bbm6"F4|
+"F^7"zAAA|"Am7"cc-"D7"c2|"G7"A3A|"Gm7"D2"C7"z2||
+"F^7"zCCC|"Am7b5"_E2-"D7b9"EEE|"Gm7"DD3|"C7"A4|
+"F6"zFFF|"Dm7b5"_A3A|"G7"G3G|"Gm7"d2"C7"z2|
+"Cm7"f2ff|"F7"d3d|"Bb6"c2c2|"Eb7"A2AB|
+"F6"cF"Gm7"GB|"Am7"AF"Bbm6"GB|"Am7"A2"Dm7"f2|"Gm7"F2"C7"G2|
+"F6"F4-|F3z||

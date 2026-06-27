@@ -1,0 +1,29 @@
+---
+workId: eddie-harris-without-you
+arrangementId: h-7e3421df
+title: Without You
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Without You
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z G/d/ | "Cm7" B4 | "F7#9" B/G/ G3 | "Bbm7" A/F/ F2 A |  "Cmaj7" G3 z | "Dm7" F2 G/ "G7"F/E/D/ |
+"Em7" E2 F/E/ "A7"D/A,/ | "Dm7" D2 E/ "G7"D/C/B,/ |  "Cmaj9" C3 z | "Abmaj13" C C z/ _E/_A/c/ | "Bm9" c/_B/ B3 | "Ebmaj7" c/_B/ B3 |
+"Abmaj7" _B/_A/ A3 | "Emaj7" ^G2 z/ B/e/G/ | "F#m7" B/A/ "B7" A3 | "Em7" B/G/ G "A7" z/ ^F/G/A/ |  "Dmaj7" ^F2 "G7" z G/d/ | "Cm7" B4 |
+"F7" B/G/ G3 | "Bbm7" A/F/ F2 A |  "Cmaj7" G2 z/ A/c/d/ | "Fm7" e/c/c/e/ c2- | "Bbmaj7" c2 z/ G/c/d/ | "Eb" _e/c/c/e/ c2- |
+c2 z/ "Abmaj7" F/c/d/ | "Dm7" e/c/c/e/ c2- | "G7#9" c2 A e/c/- | "Cmaj7" c3 z |  "Cmaj13#11" z4 |]

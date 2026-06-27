@@ -1,0 +1,37 @@
+---
+workId: jeff-lorber-he-had-a-hat
+arrangementId: h-488064ba
+title: He Had A Hat
+artist: Jeff Lorber
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:He Had A Hat
+C:Jeff Lorber
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 8/27/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Fm11" A3/4 "Bbm11"B3/4 "Ebm11"B/ "Abm11" B3/4 "Dbm11"B3/4 "Gbm11"B/ | "Bm11" B3/4 "Ebm11"B3/4B/ "Abm11" B3/4 "Dm11"B3/4 "Gbm11"B/ |
+"Fm11" A3/4 "Bbm11"B3/4 "Ebm11"B/ "Abm11" B3/4 "Dbm11"B3/4 "Gbm11"B/ | "Bm11" B3/4 "Ebm11"B3/4B/ "Abm11" B3/4 "Dm11"B3/4 "Gbm11"B/ |
+"F7#11" z4 | "Eb7#11" z4 | "Bbm11" z4 | "C7#9b13" z4 |  "F7#11" z4 | "Eb7#11" z4 | "Dm11" z4 | "Dbmaj9" z4 "Gb13" |:
+"F7#11""_Solos" z4 | "Eb7#11" z4 | "Bbm11" z4 | "C7#9b13" z4 |  "F7#11" z4 | "Eb7#11" z4 | "Dm11" z4 | "Dbmaj9" z4 "Gb13" :|
+"C7#11""_Head" c "D7#11" d2 z | "Ab/Bb" A B- "Bb/C" B z | "F#m11" ^f2 "Abm11" A2 | "Emaj9" E2 c2 "C7#9b13" |  "F7#11" z f/4c/4e/- e/>F/ A/4B/4c/4B/4- |
+"Eb7#11" B/e/ z z3/4 F/4 A/4B/4c/4B/4- | B/4F/4A/- A "Dm9" z3/4 F/4 A/4B/4c/4 "Dbmaj9"_d/4 | z/ c/4 z/4 B/4-B/4A/4 "Gb13"B/4- B z |
+"F7#11" z f/4c/4e/- e/>F/ A/4B/4c/4B/4- | "Eb7#11" B/e/ z/ z/ z z3/4 c/4 | "Dm9" =e/4g/4e/ c/4e/4c/- c/>F/ A/4B/4c/4B/4- |1
+"Dbmaj9" B/8_c/8B/8A/8 "Gb13"F/ B/4F/4A/- A2- ||  A2 z2 :|1 "Dbmaj9" B/8_c/8B/8A/8 "Gb13"F/ B/4F/4A/- A2- || B/4A/4B/4c/4 B/4A/4F/4A/4 z/4 E/4 F3/2 |
+"Cm7" [B,EG]/[C_DFA]/- "Dbmaj7" [CDFA] "Bm7" [A,DF]/[B,GB]/- "Cm7" [B,GB] |  B/4A/4B/4c/4"_Unis." B/4A/4F/4A/4 z/4 E/4 F3/2 | "Abmaj7" [Gce]/ "Eb/G" [FBe] [=EABe]/- "Gb13" [EABe]2 |
+B/4"_Unis."A/4B/4c/4 B/4A/4F/4A/4 z/4 E/4 F3/2 | "Cm7" [B,EG]/ "Dbmaj7"[C_DFA]/- [CDFA] "Bm7" [A,DF]/[B,GB]/- "Cm7"[B,GB]/[CFGc]/- |  "Gm11" [CFGc]3 z/ "C7#9" [=EABe]/- | [EABe]4 |:
+"^solos" z4"^After solos, play head, take Vamp" ::
+"Fm11""_vamp/Piano Solo" A3/4 "Bbm11"B3/4 "Ebm11"B/ "Abm11" B3/4 "Dbm11"B3/4 "Gbm11"B/ |  "Bm11" B3/4 "Ebm11"B3/4B/ "Abm11" B3/4 "Dm11"B3/4 "Gbm11"B/ :|
+B/4A/4B/4c/4"_Unis." B/4A/4F/4A/4 z/4 E/4 F3/2 | "Cm7""_Rit."!<(! [B,EG]/[C_DFA]/- "Dbmaj7" [CDFA] "Bm7" [A,DF]/[B,GB]/- "Cm7" !fermata![B,GB] | "Fsus4"!ffff! !fermata![DEFGc]4!<)! |]

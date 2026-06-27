@@ -1,0 +1,44 @@
+---
+workId: joe-sample-put-it-where-you-want-it
+arrangementId: h-e095f886
+title: Put It Where You Want IT
+artist: Joe Sample
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Put It Where You Want IT
+C:Joe Sample
+C:The Crusaders
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 10/26/2016
+Z:
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "C7" _B/ c c B _e/- | e/ c3/2- c2 | _E/F/-F/F/- F/E/->E/c/- | c4 |
+_B/4->B/4 c c B _e/- | e/ c3/2- c- c | _E/ F F E C/- | C4 |  _B/ c c B _e/- |
+e/ c3/2- c2 | _E/ F F E c/- | c2- c2 |  _B/ c c B _e/- | e/ c3/2- c2 |
+_E/ F F E C/ ||"^Horns In" z/ "C7" _E/D/C/ D A,/C/- |  "D9" C4 | "F9" z/ _E/D/C/ D A,/C/- |
+"C7" C4 | "C7" z/ _E/D/C/ "E7" D =E/C/- |  "D9" C4 | "F9" z/ _E/D/C/ D/-D/A,/C/- |
+"C7" C2- C2 |1 "C7" z4 :|2  "C7" z C/C/ E/E/F/F/ || "Am7" [A,A]4 | "C7/G" [Cc]4- |
+"F7" [Dc]4- |  "D7" [Cc]4 |: "C7""_Solos" z4 | "F7" z4 :|
+V:2
+|: z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+"^Horn Fills 2x Only" z4 || z4 |  z z z/ _e/d/c/- | c3/2 z/ z2 |
+z z A/G/_E/D/ | C/-C/ z/ z/ z2 |  z2 z/ _e/d/c/- | c3/2 z/ z2 |
+z z A/c/c/A/ |1 c z z2 :|2  z4 || z z A/c/d/c/- | c3/2 A/ G/A/ _E/4D/4C/ |
+z2 z2 |  A/c/c/A/ _e/d/ c/ z/ |: z4 | z4 :|

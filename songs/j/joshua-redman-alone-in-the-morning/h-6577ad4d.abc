@@ -1,0 +1,33 @@
+---
+workId: joshua-redman-alone-in-the-morning
+arrangementId: h-6577ad4d
+title: Alone in the Morning
+artist: Joshua Redman
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Alone in the Morning
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/14/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Dmaj7" f4- | f3/2 f/ g3/2 f/ | "F#7/C#" f4- | f2 z (3z/ d/e/ |
+f3/2 f2- f/- | "Cmaj7" f2 b3/2 a/ | f3/2 e/ e ^d/f/- | "B7" f3 z |
+"Em7" f3- "Em7/D" f/B/- | "C#dim" B/ e g/ f3/2 "F#7" e/ | "Bm7" d4- | "Bm7/A" d2 (3z B c |
+"G#dim7" d3/2 d2- d/- | "C#7" d2 (3f e d | "C#dim7" c4 | "F#7" z7/2 F/- |
+"Bm7" F/ f3/2 f2- | f3/2 f/ g a/f/- | "F#7" f3/2 f2- f/- | f3 (3z/ d/e/ |
+"Am7" f3/2 f/- f2- | "D7" f2 b3/2 a/ | "Gmaj7" f3/2 e/ (3e f d- | d3/2 d e f/ |
+"C#dim" g4 | "F#7" z3/2 a/ b a/c'/- | "F#dim7" c'4- | "B7" c'3/2 b a g/ |
+"Em7" f3/2 f/ f/ f f/- | "A7" f/ f3/2 f e/d/- | "Dmaj7" d3 z | "Em7" "A7" z4 |]

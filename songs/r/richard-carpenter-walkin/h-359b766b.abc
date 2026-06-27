@@ -1,0 +1,31 @@
+---
+workId: richard-carpenter-walkin
+arrangementId: h-359b766b
+title: Walkin'
+artist: Richard Carpenter
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Walkin'
+C:Richard Carpenter
+C:Miles Davis
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z f | _a/ f3/2 _e c | _e/ c3/2 B F | _A/ F3/2 _E2- |  E3 [cf] |
+[_e_a]/ [cf]3/2 [Be] [Gc] | [B_e]/ [Gc]3/2 [FB] [CF] | [_E_A]/ [CF]3/2 [B,E]2 |  z F/C/ E/ F =B/- |: "F7" B7/2 c/ |
+"F7" z z/ F/ E/ F B/- | "Bb7" B3 A/F/ |  "F7" z z/ _A/4F/4 A/ F e/- | "Bb7" e7/2 f/ | "Bb7" z2 _A/ F =B/- |
+"F7" B7/2 c/ |  "F7" z z z/ A/c/d/ | "C7" _e/e/ d z _d/d/ | "Bb7""_Solos-F Blues (Concert)" c z _c/c/B/B/ | "F7" _A7/2 B/ |1
+"C7" z z/ F/4C/4 E/F/ =B/ :|2"^solos" z4 |]

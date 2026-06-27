@@ -1,0 +1,33 @@
+---
+workId: kenny-dorham-kd-s-motion
+arrangementId: h-d6eca310
+title: KD's Motion
+artist: Kenny Dorham
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:KD's Motion
+C:Kenny Dorham
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/22/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/ E/ (3G/B/c/ | "Eb7" e e e/e/ z | "Ab7" e e/e/ e e- | "Dbm7" e2 e/e/ z/ z/ |
+"B7" a/_g/e/d/ B/ "Bb7"d/e/e/ | "Bb7" z3/2 e/4d/4 B/d/e/e/ | "Bb7" z2 z/ E/ (3G/B/c/ | "Eb7" e e e/e/ z |
+"Ab7" e e/e/ z e | "Db7" e2 "Gb7" e/e/ z | "Bb7" a/_g/e/d/ "Ab7" B/d/e/e/ | "Bb7" z3/2 e/4d/4 B/d/e/e/ |  "Fm7" z2 z/ "Bb7" E/ (3G/B/c/ |:
+"Eb7" e/B/ d3/2 z/ _g/f/ | "Ab7" f e/d/ B/A/_G/=G/- | "Eb7" G/(3E/D/E/(3z/B,/A,/B,/ z |  "Eb7" z/ c/ B _G =E/_E/ |
+"Ab7" z/ _G/ A/>E/ G A | "Ab7" z/ _G/ A3/4 z/4 G E/E/ | "Eb7" z/ G/A/G/ E/=D/ _D/ z/ |  z/ "Dm7" c/z/ "G7"e/ z2 |
+"Fm7" z/ F/B/F/ A/F/ z | "Bb7" z/ E/A/E/ _G/E/ z | "Eb7" A/G/E/D/ B,/D/E/E/ |  "Eb7" z2 z/ E/ (3G/B/c/ :|
+z2 z/ E/ (3G/B/c/ | "Eb7" e e e/e/ z | "Ab7" e e/e/ e e- |  "Dbm7" e2 e/e/ z/ z/ | "B7" a/_g/e/d/ B/ "Bb7"d/e/e/ |
+"Eb" z3/2 e/4d/4 B/d/e/e/ | "Eb" z2 z/ E/ (3G/B/c/ |  "Eb7" e e e/e/ z | "Ab7" e e/e/ z e | "Db7" e2 "Gb7" e/e/ z |
+"Bb7" a/_g/e/d/ "Ab7" B/d/e/e/ |  "Bb7" z3/2 e/4d/4 B/d/e/e/ |]

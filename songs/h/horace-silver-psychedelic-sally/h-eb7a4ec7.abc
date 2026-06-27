@@ -1,0 +1,33 @@
+---
+workId: horace-silver-psychedelic-sally
+arrangementId: h-eb7a4ec7
+title: Psychedelic Sally
+artist: Horace Silver
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Psychedelic Sally
+C:Horace Silver
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+|: G,,/ "Cm7"_B,,/=B,,/C,/ z/4 G,,/ z/4 C,/C,/ | "F7" _E,/=E,/ F,/z/4C,/z/4F,/ F,/4F,/ z/4 | "Cm6" _B,,/=B,,/ C,/z/4G,,/z/4C,/ C,/4C,/ z/4 |
+"F7" _E,/=E,/ F,/z/4C,/z/4F,/ F,/4F,/ z/4 |  "Cm7" _B,,/=B,,/ C,/z/4G,,/z/4C,/ C,/4C,/ z/4 | "F7" _E,/=E,/ F,/z/4C,/z/4F,/ F,/4F,/ z/4 ::
+"Cm7""^Bass Sim""_A""^Med\n Groove\n" z/ g/g/g/ c/_e/c/ z/ | "F7" z/ g/g/g/ c/_e3/4 z/4 z/ |  "Cm7" z/ g/g/g/ c/_e/c/ z/ | "F7" z/ g/g/g/ c/_e3/4 z/4 z/ |
+"Cm7" z/ g/g/g/ c/_e/c/ z/ | "F7" z/ g/g/g/ c/_e3/4 "C" z/4 z/ |  "Cm7" "C" c7/2 z/ | "C" g/g/g/c/ _e/_B/ c/ z/ :|
+"_B""^Fast Swing" z/ _e/ "Ab7"f/^f/ =f/e/^c/e/ | "Ab7" z/ _e/f/^f/ =f/e/^c/=c/ |  "Ab7" z/ _e/f/^f/ =f/e/^c/e/ | "Ab7" f/ _e3 z/ |
+"Ab7" z/ _e/f/^f/ =f/e/^c/e/ | "Ab7" z/ _e/f/^f/ =f/e/^c/=c/ |  "Ab7" z/ _e/f/^f/ =f/e/^c/e/ | "Ab7" f/ _e3 z/ |
+"Cm7""_A""^Med\n Groove" z/ g/g/g/ c/_e/c/ z/ | "F7" z/ g/g/g/ c/_e3/4 z/4 z/ |  "Cm7" z/ g/g/g/ c/_e/c/ z/ | "F7" z/ g/g/g/ c/_e3/4 z/4 z/ |
+"Cm7" z/ g/g/g/ c/_e/c/ z/ | "F7" z/ g/g/g/ c/_e3/4 "C" z/4 z/ |  "Cm7" "C" c7/2 z/ | g/g/g/c/ _e/_B/ c/ z/ |]

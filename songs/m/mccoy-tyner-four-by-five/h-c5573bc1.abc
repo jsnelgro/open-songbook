@@ -1,0 +1,40 @@
+---
+workId: mccoy-tyner-four-by-five
+arrangementId: h-c5573bc1
+title: Four By Five
+artist: McCoy Tyner
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Four By Five
+C:McCoy Tyner
+C:Arr. 6EQUJ5
+Z:©
+%%score 1 2
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+"E7" ^c/z/^G/^F/ D/z/c/ z/ | "E7" ^G/A/^F/ z/ ^c/z/G/F/ | "E7" D/z/^c/ z/ "F#7" ^d2 | z4 |
+"E7" ^c/z/^G/^F/ D/z/c/ z/ | "E7" ^G/A/^F/ z/ ^c/z/G/F/ | "E7" D/z/^c/ z/ "F#7" ^d2 | z4 |
+"G7" F,3 "A7" A,- | A, "B7" B,3 | "C#7" ^C- C "Eb7" ^D- D- | D "F7" F- F "G7" G- |  G2 "A7" A2 |
+^c/z/^G/^F/ D/z/c/ z/ | ^G/A/^F/ z/ ^c/z/G/F/ | D/z/^c/ z/ ^d2 |  ^D/^C/^A,/ z/ ^F,2 |:
+"E7" z4 | z4 | z4 |  z4 | z4 | z4 | "F#7" z4 |  z4 | "G7" z4 | "A7" z4 | "B7" z4 |  "C#7" z4 | "Eb7" z4 |
+"F7" z4 | "G7" z4 |  "A7" z4 :|
+V:2
+G/ z3/2 z D/ z/ | z2 B/ z3/2 | z D/ z/ D2 | ^D/^C/^A,/ z/ ^F,2 |
+G/ z3/2 z D/ z/ | z2 B/ z3/2 | z D/ z/ D2 | ^D/^C/^A,/ z/ ^F,2 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 |:
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 :|

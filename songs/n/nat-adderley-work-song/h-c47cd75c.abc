@@ -1,0 +1,28 @@
+---
+workId: nat-adderley-work-song
+arrangementId: h-c47cd75c
+title: Work Song
+artist: Nat Adderley
+source: jazz
+key: Fm
+tags:
+  - Hardbop
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Work Song
+C: Nat Adderley
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Hardbop,Swing
+%%songbook-tags Hardbop
+%%songbook-uri /post/work-song/
+K: Fm
+"Fm7"z2 FF A B2 c-|c2 cB c2 e2| z2 FF A B2 F-|F2 FE F2z2|
+z2 FF A B2 c-|c2 cB c2 e2| "C7" z2 cc e c2 =e-|e2 cB c2 z2|
+"Fm7" z2 fe (3B1/2_c1/2B1/2A BA-|A2 AF A2 B2|z2 FF A B2 F-|F2 FE FE F2|
+"F7" =Bc z2z2 F2|"Bb7"B_c z2 "Eb7"z F A=B|"G7"z _B z A "C7" (3B1/2_c1/2B1/2A1/2F1/2 EF-|"Fm7"F8||

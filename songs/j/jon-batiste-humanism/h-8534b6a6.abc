@@ -1,0 +1,30 @@
+---
+workId: jon-batiste-humanism
+arrangementId: h-8534b6a6
+title: Humanism
+artist: Jon Batiste
+source: jazz
+key: Cb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Humanism
+C:Jon Batiste
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me 11/21/2015
+Z:
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Cb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Guitar Intro" z4 | z4 | z4 | z z z z/ G/4A/4 |:  "Abm" "Abm" c/A/c/A/ c/A/ c/4d/4e/4e/4 | "Db" "Ab" z z z z/ G/4A/4 |
+"E" "Dbm" c/A/c/A/ c/A/ c/4d/4e/4d/4 | "F#" "F#" z z z z/ G/4A/4 |  "Abm" "Abm" c/A/c/A/ c/A/ c/4d/4g/4e/4 | "Db" "Ab" z z z z/ G/4A/4 |
+"E" c/A/c/A/ c/A/ c/4d/4e/4d/4- | "F#" d- d/c/4B/4- B z/ G/4A/4 ::1  "Abm""^Solos" z4 || "Db" z4 | "E" z4 |
+"F#" z4 |  "Abm" z4 | "Db" z4 | "E" z4 | "F#" z4 :|1  "Abm""^Ending" a g e/d/c/d/- ||
+d/ "Db" e c/- c/A/G/ "Ab"A/- | A4 |]

@@ -1,0 +1,43 @@
+---
+workId: kenny-dorham-high-seas
+arrangementId: h-0b218bab
+title: High Seas
+artist: Kenny Dorham (Kenny D)
+source: jazz
+key: Gb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:High Seas
+C:Kenny Dorham (Kenny D)
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/20/2017
+Z:
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+z/ z/ E/4G/4z/4A/4 A/G/ (3z/ E/D/ |: E4 | z E/4G/4z/4A/4 =A/4_A/4G/ (3z/ E/D/ |
+E4 |  z E/4G/4z/4A/4 A/G/ (3z/ E/D/ | E4 | z/ E/G/E/ G/E/D/[B,E]/- |1
+[B,E]3/2 [CG]/- [CG] [=CE]/[DE]/ |  z E/4G/4z/4A/4 A/(3z/E/D/ z/ :|2 [B,G]4 || z z z z/ E/ |
+B3/2 E/ A3/2 E/ |  G/ E3/2 z3/2 E/ | G/ E D/ [G,E] D/[=A,E]/- | [A,E]2 z3/2 E/ | B3/2 E/ A3/2 E/ |
+G/ E3/2 z3/2 E/ | G/ E D/ E D/[EA]/ | z/ z/ E/4G/4z/4A/4 A/G/ (3z/ E/D/ | E4 |
+z E/4G/4z/4A/4 =A/4_A/4G/ (3z/ E/D/ | E4 | z E/4G/4z/4A/4 A/G/ (3z/ E/D/ | E4 |
+z/ E/G/E/ G/E/D/[B,E]/- | [B,E]4 | z4 |]
+V:2
+z4 |: z2 "A7" G3/2 "Ab7" G/ | z4 |
+z2 "G7" G3/2 "Gb7" G/ |  z4 | z2 "F7" G3/2 "Emaj7" G/ | z4 |1
+"Ebm7" z4 |  z4 :|2 "Ebm7" z4 || z4 |
+"Em7" z4 "Dbm7" |  "Bmaj7" z4 | z/ "Ebm" G/ z "Db7" G z/ "F7" G/- | G2- G2 | "Ebm7" z4 "Dbm7" |
+"Bmaj7" z4 | z/ "Gbmaj7" G3/2 "F7" G3/2 "Emaj7" G/ | z4 | z2 "A7" G3/2 "Ab7" G/ |
+z4 | z2 "G7" G3/2 "Gb7" G/ | z4 | z2 "F7" G3/2 "Fmaj7" G/ |
+z4 | "Ebm7" z4 | z4 |]

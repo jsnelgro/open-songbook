@@ -1,0 +1,33 @@
+---
+workId: eddie-harris-i-don-t-want-no-one-but-you
+arrangementId: h-9daca2ca
+title: I Don't Want No One But You
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:I Don't Want No One But You
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=150
+M:3/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+z z/ z/ (3B,/D/E/ |: "Em7" D z (3B,/D/E/ | "A7" G, z (3B,/D/E/ | "Em7" D z (3B,/D/E/ |  "A7" G, z (3B,/D/E/ |
+"Em7" D z (3B,/D/E/ | "A7" G, z (3B,/D/E/ ::"^Head" z2 z/ e/ |  "Em7" g3/2 a b/ | "A7""^Bass Sim" (3g/^f/e/- e3/2 d/ | "Em7" e/g/ z z |
+"A7""_Bass Walk" z2 z/ e/ |  "Em7" g3/2 a b/ | "A7" (3g/^f/e/- e3/2 d/ | "Em7" e/g/ z z | "A7" z2 z/ e/ |  "Em7" g3/2 a b/ | "G7" g2 e |
+"A7" ^c'- c'/(3b/4a/4g/4 e/>d/ | "Bb7" g3/2 e/- e/e/ |  "C9""_Bass Vamp" g3/2 a b/ |
+"F#m7" g/e/ z/ "B7" e d/ | "Em7" e z z | "Em7" z2 z/ e/ ::
+"Em7""^Solos""^Bass Vamp" z3 | "A7" z3 | "Em7" z3 | "A7" z3 |
+"Em7" z3 | "A7" z3 | "Em7""^Bass Walk" z3 | "A7" z3 |  "Em" z3 | "G9" z3 | "A7" z3 | "Bb7b5" z3 |
+"C9" z3 | "F#m7" z3 "B7" | "Em7" z3 | "Em7" z3 :|

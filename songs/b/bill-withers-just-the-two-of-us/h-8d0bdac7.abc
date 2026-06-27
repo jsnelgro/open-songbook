@@ -1,0 +1,29 @@
+---
+workId: bill-withers-just-the-two-of-us
+arrangementId: h-8d0bdac7
+title: Just the Two of Us
+artist: Bill Withers
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Just the Two of Us
+C:Bill Withers
+C:Arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 |: "Dbmaj7" z/ A/A/A/ G/ "C7"G/A/B/ | "Fm7" c d/e/ "Ebm7" f/e/ "Ab7"c/B/ |  "Dbmaj7" A/>A/ c/c/4 "C7"B/4- B/A/c/B/ |
+"Fm7" A/<F/ z z2 | "Dbmaj7" z/ A/A/A/ "C7" G/G/A/B/ | "Fm7" c d/e/ "Ebm7" f/e/ "Ab7"c/B/ |  "Dbmaj7" A/>A/ c/4B/4A/4 "C7"B/4- B/A/c/B/ |
+"Fm7" A/<F/ z z/ c/B/A/ | "Dbmaj7" B/A/4A/4 z "C7" z e/c/ | "Fm7" e/c/4e/4- e/4e/ "Ebm7"f/4- f/e/ "Ab7"c/A/ |  "Dbmaj9" B/A/4A/4 z z "C7" B/4A/F/4- |
+"Fm7" F5/2 c/B/A/ | "Dbmaj7" B/A/4A/4 z "C7" z e/c/ | "Fm7" e/c/4e/4- e/4e/ "Ebm7"f/4- f/e/ "Ab7"c/A/ |  "Dbmaj9" B/A/4A/4 z z "C7" B/4A/F/4- |
+"Fm7" F5/2 z/ z :|

@@ -1,0 +1,38 @@
+---
+workId: marcus-miller-brother-ray
+arrangementId: h-87e64ed5
+title: Brother Ray
+artist: Marcus Miller
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Brother Ray
+C:Marcus Miller
+C:David Sanborn
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:5/15/2017
+L:1/4
+Q:1/4=96
+M:3/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z3 || "G" z/ D/ =B/B/- (3B/A/G/ | "F7" A/=B/ G2 | "Bb7" z/ E/ c3/2 B/ |  "C7" G/ z/ C3/4B,3/4G,/- |
+"G" G,2 z/4 (3=E/8D/8C/8B,/4 z/4 | "F" C/B,/4G,/4 z z | "Bb7" z3 |  "C7" z3 | "G" z =B/B/- (3B/A/G/ | "F7" A/=B/ G2 |
+"Bb7" z/ F/ d3/2 B/ |  "C7" G/ z/ C3/4B,3/4G,/ | "Eb7" G3 | z3 | "E7sus4" z/ G/ d/ z/ c/B/ |  "F7sus4" c/4d/4c/4B/4 G- G/D/4F/4 |
+"G" G/4G/4G/4F/4 G/4B/4G/4F/4 G/(3F/4D/4_D/4 | "F13" C/>B,/ z z | "Bb" z3 |  "C7" z2 g/<B/ | "G" G/=E/8D/8C/8B,/8 G, z |
+"F7" z3 | "Bb7" z3 |  "C7" z3 | "G" z =B/B/- (3B/A/G/ | "F7" A/=B/ G2 | "Bb7" z c/ c B/ |  "C7" G/ z/ C3/4B,3/4G,/- |
+"G" G,2 z | "F" d/B/4G/4- G z | "Bb6" z3 |  "C7" z3 | "G" z/ G/ d/B/ c/d/ | "F7" c/B/ G3/2 F/4 z/4 | "Bb7" z/ F/ d3/2 B/ |
+"C7" G/ z/ C3/4B,3/4G,/ | "Eb7" G3 | z3 | "E13" z d/4 z3/4 c/B/ |  "D7#11" g/<B/ G- G/D/4G/4 | "G7" B/<c/ d/4d/4c/4_c/4 B/4G/4D/4_D/4 |
+"F7" C/4_C/4B,/4G,/4 =C/4G,/4B,/4C/4 D/4z/4G/4 z/4 | "Bb" c/4B/4G/4F/4 G z |  "C9" z3 | "G7" z2 z/ (3f/8_d/8c/8B/4 | "F7" G2 z |
+"Bb7" z3 |  "C7" z3 | z3 | "Em" =B/4 z3/4 A G | "G7" A/=E/ G2 |  =B/4 z3/4 A G/=E/ | "A7" A/=B/4 z3/4 G3/2 |
+=B/4 z3/4 A G/=E/ | "C7" d/c/<z/B/ A/4z/G/4- |  "B7" G3 | z2 z3/4 =E/4 | "Em" =B/4 z3/4 A G | "G7" A/=E/ G2 |
+=B/4 z3/4 A G/=E/ | "A7" A/=B/4 z3/4 G3/2 | =B/4 z3/4 A G/=E/ | "C7" d/c/<z/B/ G/4 z3/4 |  "B7" G3 | z3 |
+z3 | z3 |]

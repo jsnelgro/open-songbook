@@ -1,0 +1,32 @@
+---
+workId: jimmy-van-heusen-it-s-always-you
+arrangementId: h-c53aa579
+title: It's Always You
+artist: Jimmy Van Heusen
+source: jazz
+key: Ab
+tags:
+  - Ballad
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: It's Always You
+C: Jimmy Van Heusen
+M: 4/4
+L: 1/4
+Q: 1/4=80
+%%songbook-source jazzleadsheet
+%%songbook-categories Ballad
+%%songbook-tags Ballad
+%%songbook-uri /post/its-always-you/
+K: Ab
+P: A
+E|:"Bbm7" (3FFB "Eb7"F_F|"Cm7"E2-"Bo"E=D|"Bbm7" (3_DDF "Eb7"CD|z1/2 "Cm7"E3/2-"F7"E2|
+"Bbm7" (3_DDF "Eb7"CD|"Cm7"EF"Fm7"GA|1 "Bbm7"d2 "Eb7"e2|"Cm7"c2-"Fm7"c =E:|2"Bbm7"d2 "Eb7"G2|"Ab^7"A3/2 G1/2 A =A||
+P: B
+"Ebm7"B E "Ab7"F3/2 E1/2|"Ebm7"B1/2E1/2- E1/2"Ab7"F1/2 - F E|"Db^7"A A "D7b5"A _G1/2A1/2|"Db^7"F4||
+"Fm7"c F "Bb7"G3/2 F1/2|"Fm7"c1/2F1/2- F1/2"Bb7"G1/2 - G F|"Bbm7" (3zBB B A|"Eb7"G3 _G||
+P: A
+"Bbm7" (3FFB "Eb7"F_F|"Cm7"E2-"Bo"E=D|"Bbm7" (3_DDF "Eb7"CD|z1/2 "Cm7"E3/2-"F7"E2|
+"Bbm7" (3_DDF "Eb7"CD|"Cm7"EF"Fm7"GA|"Bbm7"d2 "Eb7"G2|"D^#11"A4||

@@ -1,0 +1,38 @@
+---
+workId: sonny-red-mustang
+arrangementId: h-adde0004
+title: Mustang
+artist: Sonny Red (Sylvester Kyner)
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mustang
+C:Sonny Red (Sylvester Kyner)
+C:Donald Byrd
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5
+Z:6/13/2019
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "C7" z4 :| "C7" [_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- | [B,D] [A,C]/ z/ [_B,D]/ z/ z | [_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- |
+[B,D] [A,C]/ z/ [_B,D]/ z/ z/ G/4A/4 |: "C7" c A/ c A/ c- | c A/ z/ _E2 | [_B,C] A,/ [B,C] A,/ [B,C]- |  [B,C] A,/ z/ _E2 |
+[_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- | [B,D] z/ [_B,D] z/ z | [_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- |  [B,D] [A,C]/ z/ [_B,D]/ z A/ | "F7" c A/ c A/ c- |
+c A/ z/ _e2 | c A/ c A/ c- |  c A/ z/ _E2 | "C7" [_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- | [B,D] [A,C]/ z/ [_B,D]/ z3/2 |
+[_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- |  [B,D] [A,C]/ z/ [_B,D]/ z3/2 | "G7" B3/2 d3/2 B- | B G/F/ D F/ z/ | "F7" A3/2 c3/2 A- |
+A F/_E/ C E | "C7" [_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- | [B,D] [A,C]/ z/ [_B,D]/ z3/2 | [_B,D] [A,C]/ [B,D] [A,C]/ [B,D]- |  [B,D] [A,C]/ z/ [_B,D]/ z A/ ::
+"^Solos over Form\n" z4 :|
+"^Solo Fills" z3/2 C/ "C7" E/F/z/G/- | G F/ z/ E C/ z/ |  z3/2 C/ E/F/z/G/- | G F/C/ E/ z/ z | z3/2 C/ E/F/z/G/- |
+G F/ z/ E C/ z/ |  z3/2 C/ E/F/z/G/- | G F/C/ E/ z/ z || "F7" z3/2 F/ A/_B/z/c/- | c _B/F/ A F/ z/ |
+z3/2 F/ A/_B/z/c/- | c _B/F/ A/ z/ z || "C7" z3/2 C/ E/F/z/G/- | G F/ z/ E C/ z/ |  z3/2 C/ E/F/z/G/- |
+G F/ z/ E C/ z/ | "G7" z3/2 G/ B/c/z/d/- | d c/ z/ B G/ z/ |  "F7" z3/2 F/ A/_B/z/c/- | c _B/ z/ A/ z/ z |
+"C7" z3/2 C/ E/F/z/G/- | G F/ z/ E C/ z/ |  z3/2 C/ E/F/z/G/- | G F/C/ E/ z/ z |]

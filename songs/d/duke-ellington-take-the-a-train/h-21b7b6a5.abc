@@ -1,0 +1,34 @@
+---
+workId: duke-ellington-take-the-a-train
+arrangementId: h-21b7b6a5
+title: Take the A Train
+artist: Duke Ellington
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Take the A Train
+C: Duke Ellington
+M: 4/4
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Duke Ellington,Standard50
+%%songbook-uri /post/take-the-a-train/
+K: C
+P: A
+|:"C^7"G8|z e3 G2 c2|"D7#5"e^G-G6-|G8|
+"Dm7"A8|"G7"A^ABe G_GFd|"C^7"cE-E6|z8:||
+P: B
+"F"Ac-c6|eF3 Ac3|eA3-A4-|A8|
+"D7"Ac-c6|e^F3 Ac3|"Dm7"eA3-A4|"G7b9"_A8||
+P: B
+"C^"G8|z e3 G2 c2|"D7#5"e^G-G6-|G8|
+"Dm7"A8|"G7"A^ABe G_GFd !coda!|"C^7"cE-E6|z8||
+P: 【Ending】
+!coda!|cE-E2 F2 ^F2|GABc z2 c2-|c8-|c8||

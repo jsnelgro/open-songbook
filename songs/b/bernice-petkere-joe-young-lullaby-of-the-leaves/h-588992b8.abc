@@ -1,0 +1,45 @@
+---
+workId: bernice-petkere-joe-young-lullaby-of-the-leaves
+arrangementId: h-588992b8
+title: Lullaby of The Leaves
+artist: 'Bernice Petkere, Joe Young'
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Lullaby of The Leaves
+C:Bernice Petkere, Joe Young
+C:Gerry Mulligan, Chet Baker
+C:Arr. 6EQUJ5
+Z:2020 6EQUJ5 202-06-30
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=120
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+G,/ | C z/ D/ E z/ F/ | ^F G/e/- e z/ d/ | c c/d/ c/G/^F/G/ |  B A E F/G/- |
+G4- | G3/2 A/4G/4 F/E/D/C/ | G4- |  G B/A/ G/F/E/G,/ || C z/ D/ E z/ F/ |
+^F G/e/- e z/ d/ | c c/d/ c/G/^F/G/ |  B A E F/G/- | G4- | G2- G/B/4A/4 G/4F/4E/4G/4- |
+G4- |  G2 z/ c A/ || _G2 A2 | _G2 A2 |
+F =E G =A |  z d/B/ G/F/ =E | _G2 A2 | _G2 A2 |
+z/ G/ c z/ d/ =e |  f/=e/d/c/ B2 | z/ C D/ E F | ^F G/e/- e z/ d/ |
+c c/d/ c/G/^F/G/ |  B A E F/G/- | G4- | G G/A/ _d =d | f e/d/ c =B |
+"D7b5" A G F/ "G7"E/D/=B,/ |]
+V:2
+z/ | "Cm7" z4 "A7b5" | "D7" z4 "G7#5" | "Gm7" z4 "C7" |  "Fm7" z4 "Eb7" |
+"D7b5" =A =B/c/ d e | "G7" d3 e/f/ | "Cm7" f e/d/ e2- |  "Ab7" e z "G7" z/ d/c/G/ || "Cm7" z4 "A7b5" |
+"D7" z4 "G7" | "Gm7" z4 "C7" |  "Fm7" z4 "Eb7" | "D7b5" G3{/A} B | "G7" =B4 |
+"Cm7" d3/2 c/ d3/2 c/ |  d/c/ d3/2 z/ z || "Ab7" (3c/_d/=d/ (3:2:2e e/ (3e/d/_d/ (3:2:2c c/ | (3c/_d/=d/ (3:2:2e e/ (3e/d/_d/ c |
+"C6" g7/2 "G9sus4" =a/ |  "C6" g2- "C7" g/f/=e/d/ | "Ab7" (3c/_d/=d/ (3:2:2e e/ (3e/d/_d/ (3:2:2c c/ | (3c/_d/=d/ (3:2:2e e/ (3e/d/_d/ c/e/ |
+"C6" g7/2 "C7" =a/ |  "Dm7b5" f3/2 g/ "G7" f/=e/d/e/ | "Cm7" z4 "Adim7" | "D7" z4 "G7" |
+"Gm7" z4 "C7" |  "Fm7" z4 "Eb9" | "D7b5" z f2 g/f/ | "G7b13" _d3 =d | "Cm7" f e/d/ e2 |
+e d/c/ d e |]

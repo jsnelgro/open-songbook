@@ -1,0 +1,36 @@
+---
+workId: larry-carlton-room-335
+arrangementId: h-278f5f24
+title: Room 335
+artist: Larry Carlton
+source: jazz
+key: A
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Room 335
+C:Larry Carlton
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/24/2018
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:A
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Dmaj7" c/>c/ z/ "C#m13" c/- c2 | "Bm7" c/>c/ z/ "C#m7" c/- c2 | "Dmaj7" c/>c/ z/ "C#m7" c/- c2 |1 "Bm7" c/>c/ z/ "Amaj7" c/ z/ "Eb7" c3/2 :|2
+"Bm7" z2 z/4 "Amaj7" E/4F/4E/4 "Eb7" A/B/4A/4 || c/< "D"e/- "C#m7" e3- | "Bm7" e2 "C#m7" z/4 c/4B/4A/4 B/4F/4A/4B/4 | "Dmaj7" A3/4F/E/4- "C#m7" E A,3/2- |
+"Bm7" A,2 "Amaj7" z/4 E/4F/4E/4 "Eb7" A/B/4A/4 | "Dmaj7" c/<e/- "C#m7" e3- | "Bm7" e2 "C#m7" z/4 c/4B/4A/4 B/4F/4A/4B/4 | "Dmaj7" A3/4F/D/4 "C#m7" E A3/2- |
+"Bm7" A2 z/4 "Amaj7" =G/4A/4G/4 =c/d/4c/4 | "Fmaj7" e/<=g/- "Em7" g3- | "Dm7" g2 z/4 "Em7" e/4d/4=c/4 d/4A/4c/4d/4 | "Fmaj7" =c3/4A/=F/4 "Em7" =G =C3/2- |
+"Dm7" C2 z/4 "E7" E/4F/4E/4 A/B/4A/4 | "Dmaj7" =c/<e/- "C#m7" e3- | "Bm7" e2 z/4 "C#m7" c/4B/4A/4 B/4F/4A/4B/4 |
+[M:3/4] "Dmaj7" A3/4 "D#dim7"F/D/4 "E7" E3/2 |  "Fmaj7" =c3/4 "F#dim7"A/ "G7"=F/4 =G3/2 | "Gmaj7" d3/4 "G#dim7"B/=G/4 "A7" A3/2- | A2 A/4B/4d/ |
+[M:4/4] "Dmaj7" f f- f/f/ f/4e/4d/ |  "F#7" f/ f e7/4 f/4e/4d/4 | "Bm7" e/f/4d/4- d z/ "Bbm7" B/- (3B/d/e/ | "Am7" (3d/-d/d/- "D7" d3- |
+"Gmaj7" d- (3d/B/ "G#dim7"d/ e/d/4 "C#7"c/B3/4 |  "F#m9" B/4A/ A3/2 "B7" =c3/4 B/A/ | "Emaj7" G- (3G/B,/C/ "F#m9" A- (3A/B,/=C/ | "Gm7" (3_B/-B/B/- "C9" B3 "C#9" |
+"Dmaj7" z F/A/4A/A3/4 F/4E/4D/ |  "F#7" F/ F E/- E- E/4F/4E/4D/4 | "Bm7" E/F/4D/4- D z/ "Bbm7" B/ d/4e/4f/ | "Am7" =g/ f "D7" d/- d2- |
+"Gmaj7" d- (3d/B/d/ "G#dim7" e/d/4 "C#7"c/B3/4 |  "F#m7" B/A/4 A3/2 "B7" A3/4 G/F/ | "Em7" G/>F/ G/>F/ "A7" G/F/ D/4E/4F/ |
+"Gmaj7" D4- "F#dim7" | "Em7" D4- "Dmaj7" |  "Dmaj7" D4 "C#m7" | "Bm7" "Amaj7" z4 "Eb7" |]

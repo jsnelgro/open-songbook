@@ -1,0 +1,33 @@
+---
+workId: gerry-mulligan-and-johnny-hodges-back-beat
+arrangementId: h-8a599699
+title: Back Beat
+artist: Gerry Mulligan & Johnny Hodges
+source: jazz
+key: Db
+tags:
+  - Swing
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Back Beat
+C: Gerry Mulligan & Johnny Hodges
+M: 4/4
+L: 1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing,Blues
+%%songbook-tags Blues
+%%songbook-uri /post/back-beat/
+K: Db
+P: Melody
+"Db"Adz2z4|"Eb7"Bez2z4|"A7"_ff e2 "Absus7"d2 Bd-|"Db"d4 z4|
+"Db"Adz2z4|"Eb7"Bez2z4|"A7"_ff e2 "Absus7"d2 Bd-|"Db"d4 f2 g2|
+"Db7"a4 a2 bd-|d4 d2 d2|"Gb"g4g2ad-|"Go7"d4z4|
+"Db"Adz2z4|"Eb7"Bez2z4|"A7"_ff e2 "Absus7"d2 Bd-|"Db"d4 z4||
+P: Solo on Blues
+"Db7"z8|z8|z8|z8|
+"Gb7"z8|z8|"Db7"z8|z8|
+"Ebm7"z8|"Ab7"z8|"Db7"z8|z8||

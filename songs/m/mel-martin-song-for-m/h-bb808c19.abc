@@ -1,0 +1,35 @@
+---
+workId: mel-martin-song-for-m
+arrangementId: h-bb808c19
+title: Song For M
+artist: Mel Martin
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Song For M
+C:Mel Martin
+C:Ken Walker
+C:Arr. 6EQUJ5
+Z:©
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z/ "Dm7b5" F G/ A G/B/- | "G7#9" B/ A G F G/- | "Cm7" G7/2 "Bm7" G/ | c "Bbm7" B "A7" G E/C/- |  "Abmaj7" C2- C/ F G/ |
+"G7#9" B A G E/D/- | "Cm7" D4- | "F13" D4 |  "Dm7b5" z/ F G/ A G/B/- | "G7#9" B/ A G F G/- | "Cm7" G7/2 "Bm7" G/ |
+c "Bbm7" B "A7" G F/E/- |  "Abmaj7" E2- E/ C F/ | "G7#9" G F E C/F/- | "Cm11" F4- | F4 |
+"Fm11" z/ [F,A,C]/[A,CE]/[CEG]/ [EGB]/[CEG]/[A,CE]/[F,A,C]/ | [EGB] [CEG]/[A,CE]/- [A,CE]2 | "Abm11" z/ [A,_CE]/[CE_G]/[EGB]/ [GB_d]/[EGB]/[CEG]/[A,CE]/ | [GB_d] [EGB]/[_CEG]/- [CE_G]2 |
+"Bm11" z/ [=B,D^F]/[DF=A]/[FA^c]/ [Ac=e] [FAc]/[Ace]/ | [^F=A^c] [DFA]/[FAc]/ [DFA]2 | "Em11" [DG=B] [DGB] "Dm11" [CF=A]3/2 "Cm11" [B,-E-G]/ | [B,EG]/ [B,EG] "Bbm11" [A,_DF]/- [A,=DF]2 |
+"Am11" [G,C=E] [G,CE] "Gm11" [F,B,D]3/2 "Fm11" [E,A,C]/- | [E,A,C]/ [E,A,C] "Ebm11" [_D,_G,B,]/- [D,G,B,]2 | "Dm7b5" z/ F G/ A G/B/- | "G7" B/ A G F G/- |  "Cm7" G7/2 "Bm7" G/ |
+"Bbm7" c B "A7" G E/C/- | "Abmaj7" C2- C/ F G/ | "G7#9" B A G F/G/- |  "Cm7" G4- | "Cm7" G4O :| "Cm7" G3/2 G/ z2 |
+"Bm7" G3/2 G/ z2 |  "Bbm7" G3/2 G/ z2 | "Abmaj7" B A "G7" E F/G/- | "Cm7" G3/2 G/ z2 | "Bm7" G3/2 G/ z2 |
+"Bbm7" G3/2 G/ z2 | "Abmaj7" B A "G7" E F/G/- | "Cm7" G3/2 G/ z2 | "Bm7" G3/2 G/ z2 |  "Bbm7" G3/2 G/ z2 |
+"Abmaj7" C/D/E/F/ z/ c/=B/c/-O | c4- | c4 |]

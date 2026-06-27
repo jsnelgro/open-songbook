@@ -1,0 +1,56 @@
+---
+workId: herbie-hancock-cantaloupe-island
+arrangementId: h-798a286a
+title: Cantaloupe Island
+artist: Herbie Hancock
+source: jazz
+key: Fm
+tags:
+  - Funk
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Cantaloupe Island
+C: Herbie Hancock
+M: 4/4 
+L: 1/8 
+Q: 120 
+%%songbook-source jazzleadsheet
+%%songbook-categories Funk
+%%songbook-tags Funk
+%%songbook-uri /post/cantaloupe-island/
+K: Fm
+V:T1  clef=treble name="Melody" snm="M"
+V:T2  clef=treble name="Piano" snm="pn"
+V:T3  clief=bass name="Bass" snm="bs"
+V:T1
+|:"Fm11"z8 |z8 |z8 |z4 z2FF :|
+V:T2
+|:z [A,C] [B,2=D2] [C2E2] [B,D][A,C]|z8|z8|z8:|
+V:T3
+|:F,,3 C,C,2 E,F, |z8|z8|z8:|
+V:T1
+"Fm11"z4ABB2- |B3A Bc EF|z8|z4 z2 FF|
+V:T2
+z [A,C] [B,2=D2] [C2E2] [B,D][A,C]|z8|z8|z8|
+V:T3
+F,,3 C,C,2 E,F, |z8|z8|z8|
+V:T1
+"Db7#11"z4ABB2- |B3A Bc EF|z8|z4 ce ce|
+V:T2
+z [A,_C] [B,2D2] [C2E2] [B,D][A,C]|z8|z8|z8|
+V:T3
+D,,3 A,,A,,2 =B,,D, |z8|z8|z8|
+V:T1
+"Dm11"F3F-F4|z4 ce ce|F3F-F4|z8|
+V:T2
+[G,3C3F3] [G,CF]-[G,4C4F4]|z8|[G,3C3F3] [G,CF]-[G,4C4F4]|z8|
+V:T3
+=D,,3D,,D,,4|z8|_D,,3D,,D,,4|z8|
+V:T1
+"Fm11"z8 |z8 |z8 |z4 z2FF ||
+V:T2
+z [A,C] [B,2=D2] [C2E2] [B,D][A,C]|z8|z8|z8||
+V:T3
+F,,3 C,C,2 E,F, |z8|z8|z8||

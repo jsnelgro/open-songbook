@@ -1,0 +1,32 @@
+---
+workId: eddie-harris-is-there-a-place
+arrangementId: h-2db4ea55
+title: Is There a Place?
+artist: Eddie Harris
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Is There a Place?
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Ebmaj7" d2 z/ c/B/G/ | "Am7" D3 "D7" z/ C/ | "Fm7" F/F/- F2 z/ C/ | "Eb13" G2 (3z/ G/A/ (3B/c/^c/ |
+"Ebmaj7" d2 z/ c/B/G/ | "Am7" D3 "D7" z/ C/ | "Fm7" F/F/- F2 z/ C/ | "Bb13" G3 "Abm7" E |  "Eb7" B3- B/c/ |
+"Bbm7" (3_d e c "Eb7" (3d- d c | "Ab7" E3 z/ F/ | "Ebm7" (3_G A F (3G- "Ab7" G F |  "Dbmaj13" A4 | "Dbm7" (3A B "Gb9" _c A2 | "B13" A4 |
+"Gbm9" ^G/ ^C "Bb7" G/ =E C/=B,/- |  "Ebmaj9" B,4 | "G7" (3=B, D =E "Dm7" (3F G "G7" =A | "Cmaj7" =B2 z/ =A/G/=E/ | "F#m7" =B,3 z/ "B7" A,/ |
+"Dm7" D/D/- D2 z/ A,/ | "G13" =E3 G | "Gm7" d2 z/ c/=A/E/ | "C9" D3 z |  "F7" d2 z/ c/=A/E/ | "Fm7" D4 "Bb7" |
+"Ebmaj7" (3d c e d c/d/- | "Ab7" d4 |  "Ebmaj7" (3d c e d c/d/- | "D7" d4 | "Dm7" (3d c e d c |
+"F7" (3e c "G7" f e c/c/- |  "Cm7" c4 | "Fm7" "Bb7" z4 |]

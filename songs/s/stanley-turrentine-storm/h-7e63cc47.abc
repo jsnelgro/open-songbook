@@ -1,0 +1,30 @@
+---
+workId: stanley-turrentine-storm
+arrangementId: h-7e63cc47
+title: Storm
+artist: Stanley Turrentine
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Storm
+C:Stanley Turrentine
+C:Arr. 6EQUJ5
+Z:©2016 Finmsuic 12/6/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Cm7""_Intro" z4 | "F13" z4 | "Cm7" z4 | "F13" z4 |  "Cm7" z4 | "F13" z4 | "Cm7" z4 |
+"F13" z z z/ C/E/G/-"_Head" |:  "Cm7" G3/2 F/ G/F/E/G/- | "F7sus4" G/-G/ z "F7" z/ C/E/F/- | "Dm7b5" F3/2 E/ "G7#9" _G/F/4E/4 B,/C/- |
+"Cm7" C z z/ "F13" C/E/F/- |  "Dm7b5" F3/2 E/ F/E/C/F/- | "G7b9" F z z/ "G7#9" C/E/F/- | "Cm7" F3/2 E/ _G/F/4E/4 B,/C/- |
+"Am7b5" C/-C/ z z/ "Eb7" C/E/G/- |  "Abmaj7" G3/2 [FB]/ G/F/E/G/- | "Dm7b5" G z z/ "G7#9" C/E/F/- | "Cm7" F3/2 E/ _G/F/4E/4 B,/C/- |
+"F7sus4" C z "F7" z/ C/E/G/ ::  "Cm7""^Solos" z4 | z4 | "Cm7" z4 | z4 |  "Dm7b5" z4 | "G7#9" z4 |
+"Cm9" z4 | z4 |  "Abmaj7" z4 | "Dm7b5" "G7#9" z4 | "Cm7" z4 | z4 :|

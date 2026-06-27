@@ -1,0 +1,27 @@
+---
+workId: thelonious-monk-blue-monk
+arrangementId: h-31af3e2a
+title: Blue Monk
+artist: Thelonious Monk
+source: jazz
+key: Bb
+tags:
+  - Swing
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Blue Monk
+C: Thelonious Monk
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing,Blues
+%%songbook-tags Blues,Thelonious Monk
+%%songbook-uri /post/blue-monk/
+K: Bb
+"Bb"DE=EF-F4|"Eb7"G^GAB-B4|"Bb7"F=GF=E _EF,^CD-|D _E2 C-C4|
+"Eb7"G^GAB-B4|"Eo7"B=Bc_d-d4|"Bb7"F=GF=E _EF,^CD-|D6 (3FFF|
+"Cm7"F F,3 - F,4|"F7"F=GF=E _EF,^CD-|"Bb7" D2 FG F=E_EF,| _CD3-D4||

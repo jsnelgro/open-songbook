@@ -1,0 +1,32 @@
+---
+workId: antonio-carlos-jobim-dindi
+arrangementId: h-dcac8165
+title: Dindi
+artist: Antônio Carlos Jobim
+source: jazz
+key: Eb
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Dindi
+C: Antônio Carlos Jobim
+M: 4/4
+L: 1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Antônio Carlos Jobim
+%%songbook-uri /post/dindi/
+K: Eb
+P: A
+|:"Eb^7"B6 GF- |"Db^7"F6 GA|"Eb^7"B B2 B (3B2c2B2|"Bbm7"_d2 cB "Eb7"AG2F|
+"Ab^7"G E2 EE4|"Db7"GE2EE4|"Eb^7"GE2EE4|[1 "Bbm7" z8:|[2 "Am7b5" z4 "D7b9"z4||
+P: B
+"Gm7"z2 z d cB=AG|"Ebm7"_G4- "Ab7"G E2G|"Gm7"=G4- "Ab7" GE2^F|"Gm7" G4 "C7" z4|
+"Fm7"z2 z c BAGF|"Dbm7"=E4- "Gb7" (3 E2 _D2 E2|"Fm7"F4- "Gb7" (3 F2 _D2 =E2|"Fm7"F4- "Bb7" (3 F2 G2 A2||
+P: A
+"Eb^7"B6 GF- |"Db^7"F6 GA|"Eb^7"B B2 B (3B2c2B2|"Bbm7"_d2 cB "Eb7"AG2F|
+"Ab^7"G E2 EE4|"Db7"GE2EE4|"Eb^7"GE2EE4-|E8||

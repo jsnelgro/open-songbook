@@ -1,0 +1,28 @@
+---
+workId: eddie-harris-that-is-why-you-are-overweight
+arrangementId: h-6644c636
+title: That Is Why You Are Overweight
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:That Is Why You Are Overweight
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/24/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z "Gm7" B"_Extended Solos" z "F" B | "C7" B4 :: z "Gm7" B z "F" B | "C7" B4 |  z "Gm7" B z "F" B | "C7" B4 |
+z "Gm7" B z "F" B | "C7" B4 |  z "Gm7" B z "F" B | "C7" B4 | z "Gm7" B z "F" B | "C7" B4 |  z "Gm7" B z "F" B |
+"C7" B4 | "Bb" "C" z4 | "Eb" "D" z4 |  "G" G z "G" B/ "F#"B/ "F"B/ "E"B/ | "Am7" z4 | "Bb" "C" z4 | "Eb" "D" z4 |
+"G" G z "G" B/ "F#"B/ "F"B/ "E"B/ | "Am7" "D7" z4 | z "Gm7" B z "F" B | "C7" B4 |  z "Gm7" B z "F" B | "C7" B4 :|

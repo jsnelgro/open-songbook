@@ -1,0 +1,29 @@
+---
+workId: lonnie-smith-play-it-back
+arrangementId: h-3a98d9e0
+title: Play It Back!
+artist: Lonnie Smith
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Play It Back!
+C:Lonnie Smith
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/19/2016
+Z:
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: F, z C z | _E3/2 z/ F3/2 "F7#9" z/ :| z2 z2 | z2 z/ _e/f/e/ |:  "F7#9" f z z2 |
+z4 | z2 z3/2 _e/ | f/_e/f/e/ c/B/_A/-A/ |  F z z2 | z4 | z4 |1
+z2 z/ _e/f/e/ :|2  z2 z/ _e/ "C7"f/e/ || f z z2 | "Bb7" z4 "F" | z7/2 c/ |
+_e/f/B/e/ c/_A/F/_E/ | "F7#9" F/ z/ z z2 | z4 | z4 |  z2 z/ _e/f/e/ :|

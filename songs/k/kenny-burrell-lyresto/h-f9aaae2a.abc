@@ -1,0 +1,35 @@
+---
+workId: kenny-burrell-lyresto
+arrangementId: h-f9aaae2a
+title: Lyresto
+artist: Kenny Burrell
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Lyresto
+C:Kenny Burrell
+C:Arr. 6EQUJ5
+Z:©2013 Finmusic/effendi.me
+Z:©2014 Finmusic/effendi.me
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Ebmaj7" z/ C D/ F E/C/- | "Gm7" C3/2 E/ F/ "F7"F/ E | "Fm7" G E2 F/G/- | "Bb7" G4 |
+"Ebmaj7" z/ C D/ (3F/G/F/ E/C/- | "Gm7" C3/2 E/ "C7" F/F/ E | "Abm7" B _G2 A/B/- | "Db7" B3 (3G/A/^F/ |
+"Gm7" G/ B, B,/- B,/ B, "F#m7" C/ | "B7" _D/E/D/E/- E3/2 =B,/ | "Fm7" C/E/F/E/ G3/2 E/ | "Fm7" F/C/ z "Bb7" z (3A/B/A/ |
+"Gm7" G/ B, B,/ z z/ B,/ | "C7" =A, ^F2 E/G/ | "Fm7" z/ E C/- C/ A, B,/ | "Bb7" A/4B/4 z/ z/ E/ (3B/G/E/ ^F |
+"Ebmaj7" z/ C D/ F E/C/- | "Gm7" C3/2 E/ "C7" F/F/ E | "Fm7" G E2 F/G/- | "Bb7" G4 |  "Ebmaj7" C/C/ E (3F/_G/F/ E/C/- |
+"Gm7" C3/2 E/ "C7" (3F/_G/F/ E | "Abm7" B _G/A/- A/d/_c/B/- | "Db7" B3/2 ^F/ G/A/B/c/- |  "Bbm7" c B/A/ G/A/B/=B/ |
+"Eb7" c/e/c/c/- c z/ B/ | "Abm7" z/ A _G/ F/G/A/=A/ | "Db7" B/d/B/B/- B A/=A/ |  "Ebmaj13" z/ B/ (3G/E/ "C+7"B,/ =E/A/_G/E/ |
+"Fm7" F/G/A/B/ G/ "Bb7"B,/D/E/ | "Ebmaj13" z "C+7" B2 E | "Fm7" _G/G/A/A/ =A/A/B/E/ |]

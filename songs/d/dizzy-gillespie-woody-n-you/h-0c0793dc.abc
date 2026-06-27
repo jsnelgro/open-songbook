@@ -1,0 +1,30 @@
+---
+workId: dizzy-gillespie-woody-n-you
+arrangementId: h-0c0793dc
+title: Woody' n' You
+artist: Dizzy Gillespie
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Woody' n' You
+C:Dizzy Gillespie
+C:Arr. 6EQUJ5
+Z:©2020 6EQUJ5 2020-06-30
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Gm7b5" z f =g3/2 f/ | "C7#9" e/c/ z3 | "Fm7b5" z e f3/2 e/ | "Bb7#9" d/B/ z z2 |  "Ebm7b5" z d e3/2 d/ |
+"Ab7" _c/A/ z2 G/=E/ | "Dbmaj7" F/A/c/e/- "Ab7" e =d/c/ | "Db6" d/B/ z3 :|
+"Abm7" B A/G/ "Db7" F G/A/ | "Abm7" B A/G/ "Db7" F G/A/ | "Abm7" B/G/E/ "Db7"_C/ =D/=A/z/D/ | "Gbmaj7" B4 |  "Bbm7" c B/A/ "Eb7" =G A/B/ |
+"Bbm7" c B/A/ "Eb7" =G A/B/ | "Bbm7" c/A/F/D/ "Eb7" =E/=B/z/E/ | "Abmaj7" c4 |  "Gm7b5" z f =g3/2 f/ | "C7#9" e/c/ z3 |
+"Fm7b5" z e f3/2 e/ | "Bb7#9" d/B/ z z2 |  "Ebm7b5" z d e3/2 d/ | "Ab7#9" _c/A/ z2 G/=E/ | "Dbmaj7" F/A/ c/ "Ab7" e3/2 =d/c/ |
+"Db6" d/B/ z z2 |]

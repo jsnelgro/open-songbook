@@ -1,0 +1,29 @@
+---
+workId: will-hudson-eddie-de-lange-irving-mills-benny-goodman-moonglow
+arrangementId: h-b6a253ff
+title: Moonglow
+artist: Will Hudson Eddie de Lange Irving Mills Benny Goodman
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Moonglow
+C:Will Hudson Eddie de Lange Irving Mills Benny Goodman
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/11/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: z "Abmaj7" z/ C/ E/C/ E | "Db9" G G3 | "Ebmaj7" z z/ C/ "Cm7" E/C/E/-E/ | "F9" G4 |
+"Fm7" z z/ C/ E/C/ E | "Bb13" G G3 | "Ebmaj7" z/ E/- E "Ebdim7" E E | "Fm7" E E/E/- "Ebmaj7" E2 :|  "Eb7" B4- |
+B B/B/ "D7" =A/A/ "Db7"_A/A/ | "C7" G4- | G2 z2 |  "F9" G/G/G/G/- G2- | G2 =A,/C/E/G/ | "Bb13" G3 "B7" _G |
+"Bb7" F2- "Eb9" F2 |  z "Abmaj7" z/ C/ E/C/ E | "Db9" G G3 | "Ebmaj7" z z/ C/ "Cm7" E/C/E/-E/ | "F9" G4 |
+"Fm7" z z/ C/ E/C/ E | "Bb13" G G3 | "Ebmaj7" z/ E/- E "Ebdim7" E E | "Fm7" E E/E/- "Ebmaj7" E2 |]

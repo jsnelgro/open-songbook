@@ -1,0 +1,29 @@
+---
+workId: anonymous-saint-james-infirmary
+arrangementId: h-2e661aca
+title: Saint James Infirmary
+artist: Anonymous
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Saint James Infirmary
+C:Anonymous
+C:Joe Primrose (Irving Mills)
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/1/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+D/F/ |: "Dm7" A A/A/ "Gm7" G- G/A/ | "Dm7" F/D/- D z A | "Dm7" A- A/A/ "Gm7" B B/A/- |  "Dm7" A2 z D/F/ |
+"Dm7" A A/A/ "Gm7" G- G/A/ | "Dm7" F/D/- D z z/ E/ | "Bb7" F- F/D/ F "A7" E/D/- |1  "Dm7" D2 z "A7" D/F/ :|2 "Dm7" D2 z "A7" D/F/ |:
+"Dm7" A A/A/ "A7" G2 | "Dm7" A/F/ "A7" D2 D/F/ |  "Dm7" A- A/A/ "Em7b5" d- d/c/ | "A7" A2 "Dm7b5" z D/F/ | "Dm7" A A/A/ "A7" G2 |
+"Dm7" A/F/ "G7" D2 z/ D/ |  "Bb7" F- F/F/ "A7" A- A/F/ | "Dm7" D2 "A7" z"^(" D/"^)"F/ :|

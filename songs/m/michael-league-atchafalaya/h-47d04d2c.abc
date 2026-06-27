@@ -1,0 +1,127 @@
+---
+workId: michael-league-atchafalaya
+arrangementId: h-47d04d2c
+title: Atchafalaya
+artist: Michael League
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Atchafalaya
+C:Michael League
+C:Snarky Puppy
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me 2/18/2018
+%%score [ 1 | 2 | 3 | 4 ]
+L:1/4
+Q:1/4=190
+M:4/4
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble nm="High" snm="high"
+%%MIDI program 61
+V:2 treble-8 nm="Low" snm="low"
+%%MIDI program 67
+V:3 treble nm="Rhythm" snm="Rtm"
+%%MIDI program 0
+V:4 bass nm="Bass" snm="bass"
+%%MIDI program 33
+V:1
+z4 |:"^A" z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |1  z4 :|2
+"^B" z2 c'/ g3/2 || e z z z/ =a/ | z/ a/z/g/ e/g/a/g/ |  z4 | c/ a3/2 c =B |
+B/ g3/2 f e/e/ | z4 |  z4 | z2 c'/ g3/2 |
+e z z/ g/a/=a/ | z/ a/z/g/ e/g/a/g/ |  z2 z e/d/ | c/ a3/2 c =B |
+B/ g3/2 f d/e/ | z2 z/ d A/ |  B A D E/E/ ||"^C" z2 a3/2 g/ |
+z z/ E/ D/D/E/E/ | z2 a3/2 g/ |  z z/ E/ D/D/E/E/ | z2 a3/2 g/ |
+z2 a/ e3/2 | c/ z3/2 a3/2 g/ |  z z/ E/ D/D/E/E/ | z2 a3/2 g/ |
+z z/ E/ D/D/E/E/ | z2 a3/2 g/ |  z2 _c/d/_f/g/ | z/ e3/2 a3/2 g/ |
+z z f3/2 e/ | z/ c3/2 a3/2 g/ |  z4 ||"^D" z2 c'/ g3/2 |
+e z z z/ =a/ | z/ a/z/g/ e/g/a/g/ |  z4 | c/ a3/2 c =B | B/ g3/2 f e/e/ |
+z4 |  z4 | z/ e/g/a/ c'/g/- g | e z z/ g/a/=a/ |
+z/ a/z/g/ e/g/a/g/ |  z2 z e/d/ | c/a/- a c =B | B/g/- g f e/e/ |
+z/ e/- e d/A/ G |  z4 | z4 |:"_Solos""^E" z4 |
+z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 :: z4 | z4 |  z4 | z4 ::
+"^G" z e g a | b2 a g |  a2 g e | g2 e d | e2 A- A/G/- |
+G e- e/ z/ z |  z4 | z4 :| z/ a b/- b/ d' e'/ ||"^H" z4 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 ||
+z e g a |:"^I" b2 a g |  a2 g e | g2 e d | e2 A- A/G/- | G e- e/ z/ z |
+z4 | z4 | z e g a :| z/ a b/- b/ d' e'/ |]
+V:2
+E z z z/ d/ |: e/e/ d z z/ A/ | B/B/ A z z/ G/ | A/A/ G D2 |
+E z z B/d/ | e/e/ d z z/ A/ | B/B/ A z z/ G/ | A/A/B/A/ z/ A/ D |1  E z z z/ d/ :|2
+E z z z/ d/ || e/e/ d z z/ A/ | B/B/ A z z/ G/ |  A/A/ G D2 | E z z B/d/ |
+e/e/ d z z/ A/ | B/B/ A z z/ G/ |  A/A/B/A/ z/ A/ D | E z z z/ d/ |
+e/e/ d z z/ A/ | !tenuto!B/!tenuto!B/ .A z z/ G/ |  !tenuto!A/!tenuto!A/ G .D2 | E z z B/d/ |
+e/e/ d z z/ A/ | B/B/ A z z/ G/ |  A/A/B/A/ z/ A/ D || E z z z/ d/ |
+e/e/ d z z/ A/ | !tenuto!B/!tenuto!B/ .A z z/ G/ |  !tenuto!A/!tenuto!A/ G .D2 | E z z B/d/ |
+e/e/ d z z/ A/ | B/B/ A z z/ G/ |  A/A/B/A/ z/ A/ D | E z z z/ d/ |
+e/e/ d z z/ A/ | !tenuto!B/!tenuto!B/ .A z z/ G/ |  !tenuto!A/!tenuto!A/ G .D2 | E z z B/d/ |
+e/e/ d z z/ A/ | B/B/ A z z/ G/ |  A/A/B/A/ z/ A/ D || z2 c'/ g3/2 |
+e z z z/ =a/ | z/ a/z/g/ e/g/a/g/ |  z4 | c/ a3/2 c =B | B/ g3/2 f e/e/ |
+z4 |  z4 | z/ e/g/a/ c'/g/- g | e z z/ g/a/=a/ |
+z/ a/z/g/ e/g/a/g/ |  z2 z e/d/ | c/a/- a c =B | B/g/- g f e/e/ |
+z/ e/- e d/A/ G |  E D A, G, | E z z2 |: e/e/ d z z/ A/ |
+!tenuto!B/!tenuto!B/ .A z z/ G/ |  !tenuto!A/!tenuto!A/ G .D2 | E z z B/d/ | e/e/ d z z/ A/ | B/B/ A z z/ G/ |
+A/A/B/A/ z/ A/ D | E z z z/ d/ ::"_Solos II""^F" z4 | z4 |  z4 | z4 ::
+z e g a | b2 a g |  a2 g e | g2 e d | e2 A- A/G/- |
+G e- e/ z/ z |  z4 | z4 :| z/ a b/- b/ d' e'/ || z z/ E/ G/G/ B |
+d- d/c/- c B | z2 =G/B/ c | G- G/F/- F E | z z/ E/ G/G/ B |  d- d/c/- c B |
+z e/e/ z2 | G- G/A/- A E | z z/ E/ G/G/ B |  d- d/c/- c B | z2 =G/B/ c |
+G- G/F/- F E | z z/ E/ G/G/ B |  d- d/c/- c B | z e/e/ z2 ||
+C z z2 |: E e e e |  E e e e | E e e e | a g d e | E z/ E/ G/G/ B |
+d- d/c/- c B | z2 =G/B/ c | G- G/F/- F E :| z/ a b/- b/ d' e'/ |]
+V:3
+z4 |: z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |1  z4 :|2
+z4 || z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 || z2 "Ab" a3/2 "Gb" g/ |
+z4 | z2 "Ab" a3/2 "Gb" g/ |  z4 | z2 "Ab" a3/2 "Gb" g/ |
+z4 | z2 "Ab" a3/2 "Gb" g/ |  z4 | z2 "Ab" a3/2 "Gb" g/ |
+z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 || z4 |
+z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 |: z2 "Ab" a3/2 "Gb" g/ |
+z4 |  z2 "Ab" a3/2 "Gb" g/ | z4 | z2 "Ab" a3/2 "Gb" g/ | z4 |
+z2 "Ab" a3/2 "Gb" g/ | z4 :: "Ebm7" z4 | "Cm7" z4 |  "Abm7" z4 | "Gb7" z4 ::
+z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 :| z4 || z4 |
+z4 | z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 ||
+z4 |: z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 | z4 :| z4 |]
+V:4
+z4 |: z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |1  z4 :|2
+E,, z z z/ D,/ || E,/E,/ D, z z/ A,,/ | B,,/B,,/ A,, z z/ G,,/ |  A,,/A,,/ G,, D,,2 | E,, z z B,,/D,/ |
+E,/E,/ D, z z/ A,,/ | B,,/B,,/ A,, z z/ G,,/ |  A,,/A,,/B,,/A,,/ z/ A,,/ D,, | E,, z z z/ D,/ |
+E,/E,/ D, z z/ A,,/ | !tenuto!B,,/!tenuto!B,,/ .A,, z z/ G,,/ |  !tenuto!A,,/!tenuto!A,,/ G,, .D,,2 | E,, z z B,,/D,/ |
+E,/E,/ D, z z/ A,,/ | B,,/B,,/ A,, z z/ G,,/ |  A,,/A,,/B,,/A,,/ z/ A,,/ D,, || E,, z z z/ D,/ |
+E,/E,/ D, z z/ A,,/ | !tenuto!B,,/!tenuto!B,,/ .A,, z z/ G,,/ |  !tenuto!A,,/!tenuto!A,,/ G,, .D,,2 | E,, z z B,,/D,/ |
+E,/E,/ D, z z/ A,,/ | B,,/B,,/ A,, z z/ G,,/ |  A,,/A,,/B,,/A,,/ z/ A,,/ D,, | E,, z z z/ D,/ |
+E,/E,/ D, z z/ A,,/ | !tenuto!B,,/!tenuto!B,,/ .A,, z z/ G,,/ |  !tenuto!A,,/!tenuto!A,,/ G,, .D,,2 | E,, z z B,,/D,/ |
+E,/E,/ D, z z/ A,,/ | B,,/B,,/ A,, z z/ G,,/ |  A,,/A,,/B,,/A,,/ z/ A,,/ D,, || E,, z z z/ D,/ |
+E,/E,/ D, z z/ A,,/ | !tenuto!B,,/!tenuto!B,,/ .A,, z z/ G,,/ |  !tenuto!A,,/!tenuto!A,,/ G,, .D,,2 | E,, z z B,,/D,/ | E,/E,/ D, z z/ A,,/ |
+B,,/B,,/ A,, z z/ G,,/ |  A,,/A,,/B,,/A,,/ z/ A,,/ D,, | E,, z z z/ D,/ | E,/E,/ D, z z/ A,,/ |
+!tenuto!B,,/!tenuto!B,,/ .A,, z z/ G,,/ |  !tenuto!A,,/!tenuto!A,,/ G,, .D,,2 | E,, z z B,,/D,/ | E,/E,/ D, z z/ A,,/ |
+B,,/B,,/ A,, z z/ G,,/ |  A,,/A,,/B,,/A,,/ z/ A,,/ D,, | E,, z z z/ D,/ |: E,/E,/ D, z z/ A,,/ |
+!tenuto!B,,/!tenuto!B,,/ .A,, z z/ G,,/ |  !tenuto!A,,/!tenuto!A,,/ G,, .D,,2 | E,, z z B,,/D,/ | E,/E,/ D, z z/ A,,/ | B,,/B,,/ A,, z z/ G,,/ |
+A,,/A,,/B,,/A,,/ z/ A,,/ D,, | E,, z z z/ D,/ :: "Ebm7" z4 | "Cm7" z4 |  "Abm7" z4 | "Gb7" z4 ::
+"Gb7" z4 | "Ebm7" z4 |  "Cm7" z4 | "Abm7" z4 | "Gb7" z4 |
+"Ebm7" z4 |  "Cm7" z4 | "Abm7" z4 :| z/ A, B,/- B,/ D E/ || z z/ E,,/ G,,/G,,/ B,, |
+D,- D,/C,/- C, B,, | z2 =G,,/B,,/ C, | G,,- G,,/F,,/- F,, E,, | z z/ E,,/ G,,/G,,/ B,, |  D,- D,/C,/- C, B,, |
+z E,/E,/ z2 | G,,- G,,/A,,/- A,, E,, | z z/ E,,/ G,,/G,,/ B,, |  D,- D,/C,/- C, B,, | z2 =G,,/B,,/ C, |
+G,,- G,,/F,,/- F,, E,, | z z/ E,,/ G,,/G,,/ B,, |  D,- D,/C,/- C, B,, | z E,/E,/ z2 ||
+C,, z z2 |: E,, E, E, E, |  E,, E, E, E, | E,, E, E, E, | A, G, D, E, | E,, z/ E,,/ G,,/G,,/ B,, |
+D,- D,/C,/- C, B,, | z2 =G,,/B,,/ C, | G,,- G,,/F,,/- F,, E,, :| z/ A, B,/- B,/ D E/ |]

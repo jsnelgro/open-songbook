@@ -1,0 +1,35 @@
+---
+workId: jimmy-van-heusen-it-could-happen-to-you
+arrangementId: h-b480dbfd
+title: It Could Happen To You
+artist: Jimmy Van Heusen
+source: jazz
+key: Eb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: It Could Happen To You
+C: Jimmy Van Heusen
+M: 4/4
+L: 1/4
+Q: 1/4=120
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/it-could-happen-to-you/
+K: Eb
+P: A
+"Eb^7"B,3 C|"Eo7"_D C G2|"Fm7"C3 D|"F#o7"ED=A2|
+"Eb^"B2 B2|"Ab^"B A2 E|"Gm7b5"G4-|"C7"G4||
+P: B
+"Fm7"G2 G2|"Db7"GAEF|"Eb^7"G2 G2-|"Dm7b5"G2 "G7"z2|
+"Cm7"E2 E2|EFCD|"Fm7"E2 F2|"Bb7"C2 D2||
+P: A
+"Eb^7"B,3 C|"Eo7"_D C G2|"Fm7"C3 D|"F#o7"ED=A2|
+"Eb^"B2 B2|"Ab^"B A2 E|"Gm7b5"G4-|"C7"G4||
+P: C
+"Fm7"G2 G2|"Db7"GAEF|"Eb^7"GD "Ab7"FE|"Gm7b5"B2-"G7"B2|
+"Fm7"B,2 B,2|"Bb7"z A F G|"Eb^7"E4|z4||

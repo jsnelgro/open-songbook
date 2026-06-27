@@ -1,0 +1,30 @@
+---
+workId: herny-mancini-days-of-wine-and-roses
+arrangementId: h-fbd02c46
+title: Days of Wine and Roses
+artist: Herny Mancini
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Days of Wine and Roses
+C:Herny Mancini
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/14/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+C || "Fmaj7" A4 | "Eb7" z G A c | "D7" d2 c2- |  "D7" c2 c A | "Gm" A D D2- |
+"Gm7" D2 c A | "Bbm7" A _D D2- |  "Eb7" D2 A G | "Am7" G C D3/2 E/ | "Dm7" G F A d | "Gm7" c3 B |
+"C7" c B A G | "Em7" A3 "A7" E | "Dm7" G F "G7" E3/2 D/ | "Gm7" G4- |  "C7" G3 C | "Fmaj7" A4 |
+"Eb7" z G A c | "D7" d2 c2- |  "D7" c2 c A | "Gm7" A D D2- | "Gm7" D2 c A | "Bbm7" A _D D2- |
+"Eb7" D2 A G | "Am7" G C D E | "Dm7" F G A c | "Bm7" e4- |  "Bb7" e3 d | "Am7" c A G "Dm7" F |
+"Gm7" A "C7" A2 D | "Fmaj7" F4- |  "Gm7" F3 "C7" z |]

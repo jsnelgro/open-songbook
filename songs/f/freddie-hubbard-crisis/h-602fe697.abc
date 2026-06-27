@@ -1,0 +1,34 @@
+---
+workId: freddie-hubbard-crisis
+arrangementId: h-602fe697
+title: Crisis
+artist: Freddie Hubbard
+source: jazz
+key: C#
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Crisis
+C:Freddie Hubbard
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C#
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |:  z "C#" z/ [DA]/ z/ [DA] [CG]/ | [DA] [DA]/[CG]/ [DA] [CG]/[DA]/ |
+"^2x Only""^Latin" z z/ [DA]/ z/ [DA] [CG]/ | [DA] z E F ::  "C#maj7" [EG]4- | "C#maj7" [EG]2 A3/2 G/4A/4 | "D#maj7" [D^^F]4- |
+"D#maj7" [DF]4 |  "D" [=DF]4- | "D" [DF]2 G F | "C#" [CE]4 | "C#maj7" [CE]3 E |  "Cmaj7" [B,^^D-]4 |
+"Cmaj7" [B,D]2 F =E | "Bmaj7" [=B,D]4 | "G#" z/ =e/z/e/- e c/=B/ |  "C#m7" c3/2 c/ z2 | "F#7""^Swing" z/ =e/z/e/- e c/=B/ |
+"C#m7" c3/2 c/ z2 |1 z2 E F :|2  c3/2 "C#m7" c/ z2 || "C#m7" z2 z/ c =B/ | "A7" =A/G/=G/F/ =E/G/=B/=d/ |
+"D#m7" d d "G#7" =e d/c/- |  "C#7" c4- | "Bm7" c3 "E7" A/B/ | "A#m7" c3 A/c/ | "D#7" d3/2 c/ d/c/d/G/- |
+"G#7" G2 =B/G/F/ z/ | "C#maj7" z2 E F | "C#maj7" [EG]4- | "C#maj7" [EG]2 A3/2 G/4A/4 |  "D#maj7" [D^^F]4- | "D#maj7" [DF]4 |
+"D" [=DF]4- | "D" [DF]2 G F |  "C#" [CE]4 | "C#maj7" [CE]3 E | "Cmaj7" [B,^^D-]4 | "Cmaj7" [B,D]2 F =E |
+"Bmaj7""^Vamp and Open Solos for Ending" [=B,D]4 | "G#" z/ =e/z/e/- e c/=B/ | "C#m7" c3/2 c/ z2 | "F#7" z/ =e/z/e/- e c/=B/ |  "C#m7" c3/2 c/ z2 |:
+z/O "G#7" =e/z/e/- e c/=B/ | "C#m7" c3/2 c/ z2 :|

@@ -1,0 +1,33 @@
+---
+workId: nat-adderley-jive-samba
+arrangementId: h-031fa950
+title: Jive Samba
+artist: Nat Adderley
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Jive Samba
+C:Nat Adderley
+C:Arr. 6EQUJ5
+Z:©2012 Finmusic/effendi.me
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 ||  "F7#9" _A z/ F/ "F" F z | "F7#9" _A z/ F/ "F" F z | "F7#9" _A z/ F/ "F" F z |
+"F7#9" _A z/ F/ "F" F z/ F/ |: S "F7#9""^Vamp" _A/_e/- "F" e3- | e3 A/F/ | _A3/2 F/- ^F2- | F4 |
+z z/ F/ _A/ _e e/- | e2- e/c/B/F/ | _A F/_E/- E2- |1 E3 z/ F/ :|2  _E4 |:
+"Bb7" f/f/z/f/ z/ ^c/ d | B z d d | "F7#9" d/c/z/c/- c2- |  c3 z/ F/ | "F7#9" _A/_e/- e3- |
+e3 c/F/ | _A3/2 F/- F2- |  F4"^D.S. al Coda" :|O F2 z/ C/_E/=E/ |:"^Vamp until Cue" F z z2 |
+z2 z/ C/_E/=E/ :|  F z z2 |]:
+"_Solos" z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 :|
+"^A solo Fill 1 measure before Bb section on solos" F/_G/=G/_A/ =A/B/ z |]

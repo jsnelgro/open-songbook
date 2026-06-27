@@ -1,0 +1,28 @@
+---
+workId: eddie-harris-sham-time
+arrangementId: h-3c269205
+title: Sham Time
+artist: Eddie Harris
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sham Time
+C:Eddie Harris
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=210
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"F7" "Bb7" z4 | z4 | z4 | z4 |  z4 | z4 |: "F7" _e'/f/b/c'/ a d/c/ | "Bb7" f/f/ g z2 |  "F7" z d/f/- f/f/g/d/ |
+"Bb7" f/f/ g z z/ _e'/- | "F7" e'/f/b/c'/ a d/c/ | "Bb7" f/f/ g z2 |  "F7" z d/f/- f/f/g/d/ | "Bb7" f/f/ d z2 |
+"F7" z/ c/f/b/ _a/_e/c'/f/ | "Bb7" b d'/_a/- a z |  "F7" z d/f/- f/f/g/d/ | "Bb7" f/f/ _a z z/ _e'/- |
+"F7" e' _e'/e'/ c'/z/f/b/- | "Bb7" b/c'/b/f/ _a f- |  "F7" f4- |1 "Bb7" f2 z z/ z/ :|2
+"F7""_Solos" z4 || "Bb7" z4 |]

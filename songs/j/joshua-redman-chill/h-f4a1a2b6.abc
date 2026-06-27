@@ -1,0 +1,32 @@
+---
+workId: joshua-redman-chill
+arrangementId: h-f4a1a2b6
+title: Chill
+artist: Joshua Redman
+source: jazz
+key: Gb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Chill
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/5/2016
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Ebm7" e3/2 "Bb" e/- e2 | "A" e3/2 "Ab" e2- e/ | "Ebm7" e3/2 e/- "Bb7" e2 | "A" e3/2 "Abm" e3/2 e/e/ ::
+"Ebm7" z G A3/2 "Bb" G/ | "A" E G/E/- "Ab" E2 | "Ebm7" z/ B/ (3z/ A/ "Bb"G/ A3/2 G/ | "A" E A/E/- "Ab" E3/2 B,/ |  "Ebm" E G "Bb" A3/2 G/ |
+"A7#11" E G/ "Ab7"E/- E2 | "G7#5" E G/ "Gb7"E/- E2 |1 "F7" E G/E/- "Emaj7" E2 :|2  "F7" E G/ "Emaj7"E/ (3z/ G/B/ (3=c/e/f/ ||
+"Eb7" =g b/ "Dbmaj7" f3/2- f/e/ | "Eb7" =g b/f/- "Dbmaj7" f2 | "Cm7" e3/2 "Ab7" e/- e2 |  "Gbmaj7" e g/ "Ab7" e B/ (3=c/e/f/ |
+"Eb" =g b/ "Dbmaj7"f/- f3/2 e/ | "Eb" =g b/ "Dbmaj7" f2- f/ | "Cm7" e3/2 e/- "Ab" e2 |  "A" e g/e/- "Ab" e e'/e'/ | "Ebm7" z G A3/2 "Bb" G/ |
+"A" E G/E/- "Ab" E2 | "Ebm7" z/ B/ (3z/ A/ "Bb"G/ A3/2 G/ |  "A" E A/E/- "Ab" E3/2 B,/ | "Ebm" E G "Bb" A3/2 G/ | "A7" E G/ "Ab7" E- E- E/ |
+"G7" E G/ "Ab7"E/- E2 |  "F7" E G/E/- "Emaj7" E2- | E4- | E e'/e'/ z2 |: "Ebm7" e3/2 "Bb" e/- e2 |
+"A" e3/2 "Ab" e2- e/ | "Ebm7" e3/2 e/- "Bb7" e2 | "A" e3/2 "Abm" e3/2 e/e/ ::"^Cue Eb blues" z4 :|

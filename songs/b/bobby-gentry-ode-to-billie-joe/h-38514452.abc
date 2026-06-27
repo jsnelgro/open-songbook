@@ -1,0 +1,31 @@
+---
+workId: bobby-gentry-ode-to-billie-joe
+arrangementId: h-38514452
+title: Ode To Billie Joe
+artist: Bobby Gentry
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ode To Billie Joe
+C:Bobby Gentry
+C:Mel Brown
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me 1/22/2018
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/ A/B/ "D9"d/ || d B/ d B/ d/B/ | d/B/d/B/ d e/B/- | B/A/B/d/- d z |
+z2 z/ A/B/d/ | d B/ d B/ d/B/ | d/B/d/B/ d e/B/- | B/A/B/d/- d z |  z2 z e/g/ |
+"G9" g/=f/g/f/ (3g g f | (3g g =f g a/f/- | f/B/ d3 |  z2 z/ A/B/A/ | "D9" e/d/d/B/ d/d/d/B/ |
+d/ d B/ d e/B/- | B/A/B/d/- d z |  z2 z/ e/e/g/ | "G9" g/=f/g/f/ g f/g/ | z/ g =f/ g a/f/- |
+f/ z/ d3- |  d2 z/ a/b/a/ | "D7" d'/=c'/c'/ "F7"a/ c'/a/a/=f/ | "Bb7" g/=f/g/ "A7"f/ g/ a ^f/ | "D7" z/ d/- d3- |
+d4 |]

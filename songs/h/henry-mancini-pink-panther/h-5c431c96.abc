@@ -1,0 +1,34 @@
+---
+workId: henry-mancini-pink-panther
+arrangementId: h-5c431c96
+title: Pink Panther
+artist: Henry Mancini
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Pink Panther
+C:Henry Mancini
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ z2 ^C/ D/^D/ | "Em7" E4- | E2 z/ ^C/D/^D/ | "Em7" E4- |  E2 z z |:
+"Em7" ^D/<E/ z F/<G/ z | ^D/<E/ F/<G/ c/<B/ E/<G/ | "C7#9" B/<^A/- A2 =A/4G/4E/4D/4 |  E z z2 |
+"Em7" ^D/<E/ z F/<G/ z | ^D/<E/ F/<G/ c/<B/ E/<G/ | "F7#9" e/<^d/ =d3- |  d4 | "Em7" ^D/<E/ z F/<G/ z |
+^D/<E/ F/<G/ c/<B/ E/<G/ | "C7#9" B/<^A/- A2 =A/4G/4E/4D/4 |  E z z2 | E e/<d/ B/>A/ G/>E/ |
+"G" _B/<A/ _B/<A/ B/<A/ B/<A/ | (3G/E/D/ E3/4E3/4 z/ z :|  z4 | "Gm7" F/G/- G z A/_B/- |
+B2- B/^c/d/=f/- | "Eb7" f2- f/_e/_d/_B/- |  B/ z/ z z2 | "Gm7" _B/4c/4B/4G/4 A/G/ z z/ B/ |
+_d/4_e/4d/4_B/4 c/B/- B G/F/- | "Ab7" F4 |  z2 z F/G/- | "Gm7" G/ z/ z z/ G/_B/c/ |
+_d/d/ (3d/c/_B/ G/B/z/G/ | "Eb7" (3_B c _d (3d c B | "_Solos" G3 F/D/ | "Gm7" z4 |
+"Eb7" (3G/_B/ z/ B "D7" (3F/A/ z/ A | "Gm7" G z z2 |:  "Em7" z4 | "C7" z4 :|

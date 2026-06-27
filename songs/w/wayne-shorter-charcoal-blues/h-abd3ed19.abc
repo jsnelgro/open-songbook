@@ -1,0 +1,30 @@
+---
+workId: wayne-shorter-charcoal-blues
+arrangementId: h-abd3ed19
+title: Charcoal Blues
+artist: Wayne Shorter
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Charcoal Blues
+C:Wayne Shorter
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 3/21/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Somewhat Slovenly""^Con Fuego" z2 z z/ F/ |: "F7" A/<B/ c/d/ c/<B/ A/F/ | "Bb7" _A/<B/ c/d/ e/<d/ c/B/ | "F7" A/<B/ c/f/ c/<B/ A/F/ |
+"B7" B/<A/- A2 z/ F/ | "Bb7" A/<B/ c/d/ c/<B/ A/F/ | "Bb7" _A/<B/ c/d/ e/<d/ c/B/ | "F7" A/<B/ c/f/ c/<B/ A/F/ |
+"Eb7" B/<A/- "D7" A2 z/ c/ | "C7" e/<f/ g/a/ b/<a/ b/a/ | "Bb7" a3/8g3/4f/_e/d/<c/B/F3/8 | "F7" A/<B/ c/f/ c/<B/ _A/F/ |
+"F#7" =B/<_B/- B2 z/ F/ :|
+O A/<B/ c/f/ _a/<f/ _e/c/ | =b/<_b/- b3- |
+[M:16/4]"^Fine" b8- b8"^To Coda" |]

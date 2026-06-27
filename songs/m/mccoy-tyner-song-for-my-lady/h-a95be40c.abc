@@ -1,0 +1,26 @@
+---
+workId: mccoy-tyner-song-for-my-lady
+arrangementId: h-a95be40c
+title: Song For My Lady
+artist: McCoy Tyner
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Song For My Lady
+C:McCoy Tyner
+Z:©2016 Finmusic/effendi.me 5/25/2016
+L:1/4
+Q:1/4=96
+M:3/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+A/ |: "Dm7" D E F | "Cmaj7" G A B | "Bbmaj7" A B d |1  "A7" z ^c- c/A/ :|2 "A7" z ^c- c/D/ |: "Dm7" A3- |
+"Cmaj7" A3- |  "Bbmaj7" A3 | "A7" B/ z/ A ^c | "Dm7" d3- | "Cmaj7" d3- |  "Bbmaj7" d2 z/ F/ | "A7" B G A | "Dm7" D3- | "C" D3- |
+"Bbmaj7" D3- | "A7" D/E/ F =B, | "Dm" =B3- | "C" B3- |  "Bbmaj7" B3- | "A7" B2 z/ D/ :|

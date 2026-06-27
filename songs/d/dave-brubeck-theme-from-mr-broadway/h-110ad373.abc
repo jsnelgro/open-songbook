@@ -1,0 +1,30 @@
+---
+workId: dave-brubeck-theme-from-mr-broadway
+arrangementId: h-110ad373
+title: Theme from Mr. Broadway
+artist: Dave Brubeck
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Theme from Mr. Broadway
+C:Dave Brubeck
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 3/23/2017
+Z:
+L:1/4
+Q:1/4=250
+M:3/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Eb7" =A/B/ e/B/ A/_A/ | "Ab7" _G/E/ A/E/ =A/E/ | "Eb7" B/E/ z z | "Bb7" z3 |  "Eb7" =A/B/ e/B/ A/_A/ |
+"Ab7" _G/E/ A/E/ =A/E/ | "Eb7" B2 z | z3 |  "Ab7" _g/e/ g/e/ g/e/ | "Ebm7" _d/B/ d/B/ d/B/ | "Ab7" A/B/ z z |
+z3 |  "Eb7" _D/B,/ D/F/ E | "Fm7" E/C/ E/_G/ F | "Gbmaj7" _G/D/ G/B/ A | "C7" B/_G/ B/_d/ c |  "F7" =B/c/ f/B/ c/f/ |
+=B/c/ f/B/ c/f/ | "E7" ^A/=B/ =e/A/ B/e/ | ^A/=B/ =e/A/ B/e/ |  "Eb7" =A/B/ e/_g/ f/e/ | "Cm7" f =A/B/ e/_g/ |
+"F7" f/e/ f =A/B/ | "Bb7" e/_g/ f/e/ f :|  "Eb7" e z z |]

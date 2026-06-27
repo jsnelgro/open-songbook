@@ -1,0 +1,34 @@
+---
+workId: wayne-henderson-young-rabbits
+arrangementId: h-95711591
+title: The Young Rabbits
+artist: Wayne Henderson
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:The Young Rabbits
+C:Wayne Henderson
+C:The Jazz Crusaders
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:7/20/2017
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Bass Intro" z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 ||
+"Gm7""^A" z A G/F/ D | A G/F/ D/ D3/2 | z A G/F/ D | A G/F/ D/ D3/2 |  z A G/F/ D |
+A G/F/ D/ D3/2 | "Fm9" G E/C/ E/ C3/2- | C2 z2 ||  "Gm7" z A G/F/ D | A G/F/ D/ D3/2 |
+z A G/F/ D | A G/F/ D/ D3/2 |  z A G/F/ D | A G/F/ D/ D3/2 | "Fm7" G E/C/ E/ C3/2- |
+C2 z2 ||  "Bm7""^B" z _c/A/ z/ _G/z/A/ | _c A/_G/- G2- | "Gbm9" G _A/_F/ z/ _D/z/F/ | _A _D/_F/- F2 |
+"Ebm9" z [B,E]/[_DF]/- [DF]3/2 [B,E]/ | z/ [_DF]/z/[B,E]/ [DF]/ [B,E]3/2- | "Em9" [B,E] [=B,=E]/[D^F]/- [D^^F]2- | [D^F]/[=B,=E]/[DF]/[DF]/ [B,E] z ||
+"Gm7""^C" z A G/F/ D | A G/F/ D/ D3/2 | z A G/F/ D | A G/F/ D/ D3/2 |  z A G/F/ D |
+A G/F/ D/ D3/2 | "Fm7" G E/C/ E/ C3/2- | C2 z2 |]

@@ -1,0 +1,27 @@
+---
+workId: nat-adderley-work-song
+arrangementId: h-c8de4bda
+title: Work Song
+artist: Nat Adderley
+source: jazz
+key: Fmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Work Song
+C:Nat Adderley
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Fmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Fm7" z F/F/ A/ B c/- | "Fm7" c c/B/ c e | "Fm7" z F/F/ A/ B F/- | "Fm7" F F/E/ F z |
+"Fm7" z F/F/ A/ B c/- | "Fm7" c c/B/ c e | "C7" z c/c/ e/ c e/- | "C7" e c/B/ c z |
+"Fm7" z f/e/ (3B/4_c/4B/4A/ B/A/- | "Fm7" A A/F/ A B | "Fm7" z F/F/ A/ B F/- | "Fm7" F F/E/ F/E/ F |
+"F7#9" =B/c/ z z F | "Bb7" B/_c/ z "Eb7" z/ F/A/=B/ | "G7" z/ B/z/A/ "C7" (3B/4_c/4B/4A/4F/4 E/F/- | "Fm7" F4 |]

@@ -1,0 +1,27 @@
+---
+workId: julian-adderley-sticks
+arrangementId: h-a524c96f
+title: Sticks
+artist: Julian Adderley
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sticks
+C:Julian Adderley
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+B/_A/ |: "Bb7" B z z z/ B/ | z4 | z B/B/ _d/B/e/B/ |
+f/_a/- a _f/e/4_d/4 B/_A/ | "Eb7" B z z z/ (B/) | z4 | "Bb7" z B/B/ _d/e/- e |
+f/_a/- a _f/e/4_d/4 B/_A/ | "Eb7" e z/ "E7" "E7" =e z/ "F7" "F7" f |"^drum fill" z4 | "Eb7" e z/ "E7" "E7" =e z/ "F7" "F7" f | "^drum fill" z4 |
+"Bb7" e z z{/e} f- | f3 B/_A/ :|

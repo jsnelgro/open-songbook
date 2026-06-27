@@ -1,0 +1,38 @@
+---
+workId: joshua-redman-jig-a-jug
+arrangementId: h-673d0505
+title: Jig A Jug
+artist: Joshua Redman
+source: jazz
+key: Db
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Jig A Jug
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/26/2018
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Db
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: d z F z | G z/ A/ z/ B/d/B/ | d z/ F/ z G | z3/2 =G/ A/B/d/B/ :|
+z4 |: z2 a/ _c' g/ || "Ab7" z _f/d/ =g/_g/4f/4 d/_c/ ||{B_c} "Db7" =c d{B_c} =c _d |
+z/ _f/ z3/2 A/ B/A/ | c d c d | z/ =g/_g/=g/ _g/_f/4d/4 _c/A/ | c d c d |
+z/ _f/z/e/ z/ A/B/A/ | c d c d | z/4 a/g/a/g/4 _f/4d/4_c/4B/4- B/A/ | "Em7" d/z/ "Ebm7"d/ z/ "Dm7" d/z/ "Dbm7"d/ z/ |
+"Dbm7" d z2 d- | d2 a/ _c' g/ | "Ab7" z _f/d/ =g/_g/4f/4 d/_c/ | "Db7" c d c d |
+z/ _f/z/e/ z/ A/B/A/ | "Em7" d/z/ "Ebm7"d/ z/ "Dm7" d/ z/ "Dbm7" d- | d2 e2 | "Ab9" z2 z/ B/ e/8_f/8=f/4a/- |
+a f d B | "Gbmaj7" z2 d/B/d/B/ | e/_f/z/d/- d2 | "Ab9" z2 z/ B/ e/8_f/8=f/4a/- |
+a f d B | "Gbmaj7" z2 d/B/d/B/ | e/_f/z/d/- d2 | "Ab9" z2 z/ B/ e/8_f/8=f/4a/- |
+a f/d/ e f | z/ "Em7" d/z/ "Ebm7"d/ z/ "Dm7" d/z/ "Dbm7"d/ | z/ "Db" =g/_g/=g/ _g/_f/4d/4 _c/A/ |1 d3/2 z/ z2 |
+z4 :|2 z4 || f' f' d'/_c'/a/g/ | a/4g/4_f/4d/4 _c/4A/4f/ d/c/ A/ z/ |:
+"Db7" z4 | z4 | z4 | z4 |  "Gb7" z4 |
+z4 | "Db7" z4 | z4 |  "Ebm7" z4 |
+"Ab7" z4 | "Db7" "Bb7" z4 | "Ebm7" "Ab7" z4 :|

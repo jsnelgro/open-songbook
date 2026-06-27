@@ -1,0 +1,32 @@
+---
+workId: paul-desmond-take-ten
+arrangementId: h-41e8e1ce
+title: Take Ten
+artist: Paul Desmond
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Take Ten
+C:Paul Desmond
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 2015 2/14/2016
+L:1/4
+Q:1/4=250
+M:5/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Dm7" z z/ D/ F/A/ "G13" B B | "Dm7" A/B/4A/4 F/D/- D- "G13" D- D | "Dm7" z z/ c/- c/A/ "G13" B3/2 A/4G/4 | "Dm7" A3- "G13" A z |
+"Dm7" z z/ D/ F/A/ "G13" B B | "Dm7" A/B/4A/4 F/D/- D- "G13" D2 | "Dm7" z z/ F/- F/D/ "G13" E3/2 D/4C/4 |1 D3- "Dm7" D "G13" z :|2
+"Dm7" D3 A/_A/ "G13" G/_G/ || "Bbm7" F/G/ z/ F/ G/_A/4G/4 F/ "Eb9"G/ z/ F/ | "Abm7" _E/F/ z/ E/ F E/ "F7"F/ z/ E/ | "Bbm7" _D/_E/ z/ D/ E/F/4 "Eb9"E/4 D/E/ z/ D/ |
+"Bbm7" C/ _D _E/ z C/_B,/ C/^C/ | "Gm7" D/E/ z/ D/ E/F/4E/4 "C9" D/E/ z/ D/ | "Fm7" C/D/ z/ C/ D C/D/ "D7" z/ C/ |
+"Gm7" _B,/C/ z/ B,/ C/D/4C/4 "C9" B,/C/ z/ B,/ |  "Em7" A,3 "A7" z2 | "Dm7" z z/ D/ F/A/ "G13" B B | "Dm7" A/B/4A/4 F/D/- D- "G13" D- D |
+"Dm7" z z/ c/- c/A/ "G13" B3/2 A/4G/4 |  "Dm7" A3- "G13" A z | "Dm7" z z/ D/ F/A/ "G13" B B | "Dm7" A/B/4A/4 F/D/- D- "G13" D2 |
+"Dm7" z z/ F/- F/D/ "G13" E3/2 D/4C/4 |  "Dm7" D3- "G13" D z | "Dm7" D3- "G13" D- D | "Dm7" z z/ F/- F/D/ E3/2 "G13" D/4C/4"^To Coda" | "Dm7" D3- D2 "G13" |
+O z "Dm7" z/ F/- F/D/ E3/2 "G13" D/4C/4 | "Dm7" D3- D2- "G13" | "Dm7" D4- "G13" D- | "Dm7" D4- D |]

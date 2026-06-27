@@ -1,0 +1,32 @@
+---
+workId: erroll-garner-frantonality
+arrangementId: h-8e539bdf
+title: Frantonality
+artist: Erroll Garner
+source: jazz
+key: Ab
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Frantonality
+C:  Erroll Garner
+M:4/4
+L:1/8
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Erroll Garner
+%%songbook-uri /post/frantonality/
+K: Ab
+P: A
+_c|:"Abm"{B_c}BAF_F "F7"EAz2|"Bb7"F2z"Eb7"Fz3_c|"Abm"{B_c}BAF_F "F7"EAz2|"Bb7"F2z"Eb7"Fz3_c|
+"Abm"{B_c}BAF_F "F7"EAz2|"Bb7"F2z"Eb7"Fz2"Go"G2|"Abm"A2z2z2"Go"G2|1 "Abm"A2z4 z_c :|2 "Abm"A2 z4 z E||
+P: B
+"Ab7"ABcde2f_g-|g2zcz3A|"Dbm"(3e2d2e2 =e2 _ed-|d4 z3_G|
+"Gb7"AB_cd e2d_f-|f2z_Gz3G|"Cb"_ccde dc3|"Bbo"BB_cd cB2c||
+P: A
+"Abm"{B_c}BAF_F "F7"EAz2|"Bb7"F2z"Eb7"Fz3_c|"Abm"{B_c}BAF_F "F7"EAz2|"Bb7"F2z"Eb7"Fz3_c|
+"Abm"{B_c}BAF_F "F7"EAz2|"Bb7"F2z"Eb7"Fz2"Go"G2|"Abm"A2z2z2"Go"G2|"Abm"A2 z2 z4||

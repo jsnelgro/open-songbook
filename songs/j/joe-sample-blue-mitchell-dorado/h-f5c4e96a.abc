@@ -1,0 +1,29 @@
+---
+workId: joe-sample-blue-mitchell-dorado
+arrangementId: h-f5c4e96a
+title: Dorado
+artist: Joe Sample/Blue Mitchell
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Dorado
+C:Joe Sample/Blue Mitchell
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  "Dm7" z a3/2 e/4f/4 e/<g/- | "Am7" g5/4 z2 B/4c/4d/4 | "G7" f d2 z | "G7" z4 |
+z "Dm7" a3/2 e/4f/4 e/<g/- | "Am7" g5/4 z2 B/4c/4d/4 | "G7" f d2 z | "G7" z4 |  z/ "Am7" c'/d'/c'/ d'/c'/d'/c'/ |
+"Dm7" f'/f'/e'/d'/ z2 | "Am7" z/ c'/d'/c'/ d'/c'/d'/c'/ | "Dm7" f'/f'/e'/d'/ z2 |  "Am7" z/ c'/d'/c'/ d'/c'/d'/c'/ |
+"Dm7" f'/f'/e'/d'/ z2 | "Am7" z/ c'/d'/c'/ d'/c'/d'/c'/ | "Dm7" f'/f'/e'/d'/ z2 |  "Dm7" z a3/2 e/4f/4 e/<g/- | "Am7" g5/4 z2 B/4c/4d/4 |
+"G7" f d2 z | "Dm7""^Solos" z4 |  "Am7" z4 | "G7" z4 | "G7" z4 |]

@@ -1,0 +1,34 @@
+---
+workId: wes-montgomery-full-house
+arrangementId: h-083bcc85
+title: Full House
+artist: Wes Montgomery
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Full House
+C:Wes Montgomery
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 8/31/2019
+Z:
+L:1/4
+Q:1/4=200
+M:3/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Intro" z z/ c/ z/ e/ |: "Fm7" f/c/ e/f/ z | z/ g3/2- g/c/ | e/e/ c/e/ z |  z/ c/ z/ e/ z/ c/ | f/c/ e/f/ z/ g/ |
+z/ f/ z/ e/ c/B/ | c/B/ A/F/ z |1  z/ c/ z/ e/ z/ c/ :|2 z2 z/ C/ |:
+"Fm7""^A" F/A/ z2 | "Bb13" F/B/ z3/2 F/ |  "Fm7" z/ A/ z/ F/ A/F/ | "Bb13" B/A/ B A/C/ | "Fm9" F/A/ z2 | "Bb7" F/B/ z3/2 F/ |  "Fm7" z/ A/ z/ F/ A/ z/ | z "C7#9" C z |
+"Fm7" F/A/ z2 | "Bb13" F/B/ z3/2 F/ |  "Fm9" z/ A/ z/ F/ A/F/ | "Bb7" B/A/ B A/C/ | "Fm7" F/A/ z2 | "Bb13" F/B/ z3/2 C/ |
+"Fm7" F/A/ G/ E C/ |1 "Fm7" F2- F/C/ :|2 "Fm9" F/ G A c/ ||
+"Bbm7""^B" f3 |  "Eb7" z g z/ e/ | "Abmaj7" c3 | "Db7" z f z/ d/ | "Gbmaj7" B3 |  "Bmaj7" z G/^G/ B/=B/ | "Gm7b5" c3 | "C7b9" C2 z/ C/ ||
+"Fm9""^C" F/A/ z2 |  "Bb13" F/B/ z3/2 F/ | "Fm7" z/ A/ z/ F/ A/F/ | "Bb7" B/A/ B A/C/ | "Fm9" F/A/ z z |  "Bb13" F/B/ z3/2 F/ |
+"Fm7" z/ A/ z/ F/ A/ z/ | z "C7#9" C2 | "Fm7" F/A/ z z |  "Bb7" F/B/ z3/2 F/ | "Fm7" z/ A/ z/ F/ A/F/ | "Bb7" B/A/ B A/C/ |
+"Fm9" F/A/ z2 |  "Bb13" F/B/ z3/2 C/ | "Fm7" F/A/ G/ E C/ | "Fm7" F3 |]

@@ -1,0 +1,32 @@
+---
+workId: charlie-parker-yardbird-suite
+arrangementId: h-18e248d8
+title: Yardbird Suite
+artist: Charlie Parker
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Yardbird Suite
+C:Charlie Parker
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 9/22/2017
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"^Intro w/Chunky Bass" [eb]/(3b/4a/4g/4 e/>c'/ z/ (3c'/4_b/4_a/4 f/>[e=b]/ | z/ (3[eb]/4a/4g/4 e/>[ec']/ z/ (3c'/4_b/4_a/4 f/>=b/ | z4 || g/4a/4g/4e/4 [fg]/ z/ z2 |
+[CEGc]/>G/ A/[_DG_B]/ z3/4 G/4 A/[CEGc]/ | z3/4 G/4 A/[_DF_B]/ z3/4 G/4 A/[CEGc]/ | z/ z/4 c/4 _B z2 | z/ z/4 G/4 _B/4c/G/4 B z |:
+"_Head" z/ "Cmaj7" c3/2 G A | "Fm7" _B3/2 _A "Bb7" _E/ F/G/- | "Cmaj7" G2 G3/2 "Bb7" E/- | "A7" E3/2 E/ F/E/F/G/ |  "D7" E/C/ z/ C2- C/ |1
+"G7" z3/2 D/ z/ E/F/G/- | "Em7" G3/2 A "A7" E/ F/G/- | "Dm7" G3 "G7" z :|2  z3/2 "G7" C/ E/C/E/C/- || "Cmaj7" C4 |
+"Cmaj7" z3 "B7" G/4A/4G/4^F/4 || "Em7" E3/2 ^F/ G/E/z/A/ |  "F#m7b5" z/ A/ "B7" A3 | "Em7" G/A/G/^F/ E/B,/C/^C/- | "A7" C2 z3/2 _B,/ |
+"Dm7" A,3/2 A/ z/ E/F/G/ |  "Em7" z/ G3/2 F/ "A7"E/D/^C/ | "D7" E A,/E/- E3/2 A,/ | "Dm7" D/E/F/G/ "G7" z2 ||
+"Cmaj7" z/ c3/2 G A |  "Fm7" _B3/2 _A "Bb7" _E/ F/G/- | "Cmaj7" G2 G3/2 "Bb7" E/- | "A7" E E/F/ z/ ^D/E/A/ | "D7" z/ A3/2- A2 |
+"Dm7" z/ A,/ (3B,/C/D/ "G7" E G,/C/- | "Cmaj7" C3 z | "Dm7" "G7" z4 |]

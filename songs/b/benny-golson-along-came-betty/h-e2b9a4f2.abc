@@ -1,0 +1,36 @@
+---
+workId: benny-golson-along-came-betty
+arrangementId: h-e2b9a4f2
+title: Along Came Betty
+artist: Benny Golson
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Along Came Betty
+C:Benny Golson
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 3/13/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: "Bbm7""_A""^Slovenly!"!ffff! z2 c B/d/- | "Bm7" d2- "E7" d2 | "Bbm9" z z/ c B/ =A/B/ | "Bm" d2- d2 "E7" |
+"Amaj9" z/ =E/^F/A/ =B/=A/ (3_A/F/A/- | "Ab7" A2- A- A | "Gmaj7" z/ =D/=E/^F/ =A/-A/G/F/- | "Gb7" F4 "Gb7#5" |
+"Gbm7" z z A _G/=A/- | "Gm7" A4 "C7" | "Gbm7" z z/ A/- A/_G/F/G/ | "Gm7" =A3 "C7" c/G/- |  "Fmaj7" G z/ F/ c/=B/_B/F/ |
+"A7" (3=A B G A3/2 A/ | "Dm7" =D/=E/F/G/ =A/=d/_d/=d/ | "G7" =A3- "Cm13" A/=d/- | S "Cm7" d/e/=d/B/ c2 |
+"F7" z/ E/_G/=A/ c/e/=d/_d/ | "Am7" c- c- "D7" c/=d/c/=A/ | "Gm7" B/=D/G/=A/ B/=d/c/=B/ |  "Em7" B2- "A7" B2 |
+"A7" z/ =E/G/=A/ c/=B/_B/A/ | "Fm7" A3/2 G/- (3G B A | "Bb7" F3 C/8E/8=D/8 "Am7" z/8 z/ |  "Bbm7" z2 c B/d/- | "Bm7" d4 "E7" |
+"Bbm7" z z/ c B/ =A/B/ | "Bm7" d3 "E7" c/e/- |  "Cm7b5" e4- | "F7" e3/2 d/ z/ c/z/F/ | "Bbm7""^To Coda" =E4 |
+"Eb7#9" _G3/2 =E/ (3G E G |  "Abmaj7" E4 | "Bm7" [^F,=A,]2 "E7" [^G,=D]2"^Solos over A (form) Repeat ad nauseam, go to B" :| z4 |{z}"^B""^March Like" z2 z [DF] |  "Bbm7" [Ac]/[Ac]/ z z [_GB] |
+"Bm7" [=Ad]/[Ad]/ z "E7" z [DF] | "Bbm7" [Ac]/[Ac]/ z/ z [_GB]/ [F=A]/[GB]/ | "Bm7" [=Ad]/[Ad]/ z "E7" z [^C=E] |  "Amaj7" [^G=B]/[GB]/ z z2 |
+"Ab7" z/ ^G/=G/^G/ [c=e]/[ce]/[c_e]/[ce]/ | "Gmaj7" [=B=d-]/[Bd]/ z z2 | "Gb9" z2 z [=A,D] |  "Gbm7" [=EA]/[EA]/ z2 [_E_G] | "Gm7" [F=A]/[FA]/ z2 "C7" [=A,D] |
+"Gbm7" [=E=A]/[EA]/ z z/ _G/F/G/ | "Gm7" [F=A]/[FA]/ z "C7" z2 |  "Fmaj7" z/ C/F/=A/ [Ac] [Ac] | "A7" [=A^c] [Ac] c _A/[Ad]/ | "Dm7" z4 |
+"G7" z z z z/"^D.S. al Coda" "Cm" =d/ | O _G3/2 "Eb9#11" =E/ (3G E G |[M:16/4] "Abmaj13#11" [G,E]8-"^Straight" !fermata![G,E]8 |]

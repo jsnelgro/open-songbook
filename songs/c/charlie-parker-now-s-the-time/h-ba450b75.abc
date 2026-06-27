@@ -1,0 +1,26 @@
+---
+workId: charlie-parker-now-s-the-time
+arrangementId: h-ba450b75
+title: Now's The Time
+artist: Charlie Parker
+source: jazz
+key: F
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Now's The Time
+C: Charlie Parker
+M:4/4
+L:1/8
+Q: 220
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues,Charlie Parker,Standard50
+%%songbook-uri /post/nows-the-time/
+K:F
+C|:"F7"FFGCF2 z C|"Bb7"FFGCF2 z C|"F7"FFGC FFGC|FFGCF2 z C|
+"Bb7"FFGC FB,3|FFGC "Bo7"F=B,3|"F7"FFGC FFGC|FFGCF2 z _A-|
+"Gm7"(3A1/2B1/2_A1/2F D=B,D2z2|"C7"zG-G2FGF_E|"F7"zCz2C2z2|C2zCz4:|

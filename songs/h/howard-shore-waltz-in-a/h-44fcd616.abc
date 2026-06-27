@@ -1,0 +1,30 @@
+---
+workId: howard-shore-waltz-in-a
+arrangementId: h-44fcd616
+title: A Waltz In A
+artist: Howard Shore
+source: jazz
+key: A
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:A Waltz In A
+C:Howard Shore
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/16/2017
+L:1/4
+Q:1/4=96
+M:12/8
+%%songbook-source lots_of_jazz
+K:A
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+"E7" "D7" z4 "A" "E7" z/4 E,,/F,,/z/4G,,/ |: "A" z6 | "E7" z6 | "D" c/E/E/ E/E/E/ E/E/E/ E/E/E/ |
+"A" "E7" z6 | "A" z6 | "C#" z6 | "F#m" "A/E" z6 |  "D" "D/E" z6 | "A" "C#" z6 |
+"D" B/E/E/ E/E/E/ "E" E/E/E/ "B7" E/E/E/ | "A" E/E/E/ E/E/E/ "D" E/E/E/ E/E/E/ |  "A" E/E/E/ E/E/E/ "A7" E/E/E/ E/E/E/ |
+"D" E/ z E/ z E3/2 E/E/E/ | "Eb" E/ z E/ z/ z/ E3/2 E/E/E/ |1 "A7" E3 "Bm7" E3 |
+"D" E/E/E/ E/E/E/ "E7" E/z/E/4 "A7"E/4 E/ "E7"E/E/ :|2 "A7" E3 "Bm7" E3 || "D" E/E/E/ E/"_Rit."E/E/ "E7" E/z/E/4 "A7"E/4 E/ "E7"E/E/ |
+"A""_Rit." G4- !fermata!E2 |]

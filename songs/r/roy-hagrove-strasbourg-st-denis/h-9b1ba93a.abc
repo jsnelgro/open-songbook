@@ -1,0 +1,45 @@
+---
+workId: roy-hagrove-strasbourg-st-denis
+arrangementId: h-9b1ba93a
+title: Strasbourg St Denis
+artist: Roy Hagrove
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Strasbourg St Denis
+C:Roy Hagrove
+Z:©2014 Finmusic/effendi.me
+Z:©2016 Finmusic/effendi.me 8/1/2016
+Z:
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+|: "Bbm7""^Bass/Piano Intro\n" B B c/c/ "Cm7"z/_d/- | "Dbmaj7" d2- d/c/F/c/ | "Bbm7" B B c/c/ "Cm7"z/_d/- | "Dbmaj13" d3/2 e/4=e/4 f/4d/4 F3/2 |
+"Bbm7" B B c/c/ "Cm7"z/_d/- | "Dbmaj7" d/_d/d/e/- "Eb7" e g/b/ | a/ "Abmaj9"e/ A A/G/_G/F/- | "F7#9" F4 ::
+"Bbm7""_Head" a/4f/4e/4f/4 c/4B/4A/4c/4 E/ "Cm7"B/ A- | "Dbmaj7" A4 | "Bbm7" a/4f/4e/4f/4 c/4B/4A/4c/4 "Cm7" E/B/ A- | "Dbmaj13" A4 |
+"Bbm7" a/4f/4e/4f/4 c/4B/4A/4c/4 "Cm7" E/B/ A- | "Dbmaj13#11" A3/2 F/4A/4 "Eb7" c B/>A/ |1 "Abmaj9" G/>F/ E C/E/F/_G/- | "F7#9" G/ A F2 z/ :|2
+F/> "Abmaj9"F/ E D/E/F/_G/- || "F7#9" G A/F/- F3/2 c'/4b/4 |"^(Chords Same)" a/4f/4e/4d/4 c/ z/ z/4 z/4 z/4 z/4 z/4 z/4 c/4d/4 |
+e/4f/4a/4b/4 c'/ z/ z/ z/ z/ c'/4b/4 |  a/4f/4e/4d/4 c/ z/ z/ z/ z/ c/4d/4 |
+e/4f/4a/4b/4 c'/ z/ z/ c'/4b/4 a/4f/4e/4d/4 | c/ z/ z/ c'/4b/4 a/4f/4e/4d/4 c/c'/4b/4 |
+a/4f/4e/4d/4 c/z/4c'/4 b/4a/4f/4"_Solos Over Form"e/4 d/<c/ |  c2 c/c/_d/=d/- | d2 |]
+V:2
+|: B,, B,, C,/C,/z/_D,/- | D,2- D,/C,/F,,/C,/ | B,, B,, C,/C,/z/_D,/- | D,3/2 E,/4=E,/4 F,/4D,/4 F,,3/2 |
+B,, B,, C,/C,/z/_D,/- | D,/_D,/D,/E,/- E, G,/B,/ | A,/E,/ A,, A,,/G,,/_G,,/F,,/- | F,,4 ::
+z4 | z4 | z4 | z4 |
+z4 | z4 |1 z4 | z4 :|2
+z4 || z4 | z/4 z/4 z/4 z/4 z/4 z/ c'/4 b/4a/4f/4e/4 d/4c/ z/4 |
+z/ z/ z/ c'/4b/4 a/4f/4e/4d/4 c/ z/ |  z/ z/ z/ c'/4b/4 a/4f/4e/4d/4 c/ z/4 z/4 |
+z/4 B/4c/4d/4 e/4f/4a/4b/4 c'/ z/ z/ c'/4b/4 | a/4f/4e/4d/4 c/ z/ z/ c'/4b/4 a/4f/4e/4d/4 |
+c/4c'/4b/4a/4 f/4e/4d/4c/c/4d/4e/4 e/4f/4g/4a/4 |  g/>f/ e c/e/f/d/- | d2 z2 |]

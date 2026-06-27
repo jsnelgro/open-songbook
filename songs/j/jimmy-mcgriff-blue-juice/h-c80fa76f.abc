@@ -1,0 +1,38 @@
+---
+workId: jimmy-mcgriff-blue-juice
+arrangementId: h-c80fa76f
+title: Blue Juice
+artist: Jimmy McGriff
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blue Juice
+C:Jimmy McGriff
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me 2/17/2016
+%%score ( 1 2 )
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble 
+%%MIDI program 0
+V:1
+z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z z z/ G/B/c/ |: "C9" e c G/4B/ c z/4 | "C9" z/ c/4e/c/B/G/F/4 E/4C/4B,/4C/4 |
+"C9" z z z/ G/ F/4E/4C/4B,/4 |  "C9" C/4 z/4 z/ z z/ G/B/c/ | "F9" e c G/4B/ c z/4 | "F9" z/ c/4e/c/B/G/F/4 E/4C/4B,/4C/4 |
+"C9" z z z/ G/ F/4E/4C/4B,/4 |  "C9" C/4 z/4 z/ z z/ G/G/G/ | "G9" d d- d3/2 _d/ |
+"F9" c/ "Eb" z/ c/4e/c/4- c/4B/G/4- G/4F/4E/4C/4 | "C9""_Solos Over C Blues\n" B,/4C/4 z/ z z/ g/ f/4e/4c/4B/4 |1  c/4 z/4 z/ z z/ G/B/c/ :|2
+c/4 z/4 z/ z "C9" z2 |]
+V:2
+x4 | x4 | x4 | x4 |  x4 | x4 | x4 | x4 |  x4 |: x4 | x4 |
+x4 |  x4 | x4 | x4 |
+x4 |  x4 | d d/d/ c/G/z/D/ |
+C/ z/ z z2 | x4 |1  x4 :|2
+x4 |]

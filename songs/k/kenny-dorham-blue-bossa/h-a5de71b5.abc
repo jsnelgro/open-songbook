@@ -1,0 +1,27 @@
+---
+workId: kenny-dorham-blue-bossa
+arrangementId: h-a5de71b5
+title: Blue Bossa
+artist: Kenny Dorham
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Blue Bossa
+C:Kenny Dorham
+Z:©2019 6EQUJ5 9/28/2019
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+G |: "Cm7" g3/2 f/ e/d/z/c/- | c2- c/B/z/A/- | "Fm7" A2- A/g/z/f/- |  "Bb7" f3 z |
+"Dm7b5" f3/2 e/ d/c/z/B/- | "G7#5" B2- B/A/z/G/- | "Cm7" G2- G/f/z/e/- |  e3 z | "Ebm7" e3/2 _d/ c/B/z/A/- |
+A2- A/_G/z/G/- | "Ab7" G3/2 F/ B3/2 A/ |  "Dbmaj7" A3 z | A G/B/- B3/2 A/ | "Dm7b5" A G/B/- B3/2 A/ |
+"G7#5" G4- |  "Cm7" G4- | "Dm7b5" G2 "G7#5" z2 :|

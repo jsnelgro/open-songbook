@@ -1,0 +1,31 @@
+---
+workId: macros-vale-paulo-segio-valle-summer-samba
+arrangementId: h-cfc1eaf3
+title: Summer Samba
+artist: Macros Vale/ Paulo Segio Valle
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Summer Samba
+C:Macros Vale/ Paulo Segio Valle
+C:Norman Gimbel
+C:Arr. 6EQUJ5
+Z:©2017 6EQUJ5
+Z:10/15/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|: E/ "Cmaj7"G/ A B/_B/ A | E/G/ A/ B _B/ A | "F#m7" E/G/ A B/_B/ A | "B7" ^D/G/ A/ B _B/ A |
+"Fmaj7" A/c/ d e/_e/ d | A/c/ d/ e _e/ d | "Bb7" _A/c/ d e/_e/ d | A/c/ d/ e _e/ d |  "Em7" z g G2- |
+"A7" G2 _b/a/g/f/ |1 "Dm7" e4- | "Bm7b5" e2 "E7" g/^f/=f/e/ |  "Am7" d4- | "D7" d2 e/_e/d/_d/ | "Dm7" c/A/c/A/ c/A/c/_e/- |
+"Ab7" e/c/ d "G7" z2 :|2  "D7" e4- || "G7" e4 | "Cmaj7" d/_d/ c c/^c/ =d | "F7" d/_d/ c c/^c/ =d |  "Cmaj7" c4 |
+"Dm7" "G7" z4 :|

@@ -1,0 +1,31 @@
+---
+workId: charlie-parker-ornithology
+arrangementId: h-fb1398e2
+title: Ornithology
+artist: Charlie Parker
+source: jazz
+key: G
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ornithology
+C:Charlie Parker
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:G
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z z/ D/ |: "Gmaj7" G/A/B/c/ d/B/c/d/ | "Gmaj7" B/G/ z z z/ D/ | "Gm7" G/A/_B/ "C7"c/ d/ e =f/- |
+"Gm7" f/G/A/ "C7"_B/- B3/2 d/ | "Fmaj7" c/ A =F/ _B/^G/A/F/ | "F" z z z z/ _A/- | "Fm7" A G/=F/ E/G/F/C/ |
+"Bb7" =F _E/D/ z z/ _d/- | "Eb7" d c/_B/ A/c/B/G/ | "Am7" A G/F/ "D7" z z/ D/ |1 "Gm7" A/G/D/_B,/ =F/D/_E/D/ |
+"D7#9" z z z/ B/c/d/- | "Bm7" d/z/z/B/- B/ A G/ | "E7" ^G/B/d/=f/- f e/c/- | "Am7" c/z/z/A/- A/ G =F/ |
+"D7" F/A/c/_e/- e d/D/ :|2 "G7" A/G/D/B,/ =F/D/_E/D/ || "D7" z2 z z/ _B/ | "Bm7" B/d/f/d/ "Bbm7" e/_d/_B/_A/ |
+"Am7" A/c/e/ "Abm7"c/ _e/_c/_A/_G/ | "G" G/ z/ z z2 | "Am7" "D7" z4 |]

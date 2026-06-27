@@ -1,0 +1,27 @@
+---
+workId: clifford-brown-sandu
+arrangementId: h-0c991372
+title: Sandu
+artist: Clifford Brown
+source: jazz
+key: Eb
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Sandu
+C: Clifford Brown
+M: 4/4
+L: 1/8
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues
+%%songbook-uri /post/sandu/
+K: Eb
+E GB (3cBe|:"Eb7"z2 z E G2 BA|"Ab7"z2 z e-e2 _GE|"Eb7" e2z E =G2 Be|z2 z _d- dBAE|
+"Ab7" (3_GEA-A4 G2|z e2 _d BA_GE|"Eb7" (3AE=G-G4 E2|z e2 _d BA_GE|
+|1 "Bb" [__B_G][__B_G][AF][AF] [E2G2] [CE]_B,|_D2_B,2 DB,=D"Eb7"E|z [GB,][_G__B,]"Fm7"[FA,] z [=G_B,][AC]"Bb7"[BD]|z2 z E GB (3cBe :|
+|2 "Bb" [__B_G][__B_G][AF][AF] [E2G2] [CE]_B,|_D2_B,2 DB,=D"Eb7"E|z8|z8||

@@ -1,0 +1,34 @@
+---
+workId: ronnie-foster-mystic-brew
+arrangementId: h-64805361
+title: Mystic Brew
+artist: Ronnie Foster
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Mystic Brew
+C:Ronnie Foster
+C:arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/20/2017
+%%score 1 2
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+|: "Dbmaj7" _D _A/C/- "Csus4" C G/C/ | "F7" F C/ "Bb7"_B/- B _E/G/ | "Ab" _A _E/ "Gbmaj7"_G/- G"^Bass Line Continues" _B/C/ ::
+[K:Ab] "Dbmaj7" f4- "C7sus4" |  "F7" f3 "Bb7" a/f/ | "Ab" a f/e/ "Gbmaj7" f e/c/ | "Dbmaj7" e c/ "C7sus4"B/ c B/A/ | "Ab" B/A/ "Gbmaj7" F3 |  z4"^3x" ::
+"Dbmaj7""_Solos" "C7sus4" z4 | "F7" "Bb7" z4 | "Ab" "Gbmaj7" z4 :|
+V:2
+|: _D, _A,/C,/- C, G,/C,/ | F, C,/_B,/- B, _E,/G,/ | _A, _E,/_G,/- G, _B,/C,/ ::
+[K:Ab] z4 |  z4 | z4 | z4 | z4 |  z4 ::
+z4 | z4 | z4 :|

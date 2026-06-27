@@ -1,0 +1,31 @@
+---
+workId: joe-avery-joe-avery-s-blues
+arrangementId: h-786d361a
+title: Joe Avery's Blues (Second Line)
+artist: Joe Avery
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Joe Avery's Blues (Second Line)
+C:Joe Avery
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:7/23/2017
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|:"^Trumpet Intro" z2 z f/g/ | _a3- a/f/ |"^Hey!""_repeat Ad Nauseum" z4 :: "Bb7""^Head" B, D F z |  B, D/F/ z/ F/z/F/ |
+B, D F z | B, D/F/ z/ F/z/F/ | "Eb7" E G B z |  E G/B/ z/ B/z/B/ | "Bb7" B, D F z |
+B, D/F/ z/ z/ F/F/ | "F7" F F/F/ F F/F/ |  F/ E3/2 D C | "Bb7" B, z/ B,/ D/F/G/B/- |1 B z3/2 F/ F/F/ :|2
+B z3/2 F/ G ||  "Bb7" B z B z | z B B z | B B B B | z B B z |
+"Eb7" E G B z | E G/B/ z/ B/B/B/ | "Bb7" B, D F z | B, D/F/ z [Fc]/[Fc]/ |  "F7" F F/F/ F F/F/ |
+F/ E3/2 D C | "Bb7" [B,F] z/ ^C/ D/F/G/B/ | z4 |]

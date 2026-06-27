@@ -1,0 +1,35 @@
+---
+workId: john-klenner-just-friends
+arrangementId: h-99a84920
+title: Just Friends
+artist: John Klenner
+source: jazz
+key: G
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Just Friends
+C: John Klenner 
+M: 4/4
+L: 1/4
+Q: 190
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/just-friends/
+K: G
+P: A
+B||"C^7"B4-|B2 (3ABA|"Cm7"_E4-|"F7"E2 A2|
+"G^E7"A4-|AA (3GAG|"Bbm7"_D4-|"Eb7"D2 G2||
+P: B
+"Am7"G3/2 E1/2 G3/2 E1/2|"D7"F3 F|"Bm7"F3/2 D1/2 F3/2 D1/2|"Em7"EFGB|
+"A7"e2 B2-|BE (3EFG|"Am7"B2 A2-|"D7"A2 "Db7"B2||
+P: A
+"C^7"B4-|B2 (3ABA|"Cm7"_E4-|"F7"E2 A2|
+"G^E7"A4-|AA (3GAG|"Bbm7"_D4-|"Eb7"D2 G2||
+P: C
+"Am7"G3/2 E1/2 G3/2 E1/2|"D7"F3 A|"Bm7"A3/2 F1/2 A3/2 F1/2|"Em7"GABd|
+"A7"e3 E|"Am7"d2 "D7"B2|"G6"G4|z4||

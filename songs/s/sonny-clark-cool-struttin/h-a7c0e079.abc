@@ -1,0 +1,27 @@
+---
+workId: sonny-clark-cool-struttin
+arrangementId: h-a7c0e079
+title: Cool Struttin'
+artist: Sonny Clark
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cool Struttin'
+C:Sonny Clark
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/18/2016
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z/ c/_e/f/ |: "F7" z2 z/ f/_a/b/ | "Bb7" z2 c'/_e'/- e' | "F7" (3=b/_b/_a/ f- f/c/_e/f/ |
+"F7" z2 z/ f/_a/b/ | "Bb7" z2 z/ [df]/[f_a]/[a_c']/ | "Bb7" z/ [gb]3/2 (3=b/_b/_a/ f/f/ | "F7" z2 z/ c/_e/f/ |  "D7" z4 |
+"G7" [_Ac]/[c_e]/- [ce]2 [A_c]/[GB]/- | "C7" [GB]2 z [F_A]/[DF]/- | "F7" [DF]2 z/ "D7" [B_e]/- [B=e] |1  z/ "G7" [_A_d]/- [Ad] z/ "C7" c/_e/f/ :|2 z/ "Gm7" d/- d z/ "C7" d/- d |]

@@ -1,0 +1,33 @@
+---
+workId: duke-pearson-nomad
+arrangementId: h-20f4a519
+title: Nomad
+artist: Duke Pearson
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Nomad
+C:Duke Pearson
+C:Grant Green
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:7/2/2017
+L:1/4
+Q:1/4=250
+M:9/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z8 c/ z/ | F/_A/ c/_B/ _G/ z/ A/E/ _D/^F/ D/C/ B,/A,/ ^G,/E/ z/ e/ |
+z/ A/ c/e/ d/_B/ z/ c/ _A/F/ B/_G/ _E/_D/ C/A/ z/ [E=Gc]/ |[M:4/4] z/ [B,E_A]/[C_EB]/[DFB]/ [EGc]/[F=Ad]/[GBe]/[FA_d]/ |  z/ [A,^F]/[_B,G]/[CA]/ [DB]/[Ec]/[=F_d]/[EB]/ |
+z/ G,/_A,/_B,/ =B,/D/E/D/- | D/E/d/^G/- G ^F/c/ |[M:9/4] F/_A/ c/_B/ _G/ z/ A/E/ _D/^F/ D/C/ B,/A,/ ^G,/E/ z/ e/ |
+z/ A/ c/e/ d/_B/ z/ c/ _A/F/ B/_G/ _E/_D/ C/A/ z/ [E=Gc]/ |[M:4/4] z/ [CE]/ ^F G F | G ^F G A |
+G ^F/E/- E2 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 |
+z4 |  z4 | z4 | z4 | z4 |  z4 | z4 | z4 | z4 |
+z4 | z4 |]

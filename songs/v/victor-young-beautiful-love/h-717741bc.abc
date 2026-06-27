@@ -1,0 +1,29 @@
+---
+workId: victor-young-beautiful-love
+arrangementId: h-717741bc
+title: Beautiful Love
+artist: Victor Young
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Beautiful Love
+C:Victor Young
+Z:©2018 6EQUJ5
+Z:7/31/2018
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+D E F |: "Em7b5" A3 G | "A7" F3/2 E/ D E/F/- | "Dm7" F4- | "^(D7)" F/ F3/2 G A |
+"Gm7" c3 B | "C7" A3/2 G/ F G/A/- | "Fmaj7" A4 |  "Em7b5" z/ A3/2 "A7" =B ^c |
+"Dm7" e d2 A | "Gm7" c B2 D | "Bb7" E4 |  "A7" z/ E3/2 F G |1
+"Dm7" A3 D | "G7#11" ^C3 D | "Em7b5" E4 |  "A7" z/ E3/2 F G :|2
+"Dm7" A2 "B7" ^C D || "Bb7" F2 "A7" E2 | "Dm7" D4 |  z/ E3/2 F G :|

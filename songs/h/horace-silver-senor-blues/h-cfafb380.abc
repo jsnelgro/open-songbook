@@ -1,0 +1,38 @@
+---
+workId: horace-silver-senor-blues
+arrangementId: h-cfafb380
+title: Senor Blues
+artist: Horace Silver
+source: jazz
+key: Ebmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Senor Blues
+C:Horace Silver
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=250
+M:6/8
+%%songbook-source lots_of_jazz
+K:Ebmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ z/ z/ z/ z/ B,/ |: E, "Ebm7" B,/ E/ E/ D/ | E D/ E/ F/ B,/ | E,/ B,/ D/ E/ E/ D/ |
+E D/ E/ D/ B,/ :| E, "Ebm7" B,/ E/ E/ D/ | E D/ E/ F/ B,/ |"^Break" E,/ z/ z/ z/ z/ z/ |  z z3/2 B,/ |:
+"^A,B" E, "Ebm7" B,/ E/ E/ D/ | E D/ E/ F/ B,/ | E,/ B,/ D/ E/ E/ D/ |  E D/ E/ D/ B,/ | E, "Ebm7" B,/ E/ E/ D/ |
+E D/ E/ F/ B,/ | E,/ B,/ D/ E/ E/ D/ |  E D/ E/ D/ G,/ | "B9" =B,, ^F,/ =B,/ B,/ =A,/ | =B, =A,/ B,/ ^C/ ^F,/ |
+"B9" =B,, ^F,/ =B,/ B,/ =A,/ |  =B, =A,/ B,/ A,/ B,,/ | E, "Ebm7" B,/ E/ E/ D/ | E D/ E/ F/ B,/ | E,/ B,/ D/ E/ E/ D/ |
+E D/ E/ D/ F,/ | "Bb7" B,, F,/ B,/ B,/ A,/ | B, A,/ B,/ A,/ E,/ | "Ab13" A,,/ E,/ G,/ A,/ A,/ G,/ |
+A, G,/ A,/ G,/ B,,/ | "Ebm7" E, B,/ E/ E/ D/ | E D/ E/ F/ B,/ | E,/ B,/ D/ E/ E/ D/ |  E D/ E/ D/ B,/ :|
+"^Solos" z3 |:"^C""^Ending" [Be]3- | [Be]3 "Ebm7" |  z3/2 z/ [dg]/ [Be]/ | [Ad]/ [FB]/ [EA]/ [DG]/ [B,E]/ [A,D]/ | [B,E]3- | [B,E]3 |
+z3/2 z/ [B,E]/ [DG]/ | [EA]/ [DG]/ [B,E]/ [DG]/ [B,E]/ [A,D]/ | [B,E]3- | [B,E]3 |  z3/2 z/ [B,E]/ [DG]/ | [EA]/ [DG]/ [B,E]/ [DG]/ [B,E]/ [A,D]/ |
+[B,E]3- | [B,E]3 |1  z3 | z3 :|2 "Eb" E,/ z z3/2 || z D/ E/ D/ B,/ |  E,/ z/ z/ z/ z/ z/ |
+z D/ E/"^in hat" D/ B,/ |
+E,/ z/ z/ z/ z/ z/ |]:
+"Ebm7""_Solos" z3 |  z3 | z3 | z3 | z3 |  z3 | z3 | z3 | "B7" z3 |  z3 | z3 | z3 |
+"Ebm7""^AB-Solos-ABC" z3 |  z3 | z3 | z3 | "Bb13" z3 |  z3 | "Ab13" z3 | z3 | "Ebm7" z3 |  z3 | z3 | z3 :|

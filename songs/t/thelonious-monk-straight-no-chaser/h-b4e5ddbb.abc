@@ -1,0 +1,26 @@
+---
+workId: thelonious-monk-straight-no-chaser
+arrangementId: h-b4e5ddbb
+title: 'Straight, No Chaser'
+artist: Thelonious Monk
+source: jazz
+key: F
+tags:
+  - Blues
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Straight, No Chaser
+C: Thelonious Monk
+M: 4/4
+L: 1/8
+Q: 180
+%%songbook-source jazzleadsheet
+%%songbook-categories Blues
+%%songbook-tags Blues
+%%songbook-uri /post/straight-no-chaser/
+K: F
+C|"F7"FG^GA- ACF=G|"Bb7"^GAB_A- A3 C|"F7"FG^GA- ACF=G|^GABC F=G _A2|
+"Bb7"zC FG ^GAB_A-|A8|"F7"zC FG ^GA2 C|FG^GA- ACF=G|
+"Gm7"^GABC ^CD^DE-|"C7"EF^FG ^GABC|"F7"FG^GA- A4-|A8||

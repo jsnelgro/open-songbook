@@ -1,0 +1,46 @@
+---
+workId: joe-sample-in-all-my-wildest-dreams
+arrangementId: h-0835b047
+title: In All My Wildest Dreams
+artist: Joe Sample
+source: jazz
+key: E
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:In All My Wildest Dreams
+C:Joe Sample
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/30/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:E
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "G#m7""^Rhodes" D/E/ F/G/4E/4- "A" E A,/B,/4C/4 | "F#m7" E/F/4E/4 z/4 F/4 "C#m7"E/- E2 | "G#7" D/E/4F/4 z/4 G/4F/4E/4- E "A" A,/(3B,/4C/4E/4 |1
+"E/G#" G/F/4F/4 z/4 "F#m/A" E/4E/ "E" E2 :|2 "_Bass (or something similar)" G/ "E/G#"F/4F/4 z/4 E/4 "F#m"E/ E2 "E" || "E" z4 | "D/E" z4 "A" |
+"E" z4 |  "D/E" z4 "A" |: "G#m7" D/E/ F/G/4E/4- "A" E A,/B,/4C/4 | "F#m7" E/F/4E/4 z/4 F/4 "C#m7"E/- E2 |
+"G#7" D/E/4F/4 z/4 G/4F/4E/4- "A" E A,/(3B,/4C/4E/4 |  "E/G#" G/F/4F/4 z/4 "F#m" E/4E/ "E" E2 :|
+"Amaj7""^Horns in" c/>B/ "E" z/ "E/F#" G/ F2 "E/G#" | "D" F/> "E/F#"G/ z/ F/ "E7" E2 "Amaj7" | "A6" c/> "E/G#"B/ z/ "E/F#" G/ F2 "G#7" |  "D/E" F/>G/ "E/F#" z/ F/ "E7" E2 "Amaj7" |
+"A6" c/>B/ "E/G#" z/ G/ "E/F#" F2 "D/E" | F/> "G#7"G/ z/ F/ "C#m7" E2 |[M:2/4] "F#m7" c/>B/ "E" z/ "E/A" G/ |
+[M:4/4] "D" F2- F3/2 z/ | "E/G#" G/F/4F/4 "E/B" z/4 E/4E/ "E" E2 | "E" z4 | "D/E""_Etc" z4 "A" |
+"E" z4 | "D/E" z4 "A" |:
+"G#m7""^Solos" "A" z4 | "F#m7" z4 "C#m7" |  "G#7" "A" z4 | "E/G#" d/A,/4A,/4 "F#m/A" z/4 A,/4A,/ "E/B" A, "E" d :|
+V:2
+|: z4 | z4 | z4 |1
+z4 :|2  z2 z C/E/ || A/ _A3/2- =A2 | =D/C/B,/C/- C B,/4C/4E/ |
+A/ _A3/2- =A2 |  =D/C/ B,/4C/4A,/- A,2 |: z4 | z4 |
+z4 |  z4 :|
+z4 | z4 | z4 |  z4 |
+z4 | z4 |[M:2/4] z2 |
+[M:4/4] z4 | z2 z C/E/ | A/ _A3/2- =A2 | =D/C/B,/C/- C B,/4C/4E/ |
+A/ G3/2- G2 | =D/C/ B,/4C/4A,/- A,2 |:
+z4 | z4 |  z4 | z4 :|

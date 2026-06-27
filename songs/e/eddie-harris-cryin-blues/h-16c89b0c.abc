@@ -1,0 +1,27 @@
+---
+workId: eddie-harris-cryin-blues
+arrangementId: h-16c89b0c
+title: Cryin' Blues
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cryin' Blues
+C:Eddie Harris
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=175
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z z/ _e/- | "F7" e- e/(3_c/4_B/4_A/4 F- F/>_E/ | "Bb7" F/>_E/ F _A z/ _e/- |
+"F7" e- e/(3_c/4_B/4_A/4 F/>_E/ F |  "F7" _A z z z/ _a/- | "Bb7" a- a/(3_c/4_B/4_A/4 F- F/>_E/ | "Eb7" F/>_E/ F _A z/ _e/- |
+"F7" e- e/(3_c/4_B/4_A/4 F/>_E/ F |  "F7" _A z z A/_E/ | "Db7" _d/_A/_E/_B/ F/C/A/E/ | "Gm7" _B,/F/C/F/ "C7" _B/d/f/f/- |
+"F7" f- f/(3_c/4_B/4_A/4 F/>_E/ F |  "F7" _E z z2 |]

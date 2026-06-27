@@ -1,0 +1,39 @@
+---
+workId: oliver-nelson-stolen-moments
+arrangementId: h-f2cf708b
+title: Stolen Moments
+artist: Oliver Nelson
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Stolen Moments
+C:Oliver Nelson
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:4/14/2018
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: "Cm7" z/ G3/2- G2 | "Dm7" z/ =A3/2- A2 | "Ebmaj7" z/ B3/2- B2 | "Dm7" z/ =A3/2- A2 :|
+z/ "Cm7" G/B/d/ z/ c B/ | "Cm6" c/ =A F/4C/4 E/ G3/2 | "Cm7" z/ G/B/d/ z/ c B/ | "Cm6" c/ =A3/2 G2 |
+"Fm7" z/ A/c/e/ z/ d c/ | d/ B3/2 F/ A3/2 | "Cm7" z/ E/G/B/ z/ =A G/ | =A/ F3/2 E G/B/ |
+c/e/ c/ c e/ c/c/- | c/e/ c/ c e/ c/c/- | c/e/ c/ c e/ c/c/- | c/e/ c/ c E/ C/C/- |
+"Dm7" C/E/ C/ "Ebm7" C E/ C/C/- | C/ "C/E"D/4E/4 C/ "Fm7" C G/ =A/G/ | "Cm7" B =A/ G2 G/- | "G7" G4 |]
+V:2
+|: z4 | z4 | z4 | z4 :|
+z4 | z4 | z4 | z4 |
+z4 | z4 | z4 | z4 |
+"Dm7" c3/2 "Ebm7" c2 "Em11" c/- | c3/2 "Fm11" c2 "F#m11" c/- | c3/2 "Fm11" c2 "Em11" c/- | c3/2 "Ebm11" c2 "Dm7" c/ |
+z4 | z4 | z4 | z4 |]

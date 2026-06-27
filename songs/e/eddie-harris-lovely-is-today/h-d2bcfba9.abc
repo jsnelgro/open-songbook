@@ -1,0 +1,28 @@
+---
+workId: eddie-harris-lovely-is-today
+arrangementId: h-d2bcfba9
+title: Lovely is Today
+artist: Eddie Harris
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Lovely is Today
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Em7" B2- B/ E G/- | "Em7" G2 z2 | "Eb7" z2 B/ A G/- | "Eb7" G/ _E G A G/ |  "Em7/D" B2- B/ D G/- |
+"Em7/D" G2 z2 | "Dbm7" z2 B/ A G/- | "Dbm7" G/ _D G A G/ |  "Cm7" B2- B/ C G/- | "Cm7" G2 z2 |
+"D7" z2 B/ A G/- | "D7" G/ E G A E/ |  "Ebm7" G2- G3/2 F/- | "F7""_Intro-Vamp form no melody\nSolos-over form" F2 (3z D F | "G7" D4 |
+"G7" z E/G/- G/ A E/ |]

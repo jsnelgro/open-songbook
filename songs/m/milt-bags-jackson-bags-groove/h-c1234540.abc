@@ -1,0 +1,29 @@
+---
+workId: milt-bags-jackson-bags-groove
+arrangementId: h-c1234540
+title: Bags' Groove
+artist: Milt "Bags" Jackson
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Bags' Groove
+C:Milt "Bags" Jackson
+C:arr. 6EQUJ5
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z2 z F/ z/ | "F7" c3 B/_A/ | "F7" B _A/F/ A F/_E/ | "F7" F3/2 _E/ z2 |  "F7" z2 z F/ z/ |
+"Bb7" c3 B/_A/ | "Bb7" B _A/F/ A F/_E/ | "F7" F3/2 _E/ z2 |  "F7" z2 z F/ z/ | "Gm7" c3 B/_A/ |
+"Gm7" B _A/F/ A F/_E/ | "C7" F3/2 _E/ z2 |  "F7" z2 z F/ z/ | "F7" _a3 g/f/ | "F7" g f/_e/ f e/c/ |
+"F7" _e3/2 c/ z2 |  "F7" z2 z f/ z/ | "Bb7" _a3 g/f/ | "Bb7" g f/_e/ f e/c/ | "F7" _e3/2 c/ z2 |
+"F7" z2 z f/ z/ | "Gm7" _a3 g/f/ | "Gm7" g f/_e/ f e/c/ | "C7" _e3/2 c/ z2 |]

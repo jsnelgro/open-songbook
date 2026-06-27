@@ -1,0 +1,28 @@
+---
+workId: herbie-hancock-cantaloupe-island
+arrangementId: h-7b208b68
+title: Cantaloupe Island
+artist: Herbie Hancock
+source: jazz
+key: Fmin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Cantaloupe Island
+C:Herbie Hancock
+Z:©2014 Finmusic/effendi.me
+Z:
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Fmin
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Fm7" z4 | "Fm7" z4 | "Fm7" z4 | "Fm7" z2 z F/F/ |:  "Fm7" z2 A/B/ B |
+"Fm7" z z/ A/ B/c/F/F/- | "Fm7" F z z z | "Fm7" z2 z F/F/ |  "Db7" z2 A/B/ B | "Db7" z z/ A/ B/c/F/F/- |
+"Db7" F z z z | "Db7" z2 B/e/c/e/ |  "Dm11" F3/2 F/- F2- | "Dm11" F z c/e/c/e/ | "Dm13" F3/2 F/- F2- |
+"Dm11" F3 z |  "Fm7" z4 | "Fm7" z4 | "Fm7" z4 | "Fm7" z2 z F/F/ :|

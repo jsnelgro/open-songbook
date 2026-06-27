@@ -1,0 +1,26 @@
+---
+workId: john-coltrane-blue-train
+arrangementId: h-0ff18ccc
+title: Blue Train
+artist: John Coltrane
+source: jazz
+key: Eb
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Blue Train
+C: John Coltrane
+M: 4/4
+L: 1/8
+Q: 150
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Hardbop
+%%songbook-uri /post/blue-train/
+K: Eb
+G BdBc-|:"Cm"c8|"Fm7"z3 G "Bb7"BdBc-|"Cm"c8|"Bbm7"z3 c "Eb7"egef-|
+"Fm"f8|"Fm7"z3 G "Bb7"BdBc-|"Cm"c8|"Am7"z3 G "D7" cdcB-|
+"Gm"B8|"Fm7"z3 G "Bb7"BdBc-|[1 "Cm"c8|"Fm7"z3 G "Bb7"BdBc-:|[2 "Cmb5"c8|- "Cm"c2 z6||

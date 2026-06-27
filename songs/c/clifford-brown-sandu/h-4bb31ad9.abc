@@ -1,0 +1,28 @@
+---
+workId: clifford-brown-sandu
+arrangementId: h-4bb31ad9
+title: Sandu
+artist: Clifford Brown
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sandu
+C:Clifford Brown
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 11/11/2016
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z3/2 E/ G/B/ (3c/B/e/ |: "Eb7" z z/ E/ G B/A/ | "Ab7" z z/ "A7" !~(!e3/2 !~)!_G/E/ | "Eb7" e z/ E/ G B/e/ |
+"Eb7" z z/ _d/- d/B/A/E/ | "Ab7" _G/4E/4A/- A- A E | "Adim" z/ _d B/ =A/_A/_G/E/ | "Eb7" A/4E/4G/- G2 E |
+"Gm" z/ _d B/ "C7" =A/_A/_G/E/ | "Fm7" [_G=A]/[GA]/[F_A]/[FA]/ [EG] [CE] | "Bb7" _D B, (3D/4E/4D/4B,/ =D/E/ |1 "Gm7" z/ G/_G/F/ "C7" z/ G/A/B/ |
+"Fm7" z z/ E/ G/ "Bb7"(3B/c/e/ z/ :|2 "Eb7" z4 || "Fm7" z4 "Bb7" |]

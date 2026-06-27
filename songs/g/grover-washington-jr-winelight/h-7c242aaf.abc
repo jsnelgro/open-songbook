@@ -1,0 +1,37 @@
+---
+workId: grover-washington-jr-winelight
+arrangementId: h-7c242aaf
+title: Winelight
+artist: Grover Washington Jr.
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Winelight
+C:Grover Washington Jr.
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:8/26/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+|:"^extended Intro" z4 :| "Cm7" z3 G/B/ |:"^Head""_A" c/>c/- c2 z | z2 c/B/c/B/ |  c/B/4G/4- G2 z |
+z7/2 _G/- | "Fm7" G- G/4F/F/4- F/=G/ E | z2 F/E/ F/E/4G/4 |  "Cm7" z/4 E/4z/4C/4- C/>B,/ C/4B,/4C/- C |
+z3 z3/4 G,/4 | "Abm7" A,/4_C/4E/4B/4 z/4 A3/4- A z | z3 A/<B/ |1  "Cm7" G/>E/- E/ C B,/4C/4 E | z3 G/B/ :|2
+"Cm7" G3/4E3/4 C B,/4C/4 E || z4 ||  "Ebmaj7""^B" =A,/<B,/ C/<E/ ^F/<G/ B/c/4e/4- | "Eb9" e z3/4 c/4 c/B/4B/4- B/G/4G/4- |
+"Abmaj7" G/F/4F/4- F/G/ E/4- E z/4 E/4F/4 | "Db13" _G/F/4E/4 E/(3z/_C/B,/ A, z/ |  "Ebmaj7" =A,/<B,/ C/<E/ ^F/<G/ B/c/4e/4- |
+"Eb9" (3e/f/g/ e- e/>c/ e/f/4e/4- | "Abmaj7" e z z3/4 e/4 z/4 c/4z/4_G/4 | "Db9" z/4 F/4z/4F/4- F/4C/4E/4C/4- C z/ B,/4C/4 |
+"Eb/Bb" E/4E/4z/4E/4 z/4 E/4z/4E/4 z/4 E/4z/4G/4 z/ B,/4C/4 | "Cdim7/Bb" E/4E/4z/4E/4 z/4 E/4z/4E/4 z/4 E/4z/4F/4 z/ B,/4C/4 |
+"Abmaj7/Bb" E/4E/4z/4E/4 z/4 E/4z/4E/4 z/4 C/4z/4_G/4 F/4E/4C/4=G/4- | "G7" G z z/4 F/4z/4F/8_G/8 F/4E/4C/4G/4- |  G2 z/4 B3/4 (3_G/4F/4E/4C/4=G/4- |
+G2 z/4 B/c/4 (3_G/4F/4E/4C/ | G/G/ G/G/4G/4 z G/B/ || "Cm7""_C" c/>c/- c2 z |  z2 c/B/c/B/ |
+c/B/4G/4- G2 z | z7/2 _G/- | "Fm7" G- G/4F/F/4- F/=G/ E |  z2 F/E/ F/E/4G/4 |
+"Cm7" z/4 E/4z/4C/4- C/>B,/ C/4B,/4C/- C | z3 z3/4 G,/4 | "Abm7""_After solos,\nCome back in @ B, play head out" A,/4_C/4E/4B/4 z/4 A3/4- A z |  z3 A/<B/ |
+"Cm7" G/>E/- E/ C B,/4C/4 E | z4 |: "Cm7" z4 :|

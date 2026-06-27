@@ -1,0 +1,26 @@
+---
+workId: herbie-hancock-watermelon-man
+arrangementId: h-0a6ca121
+title: Watermelon Man
+artist: Herbie Hancock
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Watermelon Man
+C:Herbie Hancock
+Z:©2014 Finmusic/effendi.me
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"F7" _e4- | "F7" e F/F/ c/ d F/- | "F7" F4- | "F7" F4 |  "Bb7" f4- | "Bb7" f F/F/ c/ d F/- |
+"F7" F4- | "F7" F4 |  "C7" z c/c/ g a | "Bb7" _a/g/f/d/ f g | "C7" z c/c/ g a | "Bb7" _a/g/f/d/ f d |
+"C7" z c/c/ g a | "Bb7" _a F/ "F7"F/ c/ d F/- | "F7" F4- | F4 |]

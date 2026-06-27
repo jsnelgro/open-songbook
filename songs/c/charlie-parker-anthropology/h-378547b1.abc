@@ -1,0 +1,35 @@
+---
+workId: charlie-parker-anthropology
+arrangementId: h-378547b1
+title: Anthropology
+artist: Charlie Parker
+source: jazz
+key: Bb
+tags:
+  - Bebop
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Anthropology
+C: Charlie Parker
+M: 4/4
+L: 1/8
+Q: 200
+%%songbook-source jazzleadsheet
+%%songbook-categories Bebop
+%%songbook-tags Charlie Parker,Rhythm Change
+%%songbook-uri /post/anthropology/
+K: Bb
+P: A
+"Bb"Bd (3c^cd "G7"ecdf|"Cm7"z3 e- "F7"efe2|"Bb"z d ed "Gm7"cABd|"Cm7"cABA "F7"z3 B-|
+"Fm7"B2 GB "Bb7"dB2 =e-|"Eb7"e _e2 _G- "Ab7"GB cd|"Dm7"f2 z =B- "G7" B _a2 ^f|"Cm7"geBG "F7"df z A||
+P: A
+"Bb"Bd (3c^cd "G7"ecdf|"Cm7"z3 e- "F7"efe2|"Bb"z d ed "Gm7"cABd|"Cm7"cABA "F7"z3 B-|
+"Fm7"B2 GB "Bb7"dB2 =e-|"Eb7"e _e2 _G- "Ab7"GB cd|"Cm7"efdf- "F7"fdeG|"Bb"cGBc z3 ^f-||
+P: B
+"D7"f2 g^g a^f=ga|^fd z2 z3 =e|"Gm7"=f=e d2 ed=BA|z2z a-a a2 a-|
+"C7"ag=ed- d3 A|(3cdc Gc z3 _e-|"F7"e2 dc =BdcA|c2 _BA z3 F||
+P: A
+"Bb"Bd (3c^cd "G7"ecdf|"Cm7"z3 e- "F7"efe2|"Bb"z d ed "Gm7"cABd|"Cm7"cABA "F7"z3 B-|
+"Fm7"B2 GB "Bb7"dB2 =e-|"Eb7"e _e2 _G- "Ab7"GB cd|"Cm7"efdf- "F7"fdeG|"Bb"cBAB z4||

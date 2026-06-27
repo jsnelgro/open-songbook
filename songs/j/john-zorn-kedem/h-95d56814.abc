@@ -1,0 +1,55 @@
+---
+workId: john-zorn-kedem
+arrangementId: h-95d56814
+title: Kedem
+artist: John Zorn
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Kedem
+C:John Zorn
+C:Masada
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ51/1/2019
+%%score [ ( 1 2 ) | ( 3 4 ) ]
+L:1/4
+Q:1/4=200
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 65
+V:2 treble 
+%%MIDI program 65
+V:3 bass-8
+%%MIDI program 32
+V:4 bass-8 
+%%MIDI program 32
+V:1
+|:"^Bass Intro\n" !courtesy!=c3/2 c3/2 z | x4 | !courtesy!=c3/2 c3/2 z | x4 :|
+"_Head\n" (3_e/d/c/ d3- | d2 d/c/_B/A/ | G4- | G3 (3_e/d/c/ |  d4- |
+d2 d/c/_B/A/ | G4- | G3 (3G/_A/B/ |  c4- | c3 (3G/_A/B/ |
+c4- | c3 (3G/_A/B/ |  c4- | c3 (3G/_A/B/ | c4- |
+c4 |]
+V:2
+|: ^C3/2 ^G/- G2 | C3/2 G d/ c | ^C3/2 ^G/- G3/2 =C/- | C G d/ c3/2 :|
+x4 | x4 | x4 | x4 |  x4 |
+x4 | x4 | x4 |  x4 | x4 |
+x4 | x4 |  x4 | x4 | x4 |
+x4 |]
+V:3
+|: !courtesy!=C3/2 C3/2 z | x4 | !courtesy!=C3/2 C3/2 z | x4 :|
+^C,3/2 ^G,/- G,2 | C,3/2 G, D/ C | ^C,3/2 ^G,/- G,3/2 =C,/- | C, G, D/ C3/2 |  ^C,3/2 ^G,/- G,2 |
+C,3/2 G, D/ C | ^C,3/2 ^G,/- G,3/2 =C,/- | C, G, D/ C3/2 |  ^C,3/2 ^G,/- G,2 | C,3/2 G, D/ C |
+^C,3/2 ^G,/- G,3/2 =C,/- | C, G, D/ C3/2 |  ^C,3/2 ^G,/- G,2 | C,3/2 G, D/ C | ^C,3/2 ^G,/- G,3/2 =C,/- |
+C, G, D/ C3/2 |]
+V:4
+|: ^C,3/2 ^G,/- G,2 | C,3/2 G, D/ C | ^C,3/2 ^G,/- G,3/2 =C,/- | C, G, D/ C3/2 :|
+x4 | x4 | x4 | x4 |  x4 |
+x4 | x4 | x4 |  x4 | x4 |
+x4 | x4 |  x4 | x4 | x4 |
+x4 |]

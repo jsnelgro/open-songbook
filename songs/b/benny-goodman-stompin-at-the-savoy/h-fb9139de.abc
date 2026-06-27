@@ -1,0 +1,37 @@
+---
+workId: benny-goodman-stompin-at-the-savoy
+arrangementId: h-fb9139de
+title: Stompin' at the Savoy
+artist: Benny Goodman
+source: jazz
+key: Db
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Stompin' at the Savoy
+C: Benny Goodman
+C: Edgar Sampson
+C: Chick Webb
+M: 4/4
+L: 1/8
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/stompin-at-the-savoy/
+K: Db
+P: A
+"Ab7"F3 A-||"Db^7"A8- &\ z A, B,F C2  A,B,-|A2 z2 "Ab7"F3 A- &\ B,8|"Db^7"A8- &\ z A, B,F C2  A,B,-| A2 z2"Do7"F3 A- &\ B,8|
+"Ebm7"A8- &\ z A, B,D G2  DC-|"Ab7"A2 z2 F3 D- &\ C4 F3 D|"Db6"D4-"Bbm7"D4- |"Ebm7"D2 z2 "Ab7"F3 A-||
+P: A
+"Db^7"A8- &\ z A, B,F C2  A,B,-|A2 z2 "Ab7"F3 A- &\ B,8|"Db^7"A8- &\ z A, B,F C2  A,B,-| A2 z2"Do7"F3 A- &\ B,8|
+"Ebm7"A8- &\ z A, B,D G2  DC-|"Ab7"A2 z2 F3 D- &\ C4 F3 D|"Db6"D8|z8||
+P: B
+"Gb7"AG3 "G7"=A3=G|"Gb7"_A2_G6|"B7"^G^F3"F#m7b5"=B3=A|"B7"^G2^F6|
+"E7"^F=E3"F7"=G3=F|"E7"^F2=E6|"A7"^F=AAA-A4|"Ab7"=F_AAA-A2 FA-||
+P: A
+"Db^7"A8- &\z A, B,F C2  A,B,-|A2 z2 "Ab7"F3 A- &\ B,8|"Db^7"A8- &\ z A, B,F C2  A,B,-| A2 z2"Do7"F3 A- &\ B,8|
+"Ebm7"A8- &\ z A, B,D G2  DC-|"Ab7"A2 z2 F3 D- &\ C4 F3 D|"Db6"D8|z8||

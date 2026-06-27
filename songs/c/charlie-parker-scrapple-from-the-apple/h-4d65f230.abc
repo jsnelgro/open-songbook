@@ -1,0 +1,32 @@
+---
+workId: charlie-parker-scrapple-from-the-apple
+arrangementId: h-4d65f230
+title: Scrapple from the Apple
+artist: Charlie Parker
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Scrapple from the Apple
+C:Charlie Parker
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 4/17/2016
+Z:
+L:1/4
+Q:1/4=305
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z3/2 G G G/ | B3/2 G3/2- G/G/- | G/ G G/ B2- | B3 z |  z3/2 G G G/ |
+B3/2 G/- G3/2 G/- | G/ G G/ d z | z4 |:  "Gm7" z/ ^F/G/B/ A/G/=F/D/ | "C7" E/c/ z z/ B A/ |
+"Gm7" B/f/ (3d/c/B/ A/F/G/_D/- | "C7" D z/ A/- A/ B A/ |  "Fmaj7" c/A/ (3G/F/ "F7"G/- G z/ f/ | "Bbmaj7" d z e/d/ "Bdim7" (3A/B/=B/ |
+"Fmaj7" c3/2 A/ B/ "Gm7"A/^G/A/ |1 "Am7" c/A/B/c/ "D7" z2 :|2  F/ "Fmaj7"C/E/F/ z2 || "A7" z4 | "A7" z4 | "D7" z4 |
+"D7" z4 | "G7" z4 | "G7" z4 | "C7" z4 |  "C7" z4 | "Gm7" z/ ^F/G/B/ A/G/=F/D/ | "C7" E/c/ z z/ B A/ |
+"Gm7" B/f/ (3d/c/B/ A/F/G/_D/- |  "C7" D z/ A/- A/ B A/ | "Fmaj7" c/A/ (3G/F/ "F7"G/- G z/ f/ | "Bbmaj7" d z e/d/ "Bdim7" (3A/B/=B/ |
+"Fmaj7" c3/2 A/ B/ "Gm7"A/^G/A/ |  "Fmaj7" F/C/E/F/ z2 |]

@@ -1,0 +1,58 @@
+---
+workId: j-lo-bass-for-mk
+arrangementId: h-82add477
+title: Bass for MK
+artist: J-Lo
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Bass for MK
+C:J-Lo
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/8/2017
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+|: D,3/2 D,2- D,/ | _B,3/2 C,2- C,/ :| D,3/2 D,2- D,/ | _B,3/2 C,2- C,/ |:
+"^Sign\n" D, z/ A,,/4B,,/4 D,/E,/4=F,/4 ^F,/4z/D,/4 | G,/D,/4D,/4 z/4 =C,/4C,/- C,3/2 A,,/4B,,/4 | D, z/ A,,/4B,,/4 D,/E,/4=F,/4 ^F,/4z/D,/4 |
+G,/D,/4D,/4 z/4 =C,/4C,/- C,3/2 A,,/4B,,/4 |  D, z/ A,,/4B,,/4 D,/E,/4=F,/4 ^F,/4z/D,/4 | G,/D,/4D,/4 z/4 =C,/4C,/- C,3/2 A,,/4B,,/4 |
+_B,,/>B,,/ z/ A,,2- A,,/ | G,/>=F,/ z/ _E,2- E,/ |  D, z/ A,,/4B,,/4 D,/E,/4=F,/4 ^F,/z/4D,/4 | G,/D,/4D,/4 z/4 =C,/4C,/- C,3/2 A,,/4B,,/4 |
+D, z/ A,,/4B,,/4 D,/E,/4=F,/4 ^F,/z/4D,/4 | G,/D,/4D,/4 z/4 =C,/4C,/- C,3/2 A,,/4B,,/4 |  B,,7/4 B,,/4 =F,7/4 B,,/4 | E,/ E,,3/2 =C, ^C,/z/4C,/4 |
+B,,/4D/4=C/ z/4 _A,,3/4 G,,/>A,/ B,/4D,/4=C,/ | _B,,/B,,/ z3/4 =C,/4 C, ^C,/>C,/ |  D,/4D/4=C/ z/4 _A,,3/4 G,,/>A,/ B,/4D,/4=C,/ |1
+_B,,/B,,/ z3/4 =C,/4 C, ^C,/>C,/ | D,/4D/4=C/ z/4 _A,,3/4 G,,/>A,/ B,/4D,/4=C,/ | _B,,/B,,/ z3/4 =C,/4 C, ^C,/>C,/ |
+B,,/4D/4=C/ z/4 _A,,3/4 G,,/ z/ z | _B,,/B,,/ z =C, ^C, :|2 _B,,/B,,/ z =C, ^C, ||[M:5/8] _E,,3/4_B,,/E,,/4 _E,/4=F,/4 E,/4B,,/4 |
+_E,,3/4_B,,/E,,/4 _E,/4=F,/4 E,/4B,,/4 | =F,,3/4=C,/F,,/4 =F,/4G,/4 F,/4C,/4 | =F,,3/4=C,/F,,/4 =F,/4G,/4 F,/4^C,/4 | _A,,3/4_E,/A,,/4 _A,/4_B,/4 A,/4E,/4 |
+_A,,/4-A,,/4- A,,/4_E,/A,,/4 _A,/4_B,/4 z/ |[M:4/4] _A,,/F,,/4F,/4 G,,/4G,/4^G,,/4^G,/4"^Fine" A,, z |:
+z4 | z4 :|  z4 | z4 |:
+z4 | z4 :|  z4 | z4 |
+z4 | z4 |  z4 | z4 |
+z4 | z4 |:  z4 | z4 :|
+z4 | z4 |  z4 | z4 |]
+V:2
+|: "Dmaj7" z4 | "Gm7" B3/2 "C7" F/ z2 :| z4 "Dmaj7" | "Gm7" B3/2 "C7" B z/ z |:
+z z/ "Dmaj7" F/4F/4 z z/4 F/4 z/ | "Gm7" F3/2 "C7" F2- F/ | z z/ "Dmaj7" F/4F/4 z z/4 F/4 z/ |
+"Gm7" A7/4 "C7" F/4 z2 |  z z/ "Dmaj7" F/4F/4 z z/4 F/4 z/ | A7/4 "Gm7" F/4 "C7" z2 |
+"Bbmaj7" c/>F/ z/ "Am7" F3/2 z/4 F/4 z/ | "Gm7" d/>d/ z/ "Eb7#9" d2- d/ |  z z/ "Dmaj7" F/4F/4 z z/4 F/4 z/ | "Gm7" A7/4 "C7" F/4- B2 |
+z z/ "Dmaj7" F/4F/4 z z/4 F/4 z/ | "Gm7" F3/2 "C7" F2- F/ |  "Bm7" z4 "F7" | "Em7" z4 "C7sus4" "C#7sus4" |
+"D7sus4" z/ c/ z/4 "Ab7" c3/4 "G7" A z/4 A/4 z/ | "Bb7" A/A/ z "C7" A "C#7" A |  z/ "D7sus4" A/ z/4 "Ab7" A3/4 "G7" A z/4 A/4 z/ |1
+"Bb7" A/A/ z "C7" A "C#7sus4" A | z/ "D7sus4" A/ z/4 "Ab7" A3/4 "G7" A z/4 A/4 z/ | "Bb7" A/A/ z "C7sus4" A "C#7sus4" A |
+z/ "D7sus4" A/ z/4 "Ab7" A3/4 "G7" A2 | "Bb7" A/A/"^Break" z "C7sus4" A "C#7sus4" A :|2 "Bb7" A/A/"^Break\n\n" z "C7sus4" A "C#7sus4" A ||[M:5/8] "Eb9" z5/2 |
+"Eb9" z5/2 | "F9sus4" z5/2 | "F9" z5/2 | "Ab9" z5/2 |
+"Ab9" z5/2 |[M:4/4] "A9" D, z z2 |:
+"Dmaj7" z4 | "Gm7" "C7""_Cue" z4"_Cue" :|  "Fmaj7" "Bbmaj7" z4 | "Em7" "A7" z4 |:
+"Dmaj7" z4 | "Gm7" "C7" z4 :|  "Bbmaj7" B/>A/ z/ "Am7" A3/2 z/4 A/4 z/ | "Gm7" B/>B/ z/ "Eb7" B/- B2 |
+"Dmaj7" z4 | "Gm7" "C7""_Cue" z4 |  "Dmaj7" z4 | "Gm7" "C7" z4 |
+"Bm7" "F7" z4 | "Em7" "C7" z4 "C#7" |:  z/ "D7sus4" A/ z/4 "Ab7" A3/4 "G7" A z/4 A/4 z/ | "Bb7" A/A/ z "C7sus4" A "C#7sus4" A :|
+z/ "D7sus4" A/ z/4 "Ab7" A3/4 "G7" A z/4 A/4 z/ | "Bb7" A/A/ z "C7sus4" A "C#7sus4" A |  z/ "D7sus4" A/ z/4 "Ab7" A3/4 "G7" A2 | "Bb7" c/B/ z"^DS A FINE" z2 |]

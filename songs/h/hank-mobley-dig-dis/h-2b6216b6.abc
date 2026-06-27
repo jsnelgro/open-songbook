@@ -1,0 +1,36 @@
+---
+workId: hank-mobley-dig-dis
+arrangementId: h-2b6216b6
+title: Dig Dis
+artist: Hank Mobley
+source: jazz
+key: Bb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Dig Dis
+C:
+C:Hank Mobley
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me 1/11/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Bb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Bbm7""^Cool Piano Intro/Solo\n" z4 | "Gb7" "F7" z4 | "Bbm7" z4 | "Bbm7" z4 |  "Gb7" z4 | z4 |
+"Bbm7" z4 | z4 |  "Gb7" z4 | "F7" z4 | "Bbm7" z4 | "Cm7" "F7" z4 |  "Bbm7" z4 |
+"Cm7" "F7" z4 | "Bbm7" z4 | z4 |  "Gb7" z4 | z4 | "Bbm7" z4 | z4 |
+"Cm7" z4 | "F7" z4 | "Bbm7" z4 | "Cm7" z3 "F7" B, |:  "Bbm7" F z z _D | "Cm7" E/_D/ z z/ "F7" B,/D/B,/ |
+"Bbm7" =E/<F/ E/<F/ (3E/_E/_D/ B,/B,/ | "Bb7#9" z z z/ B,/_D/B,/ |  "Gb7#11" E/ z/ z z F/4E/4_D/4B,/4 | E/E/ z3/2 B,/ _D/E/ |
+"Bbm7" =E/<F/ E/<F/ (3E/_E/_D/ B,/B,/ | z z z/ B,/_D/B,/ |  "Cm7" E/ z/ z z _D/ z/ | "F7" E/ z/ z _D/4E/4D/4B,/4 _A,/B,/- |
+"Bbm7" B,2 "Db7" z2 |1 "Gb7" z3 "F7" B, :|2  "Gb7" z4 "F7" |: "Bb7" A"^First Solo: Stop Time Thing" z z2 | z2 z/ "B7" D3/2 | "Bb7" D z z z |
+z2 z/ "E7" D3/2 | "Eb7" D z z2 | z2 z/ "B7" F3/2 | "Bb7" F z z2 |  z2 z/ "Db7" F3/2 | "C7" F z z z/ "F7" F/- |
+"F7" F/-F/ z z z/ F/- | "Bb7" F z z2 |1  z2 z/ "B7" [Fc]3/2 ::2 "Bb7""^More Solos" z4 || "Eb7" z4 | "Bb7" z4 |
+"Bb7" z4 | "Eb7" z4 | "Eb7" z4 | "Bb7" z4 |  "Dm7" "G7" z4 | "Cm7" z4 | "F7" z4 | "Bb7" z4 |
+"Cm7" "F7" z4 :|

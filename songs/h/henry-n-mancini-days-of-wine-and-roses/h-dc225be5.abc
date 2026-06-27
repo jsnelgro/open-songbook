@@ -1,0 +1,35 @@
+---
+workId: henry-n-mancini-days-of-wine-and-roses
+arrangementId: h-dc225be5
+title: Days of Wine and Roses
+artist: Henry N. Mancini
+source: jazz
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Days of Wine and Roses
+C: Henry N. Mancini
+M: 4/4
+L: 1/4
+Q: 130
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-tags Standard50
+%%songbook-uri /post/day-of-wine-and-roses/
+K: F
+P: A
+C||"F^7"A4-|"Eb7#11"A G A c|"Am7"d2 c2|"D7b9"z2 c A|
+"Gm7"A D D2-|D2 c A|"Eb7"A _E E2-|E2 A G|
+P: B
+"Am7"G C D3/2 E1/2|"Dm7"F G A d|"Gm7"c3 B|"Gm7/F"c B A G|
+"Em7b5"A2-"A7b9"A E|"Dm7"G F "G7"E D|"Gm7"G4-|"C7"G2 z C||
+P: A
+"F^7"A4-|"Eb7#11"A G A c|"Am7"d2 c2|"D7b9"z2 c A|
+"Gm7"A D D2-|D2 c A|"Eb7"A _E E2-|E2 A G|
+P: C
+"Am7"G C D3/2 E1/2|"Dm7"F G "Dm7/C"A c|"Bm7b5"e4-|"E7b9"e3 d|
+"Am7"c2- "Dm7"c1/2A1/2G1/2F1/2|"Gm7"A A- "C7"A D|"F^6"F4-|F2 z2||

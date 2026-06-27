@@ -1,0 +1,35 @@
+---
+workId: kenny-garrett-sing-a-song-of-song
+arrangementId: h-04e47c2a
+title: Sing a Song of Song
+artist: Kenny Garrett
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sing a Song of Song
+C:Kenny Garrett
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:1/31/2018
+L:1/4
+Q:1/4=208
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 bass
+%%MIDI program 0
+V:1
+|: "E""^Intro" E,,3/2 B,,3/2 ^G,- | G,4 | "Cmaj7" C,3/2 G,3/2 E- | E4 |  "D7" D,3/2 A,3/2 ^F- | F4 | "E" E,,3/2 B,,3/2 ^G,- | G,4 ::
+"E""_A" ^g ^f/g/ a g/f/ | z/ e3/2 B/d/ e- | "Cmaj7" e4- | e4 |  "D7" ^f e/f/ g f/e/ | z/ d3/2 B/d/ e- |
+"E" e4- |1 e4 :|2  e2 B d |: "E""^B" e4- | e2 z/ e d/ | "Cmaj7" c4- |  c2 z/ A c/ |
+"D7" d4- | d2 z/ B d/ | "E" e4- |1  e2 z/ B d/ :|2 e2 z2 |: "E""^C" ^g ^f/g/ a g/f/ |
+z/ e3/2 B/d/ e- |  "Cmaj7" e4- | e4 | "D7" ^f e/f/ g f/e/ | z/ d3/2 B/d/ e- |  "E" e4- | e4 :|
+"C#m11""_D" e3 ^d/^c/ | "Bmaj7/D#" ^f2 ^d2- |  d4 | "C#m7" e3 ^d/^c/ | "B9" B4- | B2 z2 |  "C#m11" e3 ^d/^c/ |
+"Bmaj7/D#" ^f2 ^d2- | d3 ^d/^c/ | "C#m7" B3 ^c/^d/ |  "B9" c3 B- | "E9" B3 ^c/^d/ | "B9/F#" ^c2 z B |
+"Bmaj7" B4- |  "Gmaj7" B4- | "Bb7/D#" B4- | "G7/F" B2 z2 |: "E""^E" ^g ^f/g/ a g/f/ |  z/ e3/2 B/d/ e- | "Cmaj7" e4- |
+e4 | "D7" ^f e/f/ g f/e/ |  z/ d3/2 B/d/ e- | "E" e4- | e4 ::
+"E""_Solos" z4 |  z4 | "Cmaj7" z4 | z4 | "D7" z4 |  z4 | "E" z4 | z4 :|

@@ -1,0 +1,48 @@
+---
+workId: eddie-harris-it-s-all-right-now
+arrangementId: h-3562dd3c
+title: It's All Right Now
+artist: Eddie Harris
+source: jazz
+key: Eb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:It's All Right Now
+C:Eddie Harris
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+%%score [ 1 | 2 | 3 | 4 | 5 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Eb
+%%stretchlast true
+V:1 treble
+%%MIDI program 28
+V:2 treble
+%%MIDI program 4
+V:3 treble
+%%MIDI program 54
+V:4 bass
+%%MIDI program 37
+V:5 treble
+%%MIDI program 0
+V:1
+|: z/ A A/- A/ A G/ | z E/>B,/ _D/ z/ B, | z/ A A/- A/ A G/ |
+z E/>B,/ _D/ z/ B, :|
+V:2
+|: "Bb7" z4 | "Eb7" z4 | "Bb7" =e z _e z/ =e/- |
+"Bb7" e/>B/ _e _d B :|
+V:3
+|: z4 | z z/ G/- G/ B _d/- | d/B/- B z2 |
+z4 :|
+w: |It's _ All Right|_ Now _||
+V:4
+|: B,, z _D, z/ E,/ | z4 | B,, z _D, z/ E,/ |
+z4 :|
+V:5
+|: B, z _D z/ E/ | z4 | B, z _D z/ E/ |
+z4 :|

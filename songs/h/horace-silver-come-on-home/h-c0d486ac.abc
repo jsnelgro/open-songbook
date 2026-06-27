@@ -1,0 +1,45 @@
+---
+workId: horace-silver-come-on-home
+arrangementId: h-c0d486ac
+title: Come On Home
+artist: Horace Silver
+source: jazz
+key: Gb
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Come On Home
+C:Horace Silver
+C:Arr. 6EQUJ5
+Z:©2018 Finmusic/effendi.me
+Z:4/13/2018
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:Gb
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass-8
+%%MIDI program 0
+V:1
+(3z/ =C/E/ | "Ebm7" E z "C7#9" z2 | "B7" z2 (3z/ "Bb7" E/G/ (3A/G/E/ | "Ebm7" E "C7#9" z3 |  "B7" z2 B/< "Bb7"d/ A/8=A/8_A/8G/8E/4D/4 |
+"Ebm7" E z "C7#9" z2 | "B7" z (3G/F/E/ "Bb7" D/B,/F/=C/- |
+"Gb7" C4 |  "Bmaj7" z/ B/ (3d/B/d/ (3B/G/B/ (3G/E/C/ | "Bmaj7" B,4- | "Emaj7" B,2 z (3E/G/A/ |:
+(3A/ "Gbm"G/B/ z2 (3E/G/A/ | "_No Chords on head, just this bass line" (3A/G/E/ z2 (3E/G/A/ | (3A/G/B/ z (3z/ d/=A/ (3_A/G/E/ | (3A/G/E/ z2 (3A/c/d/ |
+(3d/c/e/ z2 (3A/c/d/ |  (3d/c/A/ z2 (3E/G/A/ | (3A/G/B/ z (3z/ d/=A/ (3_A/G/E/ | (3A/G/E/ z2 (3E/G/A/ |
+(3G/E/C/ z2 (3z/ E/G/ |  (3F/=D/B,/ z2 (3z/ =C/E/ | E z3 |1 z3 (3E/G/A/ :|2
+"B7" z31/8 "Bb7" z/8 |:  "Ebm7" z4 | "Fm7" "Bb7" z4 | "Ebm7" z4 | "Bbm7" "Eb7" z4 |  "Abm7" z4 | "Fm7" "Bb7" z4 |
+"Ebm7" z4 | "Ebm7" z4 |  "Gbm7" "B7" z4 | "Fm7" "Bb7" z4 | "Ebm7" "C7#9" z4 | "B7" "Bb7" z4 :|
+V:2
+z | z4 | z4 | z4 |  z4 |
+z4 | z4 |
+z4 |  z4 | z4 | z4 |:
+E,3/2 E,/ D,3/2 D,/ |  =C,3/2 C,/ _C,3/2 C,/ | B,,3/2 B,,/ A,,3/2 A,,/ | G,,3/2 B,,/ E, E, |
+A,,3/2 A,,/ B,,3/2 B,,/ |  C,3/2 C,/ B,, B, | E,3/2 E,/ F,3/2 F,/ | G,3/2 G,/ E, B,, |
+C,3/2 C,/ B,, C, |  B,, z/ D,3/2 F, | "Ebm7" z4 "C7#9" |1 "B7" z4 "Bb7" :|2
+z4 |:  z4 | z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 | z4 | z4 | z4 :|

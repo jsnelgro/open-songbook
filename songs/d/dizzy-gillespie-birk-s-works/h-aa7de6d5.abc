@@ -1,0 +1,27 @@
+---
+workId: dizzy-gillespie-birk-s-works
+arrangementId: h-aa7de6d5
+title: Birk's Works
+artist: Dizzy Gillespie
+source: jazz
+key: Ab
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Birk's Works
+C:Dizzy Gillespie
+C:Arr. 6EQUJ5
+Z:©2019 6EQUJ5 9/16/2019
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:Ab
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+F/ A/B/ |: "Fm7" =B/c/B/_B/ A/F/A/B/ | "Gdim7" B A/c/ "C7" z/ F/A/B/ | "Fm7" =B/c/B/_B/ A/F/A/=B/ |  "Cdim7" z2 "F7" z/ F/A/B/ |
+"Bbm7" =B/c/B/_B/ A/F/A/B/ | "Bbm7" B A/=B/ z/ F/A/_B/ | "Fm7" =B/c/B/_B/ A/F/A/B/ |  "Fm7" z2 z/ F/A/B/- |
+"Abm9" B/ B3/2 "Db9" z/ F/A/B/- | "G7b5" B/ B3/2 "C7" (3A/4B/4A/4F/ E/F/- | "Fm7" F z z2 |  "Fm7" z4 :|

@@ -1,0 +1,51 @@
+---
+workId: chick-scientology-corea-spain
+arrangementId: h-3f9c44a9
+title: Spain
+artist: Chick "Scientology" Corea
+source: jazz
+key: D
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Spain
+C:Chick "Scientology" Corea
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:1/7/2018
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=280
+M:4/4
+%%songbook-source lots_of_jazz
+K:D
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 bass
+%%MIDI program 0
+V:1
+|: z4 ::"^A" d f/d/ e/d/B/d/ | z/ c/A/c/ z/ B/ G | A3/2 A/ z A- |
+A2 F3/2 F/ | z F3- | F2 z F | G3/2 A3/2 B |  c3/2 d3/2 e | d3/2 c/- c2- |
+c2 z F | G3/2 A3/2 B |  c3/2 d3/2 e | d e/f/- f2- | f2 z/ e d/ | (3_d2 =d2 _f2 |
+d2 _d2 | _d3/2 B/- B2- | B3 z ||"^B" B z/ e/ z3/2 g/ |  f d/B/ e z/ A/ |
+z3/2 d/ c z | A/ B G G/ d | e z/ e/ g f/d/ |  B d/B/ e c/B/ | z/ F/ E3/2 F/ z/ B/ |
+c3/2 _B _A/ F | z/ C/F/C/ ^G/E/_B/A/- |  A/ F f/ z f |1 e2 d3/2 B/- | "Bsus4" B4- |
+B3 z :|2  e2 d3/2 B/- ||"^C" B4- | B4- | B4 |  (3z B c (3d c B |
+d3/2 c3/2 _B- | B4- | B4 |  z2 f2 | "Em7" e3/2 d3/2 B- | B4- | "A7" B4 |
+(3z A B (3c d e | d3/2 e3/2 f- | f4- | f4 |  (3z2 e2 d2 | _d3/2 =d3/2 e- |
+e4- | e4 |  (3z2 d2 _d2 | _d3 B- | B4- | B4- |
+B2 z2 |]
+V:2
+|: z4 :: "D" D, F,/D,/ E,/D,/B,,/D,/ | z/ C,/A,,/C,/ z/ z/ z/ B,,/ | "Em11" E,, B,,/ G, B,,/ E,,- |
+"Em11" E,,2 "F#sus4" F,, C,/^A,/- | A,/C,/ F,,3- | "F#" F,,2 z2 | G,,3 D, |  "Gmaj7" B,2 D, z | F,,3 C, |
+"F#7" ^A,2 C, z | "Em7" E,,3 B,, |  "A7" G,2 A,,2 | "Dmaj7" D,3 D, | "Gmaj7" G,,3 D, | "C#7" C, G,,3 |
+"F#7#9" F,,3 A,, | "Bsus4" A,,3/2 "B" B,,/- B,,2- "B9" | B,,3 z || "D" z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 |
+z4 | z4 |  z4 |1 z4 | z4 |
+z4 :|2  z4 || "Gmaj7" e2 d3/2 B/ | z4 | z4 |  z4 "F#7" |
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |
+z4 | "Dmaj7" z4 | z3 c | "Gmaj7" B c/B/- B2 |  z4 | "C#7" z4 |
+z2 [G_B]2 | [FA]3/2 "F#7" [=F_A]3/2 [EG]- |  [EG]4 | "Bm7""_Solos over C" z4 | z4 | "B7" ^D E/F/- F2- |
+F2 z2 |]

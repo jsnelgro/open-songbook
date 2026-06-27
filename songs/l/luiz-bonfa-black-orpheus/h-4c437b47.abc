@@ -1,0 +1,34 @@
+---
+workId: luiz-bonfa-black-orpheus
+arrangementId: h-4c437b47
+title: Black Orpheus(Manhã de Carnaval)
+artist: Luiz Bonfá
+source: jazz
+key: Am
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Black Orpheus(Manhã de Carnaval)
+C: Luiz Bonfá
+M: 4/4
+L: 1/8
+Q: 160
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Standard50
+%%songbook-uri /post/black-orpheus/
+K: Am
+E2||"Am"c6 BA|"Bm7b5"A4- "E7b9"A2 ^GB|"Am"E8-|"Bm7b5"E4 "E7b9"z2 E2|
+"Am"c6 BA|"Dm7"A4- "G7"A2 GB|"C^7"E8-|"C#o7"E4 "A7b5"zEFG|
+"Dm7"A3 D D4-|"G7"D4 z D EF|"C^6"G3 CC4-|"F^7"C4 z C DE|
+"Bm7b5" F3 B, B,4-|"E7b9"B,4 z B, CD|"Am"E8-|"Bm7b5"E4 "E7b9"z2 E2||
+"Am"c6 BA|"Bm7b5"A4- "E7b9"A2 ^GB|"Am"E8-|"Bm7b5"E4 "E7b9"z2 E2|
+"Em7b5"_B6 AG|"A7b9"G6 FE|"Dm"A8-|A6 D2|
+"Dm"D4-"Dm7/C"D2 EF|"Bm7b5"B4- "E7b9"B4|"Am"z2 C2 "Am7/G"C2 DE|"F^7"A6 ^G2|
+"Bm7b5"E8|"E7b9"z4 zE ^GB|"Am"A8-!coda!|"Bm7b5"A4- "E7b9"A4||
+P: 【Last One】
+!coda!|"Am"A6 AB|"Dm7"c2 dc "Am7"B2 AB|"Dm7"c2 dc "Am7"B2 AB|"Dm7"c2 dc "Am7"B2 AG|
+"Am"A8-|A6 z2||

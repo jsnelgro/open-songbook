@@ -1,0 +1,38 @@
+---
+workId: irving-berlin-cheek-to-cheek
+arrangementId: h-d2d1eb03
+title: Cheek to Cheek
+artist: Irving Berlin
+source: jazz
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: Cheek to Cheek
+C: Irving Berlin
+M: 4/4
+L: 1/8
+Q: 140
+%%songbook-source jazzleadsheet
+%%songbook-categories Swing
+%%songbook-uri /post/cheek-to-cheek/
+K: C
+P: A
+|:"C"A2G6-|"Dm7"G4 "G7"E2F2|"C"A2G6-|"Dm7"G4 "G7"E2F2|
+"C"A2G2 "G7/D"B2A2|"D#o7"c2B2"Em7"d2c2|"Bb7b5"e8|"A7"z4 "D7"d2c2|
+"G7"B2d2c2A2|"G7"G2B2 "G7/F"A2F2|"E7"E8|"A7"z4F2G2|
+"Dm7"AA2F2F2 D-|"G7"D D2C2B,2 C-|1 "C6" C8|"Dm7"z4"G7"z4:|2 "C6" C8|z4zG2^F||
+P: B
+|:"Dm7"F2G2"G7"B2dc-|"C6"cG3 "A7"z G2^F|"Dm7"F2G2"G7"Bd2c-|"C6"c4 "A7"zG2^F|
+"Dm7"F2G2"G7"B2d2|"C6"c2-cG- "A7"G2 z ^G|"Dm7"A2A2 "G7"F2 B,C-|1 "C6"C4 "A7"zG2^F:|2 "C6"C4 z4||
+P: C
+"Cm7"c2c2c4-|c4 (3c2c2c2|"Ab7"_e3 _G G2G2-|G4 _e4|
+"G7"d3FF2F2-|F4"G7/F"d4|"C6/E"c3E"Am7"E2E2-|"Dm7"E4"G7"D4||
+P: A
+"C"A2G6-|"Dm7"G4 "G7"E2F2|"C"A2G6-|"Dm7"G4 "G7"E2F2|
+"C"A2G2 "G7/D"B2A2|"D#o7"c2B2"Em7"d2c2|"Bb7b5"e8|"A7"z4 "D7"d2c2|
+"G7"B2d2c2A2|"G7"G2B2 "G7/F"A2F2|"E7"E8|"A7"z4F2G2|
+"Dm7"AA2F2F2 D-|"G7"D D2C2B,2 C-|"C6" C8|z8||

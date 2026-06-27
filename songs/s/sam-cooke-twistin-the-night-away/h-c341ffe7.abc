@@ -1,0 +1,36 @@
+---
+workId: sam-cooke-twistin-the-night-away
+arrangementId: h-c341ffe7
+title: Twistin' The Night Away
+artist: Sam Cooke
+source: jazz
+key: A
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Twistin' The Night Away
+C:Sam Cooke
+C:Peter Valera
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 2/27/2016
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-source lots_of_jazz
+K:A
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z [cea]/e/ [Bd=g]/a/z/[ce]/- | [ce] [Adf] [Ace] [Adf] | z [cea]/e/ =g/[Bda]/z/[cea]/- | [cea] z z2 |:
+"A" z z/ f/- f/e/e/c/ | e c/f/- f z | "F#m7" z z/ B/- B/A/A/F/ | A/ c3/2 B/A/- A |
+"D7" z z/ B/- B/A/A/F/ | A A/A/- A/-A/z/c/- | "E7" c/ B A/ B c/f/- | f3/2 e/- e/ f3/2 |
+"A" z z/ f/- f/e/e/c/ | e c/f/- f z | "F#m7" z z/ B/ A A/F/ | A F/c/- c/e/- e |
+"D7" z B/B/ B/A/A/F/ | A/-A/A/A/- A z/ c/- | "E7" c/ c c/ B A/A/- | A/-A/z/f/- f z/ A/- |
+"A" A/A/- A z z/ A/- | A/ A3/2 z z/ c/- | "F#m7" c/A/A/F/ A/B/A/c/- | c/e/- e z/ B c/- |
+"D7" c/ A3/2 z z/ B/- | B/ A f/- f/e/-e/c/- |1 "E7" c/c/-c/c/ B A/A/- | "A7" A3 :|2
+c/ c c/ B/ z/ A || "A7" z4 |: "A" c z z2 | z2 z B |  "F#m7" B z z2 |
+z2 z d | "D7" d z z z | z z z d |  "E7" d z z2 | z z z d |
+"A" d/d/ z z2 | z z z d |  "F#m" d z z z | z z z d | "D7" d z z2 |
+z z/ f/- f/ e c/- |  "E7" c/ c c/ B/A/A/A/- | "A" A3 z :|

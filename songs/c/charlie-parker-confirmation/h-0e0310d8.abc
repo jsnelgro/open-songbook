@@ -1,0 +1,35 @@
+---
+workId: charlie-parker-confirmation
+arrangementId: h-0e0310d8
+title: Confirmation
+artist: Charlie Parker
+source: jazz
+key: F
+tags:
+  - Bebop
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+C: Charlie Parker
+T: Confirmation
+M: 4/4
+L: 1/8
+Q: 1/4=200
+%%songbook-source jazzleadsheet
+%%songbook-categories Bebop
+%%songbook-tags Standard50,Charlie Parker
+%%songbook-uri /post/confirmation/
+K: F
+P: A1
+C||"F"A c2 A BA (3EF^F|"Em7b9"GdBG "A7"A ^C2 G-|"Dm"GF3 z2 z A|"Cm7"GBAG "F7" (3z2F2B2|
+"Bb7"_cB_AF BA3|"Am7b5"z c BG "D7"^FAD=B-|"G7"B2 eA-A2 z e1/2d1/2|"C7b9"_d^FGE- E c3||
+P: A2
+"F"A2 z F (3B^GA =GA|"Em7b9"F1/2G1/2_E z2 "A7"z ^C2 G-|"Dm"GF3 z3 A|"Cm7"GBAG "F7"F_EFF-|
+"Bb7"F_ABF AB3|"Am7b5"z _E GB "D7"A ^F z2|"Gm7"GB(3A1/2B1/2A1/2G "C7"cCAF-|"F"F z z2 z d3||
+P: B
+"Cm"c z z1/2G1/2_E1/2C1/2 "Cm^7"=B G2 G|"F7"Bc1/2B1/2 G_E _A_G-_G2|"Bb^7"AGAG-G3 G|z4 z3 B|
+"Ebm7"_d1/2_E1/2A1/2B1/2 c1/2d1/2_G- G_AF=E|"Ab7"_E_A A z AA z _G1/2=E1/2|"Db^7"(3F_Ac _ed _dB z2)|"Gm7"zG DF "C7"_AE_DC||
+P: A3
+"F"z c3 BA (3EF^F|"Em7b9"GdBG "A7"A ^C2 G-|"Dm"GF3 z2 z A|"Cm7"GBAG "F7" (3z2F2B2|
+"Bb7"_cB_AF BA3|"Am7b5"z c B_G "D7"A^CDF-|"Gm7"FDFA- "C7"A F2 z|"F"F2 F6||

@@ -1,0 +1,29 @@
+---
+workId: nat-adderley-sweet-emma
+arrangementId: h-40fd1bab
+title: Sweet Emma
+artist: Nat Adderley
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Sweet Emma
+C:Nat Adderley
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:7/23/2017
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z3 A/c/ |: "C7" c z3 | z/ G/A/G/ e/ _e d/- | "G7" d2 z2 |  z2 f/ e d/- |
+d2 z2 | z/ G/A/G/ c/ c c/- | "C7" c2 z2 |  z2 z/ G/A/G/ | "C7" e2- e/_e/=e/d/- | "E7" d4 |
+"Am7" c/c/z/c/ c/ "C7"c/z/c/ |  "F" c/c/ z/ "F#dim" d c/ d/c/ | "C" e/ d "Am" c/- c2 | "Dm""_Solos Over Form" d/ c "G7" B G/ A/G/ | "C" c z/ "F" c3/2 z/ A/ |
+"C" c/ c c3/2 A/c/ :|

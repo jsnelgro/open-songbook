@@ -1,0 +1,47 @@
+---
+workId: joshua-redman-one-shining-soul
+arrangementId: h-5a8c112f
+title: One Shining Soul
+artist: Joshua Redman
+source: jazz
+key: E
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:One Shining Soul
+C:Joshua Redman
+C:Arr. 6EQUJ5
+Z:©2017 Finmusic/effendi.me
+Z:4/30/2017
+L:1/4
+Q:1/4=96
+M:4/4
+%%songbook-source lots_of_jazz
+K:E
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+"Db/Gb" B3/2 B2- "Fm7" B/ | "Emaj7" B3/2 "D#7" B2- B/ | "E/D" B3/2 "Db" B3/2 "B9" B | "D#7" B/ B "G#sus4" B/- B2- |  B2- B2- |
+"^A" B2 "F#m7" e "B7" d |: "Emaj7" G/B/ G/F/4E/4 "Dmaj13" F/>E/ F/4G/4 "C#m7"E/- | E3/2 "Fmaj7" E/ z "Cmaj7" E- |  E "F#m7" =G/E/ A F/ "Cmaj7"B/- |
+"Cmaj9" B3 "B9" d/4B/4A/4B/4 | "E9" G/B/ G/F/4E/4 "Cmaj9" F/>E/ F/4=G/4 "Am7"E/- | E3/2 "Gmaj7" E/ z "F#7" E- |  E =G/ "B9"C/ E/ "E9" E E/- |1
+"E9" E3 B,/4C/4E/4F/4 :|2 "E9" E3/2 F/ G "Fm" B || "Gb""^B" c3/2 "Db7" B3/2 z/ =F/ |  "D#9" G3/2 "G#7" G3/2 D/4=F/4G/4B/4 |
+"Gbmaj7" c B/4c/4B/- "Db7" B z/ =F/ | "D#9" G3/2 G3/2 "G#7" D/4=F/4G/4B/4 | "Gbmaj7" c c/4d/4=c/- "Fm7" c2 |  g "Emaj7" d/4c/4B/- "D#7" B z/ G/ |
+"Dmaj7" c B/4c/4 "Db7" B3/2 =F | "Bbm7" G/ G "D#9" G/ z D/4=F/4G/4B/4 | "G#sus4" c3/2 "Dmaj7" B3/2 "Db7" =F |  A/ "Bbm7" A "G#7" A/- A2 |[M:2/4] "F#m7" d "B7" c |
+[M:4/4] "Emaj7""_C" G/B/4c/4 B/4G/4F/4E/4 "Dmaj7" F/>E/ F/4G/4E/- | "C#m7" E/B/4G/4 F/4G/4E/- E/B,/4=C/4 E- |  "F#m7" E =G/4E/4G/< "Cmaj7"A/F/4A/4 =d/B/- |
+"Cmaj9" B2 z/4 A/4 "B9"^A/4B/4 =d/4B/4=A/4B/4 | "Emaj7" =G/4^G/4B/4c/4 d/4c/4B/4 "Cmaj7"G/4 F/F/4E/4 F/4=G/4 "Am7"E/- | E/e/4B/4 A/4=G/4E/- E/B,/4=D/4 "F#7" E- |
+"B9" E =G/4C/E/4 ^G/ "E9"F/4E/4 F/4C/4E/- | "E9" E3/2 F/ G B | "Gb""^D" c3/2 "Db7" B3/2 z/ =F/ | "D#9" G3/2 "G#7" G3/2 D/4=F/4G/4B/4 |
+"Gbmaj7" c B/4c/4B/- "Db7" B z/ =F/ | "D#9" G3/2 G3/2 "G#7" D/4=F/4G/4B/4 | "Gbmaj7" c c/4d/4=c/- "Fm7" c2 | g "Emaj7" d/4c/4B/- "D#7" B z/ G/ |
+"Dmaj7" c B/4c/4 "Db7" B3/2 =F | "Bbm7" G/ G "D#9" G/- "G#7" G2 | "Cm7" D =G/ "Fm7"^G/ z3/2 =C/ | "Bbm7" C G/=G/ "D#7" z3/2 ^A,/ |  "G#maj7" =C =G/=F/ "Dbmaj7" z3/2 ^A,/ |
+"G7" B, =F/E/ "C7" z/ =G/z/^G/- | "Fm7" G =c/^c/ "Bbm7" z3/2 =F/ | "D#7" =G c/ "G#maj7"=c/ z3/2 D/ |  "C#m7" E B/^A/- "F7" A F/B/- |
+"F#m7" B G/4c/4e/4f/4 "B7" =g/4^g/4f/4e/4 d/4c/4B/4A/4 |:
+"Emaj9""^First few Solos""_E" "Dmaj13" z4 | "C#m7" "Cmaj7" z4 |  "Fmaj7" "F#m7" z4 | "Cmaj9" "B9" z4 | "Emaj7" "Cmaj9" z4 |
+"Am7" "Gmaj7" z4 |  "F#7" "B9" z4 | "Emaj9" "B9" z4 :|1
+"Emaj7""_F" E3/2 F/ G B || "Gb" c3/2 "Db7" B3/2 z/ =F/ |  "D#9" G3/2 "G#7" G3/2 D/4=F/4G/4B/4 | "Gbmaj7" c B/4c/4B/- "Db7" B z/ =F/ |
+"D#9" G3/2 G3/2 "G#7" D/4=F/4G/4B/4 | "Gbmaj7" c c/4d/4=c/- "Fm7" c2 |  g "Emaj7" d/4c/4B/- "D#7" B z/ G/ | "Dmaj7" c B/4c/4 "Db7" B3/2 =F |
+"Bbm7""^Everyone Out: Bass and Drum interlude\n into Next Solos" G/ G "D#9" G/- "G#7" G2 |:
+"Gb""^NExt Solos""_G" "Db7" z4 |  "D#9" "G#7" z4 | "Gb" "Db7" z4 | "D#9" "G#7" z4 ::
+"^Play this during Endings of Solos""_H" c/4c/4c/4c/4 z/ B/4B/4 B/4B/4 z/ =F/4G/4G/4G/4 |  z2 z D/4=F/4G/4B/4 | c/4c/4c/4c/4 z/ B/4B/4 B/4B/4 z/ F/4G/4G/4G/4 |
+z2 z D/4=F/4G/4B/4 :| c/4c/4c/4c/4 z/ B/4B/4 B/4B/4 z/ F/4G/4G/4G/4- |  G/4G/G/G/G/4- G/4G/(3g/8=g/8=f/8 d/4f/4^g/4b/4 |
+c' c'/4d'/4=c'/- c'2 | g d/4c/4B/- B z/ G/ | c B/4c/4 B3/2 =F |  G/ G G/ |]

@@ -1,0 +1,32 @@
+---
+workId: archie-shepp-for-mods-only
+arrangementId: h-c86ea7b8
+title: For Mods Only
+artist: Archie Shepp
+source: jazz
+key: E
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:For Mods Only
+C:Archie Shepp
+C:Chico Hamilton
+C:Arr. 6EQUJ5
+Z:©2016 Finmusic/effendi.me 5/25/2016
+L:1/4
+Q:1/4=300
+M:4/4
+%%songbook-source lots_of_jazz
+K:E
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+G/ B c/ |: "C#7" z c/ z c/ z/ c/ |1,2,3 z c/ z/ z2 :|4 "C#7" z c/ z/ c/ e g/- |:  g4- |
+"C#7" g c'/g/ f/e/c/B/ | c4- | c2 c/ e f/- |  "F#7" f4- | f c'/g/ f/e/c/B/ | "C#7" c4- |
+c2 c/ e g/- |  "G#7" g4- | "F#7" g/ z/ z B/c/c/B/ |1 "C#" c4- | c2 c/ e g/ :|2  "C#7" c4- ||
+c2 z2 | "F#7" z c'2 d' | c'2 z z |  "C#7" z =f2 ^f | =f2 z2 | "F#7" z c'2 d' |
+c'2 z2 |  z "G#7" d' d' z | "C#7" d' d' ^a/g/e/d/ | c c'3/2 ^a3/2 | g =f c3/2 d/- |
+d c F2- | F2 =G ^A/ "G#"c/- | c z z2 | z4 |  z4 |
+z4 |]

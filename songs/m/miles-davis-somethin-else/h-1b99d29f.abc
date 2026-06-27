@@ -1,0 +1,44 @@
+---
+workId: miles-davis-somethin-else
+arrangementId: h-1b99d29f
+title: Somethin' Else
+artist: Miles Davis
+source: jazz
+key: F
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Somethin' Else
+C:Miles Davis
+C:Julian "Cannonball" Adderley
+C:Arr. 6EQUJ5
+Z:©2015 Finmusic/effendi.me
+Z:
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=175
+M:4/4
+%%songbook-source lots_of_jazz
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:2 treble
+%%MIDI program 0
+V:1
+"_Sax/2nd" z2 z2 | "F7#9" z2 z/ C/_E/G/ | G z z2 | z2 C _E/C/ |
+G/ G z/ z2 | "Bb7" z C/ _E C/ E | G/ G z/ z2 | "F7#9" z z/ _E G/ _A/G/- |
+G z z2 | "C7" z _A/G/ A G/G/- | "D7" G2 z2 | "G7" z C/ _E "C7#9" E C/ |
+"F7" C2 "C7" z2 | "F7#9" z2 D _E | C/ C z/ z2 | z C/C/ D _E/C/ |  z4 |
+"Bb7" z C/C/ D/D/ _E | C/ C z/ z2 | "F7#9" z C _E/ =E E/- |  (3:2:2_D/ _E E z2 |
+"C7#9" z C/C/ _E/E/ F | "D7" _E/ E z/ z2 | "G7" z C "C7" _E C/C/- |  "F7" C2 "C7" z2 |: "F7#9""^Solos" z4 | z4 | z4 |  z4 |
+"Bb7" z4 | z4 | "F7#9" z4 |  z4 | "C7" z4 | "D7" z4 | "G7" "C7" z4 |  "F7" "C7" z4 :|
+V:2
+"_Trumpet/1st" z z z/ C/_E/G/ | G z z2 | z2 C/A,/ _E | G/ G z/ z2 |
+z C/ _E C/ E | G/ G z/ z2 | z C/A,/ _E/G/_A/G/- | G z z2 |
+z _A/G/ A/-A/G/G/- | G2 z2 | z/ C _E/ E3/2 C/ | C2 z2 |
+z C/A,/ D _E | C/ C z/ z2 | z C/A,/ D _E/C/ | z4 |  z C/C/ D/D/ _E |
+C/ C z/ z2 | z/ C _E/- (3:2:2E/ E- E/E/- | E/ _E z/ z2 |  z C/A,/ _E/C/ F |
+_E/ E z/ z2 | z C/A,/ _E C/C/- | C2 z2 |  z4 |: z4 | z4 | z4 |  z4 |
+z4 | z4 | z4 |  z4 | z4 | z4 | z4 |  z4 :|

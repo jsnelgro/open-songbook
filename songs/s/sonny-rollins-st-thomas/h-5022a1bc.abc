@@ -1,0 +1,27 @@
+---
+workId: sonny-rollins-st-thomas
+arrangementId: h-5022a1bc
+title: ST. Thomas
+artist: Sonny Rollins
+source: jazz
+key: C
+tags:
+  - Latin
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X: 1
+T: ST. Thomas
+C: Sonny Rollins
+M: 4/4
+L: 1/8
+%%songbook-source jazzleadsheet
+%%songbook-categories Latin
+%%songbook-tags Standard50,Sonny Rollins
+%%songbook-uri /post/st-thomas/
+K: C
+Q: 1/4=180
+"C"z G2 c- c B2 A|"Em7"G2 A2 "A7"E2 F2|"Dm7"G2 c2 "G7"B2 c2-|"C"c2 z6|
+"C"z G2 c- c B2 A|"Em7"G2 A2 "A7"E2 F2|"Dm7"G2 c2 "G7"B2 c2-|"C"c2 z6|
+"Em7b5"e3 "Bb7"f-f3 "A7"g-|g2 z6|"Dm7"f3 "Dm7b5"e-e3 "G7"d-|d2 z6|
+"C^7"z e2 z "C7/E"d4|"F^7"c3 "F#o7"A-A4|"Dm7" G2 c2 "G7"B2 c2-|"C"c2 z6||

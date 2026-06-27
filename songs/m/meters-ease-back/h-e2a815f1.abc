@@ -1,0 +1,29 @@
+---
+workId: meters-ease-back
+arrangementId: h-e2a815f1
+title: Ease Back
+artist: The Meters
+source: jazz
+key: C
+contributedAt: '2026-06-27T19:38:44.770Z'
+schemaVersion: 1
+---
+X:1
+T:Ease Back
+C:The Meters
+C:Grant Green
+C:Arr. 6EQUJ5
+Z:©
+L:1/4
+Q:1/4=150
+M:4/4
+%%songbook-source lots_of_jazz
+K:C
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+z/ "C" e/g/a/ b/b/b/b/ | "A7" a/ "G7"g/ "Gb7" z "F7" z2 "E7" | "C" d/e/e/d/ e/d/ G | "A7" E "G7" z "Gb7" "F7" z2 "E7" |
+z "C" d/B/ e/d/ G |: "E7#9" E z z2 | z "A7" d/B/ e/d/ G | "E7#9" E z z2 |  z "A7" d/B/ e/d/ G |
+"E7#9" E z z2 | z "A7" d/B/ e/d/ G | "E7#9" E z z2 |  "A7" z z z/ B/^c/ "D7"d/- | "D" d4 | "A7" _d2- d/B/A/B/- |
+"E7" B4 |  z z z/ B/^c/ "D7"d/- | "D" d4 | "A7" _d2- d/B/A/B/- | "E7" B4 |  z d/B/ e/d/ G :|
