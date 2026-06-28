@@ -1,0 +1,35 @@
+---
+workId: seymour-simons-all-of-me
+arrangementId: h-daffc4b0
+title: All of me
+artist: Seymour Simons
+source: user
+key: C
+tags:
+  - Swing
+contributedAt: '2026-06-28T02:53:15.390Z'
+schemaVersion: 1
+---
+X: 1
+T: All of me
+C: Seymour Simons
+M: 4/4
+L: 1/8
+%%songbook-tags: Swing
+%%songbook-createdAt: 2026-03-01T04:03:55.013Z
+%%songbook-updatedAt: 2026-03-01T04:03:55.013Z
+%%songbook-lastOpenedAt: 2026-03-01T04:05:09.629Z
+%%songbook-openCount: 3
+K: C
+P: A
+"C^7"c2 GE-E4-|E4 (3c2d2c2|"E7"B2 ^GE-E4-|E8|
+"A7"A3 GE4-|E2 ^D2 (3E2_B2A2|"Dm"G4 F4-|F8||
+P: B
+"E7"E3 _ED4-|D4 (3E2^G2B2|"Am"d4 c4-|c8|
+"D7"B3 _BA4-|A4 (3A2d2B2|"Dm"A8|"G7"B8||
+P: A
+"C^7"c2 GE-E4-|E4 (3c2d2c2|"E7"B2 ^GE-E4-|E8|
+"A7"A3 GE4-|E2 ^D2 (3E2_B2A2|"Dm"G4 F4-|F8||
+P: C
+"F"d4 c2 B2|"F#dim"d6 c2|"C^7"B4 "Em7"E2 G2|"A7"B6 A2|
+"Dm7"c4 A2 c2 |"G7"e4 e4|"C^6"c8-|c8||

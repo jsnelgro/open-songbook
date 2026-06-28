@@ -1,0 +1,31 @@
+---
+workId: buddy-kaye-i-ll-close-my-eyes
+arrangementId: h-5688b609
+title: I'll Close My Eyes
+artist: Buddy Kaye
+source: user
+key: F
+contributedAt: '2026-06-28T02:53:15.432Z'
+schemaVersion: 1
+---
+X:1
+T:I'll Close My Eyes
+C:Buddy Kaye
+C:Billy Reid
+C:Blue Mitchell
+L:1/4
+Q:1/4=250
+M:4/4
+%%songbook-createdAt: 2026-03-02T03:38:14.675Z
+%%songbook-updatedAt: 2026-03-02T06:28:01.086Z
+%%songbook-lastOpenedAt: 2026-03-02T06:28:06.235Z
+%%songbook-openCount: 2
+K:F
+%%stretchlast true
+V:1 treble
+%%MIDI program 0
+V:1
+C B3/2 A/ |: "Fmaj7" A4- | A C B A | "Em7" A3/2 G/ E2- |  "A7" E A, G/ F F/- | "Dm7" F4 |
+z/ E/ F A F/_E/- | "Cm7" E4 |  "F7" z3 D | "Bbmaj7" ^C D c2- | "Eb7" c B F G |1 "Fmaj7" A3/2 A/- A2- |
+A3 A | "Em7" ^G4- | G z/ E/ =G F | "Am7" E4- "Ab7#5" |  E "Gm7" C "C7" B3/2 A/ :|2 "Fmaj7" A2 "Eb9" A3/2 A/ ||
+"D7" z3/2 A/ c =B/_B/- | "Gm7" B3/2 D/ E F |  "C7" G2 A2 | "F6""^Solo Break" F4- | "Gm7" F z "C7" z2 |]

@@ -1,0 +1,36 @@
+---
+workId: joseph-kosma-autumn-leaves
+arrangementId: h-bcc89fc3
+title: Autumn Leaves
+artist: Joseph Kosma
+source: user
+key: Gm
+tags:
+  - Swing
+contributedAt: '2026-06-28T02:53:15.389Z'
+schemaVersion: 1
+---
+X: 1
+T: Autumn Leaves
+C: Joseph Kosma
+M: 4/4
+L: 1/4
+Q: 1/4=130
+%%songbook-tags: Swing
+%%songbook-createdAt: 2026-03-01T04:40:48.856Z
+%%songbook-updatedAt: 2026-03-01T04:40:48.856Z
+%%songbook-lastOpenedAt: 2026-03-08T01:00:07.213Z
+%%songbook-openCount: 2
+K: Gm
+P: A
+G A B||"Cm7"e4-|"F7"e F G A|"Bb^7"d4-|"Eb^7"d E F G|
+"Am7b5"c4-|"D7b13"c D =E ^F|"Gm6"B4|z G A B||
+P: A
+"Cm7"e4-|"F7"e F G A|"Bb^7"d4-|"Eb^7"d E F G|
+"Am7b5"c4-|"D7b13"c A c B|"Gm6"G4-|G G ^F G||
+P: B
+"Am7b5"A D A2-|"D7b13"A A G A|"Gm6"B4-|B B A B|
+"Cm7"c4-|"F7"c F f e|"Bb^7"d4-|"Eb^7"d z ^c d||
+P: C
+"Am7b5"e e c c|"D7b13"A3 e|"Gm7"d2 "Gb"d2-|"Fm7"d2 "E7"z G|
+"Am7b5"c3 B|"D7b13"A B D F|"Gm6"G4|z4||

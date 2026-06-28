@@ -1,0 +1,36 @@
+---
+workId: wayne-shorter-footprints
+arrangementId: h-2ae10684
+title: Footprints
+artist: Wayne Shorter
+source: user
+key: Cm
+tags:
+  - 3/4 Swing
+contributedAt: '2026-06-28T02:53:15.467Z'
+schemaVersion: 1
+---
+X: 1
+T: Footprints
+C: Wayne Shorter
+M: 3/4
+L: 1/8
+Q: 160
+%%songbook-tags: 3/4 Swing
+%%songbook-createdAt: 2026-02-26T20:01:29.507Z
+%%songbook-updatedAt: 2026-02-26T20:01:29.507Z
+K: Cm
+V:1 clef=treble
+z|"Cm7"B2B2B2|B2c3=A|B3=A GF|D4C2|
+z5D-|D4C2|z5D-|D4C2|
+"Fm7"B2B2B2|B2c3d|e3d cB|G4F2|
+"Cm7"B3 =A GF|D4 C2|z5D-|D4C2|
+"D7"=B2B2B2|=B2d3G|"Db7"_B6|G3 c G_G|
+"Cm7"F6-|F6-|F6-|F4z2||
+V:2 clef=bass
+G,,|C,,2G,,2C,2|E,4-E,G,,|C,,2G,,2C,2|E,4-E,G,,|
+C,,2G,,2C,2|E,4-E,G,,|C,,2G,,2C,2|E,4-E,F,,|
+C,,2F,,2B,,2|E,4-E,F,,|C,,2F,,2B,,2|E,4-E,G,,|
+C,,2G,,2C,2|E,4-E,G,,|C,,2G,,2C,2|E,6|
+D,,6|D,,6|_D,,6|_D,,4-D,,G,,|
+C,,2G,,2C,2|E,4-E,G,,|C,,2G,,2C,2|E,6||

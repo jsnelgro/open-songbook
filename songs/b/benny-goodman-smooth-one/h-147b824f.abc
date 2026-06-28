@@ -1,0 +1,35 @@
+---
+workId: benny-goodman-smooth-one
+arrangementId: h-147b824f
+title: A Smooth One
+artist: Benny Goodman
+source: user
+key: F
+tags:
+  - Swing
+contributedAt: '2026-06-28T02:53:15.384Z'
+schemaVersion: 1
+---
+X: 1
+T: A Smooth One
+C: Benny Goodman
+M: 4/4
+L: 1/8
+Q: 120
+%%songbook-tags: Swing
+%%songbook-createdAt: 2026-03-08T00:51:34.835Z
+%%songbook-updatedAt: 2026-03-08T00:51:34.835Z
+K: F
+P: Intro
+z [^CD] z2 [C2D2]z2|[^C2D2]z [CD] z2 [C2D2]|z [^CD] z2 [C2D2]z2|[^C2D2]z [CD] z2 [C2D2]|
+P: A
+|:"Bo7"d_A-A2 "Bb6"FGFD|"F6/A"FA z2 "F6"z4|"Bo7"d_A-A2 "Bb6"FGFD|"F6/A"FD z2 "F6"z4|
+"Bo7"d_A-A2 "Bb6"FGFD|"F6/A"FA z2 "F6"z2 (3D_DC|"G7"=B,DFA "C7"DD -DD-|[1 "F6" D4 z4:|[2 "F6" D4 "F7"z2 FG-||
+P: B 
+"Bb6"G2 FD-D2 FG- |"B07"G2 F_A-A2 z2|"F6"Ac d z AFDC|"Cm7" _A2 FG- "F7"G2 FG-|
+"Bb6"G2 FD- D2 FG-|"B07"G2 F_A-A2 z C|"F6" FA d z cA Fz|"G7"A z z2 "C7"A2 z2||
+P: A
+"Bo7"d_A-A2 "Bb6"FGFD|"F6/A"FA z2 "F6"z4|"Bo7"d_A-A2 "Bb6"FGFD|"F6/A"FD z2 "F6"z4|
+"Bo7"d_A-A2 "Bb6"FGFD!coda!| "F6/A"FA z2 "F6"z2 (3D_DC|"G7"=B,DFA "C7"DD -DD-| "F6" D4 z4||
+P: Ending to Coda
+!coda!|"F6/A"FA z2 "F6"z2 (3D_DC|"G7"=B,DFA "C7"DD -DD-|"F6" D4 z2 (3D_DC|"G7"=B,DFA "C7"DD -DD-|"F6" D4 z2 CF||
