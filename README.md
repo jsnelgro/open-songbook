@@ -1,17 +1,17 @@
 # open-songbook
 
-A plaintext dataset of chord sheets / lead sheets in Chordpro and ABC formats.
-
-## Layout (WIP)
+A directory of plaintext songs in ChordPro and ABC notation.
 
 ```
-songs/<shard>/<workId>/work.json          # work-level metadata + canonical pick
-songs/<shard>/<workId>/<arrangementId>.chopro|.abc   # one arrangement per file
-index/index.ndjson                         # GENERATED search index (do not hand-edit)
-schema/song.schema.json                    # frontmatter schema + schemaVersion
+songs/
+  ABBA - Dancing Queen.chopro
+  Kenny Dorham - Blue Bossa.abc
 ```
 
-- Each arrangement file = YAML frontmatter (provenance: workId, arrangementId,
-  source, sourceUrl, variant, key, contributedAt, schemaVersion) + the unchanged
-  ChordPro/ABC body.
-- `index/index.ndjson` carries only search fields, regenerated from the files.
+Each file is complete and usable on its own. Metadata stays in the notation:
+ChordPro uses `{title:}`, `{artist:}`, and `{key:}` directives; ABC uses normal
+`T:`, `C:`, and `K:` headers.
+
+There is no database, generated index, schema, metadata sidecar, or ID hierarchy.
+Multiple arrangements simply use readable numbered filenames such as
+`Song (2).abc`.
